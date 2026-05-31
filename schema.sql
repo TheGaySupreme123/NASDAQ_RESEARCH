@@ -102,7 +102,40 @@ CREATE TABLE rule_applicability (
     edge_review             INTEGER,         -- 0/1 routed to edge_case_review
     review_reason           TEXT,            -- why routed (';'-joined reasons)
     confidence              REAL,            -- overall record confidence
-    notes                   TEXT
+    notes                   TEXT,
+    initial_matrix_status   TEXT CHECK (
+        initial_matrix_status IS NULL OR initial_matrix_status IN (
+            'published_on_time',
+            'published_late',
+            'not_located',
+            'obligation_voided',
+            'ambiguous'
+        )
+    ),
+    due_after_vacatur       INTEGER,         -- 0/1; due date after 2024-12-11
+    initial_matrix_publication_date TEXT,     -- first located initial matrix date
+    initial_matrix_source   TEXT,            -- accession or snapshot URL
+    initial_matrix_confidence REAL
+);
+
+-- ---------------------------------------------------------------------------
+-- disclosure_observations: primary-source observations of actual Board
+-- Diversity Matrix publication. This is a child layer under applicability:
+-- applicability says the initial matrix was required; this table says whether
+-- a primary-source filing or archived website observation was located.
+-- ---------------------------------------------------------------------------
+DROP TABLE IF EXISTS disclosure_observations;
+CREATE TABLE disclosure_observations (
+    observation_id     INTEGER PRIMARY KEY,
+    cik                TEXT NOT NULL,
+    accession_or_url   TEXT NOT NULL,
+    source_type        TEXT NOT NULL CHECK (source_type IN ('edgar_filing','website_archive')),
+    form_type          TEXT,
+    publication_date   TEXT,
+    observed_text      TEXT,
+    matched_query      TEXT,
+    fetch_timestamp    TEXT,
+    confidence         REAL
 );
 
 -- ---------------------------------------------------------------------------
@@ -150,5 +183,6 @@ CREATE TABLE validation_issues (
 CREATE INDEX IF NOT EXISTS idx_companies_cik ON companies(cik);
 CREATE INDEX IF NOT EXISTS idx_ipo_cik ON ipo_events(cik);
 CREATE INDEX IF NOT EXISTS idx_appl_cik ON rule_applicability(cik);
+CREATE INDEX IF NOT EXISTS idx_disclosure_cik ON disclosure_observations(cik);
 CREATE INDEX IF NOT EXISTS idx_prov_target ON field_provenance(target_table, row_key, column_name);
 CREATE INDEX IF NOT EXISTS idx_val_cik ON validation_issues(cik);

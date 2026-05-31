@@ -1,5 +1,5 @@
-Validation report  (2026-05-31T19:00:09.228455+00:00)
-20/20 checks passed
+Validation report  (2026-05-31T19:25:44.371599+00:00)
+29/29 checks passed
 
   [PASS] no in-scope broad row before rule start  (count=0)
   [PASS] no in-scope broad row after 2024-12-10  (count=0)
@@ -20,9 +20,21 @@ Validation report  (2026-05-31T19:00:09.228455+00:00)
   [PASS] pricing_proxy listing_confidence < 0.8  (count=0)
   [PASS] in-scope pricing_proxy rows all routed to edge_case_review  (count=0)
   [PASS] boundary-uncertain rows all routed to edge_case_review  (count=0)
+  [PASS] every broad in-scope row has initial_matrix_status  (count=0)
+  [PASS] no non_compliant status is used  (count=0)
+  [PASS] published statuses have disclosure_observations row  (count=0)
+  [PASS] published statuses have matching field_provenance  (count=0)
+  [PASS] obligation_voided implies due_after_vacatur=1  (count=0)
+  [PASS] due_after_vacatur matches due date  (count=0)
+  [PASS] published_on_time date <= due+grace  (count=0)
+  [PASS] published_late date > due+grace  (count=0)
+  [PASS] all disclosure observation cells have provenance  (count=0)
   [PASS] every exported cell has field_provenance (incl. NULL cells)  (count=0)
   tally: candidate IPO events = 938
   tally: in_scope_nasdaq = 409
   tally: broad_cohort = 409
   tally: narrow_matured_cohort = 297
   tally: edge_case = 1
+  tally: disclosure_observations = 0
+  disclosure_status: not_located = 297
+  disclosure_status: obligation_voided = 112

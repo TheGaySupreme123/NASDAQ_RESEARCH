@@ -55,7 +55,12 @@ SELECT
   a.edge_case                   AS edge_case,
   a.confidence                  AS confidence,
   e.listing_confidence          AS listing_confidence,
-  a.notes                       AS notes
+  a.notes                       AS notes,
+  a.initial_matrix_status       AS initial_matrix_status,
+  a.due_after_vacatur           AS due_after_vacatur,
+  a.initial_matrix_publication_date AS initial_matrix_publication_date,
+  a.initial_matrix_source       AS initial_matrix_source,
+  a.initial_matrix_confidence   AS initial_matrix_confidence
 FROM companies c
 JOIN ipo_events e        ON e.cik = c.cik
 JOIN rule_applicability a ON a.cik = c.cik
@@ -109,11 +114,12 @@ def main():
            e.nasdaq_listing_date,e.date_basis AS listing_date_basis,
            e.listing_confidence,a.initial_matrix_due_date,a.in_scope_nasdaq,
            a.broad_cohort,a.narrow_matured_cohort,a.edge_case,a.exclusion_reason,
-           a.confidence,a.review_reason,a.notes
+           a.confidence,a.review_reason,a.initial_matrix_status,
+           a.initial_matrix_source,a.initial_matrix_confidence,a.notes
     FROM companies c
     JOIN ipo_events e ON e.cik=c.cik
     JOIN rule_applicability a ON a.cik=c.cik
-    WHERE a.edge_review=1
+    WHERE a.edge_review=1 OR a.initial_matrix_status='ambiguous'
     ORDER BY a.in_scope_nasdaq DESC, a.confidence, e.nasdaq_listing_date
     """
     n = dump(cur, edge_sql, os.path.join(C.BUILD, "edge_case_review.csv"), source_ids=None)

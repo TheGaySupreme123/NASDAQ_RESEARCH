@@ -128,13 +128,16 @@ master inclusion flag** (Nasdaq + not excluded + listed in window).
 | `build/edge_case_review.csv` | Rows with confidence < 0.8, the vacatur-date edge case, or in-scope rows with an unverified security type. |
 | `build/validation_issues.csv` | Every validation check that fired. |
 | `build/verification_sample.csv` | 20 in-scope records re-verified against live EDGAR. |
+| `build/disclosure_audit.txt` | Actual-publication child-layer status counts, including narrow matured subset. |
+| `build/disclosure_progress.md` | Batch checkpoint log for disclosure collection progress. |
+| `build/disclosure_verification_sample.csv` | Live re-fetch verification of at least 20 disclosure citations. |
 | `build/date_source_audit.txt` | Date-basis distribution, listing-date provenance coverage, fallback counts, and examples where Nasdaq date differs from EDGAR pricing date. |
 | `build/validation_report.txt` | PASS/FAIL of all structural invariants. |
 | `schema.sql` | Full SQLite schema with comments. |
 
 ### Database tables
 `companies` · `ipo_events` · `rule_applicability` · `sources` · `field_provenance` ·
-`validation_issues`. See `schema.sql` for columns and keys.
+`validation_issues` · `disclosure_observations`. See `schema.sql` for columns and keys.
 
 ---
 
@@ -152,8 +155,11 @@ python3 02b_recover_8a12b.py     # IPO-time exchange & security -> ipo_8a12b.jso
 python3 02c_harvest_nasdaq_ipo_calendar.py # Nasdaq IPO Calendar -> listing dates
 python3 03_build_db.py           # classify + derive + build SQLite (+ provenance)
 python3 04_export.py             # CSV deliverables
+python3 09_collect_disclosures.py# EDGAR/Wayback actual-matrix observations
+python3 10_classify_disclosures.py# append publication status layer + audit
+python3 04_export.py             # re-export CSV deliverables with disclosure cols
 python3 05_validate.py           # structural invariants -> validation_report.txt
-python3 06_verify_sample.py      # re-verify 20 records vs live EDGAR
+python3 06_verify_sample.py      # re-verify records plus >=20 disclosure citations
 python3 07_provenance_coverage.py# exported-cell provenance coverage
 python3 08_date_source_audit.py  # date-source distribution and fallback audit
 # or simply:
@@ -193,6 +199,12 @@ after the first pass.
   listings are out of scope by design).
 - The exported list identifies companies subject to the **initial Board Diversity
   Matrix disclosure obligation**. It does **not** claim that an actual diversity
-  matrix disclosure was located for each company; actual disclosure collection is not
-  implemented in this package.
-l
+  matrix disclosure was located for each company. This package now adds a child
+  disclosure-observation layer beneath that obligation layer: `disclosure_observations`
+  records located EDGAR filings or Wayback-archived website snapshots, and the appended
+  CSV columns classify each broad in-scope row as `published_on_time`,
+  `published_late`, `not_located`, `obligation_voided`, or `ambiguous`. `not_located`
+  is only absence of located primary-source evidence, not a non-compliance finding,
+  because Rule 5606 allowed website-only disclosure and not every website is archived.
+  Rows whose initial due date fell after the 2024-12-11 vacatur are marked
+  `obligation_voided` when no on-time matrix was located.

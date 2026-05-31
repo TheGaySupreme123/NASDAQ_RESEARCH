@@ -1,0 +1,17 @@
+Disclosure audit (2026-05-31T19:25:38Z)
+
+broad in-scope
+  not_located: 297
+  obligation_voided: 112
+
+narrow matured
+  not_located: 297
+
+observation sources
+
+status taxonomy
+  published_on_time: high-confidence primary-source matrix found by due date plus grace
+  published_late: high-confidence primary-source matrix found after due date plus grace
+  not_located: EDGAR enumeration and Wayback checks did not locate a matrix
+  obligation_voided: no on-time matrix found and initial due date fell after vacatur
+  ambiguous: only low-confidence matrix-like evidence located

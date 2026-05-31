@@ -19,6 +19,7 @@ import os
 import sqlite3
 
 import config as C
+from disclosure_utils import curl_fetch, html_to_text, normalize_for_search
 
 
 def load_sub(cik):
@@ -144,6 +145,70 @@ def main():
     for o in out:
         print(f"  [{o['result']}] {o['ticker'] or o['cik']:8} {o['legal_name'][:34]:34} "
               f"list={o['listing_date']} due={o['due_date']} {o['failed_checks']}")
+    # Additional actual-disclosure citation verification: re-fetch at least 20
+    # located primary-source citations from live EDGAR / Wayback and confirm the
+    # stored observed_text is still present after whitespace/HTML normalization.
+    disc_rows = cur.execute("""
+        SELECT d.observation_id,d.cik,d.accession_or_url,d.source_type,d.form_type,
+               d.publication_date,d.observed_text,p.source_url
+        FROM disclosure_observations d
+        LEFT JOIN field_provenance p
+          ON p.target_table='disclosure_observations'
+         AND p.row_key=CAST(d.observation_id AS TEXT)
+         AND p.column_name='accession_or_url'
+        ORDER BY d.publication_date,d.cik,d.observation_id
+        LIMIT 30
+    """).fetchall()
+    citation_out = []
+    citation_pass = 0
+    for obs_id, cik, acc_or_url, source_type, form_type, pub_date, observed_text, source_url in disc_rows:
+        live_url = source_url or acc_or_url
+        body = curl_fetch(live_url, timeout=30)
+        if not body:
+            ok = False
+            why = "fetch_failed"
+        else:
+            live = normalize_for_search(html_to_text(body))
+            obs = normalize_for_search(observed_text or "")
+            # Use the most distinctive middle slice; full excerpts can include
+            # layout whitespace that differs across SEC/Wayback responses.
+            words = obs.split()
+            if len(words) > 40:
+                probe = " ".join(words[10:40])
+            else:
+                probe = obs
+            ok = bool(probe and probe in live)
+            why = "(none)" if ok else "observed_text_not_found"
+        citation_pass += int(ok)
+        citation_out.append({
+            "observation_id": obs_id,
+            "cik": cik,
+            "source_type": source_type,
+            "form_type": form_type,
+            "publication_date": pub_date,
+            "accession_or_url": acc_or_url,
+            "live_url": live_url,
+            "result": "PASS" if ok else "FAIL",
+            "failed_check": why,
+        })
+
+    citation_path = os.path.join(C.BUILD, "disclosure_verification_sample.csv")
+    with open(citation_path, "w", newline="") as f:
+        fields = ["observation_id", "cik", "source_type", "form_type",
+                  "publication_date", "accession_or_url", "live_url",
+                  "result", "failed_check"]
+        w = csv.DictWriter(f, fieldnames=fields)
+        w.writeheader()
+        w.writerows(citation_out)
+    needed = 20
+    disc_ok = len(citation_out) >= needed and citation_pass >= needed
+    print(f"Disclosure citations re-fetched: {citation_pass} PASS, "
+          f"{len(citation_out)-citation_pass} FAIL, {len(citation_out)} checked")
+    print(f"Wrote {citation_path}")
+    if not disc_ok:
+        print(f"Disclosure citation verification requires >={needed} live PASS rows")
+        con.close()
+        raise SystemExit(1)
     print(f"Wrote {path}")
     con.close()
 

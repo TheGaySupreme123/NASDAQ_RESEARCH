@@ -20,7 +20,16 @@ python3 02c_harvest_nasdaq_ipo_calendar.py
 echo "[3/8] Classify, derive cohorts, build SQLite + provenance"
 python3 03_build_db.py
 
-echo "[4/8] Export CSV deliverables"
+echo "[4/10] Export base CSV deliverables"
+python3 04_export.py
+
+echo "[9/10] Collect actual Board Diversity Matrix disclosures"
+python3 09_collect_disclosures.py
+
+echo "[10/10] Classify disclosure status layer"
+python3 10_classify_disclosures.py
+
+echo "[4b/10] Re-export CSV deliverables with disclosure columns"
 python3 04_export.py
 
 echo "[5/8] Validate structural invariants"

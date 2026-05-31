@@ -100,7 +100,60 @@ def main():
               f"ABS(julianday(e.nasdaq_listing_date)-julianday('{C.yyyymmdd(b)}'))<={C.DATE_UNCERTAINTY_DAYS}"
               for b in C.BOUNDARY_DATES) + ")")
 
-    # 9. Full cell-level provenance coverage: EVERY exported cell (every column
+    # 9. Actual-publication child layer invariants.
+    check("every broad in-scope row has initial_matrix_status",
+          "SELECT COUNT(*) FROM rule_applicability "
+          "WHERE broad_cohort=1 AND in_scope_nasdaq=1 "
+          "AND initial_matrix_status IS NULL")
+    check("no non_compliant status is used",
+          "SELECT COUNT(*) FROM rule_applicability "
+          "WHERE initial_matrix_status='non_compliant'")
+    check("published statuses have disclosure_observations row",
+          "SELECT COUNT(*) FROM rule_applicability a "
+          "WHERE a.initial_matrix_status IN ('published_on_time','published_late') "
+          "AND NOT EXISTS (SELECT 1 FROM disclosure_observations d "
+          "WHERE d.cik=a.cik AND d.accession_or_url=a.initial_matrix_source)")
+    check("published statuses have matching field_provenance",
+          "SELECT COUNT(*) FROM rule_applicability a "
+          "WHERE a.initial_matrix_status IN ('published_on_time','published_late') "
+          "AND NOT EXISTS (SELECT 1 FROM field_provenance p "
+          "WHERE p.target_table='rule_applicability' AND p.row_key=a.cik "
+          "AND p.column_name='initial_matrix_source' "
+          "AND p.normalized_value=a.initial_matrix_source)")
+    check("obligation_voided implies due_after_vacatur=1",
+          "SELECT COUNT(*) FROM rule_applicability "
+          "WHERE initial_matrix_status='obligation_voided' "
+          "AND COALESCE(due_after_vacatur,0)<>1")
+    check("due_after_vacatur matches due date",
+          f"SELECT COUNT(*) FROM rule_applicability "
+          f"WHERE COALESCE(due_after_vacatur,0) <> "
+          f"(CASE WHEN initial_matrix_due_date>'{C.yyyymmdd(C.RULE_END_VACATUR)}' THEN 1 ELSE 0 END)")
+    check("published_on_time date <= due+grace",
+          f"SELECT COUNT(*) FROM rule_applicability "
+          f"WHERE initial_matrix_status='published_on_time' "
+          f"AND julianday(initial_matrix_publication_date) > "
+          f"julianday(initial_matrix_due_date)+{C.DISCLOSURE_GRACE_DAYS}")
+    check("published_late date > due+grace",
+          f"SELECT COUNT(*) FROM rule_applicability "
+          f"WHERE initial_matrix_status='published_late' "
+          f"AND julianday(initial_matrix_publication_date) <= "
+          f"julianday(initial_matrix_due_date)+{C.DISCLOSURE_GRACE_DAYS}")
+    check("all disclosure observation cells have provenance",
+          "SELECT COUNT(*) FROM disclosure_observations d "
+          "WHERE EXISTS ("
+          "  SELECT 1 FROM ("
+          "    SELECT 'accession_or_url' AS col UNION ALL SELECT 'source_type' "
+          "    UNION ALL SELECT 'form_type' UNION ALL SELECT 'publication_date' "
+          "    UNION ALL SELECT 'observed_text' UNION ALL SELECT 'matched_query' "
+          "    UNION ALL SELECT 'fetch_timestamp' UNION ALL SELECT 'confidence'"
+          "  ) cols "
+          "  WHERE NOT EXISTS (SELECT 1 FROM field_provenance p "
+          "    WHERE p.target_table='disclosure_observations' "
+          "    AND p.row_key=CAST(d.observation_id AS TEXT) "
+          "    AND p.column_name=cols.col)"
+          ")")
+
+    # 10. Full cell-level provenance coverage: EVERY exported cell (every column
     #    of EXPORT_COLUMNS for every exported row) must have a field_provenance
     #    row keyed by (row_key=cik, column_name). NULL cells included.
     all_ciks = {str(r[0]) for r in cur.execute("SELECT cik FROM companies")}
@@ -132,8 +185,14 @@ def main():
         ("broad_cohort", "SELECT COUNT(*) FROM rule_applicability WHERE broad_cohort=1"),
         ("narrow_matured_cohort", "SELECT COUNT(*) FROM rule_applicability WHERE narrow_matured_cohort=1"),
         ("edge_case", "SELECT COUNT(*) FROM rule_applicability WHERE edge_case=1"),
+        ("disclosure_observations", "SELECT COUNT(*) FROM disclosure_observations"),
     ]:
         report.append(f"  tally: {label} = {cur.execute(sql).fetchone()[0]}")
+    for status, n in cur.execute(
+            "SELECT COALESCE(initial_matrix_status,'(null)'),COUNT(*) "
+            "FROM rule_applicability WHERE broad_cohort=1 AND in_scope_nasdaq=1 "
+            "GROUP BY initial_matrix_status ORDER BY 2 DESC,1"):
+        report.append(f"  disclosure_status: {status} = {n}")
 
     text = "\n".join(report)
     print(text)

@@ -19,10 +19,13 @@ RAW_INDEX = os.path.join(RAW, "index")
 RAW_SUBMISSIONS = os.path.join(RAW, "submissions")
 RAW_RULES = os.path.join(RAW, "rules")
 RAW_NASDAQ_IPO = os.path.join(RAW, "nasdaq_ipo_calendar")
+RAW_DISCLOSURES = os.path.join(RAW, "disclosures")
+RAW_WAYBACK = os.path.join(RAW, "wayback")
 BUILD = os.path.join(ROOT, "build")
 SQLITE_PATH = os.path.join(BUILD, "nasdaq_board_diversity_ipo_applicability.sqlite")
 
-for _d in (RAW_INDEX, RAW_SUBMISSIONS, RAW_RULES, RAW_NASDAQ_IPO, BUILD):
+for _d in (RAW_INDEX, RAW_SUBMISSIONS, RAW_RULES, RAW_NASDAQ_IPO,
+           RAW_DISCLOSURES, RAW_WAYBACK, BUILD):
     os.makedirs(_d, exist_ok=True)
 
 # --------------------------------------------------------------------------
@@ -44,6 +47,23 @@ RULE_END_VACATUR = dt.date(2024, 12, 11)
 #   later of (a) one year from listing, per Nasdaq guidance for new listings.
 # We implement: due = nasdaq_listing_date + 1 calendar year.
 LISTING_DUE_OFFSET_YEARS = 1
+
+# Actual-publication child-layer search window. A located filing or archived
+# website publication within this many days after the due date is treated as
+# on-time for status purposes; later observations become published_late.
+DISCLOSURE_GRACE_DAYS = int(os.environ.get("DISCLOSURE_GRACE_DAYS", "30"))
+
+DISCLOSURE_FORMS = {
+    "DEF 14A", "DEFA14A", "DEFR14A", "PRE 14A", "PRER14A",
+    "10-K", "10-K/A", "20-F", "20-F/A", "8-K", "8-K/A",
+    "6-K", "6-K/A", "S-1", "S-1/A", "F-1", "F-1/A",
+}
+DISCLOSURE_TITLE_QUERY = "Board Diversity Matrix"
+DISCLOSURE_ROW_QUERIES = (
+    "Total Number of Directors",
+    "Did Not Disclose Gender",
+    "Did Not Disclose Demographic Background",
+)
 
 # Broad cohort: operating-company Nasdaq IPOs listed in [RULE_START, 2024-12-10].
 BROAD_START = dt.date(2021, 8, 6)
@@ -100,7 +120,9 @@ EXPORT_COLUMNS = [
     "is_limited_partnership", "is_excluded", "exclusion_reason",
     "in_scope_nasdaq", "initial_matrix_due_date", "broad_cohort",
     "narrow_matured_cohort", "edge_case", "confidence", "listing_confidence",
-    "notes",
+    "notes", "initial_matrix_status", "due_after_vacatur",
+    "initial_matrix_publication_date", "initial_matrix_source",
+    "initial_matrix_confidence",
 ]
 EXPORT_SOURCE_IDS_COLUMN = "source_ids"   # excluded from provenance requirement
 
@@ -223,4 +245,9 @@ SOURCE_MANIFEST = [
      "Monthly cached Nasdaq IPO Calendar JSON. Priced rows provide the Nasdaq "
      "IPO calendar date, used as first-trading/pricing-day source when matched "
      "to the issuer by ticker/name/date."),
+    ("SRC_WAYBACK_CDX", "data", "Internet Archive Wayback CDX API",
+     "Internet Archive",
+     "https://web.archive.org/cdx",
+     "Secondary source for archived issuer IR/governance pages where Rule 5606 "
+     "permitted website-only Board Diversity Matrix publication."),
 ]
