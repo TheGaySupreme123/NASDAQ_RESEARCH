@@ -1,0 +1,261 @@
+<SEC-DOCUMENT>0001140361-21-035105.txt : 20211021
+<SEC-HEADER>0001140361-21-035105.hdr.sgml : 20211021
+<ACCEPTANCE-DATETIME>20211021163357
+ACCESSION NUMBER:		0001140361-21-035105
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211021
+DATE AS OF CHANGE:		20211021
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aris Water Solutions, Inc.
+		CENTRAL INDEX KEY:			0001865187
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL, GAS FIELD SERVICES, NBC [1389]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40955
+		FILM NUMBER:		211337363
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9811 KATY FREEWAY
+		STREET 2:		SUITE 700
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77024
+		BUSINESS PHONE:		(281) 501-3070
+
+	MAIL ADDRESS:	
+		STREET 1:		9811 KATY FREEWAY
+		STREET 2:		SUITE 700
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77024
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Solaris Water, Inc.
+		DATE OF NAME CHANGE:	20210601
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>nt10025419x15_8a12b.htm
+<DESCRIPTION>FORM 8-A12B
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using EDGARfilings PROfile 7.6.0.0
+         Copyright 1995 - 2021 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">
+      <hr style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; margin-left: auto; margin-right: auto;" align="center">UNITED STATES</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 12pt; font-weight: bold;">Washington, D.C. 20549</div>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; width: 20%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 18pt; font-weight: bold;">FORM 8-A</div>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; width: 20%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+    <div style="text-align: center; font-weight: bold;">PURSUANT TO SECTION 12(b) OR 12(g) OF THE</div>
+    <div style="text-align: center; font-weight: bold;">SECURITIES EXCHANGE ACT OF 1934</div>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; width: 20%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 24pt; font-weight: bold;">Aris Water Solutions, Inc.</div>
+    <div style="text-align: center; font-weight: bold;">(Exact Name of Registrant as Specified in Its Charter)</div>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; width: 20%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z7b9ee4444ca04b7e9ac9caa4d21f2a20" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Delaware</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">87-1022110</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">(State or Other Jurisdiction of</div>
+            <div style="text-align: center; font-weight: bold;">Incorporation or Organization)</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">(I.R.S. Employer</div>
+            <div style="text-align: center; font-weight: bold;">Identification Number)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">9811 Katy Freeway, Suite 700</div>
+    <div style="text-align: center; font-weight: bold;">Houston, Texas 77024</div>
+    <div style="text-align: center; font-weight: bold;">(Address, Including Zip Code, of Registrant&#8217;s Principal Executive Offices)</div>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; width: 20%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div><br>
+    </div>
+    <div style="font-weight: bold;">Securities to be registered pursuant to Section 12(b) of the Act:</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zd9c59947ac2748c9af49980c932c2ff7" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Title of each class</div>
+            <div style="text-align: center; font-weight: bold;">to be so registered</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Name of each exchange on which</div>
+            <div style="text-align: center; font-weight: bold;">each class is to be registered</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center;">Class A common stock, par value $0.01 per share</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center;">The New York Stock Exchange</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; width: 20%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div><br>
+    </div>
+    <div>If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General
+      Instruction A.(c) or (e), check the following box.&#160; &#9746;</div>
+    <div><br>
+    </div>
+    <div>If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General
+      Instruction A.(d) or (e), check the following box.&#160; &#9744;</div>
+    <div><br>
+    </div>
+    <div>If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">Securities Act registration statement or Regulation A offering statement file number to which this form relates: 333-259740</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section 12(g) of the Act: None.</div>
+    <div>
+      <hr style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center"></div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+      <div style="page-break-after:always;" id="DSPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div style="font-weight: bold;">Item 1.&#160; Description of Registrant&#8217;s Securities to be Registered.</div>
+    <div><br>
+    </div>
+    <div style="text-indent: 18pt;">The class of securities to be registered hereby is the Class A common stock, par value $0.01 per share (the &#8220;<font style="font-weight: bold; font-style: italic;">Common Stock</font>&#8221;), of Aris Water Solutions, Inc., a Delaware corporation (the &#8220;<font style="font-weight: bold; font-style: italic;">Registrant</font>&#8221;).</div>
+    <div><br>
+    </div>
+    <div style="text-indent: 18pt;">A description of the Common Stock is set forth under the captions &#8220;Prospectus Summary&#8221; and &#8220;Description of Capital Stock&#8221; in the prospectus
+      to be filed by the Registrant pursuant to Rule 424(b) under the Securities Act of 1933, as amended, which prospectus will constitute a part of the Registrant&#8217;s Registration Statement on Form S-1, as amended (Registration No. 333-259740), initially
+      filed with the Securities and Exchange Commission on September 23, 2021. Such prospectus, in the form in which it is so filed, shall be deemed to be incorporated herein by reference.</div>
+    <div><br>
+    </div>
+    <div style="font-weight: bold;">Item 2.&#160; Exhibits</div>
+    <div><br>
+    </div>
+    <div style="text-indent: 18pt;">Pursuant to the Instructions as to Exhibits with respect to Form 8-A, no exhibits are required to be filed as part of this registration
+      statement because no other securities of the Registrant are registered on The New York Stock Exchange and the securities registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+      <div style="page-break-after:always;" id="DSPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div style="text-align: center; font-weight: bold;">SIGNATURES</div>
+    <div><br>
+    </div>
+    <div style="text-indent: 18pt;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this
+      registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z326419fdcdcc4587b6bc87be732efa3b" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td colspan="3" style="vertical-align: top;">
+            <div style="font-weight: bold;">Aris Water Solutions, Inc.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">&#160;</td>
+          <td style="width: 40%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">
+            <div>By:</div>
+          </td>
+          <td colspan="2" style="vertical-align: top; border-bottom: 2px solid black;">
+            <div>/s/ Brenda R. Schroer</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">
+            <div>Name:</div>
+          </td>
+          <td style="width: 40%; vertical-align: top;">
+            <div>Brenda R. Schroer</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">
+            <div>Title:</div>
+          </td>
+          <td style="width: 40%; vertical-align: top;">
+            <div>Chief Financial Officer</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div>Date: October 21, 2021</div>
+    <div>
+      <hr style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

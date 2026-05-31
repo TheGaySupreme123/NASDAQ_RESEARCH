@@ -1,0 +1,263 @@
+<SEC-DOCUMENT>0001213900-23-058791.txt : 20230721
+<SEC-HEADER>0001213900-23-058791.hdr.sgml : 20230721
+<ACCEPTANCE-DATETIME>20230721151207
+ACCESSION NUMBER:		0001213900-23-058791
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20230721
+DATE AS OF CHANGE:		20230721
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Keen Vision Acquisition Corp.
+		CENTRAL INDEX KEY:			0001889983
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41753
+		FILM NUMBER:		231102394
+
+	BUSINESS ADDRESS:	
+		STREET 1:		37 GREENBRIAR DRIVE
+		CITY:			SUMMIT
+		STATE:			NJ
+		ZIP:			07901
+		BUSINESS PHONE:		(203) 609-1394
+
+	MAIL ADDRESS:	
+		STREET 1:		37 GREENBRIAR DRIVE
+		CITY:			SUMMIT
+		STATE:			NJ
+		ZIP:			07901
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ea182155-8a12b_keen.htm
+<DESCRIPTION>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><B></B></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549</B></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>FORM 8-A</B></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES<BR>
+PURSUANT TO SECTION 12(b) OR 12(g) OF THE<BR>
+SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B><U>KEEN VISION ACQUISITION CORPORATION</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">(Exact name of registrant as specified in its charter)</P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: black 1.5pt solid; width: 49%; text-align: center"><FONT STYLE="font-size: 10pt"><B>British Virgin Islands</B></FONT></TD>
+    <TD STYLE="text-align: center; width: 2%">&nbsp;</TD>
+    <TD STYLE="border-bottom: black 1.5pt solid; width: 49%; text-align: center"><FONT STYLE="font-size: 10pt"><B>N/A</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">(State or other jurisdiction of</FONT></TD>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">(I.R.S. Employer</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">incorporation or organization)</FONT></TD>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">Identification No.)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>37 Greenbriar Drive</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>Summit, New Jersey 07901</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>Telephone: (203) 609-1394</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">(Address of principal executive offices, including
+zip code)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Securities to be registered pursuant to Section 12(b) of the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 49%; border-bottom: black 1.5pt solid"><FONT STYLE="font-size: 10pt">Title of each class to be so registered</FONT></TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 49%; border-bottom: black 1.5pt solid"><FONT STYLE="font-size: 10pt">Name of each exchange on which each class is to be registered</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: #CCEEFF">
+    <TD><FONT STYLE="font-size: 10pt">Units, each consisting of one ordinary share and one redeemable warrant to acquire one ordinary share</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">The Nasdaq Stock Market LLC</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD><FONT STYLE="font-size: 10pt">Ordinary Shares, $0.0001 par value</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">The Nasdaq Stock Market LLC</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: #CCEEFF">
+    <TD><FONT STYLE="font-size: 10pt">Warrants</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">The Nasdaq Stock Market LLC</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD COLSPAN="3"><FONT STYLE="font-size: 10pt">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. &#9746;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD COLSPAN="3">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD COLSPAN="3"><FONT STYLE="font-size: 10pt">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. &#9744;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD COLSPAN="3">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD COLSPAN="3"><FONT STYLE="font-size: 10pt">If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Securities Act registration statement file number to which this form relates:
+<U>333-269659.</U></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Securities to be registered pursuant to Section 12(g) of the Act: <U>None</U>.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 72px"><FONT STYLE="font-size: 10pt"><B>Item 1.</B></FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt"><B>Description of Registrant&rsquo;s Securities to be Registered.</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">A description of the units, ordinary shares and warrants
+to be registered hereunder is contained in the section entitled &ldquo;Description of Securities&rdquo; in the Prospectus included in
+Keen Vision Acquisition Corporation&rsquo;s (the &ldquo;Registrant&rdquo;) Registration Statement on Form S-1 (Registration No. 333-269659)
+initially filed with the Securities and Exchange Commission on February 9, 2023, as amended from time to time (the &ldquo;Registration
+Statement&rdquo;). This information is incorporated herein by reference. Any form of prospectus or prospectus supplement to the Registration
+Statement that includes such descriptions and that is filed subsequent to the Registration Statement is hereby also incorporated by reference
+herein.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 72px"><FONT STYLE="font-size: 10pt"><B>Item 2.</B></FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt"><B>Exhibits.</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Under the Instructions as to Exhibits with respect
+to Form 8-A, no exhibits are required to be filed because no other securities of the Registrant are registered on The Nasdaq Stock Market
+LLC and the securities registered hereby are not being registered pursuant to Section&nbsp;12(g) of the Securities Exchange Act of 1934,
+as amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">SIGNATURE</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Pursuant to the requirements of Section 12 of the Securities Exchange Act
+of 1934, the Registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">Date: &nbsp;July 21, 2023</FONT></TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt"><B>KEEN VISION ACQUISITION CORPORATION</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 5%"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="width: 45%; border-bottom: black 1.5pt solid"><FONT STYLE="font-size: 10pt"><I>/s/ WONG, Kenneth K.C.</I></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">&nbsp;WONG, Kenneth K.C.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">Chief Executive Officer</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

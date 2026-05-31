@@ -1,0 +1,240 @@
+<SEC-DOCUMENT>0001171200-22-000062.txt : 20220308
+<SEC-HEADER>0001171200-22-000062.hdr.sgml : 20220308
+<ACCEPTANCE-DATETIME>20220308105255
+ACCESSION NUMBER:		0001171200-22-000062
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20220308
+DATE AS OF CHANGE:		20220308
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONCIERGE TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001005101
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		IRS NUMBER:				954442384
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41318
+		FILM NUMBER:		22720718
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1202 PUERTA DEL SOL
+		CITY:			SAN CLEMENTE
+		STATE:			CA
+		ZIP:			92673
+		BUSINESS PHONE:		949-429-5370
+
+	MAIL ADDRESS:	
+		STREET 1:		1202 PUERTA DEL SOL
+		CITY:			SAN CLEMENTE
+		STATE:			CA
+		ZIP:			92673
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STARFEST INC
+		DATE OF NAME CHANGE:	20000310
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>i22127_cncg-8a12b.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0; font: 10pt Times New Roman, Times, Serif"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 12pt; margin-bottom: 12pt; text-align: center"><FONT STYLE="font-size: 14pt"><B>UNITED
+STATES</B></FONT><BR>
+<FONT STYLE="font-size: 14pt"><B>SECURITIES AND EXCHANGE COMMISSION</B></FONT><BR>
+<FONT STYLE="font-size: 12pt"><B>Washington, D.C. 20549</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 12pt; text-align: center"><FONT STYLE="font-size: 18pt"><B>FORM
+8-A</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 12pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>FOR
+REGISTRATION OF CERTAIN CLASSES OF SECURITIES</B><BR>
+<B>Pursuant to Section 12(b) or (g) of the</B><BR>
+<B>of the Securities Exchange Act of 1934</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 12pt; text-align: center"><FONT STYLE="font-size: 24pt"><B>Concierge
+Technologies, Inc.*</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>(Exact
+name of registrant as specified in its charter)</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt"><B>Nevada</B></FONT></TD>
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt"><B>90-1133909</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>(State
+    of incorporation or organization)</B></FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>(I.R.S.
+    Employer Identification No.)</B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>120 Calle
+Iglesia, Unit B, San Clemente, CA, 92672</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>(Address
+of principal executive offices) (Zip Code)</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Securities
+to be registered pursuant to Section 12(b) of the Act:</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="width: 44%; border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Title
+    of each class to be so registered</B></FONT></TD>
+    <TD STYLE="width: 8%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="width: 48%; border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Name
+    of each exchange on which each class is to be registered</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt"><B>Common
+    Stock, $0.001 par value</B></FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; font: 10pt Times New Roman, Times, Serif"></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt"><B>New
+    York Stock Exchange</B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">If this
+form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant
+to General Instruction A.(c) or (e), check the following box. <FONT STYLE="font-family: Wingdings">x</FONT></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">If this
+form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant
+to General Instruction A.(d) or (e), check the following box. <FONT STYLE="font-family: Wingdings">o</FONT></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">If this
+form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box.
+<FONT STYLE="font-family: Wingdings">o</FONT></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Securities
+Act registration statement or Regulation A offering statement file number to which this form relates: N/A</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Securities
+to be registered pursuant to Section 12(g) of the Act:</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>None</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font-size: 10pt">* The
+Registrant is currently named Concierge Technologies, Inc. Prior to the consummation of the Listing (as defined in this Form 8-A),
+the Registrant plans to change its name to &ldquo;The Marygold Companies, Inc.&rdquo;</FONT></P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; padding-bottom: 6pt; border-bottom: Gainsboro 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 12pt; text-transform: uppercase; text-align: center"><FONT STYLE="font-size: 10pt">EXPLANATORY
+NOTE</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify"><FONT STYLE="font-size: 10pt">This
+Registration Statement on Form 8-A is being filed by Concierge Technologies, Inc., a Nevada corporation (the &ldquo;Company&rdquo;),
+with the U.S. Securities and Exchange Commission (the &ldquo;SEC&rdquo;) in connection with the listing of the Company&rsquo;s
+common stock, par value $0.001 per share (the &ldquo;Common Stock&rdquo;) on the NYSE American LLC (the &ldquo;Listing &rdquo;).
+The Company plans to change its name from &ldquo;Concierge Technologies, Inc.&rdquo; to &ldquo;The Marygold Companies, Inc.&rdquo;
+prior to the consummation of the Listing. The Common Stock will trade on the NYSE American under the trading symbol &ldquo;MGLD.&rdquo;</FONT></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 12pt; text-transform: uppercase; text-align: center"><FONT STYLE="font-size: 10pt">INFORMATION
+REQUIRED IN REGISTRATION STATEMENT</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt"><FONT STYLE="font-size: 10pt"><B>Item 1. Description of
+Securities to be Registered.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify"><FONT STYLE="font-size: 10pt">The securities
+to be registered hereby are the Common Stock.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify"><FONT STYLE="font-size: 10pt">A description
+of the Common Stock to be registered hereunder is contained in the section entitled &ldquo;Description of Capital Stock&rdquo;
+in the Prospectus included in the Registrant&rsquo;s Registration Statement on Form S-1 (Registration No. 333-261522) initially
+filed with the Securities and Exchange Commission on December 7, 2021, as amended from time to time (the &ldquo;Registration Statement&rdquo;),
+and is incorporated herein by reference. Any form of prospectus or prospectus supplement to the Registration Statement that includes
+such descriptions and that are filed subsequently to the Registration Statement are hereby also incorporated by reference herein.
+In addition, any description of such securities contained in a form of prospectus relating to the Registration Statement subsequently
+filed by the Registrant pursuant to Rule 424(b) under the Securities Act shall be deemed to be incorporated by reference herein.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify"><FONT STYLE="font-size: 10pt"><B>Item
+2. Exhibits.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">In
+accordance with the &ldquo;Instructions as to Exhibits&rdquo; with respect to Form 8-A, no exhibits are required to be filed as
+part of this registration statement because no other securities of the registrant are registered on NYSE American and the securities
+registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</FONT></P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; padding-bottom: 6pt; border-bottom: Gainsboro 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 12pt; text-transform: uppercase; text-align: center"><FONT STYLE="font-size: 10pt">SIGNATURE</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">Pursuant
+to the requirements of Section 12 of the Securities Exchange Act of 1934, the Registrant has duly caused this registration statement
+to be signed on its behalf by the undersigned, thereto duly authorized.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt 3.5in"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font: 10pt Times New Roman, Times, Serif"><B>CONCIERGE
+    TECHNOLOGIES, INC.</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 50%; padding-bottom: 1pt"></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 3%; padding-bottom: 1pt"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">By:</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 47%; border-bottom: Black 1pt solid"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">/s/
+    <I>Nicholas Gerber</I></FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">Nicholas Gerber</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">Chief Executive Officer</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">Date: March 8, 2022</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+</TABLE>
+
+
+
+
+
+
+
+
+
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; padding-bottom: 6pt; border-bottom: Gainsboro 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+
+
+
+<P STYLE="margin: 0; font: 10pt Times New Roman, Times, Serif"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

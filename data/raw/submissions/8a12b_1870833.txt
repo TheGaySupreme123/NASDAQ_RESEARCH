@@ -1,0 +1,241 @@
+<SEC-DOCUMENT>0001398344-22-001084.txt : 20220126
+<SEC-HEADER>0001398344-22-001084.hdr.sgml : 20220126
+<ACCEPTANCE-DATETIME>20220126160702
+ACCESSION NUMBER:		0001398344-22-001084
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20220126
+DATE AS OF CHANGE:		20220126
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RiverNorth Managed Duration Municipal Income Fund II, Inc.
+		CENTRAL INDEX KEY:			0001870833
+		IRS NUMBER:				871387140
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41251
+		FILM NUMBER:		22557920
+
+	BUSINESS ADDRESS:	
+		STREET 1:		325 NORTH LASALLE STREET
+		STREET 2:		SUITE 645
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60654
+		BUSINESS PHONE:		312-832-1440
+
+	MAIL ADDRESS:	
+		STREET 1:		325 NORTH LASALLE STREET
+		STREET 2:		SUITE 645
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60654
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>fp0072527_8a12b.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 11pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<P STYLE="font: small-caps bold 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">Securities and Exchange Commission<BR>
+Washington, D.C.<BR>
+<BR>
+Form 8-A</P>
+
+<P STYLE="font: small-caps 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-weight: normal">&nbsp;</FONT></P>
+
+<P STYLE="font: small-caps 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-weight: normal">For Registration
+of Certain Classes of Securities<BR>
+Pursuant to Section&nbsp;12(<FONT STYLE="font-variant: normal">b</FONT>) or (<FONT STYLE="font-variant: normal">g</FONT>) of the<BR>
+Securities Exchange Act of 1934</FONT></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="4" STYLE="width: 100%; font: 11pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center; width: 100%"><FONT STYLE="font-variant: small-caps">RiverNorth Managed Duration Municipal Income Fund II, Inc.</FONT></TD>
+    </TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center">(Exact name of registrant as specified in its charter)</TD>
+    </TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="4" STYLE="width: 100%; font: 11pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 57%; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-variant: small-caps">Maryland</FONT></TD>
+    <TD STYLE="width: 43%; border-bottom: Black 1pt solid; text-align: center">87-1387140 </TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center">(State of Incorporation or Organization)</TD>
+    <TD STYLE="text-align: center">(I.R.S. Employer Identification No.)</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="4" STYLE="width: 100%; font: 11pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center; width: 57%">433 West Van Buren Street, 1150-E, Chicago, Illinois</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center; width: 43%">60607</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center">(Address of Principal Executive Offices)</TD>
+    <TD STYLE="text-align: center">(Zip Code)</TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">If this form relates to the registration of a class of securities
+pursuant to Section&nbsp;12(b) of the Exchange Act and is effective pursuant to General Instruction&nbsp;A. (c), check the following
+box.-- [X]</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">If this form relates to the registration of a class of securities pursuant
+to Section&nbsp;12(g) of the Exchange Act and is effective pursuant to General Instruction A. (d), check the following box.-- [&nbsp;&nbsp;&nbsp;]</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Securities Act registration statement file number to which this form relates:
+333-257627</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Securities to be registered pursuant to Section&nbsp;12(b)
+of the Act:</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 11pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; text-align: center"><FONT STYLE="font-variant: small-caps">Title of each class<BR>
+to be so registered</FONT></TD>
+    <TD STYLE="width: 50%; text-align: center"><FONT STYLE="font-variant: small-caps">Name of each exchange on which <BR>
+each class is to be registered</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center">Common Stock <BR>
+$0.0001 par value per share</TD>
+    <TD STYLE="text-align: center">New York Stock Exchange LLC</TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Securities to be registered pursuant to Section&nbsp;12(g)
+of the Act:</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="4" STYLE="width: 100%; font: 11pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 100%; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-variant: small-caps">None</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center">(Title of Class)</TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-bottom: 6pt"><P STYLE="margin: 0pt; font: 9pt Times New Roman, Times, Serif">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: small-caps bold 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">Information Required in Registration
+Statement</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: small-caps 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in">Item 1.</TD><TD>Description of Registrant&rsquo;s Securities to be Registered</TD></TR></TABLE>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The securities to be registered
+hereunder are shares of common stock, $0.0001 par value per share (the <I>&ldquo;Shares&rdquo;</I>), of RiverNorth Managed Duration Municipal
+Income Fund II, Inc. (the <I>&ldquo;Registrant&rdquo;</I>). An application for listing of the Shares has been filed with the New York
+Stock Exchange LLC. A description of the Shares is contained under the caption &ldquo;Description of the Common Shares&rdquo; in the Preliminary
+Prospectus, which is a part of Pre-Effective Amendment No. 2 to the Registration Statement on Form&nbsp;N-2 (Registration Nos.&nbsp;333-257627
+and 811-23713), filed with the Securities and Exchange Commission on January 24, 2022. Such description is incorporated by reference herein.
+In addition, the above-referenced description included in any Prospectus relating to the Registration Statement filed with the Commission
+pursuant to Rule&nbsp;424 under the Securities Act of 1933, as amended, shall be deemed to be incorporated herein by reference.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: small-caps 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in">Item 2.</TD><TD>Exhibits</TD></TR></TABLE>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Pursuant to the &ldquo;Instruction
+as to Exhibits&rdquo; of Form&nbsp;8-A, no exhibits are filed herewith or incorporated by reference.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-bottom: 6pt"><P STYLE="text-align: center; margin-top: 0pt; font: 9pt Times New Roman, Times, Serif; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Value: 2; Name: PageNo -->2<!-- Field: /Sequence --> -&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: small-caps bold 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">Signature</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Pursuant to the requirements of
+Section&nbsp;12(b) of the Securities Exchange Act of 1934, the Registrant has duly caused this registration statement to be signed on
+its behalf by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; font: 11pt Times New Roman, Times, Serif; width: 100%">
+<TR STYLE="vertical-align: top; text-align: left">
+  <TD>&nbsp;</TD>
+  <TD COLSPAN="3"><FONT STYLE="font-variant: small-caps">RiverNorth Managed Duration Municipal Income Fund II, Inc.</FONT></TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+  <TD STYLE="width: 50%">&nbsp;</TD>
+  <TD STYLE="width: 5%">&nbsp;</TD>
+  <TD STYLE="width: 35%">&nbsp;</TD>
+  <TD STYLE="width: 10%">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+  <TD>&nbsp;</TD>
+  <TD>By:</TD>
+  <TD STYLE="text-align: center; border-bottom: Black 1pt solid">/s/ Marcus L. Collins</TD>
+  <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+  <TD>&nbsp;</TD>
+  <TD>&nbsp;</TD>
+  <TD STYLE="text-align: center">Marcus L. Collins, Secretary</TD>
+  <TD>&nbsp;</TD></TR>
+</TABLE>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-variant: small-caps">&nbsp;</FONT></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">January 26, 2022</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 4; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt"><P STYLE="text-align: center; margin-top: 0pt; font: 9pt Times New Roman, Times, Serif; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --> -&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

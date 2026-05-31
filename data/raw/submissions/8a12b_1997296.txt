@@ -1,0 +1,200 @@
+<SEC-DOCUMENT>0001062993-24-019039.txt : 20241114
+<SEC-HEADER>0001062993-24-019039.hdr.sgml : 20241114
+<ACCEPTANCE-DATETIME>20241113185336
+ACCESSION NUMBER:		0001062993-24-019039
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20241114
+DATE AS OF CHANGE:		20241113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Medicus Pharma Ltd.
+		CENTRAL INDEX KEY:			0001997296
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			A6
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42408
+		FILM NUMBER:		241456229
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 KING STREET WEST
+		STREET 2:		SUITE 3400
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M5X 1A4
+		BUSINESS PHONE:		(732) 300-3046
+
+	MAIL ADDRESS:	
+		STREET 1:		100 KING STREET WEST
+		STREET 2:		SUITE 3400
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M5X 1A4
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>form8a12b.htm
+<DESCRIPTION>FORM 8-A12B
+<TEXT>
+<html>
+
+<head>
+    <title>Medicus Pharma Ltd.: Form 8-A12B - Filed by newsfilecorp.com</title>
+</head>
+
+<body style="font-size:10pt; font-family:'Times New Roman';">
+    <hr width="100%" size="3" color="black" noshade="noshade"><a name="page_1"></a>
+    <p style="margin-bottom: 0pt; text-align: center; background-color: #ffffff;"><b><font size="5">UNITED STATES</font></b></p>
+    <p style="margin-top: 0pt; margin-bottom: 0pt; text-align: center; background-color: #ffffff;"><b><font size="5">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+    <p style="margin-top: 0pt; text-align: center; background-color: #ffffff;">Washington, D.C. 20549</p>
+    <p style="text-align: center; background-color: #ffffff;"><b><font size="5">FORM 8-A</font></b></p>
+    <p style="margin-bottom: 0pt; text-align: center; background-color: #ffffff;"><b>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</b></p>
+    <p style="margin-top: 0pt; margin-bottom: 0pt; text-align: center; background-color: #ffffff;"><b>PURSUANT TO SECTION 12(b) OR 12(g) OF</b></p>
+    <p style="margin-top: 0pt; text-align: center; background-color: #ffffff;"><b>THE SECURITIES EXCHANGE ACT OF 1934</b></p>
+    <p style="margin-bottom: 0pt; text-align: center; background-color: #ffffff;"><b><font size="5"><u>MEDICUS PHARMA LTD.</u></font></b></p>
+    <p style="margin-top: 0pt; text-align: center; background-color: #ffffff;">(Exact name of Registrant as specified in its charter)</p>
+    <table style="width: 100%; border-collapse: collapse; font-size: 10pt;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="vertical-align: top; background-color: #ffffff; width: 60%;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><u><b>Ontario, Canada</b></u></p>
+            </td>
+            <td style="vertical-align: top; background-color: #ffffff; width: 40%;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><u><b>98-1778211</b></u></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top; background-color: #ffffff; width: 60%;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">(State or other jurisdiction of incorporation or organization)</p>
+            </td>
+            <td style="vertical-align: top; background-color: #ffffff; width: 40%;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">(I.R.S. Employer Identification No.)</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle; background-color: #ffffff; width: 60%;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 40%;" colspan="1">
+                <p>&#160;</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top; background-color: #ffffff; width: 60%;">
+                <p style="margin-bottom: 0pt; text-align: center; margin-top: 0pt;"><b>Suite 3400, 100 King St W </b></p>
+                <p style="margin-top: 0pt; text-align: center; margin-bottom: 0pt;"><u><b>Toronto, Ontario, Canada</b></u></p>
+            </td>
+            <td style="vertical-align: bottom; background-color: #ffffff; width: 40%;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><u><b>M5X 1A4</b></u></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top; background-color: #ffffff; width: 60%;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">(Address of principal executive offices)</p>
+            </td>
+            <td style="vertical-align: top; background-color: #ffffff; width: 40%;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">(Zip Code)</p>
+            </td>
+        </tr>
+    </table>
+    <p style="text-align: center; background-color: #ffffff;"><b>Securities to be registered pursuant to Section 12(b) of the Act:</b></p>
+    <table style="width: 100%; border-collapse: collapse; font-size: 10pt;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="width: 45.84%; vertical-align: bottom; background-color: #ffffff;">
+                <p style="text-align: center; border-bottom: 0.75pt solid #000000; margin-top: 0pt; margin-bottom: 0pt;"><b>Title of each class</b><br><b>to be so registered</b></p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt;">
+                <p>&#160;</p>
+            </td>
+            <td style="width: 53.12%; vertical-align: bottom; background-color: #ffffff;">
+                <p style="text-align: center; border-bottom: 0.75pt solid #000000; margin-top: 0pt; margin-bottom: 0pt;"><b>Name of each exchange on which</b><br><b>each class is to be registered</b></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 45.84%; vertical-align: top; background-color: #ffffff;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Common shares, no par value</b></p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt;">
+                <p><b>&#160;</b></p>
+            </td>
+            <td style="width: 53.12%; vertical-align: top; background-color: #ffffff;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>The Nasdaq Capital Market</b></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 45.84%; vertical-align: top; background-color: #ffffff;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Warrants, each exercisable for one common share at an exercise price of $4.64 per share</b></p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt;">
+                <p><b>&#160;</b></p>
+            </td>
+            <td style="width: 53.12%; vertical-align: top; background-color: #ffffff;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>The Nasdaq Capital Market</b></p>
+            </td>
+        </tr>
+    </table>
+    <p style="text-indent: 24.5pt; background-color: #ffffff; text-align: justify;">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box.&#160; &#9746;</p>
+    <p style="text-indent: 24.5pt; background-color: #ffffff; text-align: justify;">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box.&#160; &#9744;</p>
+    <p style="text-indent: 24.5pt; background-color: #ffffff; text-align: justify;">If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</p>
+    <p style="text-align: center; background-color: #ffffff;"><b>Securities Act registration statement or Regulation A offering statement file number to which this form relates: 333-279771</b></p>
+    <p style="text-align: center; background-color: #ffffff;"><b>Securities to be registered pursuant to Section 12(g) of the Act: None</b></p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_2"></a>
+    <p style="background-color: #ffffff; text-align: justify;"><b>Item 1. Description of Registrant's Securities to be Registered.</b></p>
+    <p style="text-indent: 36pt; text-align: justify;">The securities to be registered hereby are common shares, no par value, and warrants to purchase common shares, of Medicus Pharma Ltd. (the "Registrant"). The description of the common shares and warrants set forth under the heading "Description of Securities" in the Registrant's prospectus forming part of its Registration Statement on Form F-1 (File No. 333-279771), originally filed with the Securities and Exchange Commission on May 29, 2024, as thereafter amended and supplemented from time to time (the "Registration Statement") to which this Form 8-A relates is incorporated by reference herein. Any form of prospectus or prospectus supplement to the Registration Statement that includes such descriptions and that are subsequently filed are hereby also incorporated by reference herein.</p>
+    <p style="background-color: #ffffff; text-align: justify;"><b>Item 2. Exhibits.</b></p>
+    <p style="text-indent: 36pt; text-align: justify;">Pursuant to the Instructions as to Exhibits with respect to Form 8-A, no exhibits are required to be filed because no other securities of the Registrant are registered on The Nasdaq Capital Market and the securities registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_3"></a>
+    <p style="text-align: center; background-color: #ffffff;"><b>SIGNATURE</b></p>
+    <p style="text-indent: 24.5pt; background-color: #ffffff; text-align: justify;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the Registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</p>
+    <table style="width: 100%; border-collapse: collapse; font-size: 10pt;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">&#160;</td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt;" colspan="2">
+                <p><b>MEDICUS PHARMA LTD.</b></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">&#160;</td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 5%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 45%;" colspan="1">
+                <p><br>&#160;</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">&#160;</td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 5%;">
+                <p>By:</p>
+            </td>
+            <td style="vertical-align: bottom; width: 45%;">
+                <p style="border-bottom: 0.75pt solid #000000; margin-top: 0pt; margin-bottom: 0pt;">/s/ Raza Bokhari</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">&#160;</td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 5%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-bottom: 0pt; width: 45%;">
+                <p style="margin-bottom: 0pt; margin-top: 0pt;">Name:&#160; Dr. Raza Bokhari</p>
+                <p style="margin-top: 0pt;">Title:&#160; &#160; Executive Chairman and Chief <br>&#160; &#160; &#160; &#160; &#160; &#160; &#160;Executive Officer</p>
+            </td>
+        </tr>
+    </table>
+    <p style="background-color: #ffffff; text-align: justify;">Dated: November 13, 2024</p>
+    <hr width="100%" size="5" color="black" noshade="noshade">
+</body>
+
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

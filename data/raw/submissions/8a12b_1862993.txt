@@ -1,0 +1,308 @@
+<SEC-DOCUMENT>0001104659-21-150187.txt : 20211216
+<SEC-HEADER>0001104659-21-150187.hdr.sgml : 20211216
+<ACCEPTANCE-DATETIME>20211216060310
+ACCESSION NUMBER:		0001104659-21-150187
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211216
+DATE AS OF CHANGE:		20211216
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AP Acquisition Corp
+		CENTRAL INDEX KEY:			0001862993
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41176
+		FILM NUMBER:		211495906
+
+	BUSINESS ADDRESS:	
+		STREET 1:		UGLAND HOUSE, PO BOX 309
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1104
+		BUSINESS PHONE:		852 3761 9182
+
+	MAIL ADDRESS:	
+		STREET 1:		UGLAND HOUSE, PO BOX 309
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>tm2119394d8_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>WASHINGTON, DC 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM&nbsp;8-A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>PURSUANT TO SECTION&nbsp;12(b)&nbsp;OR 12(g)&nbsp;OF</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>THE SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>AP Acquisition
+Corp</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Exact Name Of Registrant As Specified In Its Charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: top; width: 50%; padding-right: 0.8pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Cayman Islands</B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 2%; padding-right: 0.8pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; width: 48%; padding-right: 0.8pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>98-1601227</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; padding-right: 0.8pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(State or other jurisdiction of incorporation or organization)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 0.8pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; padding-right: 0.8pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(I.R.S. Employer Identification No.)</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; padding-right: 0.8pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 0.8pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; padding-right: 0.8pt; text-align: center">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.8pt 0pt 0; text-align: center"><B>Unit 2710, 27/F The Center</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.8pt 0pt 0; text-align: center"><B>99 Queen's Road Central</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.8pt 0pt 0; text-align: center"><B>Hong Kong</B></P></TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 0.8pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 0.8pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>N/A</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; padding-right: 0.8pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Address of principal executive offices)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 0.8pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; padding-right: 0.8pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Zip Code)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Securities to be registered pursuant to Section&nbsp;12(b)&nbsp;of
+the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 50%; border-bottom: black 1pt solid; padding-right: 0.8pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Title&nbsp;of&nbsp;each&nbsp;class<BR>
+to&nbsp;be&nbsp;so&nbsp;registered</B></FONT></TD>
+    <TD STYLE="width: 2%; padding-right: 0.8pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="width: 48%; border-bottom: black 1pt solid; padding-right: 0.8pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Name&nbsp;of&nbsp;each&nbsp;exchange&nbsp;on&nbsp;which<BR>
+each&nbsp;class&nbsp;is&nbsp;to&nbsp;be&nbsp;registered</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.8pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Units, each consisting of one Class&nbsp;A ordinary share, $0.0001 par value, and&nbsp;one-half&nbsp;of one redeemable warrant</B></FONT></TD>
+    <TD STYLE="padding-right: 0.8pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.8pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>New York Stock Exchange</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.8pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Class&nbsp;A ordinary shares included as part of the units</B></FONT></TD>
+    <TD STYLE="padding-right: 0.8pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.8pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>New York Stock Exchange</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.8pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Redeemable warrants included as part of the units, each whole warrant exercisable for one Class&nbsp;A ordinary share at an exercise price of $11.50</B></FONT></TD>
+    <TD STYLE="padding-right: 0.8pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.8pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>New York Stock Exchange</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">If this form
+relates to the registration of a class of securities pursuant to Section&nbsp;12(b)&nbsp;of the Exchange Act and is effective pursuant
+to General Instruction A.(c)&nbsp;or (e), check the following box.&nbsp;&nbsp;</FONT><FONT STYLE="font-family: Wingdings"><FONT STYLE="font-family: Wingdings">&#120;</FONT></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">If this form
+relates to the registration of a class of securities pursuant to Section&nbsp;12(g)&nbsp;of the Exchange Act and is effective pursuant
+to General Instruction A.(d)&nbsp;or (e), check the following box.&nbsp;&nbsp;</FONT><FONT STYLE="font-family: Wingdings"><FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">If this form
+relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. </FONT><FONT STYLE="font-family: Wingdings"><FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Securities Act registration statement file number
+to which this form relates:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>333-261440</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Securities to be registered pursuant to Section&nbsp;12(g)&nbsp;of
+the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>None</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Item&nbsp;1. Description of Registrant&rsquo;s Securities to be
+Registered</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 22.05pt">The description of the units, each consisting
+of one Class&nbsp;A ordinary share, $0.0001 par value, and&nbsp;one-half&nbsp;of one redeemable warrant, the Class&nbsp;A ordinary shares
+and the redeemable warrants, each whole warrant exercisable for one Class&nbsp;A ordinary share at an exercise price of $11.50 (subject
+to adjustment), of AP Acquisition Corp, a Cayman Islands exempted company, as set forth under the caption &ldquo;Description of Securities&rdquo;
+in the prospectus forming a part of the Registration Statement on Form&nbsp;S-1,&nbsp;as originally filed with the Securities and Exchange
+Commission (the &ldquo;Commission&rdquo;) on December 1, 2021 (Registration&nbsp;No.&nbsp;333-261440),&nbsp;including exhibits, and as
+subsequently amended from time to time (the &ldquo;Registration Statement&rdquo;), is hereby incorporated by reference. In addition, all
+of the above-referenced descriptions included in any prospectus relating to the Registration Statement filed with the Commission pursuant
+to Rule&nbsp;424(b)&nbsp;under the Securities Act of 1933, as amended, shall be deemed to be incorporated by reference herein.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Item&nbsp;2. Exhibits</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 22.05pt">Pursuant to the Instructions as to Exhibits for
+Form&nbsp;8-A,&nbsp;no exhibits are required to be filed, because no other securities of the Registrant are registered on New York Stock
+Exchange, and the securities registered hereby are not being registered pursuant to Section&nbsp;12(g)&nbsp;of the Securities Exchange
+Act of 1934, as amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SIGNATURES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 22.05pt">Pursuant to the requirements of Section&nbsp;12
+of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned,
+thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">AP Acquisition Corp</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 45%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date: December 16, 2021</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ Keiichi Suzuki</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Keiichi Suzuki</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title:</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief Executive Officer, Director</FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.15in"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.15in"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;&nbsp;</P>
+
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

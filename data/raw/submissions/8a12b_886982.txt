@@ -1,0 +1,1557 @@
+<SEC-DOCUMENT>0001213900-22-030425.txt : 20220531
+<SEC-HEADER>0001213900-22-030425.hdr.sgml : 20220531
+<ACCEPTANCE-DATETIME>20220531163652
+ACCESSION NUMBER:		0001213900-22-030425
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20220531
+DATE AS OF CHANGE:		20220531
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GS Finance Corp.
+		CENTRAL INDEX KEY:			0001419828
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		IRS NUMBER:				260785112
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33880
+		FILM NUMBER:		22983962
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE GOLDMAN SACHS GROUP, INC.
+		STREET 2:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+		BUSINESS PHONE:		212-902-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE GOLDMAN SACHS GROUP, INC.
+		STREET 2:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GOLDMAN SACHS GROUP INC
+		CENTRAL INDEX KEY:			0000886982
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		IRS NUMBER:				134019460
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14965
+		FILM NUMBER:		22983963
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+		BUSINESS PHONE:		212-902-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GOLDMAN SACHS GROUP INC/
+		DATE OF NAME CHANGE:	20010104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>goldmansachsgroup_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>UNITED
+STATES</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>SECURITIES
+AND EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549 </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>FORM
+8-A </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>FOR
+REGISTRATION OF CERTAIN CLASSES OF SECURITIES<BR>
+PURSUANT TO SECTION 12(b) OR (g) OF THE<BR>
+SECURITIES EXCHANGE ACT OF 1934 </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; width: 49%; padding-right: 3pt; padding-left: 3pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">GS
+    Finance Corp.</FONT></TD>
+    <TD STYLE="padding-bottom: 1.5pt; width: 2%">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; width: 49%; padding-right: 3pt; padding-left: 3pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+    Goldman Sachs Group, Inc.</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 3pt; padding-left: 3pt; text-align: center">(Exact name of registrant as specified in its charter)</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 3pt; padding-left: 3pt; text-align: center">(Exact name of registrant as specified in its charter)</TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 3pt; padding-left: 3pt; text-align: center">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 3pt; padding-left: 3pt; text-align: center">&nbsp;</TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; padding-right: 3pt; padding-left: 3pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Delaware</FONT></TD>
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; padding-right: 3pt; padding-left: 3pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Delaware</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 3pt; padding-left: 3pt; text-align: center">(State of incorporation or organization)</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 3pt; padding-left: 3pt; text-align: center">(State of incorporation or organization)</TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 3pt; padding-left: 3pt; text-align: center">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 3pt; padding-left: 3pt; text-align: center">&nbsp;</TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; padding-right: 3pt; padding-left: 3pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">26-0785112</FONT></TD>
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; padding-right: 3pt; padding-left: 3pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">13-4019460</FONT></TD></TR>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 3pt; padding-left: 3pt; text-align: center">(I.R.S. Employer Identification No.)</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 3pt; padding-left: 3pt; text-align: center">(I.R.S. Employer Identification No.)</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">200 West Street, New York, New York 10282<BR> (Address of principal executive offices) (Zip Code)</FONT></P>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Securities
+to be registered pursuant to Section 12(b) of the Act:</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; width: 49%; padding-right: 0.75pt; padding-left: 0.75pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title
+    of each class<BR>
+    to be so registered</FONT></TD>
+    <TD STYLE="padding-bottom: 1.5pt; width: 2%">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; width: 49%; padding-right: 0.75pt; padding-left: 0.75pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name
+    of each exchange on which<BR>
+    each class is to be registered</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 0.75pt; padding-left: 0.75pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Callable
+    Fixed and Floating Rate Notes due 2031, guaranteed by The Goldman Sachs Group, Inc.</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif; padding-right: 0.75pt; padding-left: 0.75pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">New
+    York Stock Exchange</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">If
+this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant
+to General Instruction A.(c) or (e), check the following box. &#9746;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">If
+this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant
+to General Instruction A.(d) or (e), check the following box. &#9744;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">If
+this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Securities
+Act registration statement or Regulation A offering statement file number to which this form relates: 333-253421</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Securities
+to be registered pursuant to Section 12(g) of the Act:</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">None</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Title
+of class)</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Item
+1. Description of Registrants&rsquo; Securities to be Registered. </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+material set forth in (i) the section captioned &ldquo;Description of Debt Securities We May Offer&rdquo; in the registrants&rsquo; Prospectus,
+dated March 22, 2021 (the &ldquo;Base Prospectus&rdquo;), which relates to the registrants&rsquo; registration statement on Form S-3
+(No. 333-253421), filed with the Securities and Exchange Commission on March 22, 2021, (ii) the section captioned &ldquo;Description
+of Notes We May Offer&rdquo; in the registrants&rsquo; Prospectus Supplement, dated March 22, 2021 (the &ldquo;MTN, Series F Prospectus
+Supplement&rdquo;), to the Base Prospectus, and (iii) the Prospectus Supplement No. 2,549, dated May 26, 2021 (the &ldquo;Prospectus
+Supplement No. 2,549&rdquo;), to the Base Prospectus and the MTN, Series F Prospectus Supplement are each incorporated herein by reference.
+If any additional securities registered hereby are issued, a prospectus supplement relating to such securities will be filed with the
+Securities and Exchange Commission and will be incorporated herein by reference.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Item
+2. Exhibits. </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 4%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 4%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1.
+    </FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 1%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 91%"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A HREF="http://www.sec.gov/Archives/edgar/data/886982/000095012308012534/y71168exv4w70.htm">Senior Debt Indenture, dated as of October 10, 2008, among GS Finance Corp., as issuer, The Goldman Sachs Group, Inc., as guarantor, and The Bank of New York Mellon, as trustee (incorporated by reference to Exhibit 4.70 to the registrants&rsquo; registration statement on Form S-3 (No. 333-154173), filed on October 10, 2008).</A></FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">2.
+    </FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A HREF="http://www.sec.gov/Archives/edgar/data/886982/000119312515056785/d840464dex47.htm">First Supplemental Indenture, dated as of February 20, 2015, among GS Finance Corp., as issuer, The Goldman Sachs Group, Inc., as guarantor, and The Bank of New York Mellon, as trustee, with respect to the Senior Debt Indenture, dated as of October 10, 2008 (incorporated by reference to Exhibit 4.7 to The Goldman Sachs Group, Inc.&rsquo;s Annual Report on Form 10-K for the fiscal year ended December 31, 2014).</A></FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">3.</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A HREF="http://www.sec.gov/Archives/edgar/data/886982/000119312518317325/d631824dex41.htm">Fourth Supplemental Indenture, dated as of August 21, 2018, among GS Finance Corp., as issuer, The Goldman Sachs Group, Inc., as guarantor, and The Bank of New York Mellon, as trustee, with respect to the Senior Debt Indenture, dated as of October 10, 2008 (incorporated by reference to Exhibit 4.1 to The Goldman Sachs Group, Inc.&rsquo;s Quarterly Report on Form 10-Q for the period ended September 30, 2018).</A></FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">4.
+    </FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A HREF="http://www.sec.gov/Archives/edgar/data/886982/000119312520185203/d948755dex469.htm">Seventh Supplemental Indenture, dated as of July 1, 2020, among GS Finance Corp., as issuer, The Goldman Sachs Group, Inc., as guarantor, and The Bank of New York Mellon, as trustee, with respect to the Senior Debt Indenture, dated as of October 10, 2008 (incorporated by reference to Exhibit 4.69 to the registrants&rsquo; registration statement on Form S-3 (No. 333-239610), filed on July 1, 2020).</A></FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">5.</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A HREF="ex5_goldmansachsgroup.htm">Certificate representing the Callable Fixed and Floating Rate Notes due 2031</A> </FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>SIGNATURE
+</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuant
+to the requirements of Section 12 of the Securities Exchange Act of 1934, each registrant has duly caused this registration statement
+to be signed on its behalf by the undersigned, thereto duly authorized.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 60%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date:
+    May 31, 2022</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 40%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>GS
+    FINANCE CORP.</B>&nbsp;&nbsp;</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-bottom: 1.5pt; width: 60%">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1.5pt; width: 5%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>By:</B></FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; width: 35%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>/s/ ANDRE D&rsquo;SOUZA</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Name:&nbsp;</B></FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Andre D&rsquo;Souza</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Title:</B></FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Treasury Signatory</B></FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 60%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 40%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>THE
+    GOLDMAN SACHS GROUP, INC.</B>&nbsp;&nbsp;</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-bottom: 1.5pt; width: 60%">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1.5pt; width: 5%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>By:</B></FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; width: 35%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>/s/ ANDRE D&rsquo;SOUZA</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Name:&nbsp;</B></FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Andre D&rsquo;Souza</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Title:</B></FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Attorney-in-Fact</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">2</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5
+<SEQUENCE>2
+<FILENAME>ex5_goldmansachsgroup.htm
+<DESCRIPTION>CERTIFICATE
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Exhibit
+5</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Face
+of Security)</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>THIS
+SECURITY IS A GLOBAL SECURITY WITHIN THE MEANING OF THE GSFC 2008 INDENTURE HEREINAFTER REFERRED TO AND IS REGISTERED IN THE NAME OF
+A DEPOSITARY OR A NOMINEE THEREOF. THIS SECURITY MAY NOT BE EXCHANGED IN WHOLE OR IN PART FOR A SECURITY REGISTERED, AND NO TRANSFER
+OF THIS SECURITY IN WHOLE OR IN PART MAY BE REGISTERED, IN THE NAME OF ANY PERSON OTHER THAN SUCH DEPOSITARY OR A NOMINEE THEREOF, EXCEPT
+IN THE LIMITED CIRCUMSTANCES DESCRIBED IN THE GSFC 2008 INDENTURE. </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>UNLESS
+THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY, A NEW YORK CORPORATION (&ldquo;DTC&rdquo;),
+TO GS FINANCE CORP. OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IS REGISTERED IN THE NAME
+OF CEDE &amp; CO. OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE &amp;
+CO., OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE
+OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, CEDE &amp; CO., HAS AN INTEREST HEREIN.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>THE
+PERSON MAKING THE DECISION TO ACQUIRE THIS SECURITY SHALL BE DEEMED, ON BEHALF OF ITSELF AND THE HOLDER, BY ACQUIRING AND HOLDING THIS
+SECURITY OR EXERCISING ANY RIGHTS RELATED THERETO, TO REPRESENT THAT:</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>(i) THE
+FUNDS THAT THE HOLDER IS USING TO ACQUIRE THIS SECURITY ARE NOT THE ASSETS OF AN EMPLOYEE BENEFIT PLAN SUBJECT TO TITLE I OF THE EMPLOYEE
+RETIREMENT INCOME SECURITY ACT OF 1974, AS AMENDED (&ldquo;ERISA&rdquo;), A PLAN DESCRIBED IN AND SUBJECT TO SECTION 4975 OF THE INTERNAL
+REVENUE CODE OF 1986, AS AMENDED (THE &ldquo;CODE&rdquo;), A GOVERNMENTAL PLAN SUBJECT TO ANY FEDERAL, STATE OR LOCAL LAW THAT IS SIMILAR
+TO THE PROVISIONS OF SECTION 406 OF ERISA OR SECTION 4975 OF THE CODE, OR AN ENTITY WHOSE UNDERLYING ASSETS INCLUDE &ldquo;PLAN ASSETS&rdquo;
+BY REASON OF DEPARTMENT OF LABOR REGULATION SECTION 2510.3-101, AS MODIFIED BY SECTION 3(42) OF ERISA, OR OTHERWISE; OR</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>(ii)(A) THE HOLDER WILL RECEIVE NO LESS AND PAY NO MORE THAN &ldquo;ADEQUATE CONSIDERATION&rdquo; (WITHIN THE MEANING OF SECTION
+408(B)(17) OF ERISA AND SECTION 4975(F)(10) OF THE CODE) IN CONNECTION WITH THE PURCHASE AND HOLDING OF THIS SECURITY; (B) NONE OF
+THE PURCHASE, HOLDING OR DISPOSITION OF THIS SECURITY OR THE EXERCISE OF ANY RIGHTS RELATED TO THE SECURITY WILL RESULT IN A
+NON-EXEMPT PROHIBITED TRANSACTION UNDER ERISA OR THE CODE (OR WITH RESPECT TO A GOVERNMENTAL PLAN, UNDER ANY SIMILAR APPLICABLE LAW
+OR REGULATION); AND (C)NEITHER THE GOLDMAN SACHS GROUP, INC. NOR ANY OF ITS AFFILIATES IS A &ldquo;FIDUCIARY&rdquo; (WITHIN THE
+MEANING OF SECTION 3(21) OF ERISA OR, WITH RESPECT TO A GOVERNMENTAL PLAN, UNDER ANY SIMILAR APPLICABLE LAW OR REGULATION) WITH
+RESPECT TO THE PURCHASER OR HOLDER IN CONNECTION WITH SUCH PERSON&rsquo;S ACQUISITION, DISPOSITION OR HOLDING OF THIS SECURITY, OR
+AS A RESULT OF ANY EXERCISE BY THE GOLDMAN SACHS GROUP, INC. OR ANY OF ITS AFFILIATES OF ANY RIGHTS IN CONNECTION WITH THE SECURITY,
+AND NEITHER THE GOLDMAN SACHS GROUP, INC. NOR ANY OF ITS AFFILIATES HAS PROVIDED INVESTMENT ADVICE IN CONNECTION WITH SUCH
+PERSON&rsquo;S ACQUISITION, DISPOSITION OR HOLDING OF THIS SECURITY.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>THIS
+SECURITY IS FULLY AND UNCONDITIONALLY GUARANTEED BY THE GOLDMAN SACHS GROUP, INC. (THE &ldquo;GUARANTOR&rdquo;) PURSUANT TO THE GUARANTEE
+SET FORTH IN THE GSFC 2008 INDENTURE HEREINAFTER REFERRED TO (THE &ldquo;GUARANTEE&rdquo;). </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 76.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>THIS
+SECURITY IS NOT A BANK DEPOSIT AND IS NOT INSURED BY THE FEDERAL DEPOSIT INSURANCE CORPORATION OR ANY OTHER GOVERNMENTAL AGENCY, NOR
+IS IT AN OBLIGATION OF, OR GUARANTEED BY, A BANK.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 76.5pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">(Face of Security continued on next page)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 76.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 76.5pt"></P>
+
+<!-- Field: Page; Sequence: 1; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt">-<!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence -->-</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 76.5pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">CUSIP
+No. 40057HCZ1</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">GS
+FINANCE CORP.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">MEDIUM-TERM
+NOTES, SERIES F</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">FULLY
+AND UNCONDITIONALLY GUARANTEED BY</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">THE
+GOLDMAN SACHS GROUP, INC.<BR>
+___________<BR>
+<BR>
+Callable Fixed and Floating Rate Notes due 2031<BR>
+<BR>
+___________<BR>
+&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+following terms apply to this Security. Capitalized terms that are not defined the first time they are used in this Security shall have
+the meanings indicated elsewhere in this Security.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Face
+Amount</B>: $17,175,000 in the aggregate on the Original Issue Date.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Principal
+Amount</B>: subject to the Company&rsquo;s Redemption Right provided in Section 4 of this Security, on the Stated Maturity Date, in addition
+to any accrued and unpaid interest, the Company will pay the Holder an amount in cash equal to the Face Amount of this Security then
+Outstanding.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; background-color: white"><B>Redemption
+Right:</B> the Company may redeem this Security as provided in Section&nbsp;4 of this Security.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Calculation
+Agent</B>: Goldman Sachs&nbsp;&amp; Co. LLC</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Defeasance</B>:
+neither full defeasance nor covenant defeasance applies to this Security.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Business
+Day Convention: </B>following unadjusted, subject to adjustment as provided in Section 1(b) of this Security.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Specified
+Currency</B>: U.S. Dollars.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">OTHER
+TERMS:</FONT></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">All
+terms used in this Security that are not defined in this Security but are defined in the GSFC 2008 Indenture referred to on the reverse
+of this Security shall have the meanings assigned to them in the GSFC 2008 Indenture. References in this Security to numbered Sections
+are to numbered Sections on the face of this Security, unless the context requires otherwise. Section headings on the face of this Security
+are for convenience only and shall not affect the construction of this Security.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">(Face of Security continued on next page)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"></P>
+
+<!-- Field: Page; Sequence: 2; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt">-<!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence -->-</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>30-Year
+CMS Rate</U>&rdquo; means, for any Interest Determination Date, the CMS Rate with an Index Maturity of thirty years on such day<FONT STYLE="background-color: white">,
+determined as set forth in Section 1(b) on the face of this Security</FONT>.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>5-Year
+CMS Rate</U>&rdquo; means, for any Interest Determination Date, the CMS Rate with an Index Maturity of five years on such day<FONT STYLE="background-color: white">,
+determined as set forth in Section 1(b) on the face of this Security</FONT>.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>Authorized
+Denomination</U>&rdquo; means, with respect to this Security, $1,000 or any integral multiple of $1,000 in excess thereof.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>Business
+Day</U>&rdquo; means each Monday, Tuesday, Wednesday, Thursday and Friday that is not a day on which banking institutions in New York
+City generally are authorized or obligated by law, regulation or executive order to close, subject to adjustment as provided in Section
+1(b) of this Security.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>CMS
+Rate</U>&rdquo; means, for any Interest Determination Date, the rate as provided in Section&nbsp;1(b) of this Security.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>CMS
+Spread</U>&rdquo; means, for any Interest Determination Date, the 30-Year CMS Rate <I>minus</I> the 5-Year CMS Rate.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>Day
+Count Convention</U>&rdquo; is 30/360 (ISDA), which means the number of days in the Interest Period in respect of which payment is being
+made <I>divided </I>by 360, calculated on a formula basis as follows:</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="margin-left: 1in; font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><IMG SRC="ex5_001.jpg" ALT="" STYLE="width: 300px"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">where</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 1in"></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 0.25in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#9679;</FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;Y<SUB>1</SUB>&rdquo;
+                                            is the year, expressed as a number, in which the first day of the Interest Period falls;</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 1in"></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 0.25in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#9679;</FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;Y<SUB>2</SUB>&rdquo;
+                                            is the year, expressed as a number, in which the day immediately following the last day included
+                                            in the Interest Period falls;</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 1in"></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 0.25in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#9679;</FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;M<SUB>1</SUB>&rdquo;
+                                            is the calendar month, expressed as a number, in which the first day of the Interest Period
+                                            falls;</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 1in"></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 0.25in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#9679;</FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;M<SUB>2</SUB>&rdquo;
+                                            is the calendar month, expressed as a number, in which the day immediately following the
+                                            last day included in the Interest Period falls;</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 1in"></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 0.25in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#9679;</FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;D<SUB>1</SUB>&rdquo;
+                                            is the first calendar day, expressed as a number, of the Interest Period, unless such number
+                                            would be 31, in which case D<SUB>1</SUB> will be 30; and</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 1in"></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 0.25in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#9679;</FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;D<SUB>2</SUB>&rdquo;
+                                            is the calendar day, expressed as a number, immediately following the last day included in
+                                            the Interest Period, unless such number would be 31 and D<SUB>1</SUB> is greater than 29,
+                                            in which case D<SUB>2</SUB> will be 30.</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">(Face of Security continued on next page)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<!-- Field: Page; Sequence: 3; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt">-<!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence -->-</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>Fixed
+Interest Rate</U>&rdquo; means, for each Fixed Rate Interest Period, 4.25% per annum.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>Fixed
+Rate Interest Payment Dates</U>&rdquo; means February 28, May 28, August 28 and November 28 of each year, commencing on August 28, 2021
+and ending on May 28, 2023.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>Fixed
+Rate Interest Periods</U>&rdquo; means the periods from and including a Fixed Rate Interest Payment Date (or the Original Issue Date,
+in the case of the first Fixed Rate Interest Period) to but excluding the next succeeding Fixed Rate Interest Payment Date.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>Floating
+Rate Interest Payment Dates</U>&rdquo; means February 28, May 28, August 28 and November 28 of each year, beginning on August 28, 2023
+and ending on the Stated Maturity Date.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>Floating
+Rate Interest Periods</U>&rdquo; means the periods from and including a Floating Rate Interest Payment Date (or the final Fixed Rate
+Interest Payment Date, in the case of the first Floating Rate Interest Period) to but excluding the next succeeding Floating Rate Interest
+Payment Date (or the Stated Maturity Date, in the case of the final Floating Rate Interest Period).</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>Floating
+Rate Interest Rate</U>&rdquo; means the rate as provided in Section&nbsp;1(d) of this Security.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>Index
+Maturity</U>&rdquo; means the period to maturity of the instrument or obligation on which the Interest Rate formula is based.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>Interest
+Determination Dates</U>&rdquo; means, for each Floating Rate Interest Period, the second U.S. Government Securities Business Day preceding
+such Floating Rate Interest Period, subject to adjustment as provided in Section 1(b) of this Security.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>Maximum
+Interest Rate</U>&rdquo; means 8.00% per annum.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>Minimum
+Interest Rate</U>&rdquo; means 1.00% per annum.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>Original
+Issue Date</U>&rdquo; means May 28, 2021.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; background-color: white">&ldquo;<U>Redemption
+Date</U>&rdquo; means the Fixed Rate Interest Payment Date falling on May 28, 2022 or any Interest Payment Date specified by the Company
+in a Redemption Notice for redemption of the Outstanding Face Amount of this Security; <I>provided</I> that a Redemption Date shall in
+all cases be the Fixed Rate Interest Payment Date falling on May 28, 2022 and any Interest Payment Date occurring thereafter. As applied
+to this Security, the term &ldquo;Redemption Date&rdquo; as used in the GSFC 2008 Indenture shall mean the Redemption Date, if any.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; background-color: white">&ldquo;<U>Redemption
+Notice</U>&rdquo; means a notice of redemption given by the Company to the Holder of this Security as provided in Section&nbsp;4 of this
+Security.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; background-color: white">&ldquo;<U>Redemption
+Notice Date</U>&rdquo; means any Business Day on which the Company gives a Redemption Notice.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; background-color: white">&ldquo;<U>Redemption
+Price</U>&rdquo; means the amount payable in respect of this Security on a Redemption Date pursuant to Section 4 of this Security.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>Refinitiv
+Page ICESWAP1</U>&rdquo; means the display on the Refinitiv Eikon service, or any successor or replacement service, on the page designated
+as &ldquo;ICESWAP1&rdquo;, or any successor or replacement page on that service.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>Stated
+Maturity Date</U>&rdquo; means May 28, 2031, subject to the Redemption Right.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;<U>U.S.
+Government Securities Business Day</U>&rdquo; means any day except for a Saturday, Sunday or a day on which the Securities Industry and
+Financial Markets Association recommends that the fixed income department of its members be closed for the entire day for purposes of
+trading in U.S. government securities, subject to adjustment as provided in Section 1(b) of this Security.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">_______________________</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">(Face of Security continued on next page)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: 1in"></P>
+
+<!-- Field: Page; Sequence: 4; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt">-<!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence -->-</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1. <U>Promise
+to Pay Principal and Interest</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(a)
+<U>Promise to Pay Principal and Interest</U>. GS Finance Corp., a corporation duly organized and existing under the laws of the State
+of Delaware (hereinafter called the &ldquo;<U>Company</U>&rdquo;, which term includes any successor Person under the GSFC 2008 Indenture
+hereinafter referred to), for value received, hereby promises to pay to Cede&nbsp;&amp; Co., as nominee for The Depository Trust Company,
+or registered assigns, as principal, the Principal Amount on the Stated Maturity Date, subject to the other provisions of this Security,
+and <FONT STYLE="background-color: white">to pay interest on the Outstanding Face Amount, quarterly on each Interest Payment Date, at
+the rate determined pursuant to subsections&nbsp;1(c) and 1(d) below, until the principal of this Security is paid or made available
+for payment. If an Interest Payment Date (other than the Interest Payment Date that falls on the Stated Maturity Date) falls on a day
+that is not a Business Day, the payment due on such Interest Payment Date will be postponed to the next day that is a Business Day; <I>provided
+</I>that interest due with respect to such Interest Payment Date shall not accrue from and including such Interest Payment Date to and
+including the date of payment of such interest as so postponed. If the Stated Maturity Date falls on a day that is not a Business Day,
+payment of interest otherwise due on such day will be made on the next succeeding Business Day, and no interest on such payment shall
+accrue for the period from and after the Stated Maturity Date. </FONT>Any such installment of interest that is overdue at any time shall
+also bear interest (to the extent that the payment of such interest shall be legally enforceable) at the rate per annum at which the
+principal then bears interest, from the date any such overdue amount first becomes due until it is paid or made available for payment.
+Notwithstanding the foregoing, interest on any principal or installment of interest that is overdue shall be payable on demand.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(b)
+<U>Determination of CMS Rate</U>. The CMS Rate that takes effect on any Interest Determination Date shall be determined in accordance
+with the following provisions:</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+CMS Rate with 30-year or 5-year Index Maturity, as the case may be, shall equal the rate appearing on the Refinitiv Page ICESWAP1 under
+the heading for 30-year or 5-year Index Maturity, respectively, as of approximately 11:00 a.m. New York City time on such on Interest
+Determination Date. If a CMS Rate cannot be determined in this manner on the relevant Interest Determination Date, the following procedures
+will apply to this Security.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; background-color: white">If
+the Calculation Agent determines on an Interest Determination Date that a CMS Rate has been discontinued, then the Calculation Agent
+will use a substitute or successor rate that it has determined in its sole discretion is most comparable to the applicable CMS Rate,
+provided that if the Calculation Agent determines there is an industry-accepted successor rate, then the Calculation Agent shall use
+such successor rate. If the Calculation Agent has determined a substitute or successor rate in accordance with the foregoing, the Calculation
+Agent in its sole discretion may determine the Business Day Convention, the applicable business days and the Interest Determination Dates
+to be used, and any other relevant methodology for calculating such substitute or successor rate, including any adjustment factor needed
+to make such substitute or successor rate comparable to the applicable CMS Rate, in a manner that is consistent with any industry-accepted
+practices for such substitute or successor rate.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; background-color: white">Unless
+the Calculation Agent uses a substitute or successor rate as so provided, if the CMS Rate with 30-year or 5-year Index Maturity cannot
+be determined in the manner described above, the applicable CMS Rate for that Interest Determination Date will be determined by the Calculation
+Agent, after consulting such sources as it deems comparable to the foregoing display page, or any other source it deems reasonable, in
+its sole discretion.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+applicable CMS Rate will be subject to the corrections, if any, published on the Refinitiv Page ICESWAP1 within one hour of the time
+that rate was first displayed on such source.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(c)
+<U>Determination of CMS Spread</U>. The CMS Spread on any Interest Determination Date shall equal the 30-Year CMS Rate <I>minus</I> the
+5-Year CMS Rate.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(d)
+<U>Determination of Interest Rate</U>. The rate at which interest accrues on this Security shall be a rate per annum equal to: (i)&nbsp;for
+each Fixed Rate Interest Period, the Fixed Interest Rate; and (ii) for each Floating Rate Interest Period, (A) if (a) the CMS Spread
+<I>times </I>(b) 3.25 is <I>greater than </I>or <I>equal to </I>the Maximum Interest Rate, the Maximum Interest Rate; (B)&nbsp;if (a)
+the CMS Spread <I>times </I>(b) 3.25 is <I>less than </I>the Maximum Interest Rate but <I>greater than </I>the Minimum Interest Rate,
+(a) the CMS Spread <I>times</I> (b) 3.25; or (C) if (a) the CMS Spread <I>times</I> (b) 3.25 is <I>equal to </I>or <I>less than </I>the
+Minimum Interest Rate, the Minimum Interest Rate. Notwithstanding the foregoing, the rate at which interest accrues on this Security
+shall not at any time be higher than the maximum rate permitted by New York law, as the same may be modified by United States law of
+general application.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">(Face of Security continued on next page)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"></P>
+
+<!-- Field: Page; Sequence: 5; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt">-<!-- Field: Sequence; Type: Arabic; Name: PageNo -->5<!-- Field: /Sequence -->-</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(e)
+<U>Calculation of Interest</U>. The Calculation Agent will calculate the amount of interest to be paid on any Fixed Rate Interest Payment
+Date and Floating Rate Interest Payment Date (each, an Interest Payment Date), at the maturity of the principal hereof or, <FONT STYLE="background-color: white">if
+this Security is redeemed as provided in Section&nbsp;4 of this Security, on the Redemption Date, as the case may be, </FONT>by calculating
+the <I>product</I> of (i) the Outstanding Face Amount on the relevant Interest Determination Date <I>times</I> (ii) the applicable Fixed
+Interest Rate or Floating Interest Rate <I>times</I> (iii) the applicable Day Count Convention on a 30/360 (ISDA) basis. All percentages
+resulting from any calculation with respect to this Security will be rounded upward or downward, as appropriate, to the next higher or
+lower one hundred-thousandth of a percentage point (e.g., 9.876541% (or .09876541) being rounded down to 9.87654% (or .0987654) and 9.876545%
+(or .09876545) being rounded up to 9.87655% (or .0987655)). All amounts used in or resulting from any calculation with respect to this
+Security shall be rounded upward or downward, as appropriate, to the nearest cent.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">2. <U>Payment
+of Interest</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; background-color: white">The
+interest so payable, and punctually paid or made available for payment, on any Interest Payment Date will, as provided in the GSFC 2008
+Indenture, be paid to the Person in whose name this Security (or one or more Predecessor Securities) is registered at the close of business
+on the Regular Record Date for such Interest Payment Date. If this Security is a Global Security, the Regular Record Date for an Interest
+Payment Date shall be the scheduled Business Day immediately preceding such Interest Payment Date. If this Security is not a Global Security,
+the Regular Record Date for an Interest Payment Date shall be the fifteenth calendar day before such Interest Payment Date, provided
+that for any Interest Payment Date that is also a Redemption Date such Regular Record Date shall be the scheduled Business Day immediately
+preceding the Redemption Date. Any interest so payable, but not punctually paid or made available for payment, on any Interest Payment
+Date will forthwith cease to be payable to the Holder on such Regular Record Date and such Defaulted Interest may either be paid to the
+Person in whose name this Security (or one or more Predecessor Securities) is registered at the close of business on a Special Record
+Date for the payment of such Defaulted Interest to be fixed by the Trustee, notice whereof being given to the Holder of this Security
+not less than 10 days prior to such Special Record Date, or be paid in any other lawful manner not inconsistent with the requirements
+of any securities exchange on which this Security may be listed, and upon such notice as may be required by such exchange, all as more
+fully provided in the GSFC 2008 Indenture.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">3. <U>Principal
+Amount</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+principal of this Security that becomes due and payable on the Stated Maturity Date for Securities that have not been redeemed shall
+be the Principal Amount (excluding any interest). <FONT STYLE="background-color: white">The principal of this Security that becomes due
+and payable on a Redemption Date shall be the Redemption Price (excluding any interest). </FONT>When the cash that the Company is obligated
+to pay as set forth above in this Section&nbsp;3 has been paid as provided herein (or such amount has been made available for payment),
+the principal of this Security shall be deemed to have been paid in full, whether or not this Security shall have been surrendered for
+payment or cancellation. References to the payment of the principal of this Security on any day shall be deemed to mean the payment of
+the cash that the Company is obligated to pay as principal on such day as provided above in this Section&nbsp;3 (excluding any interest).
+Notwithstanding the foregoing, solely for the purpose of determining whether any consent, waiver, notice or other action to be given
+or taken by Holders of Securities pursuant to the GSFC 2008 Indenture has been given or taken by Holders of Outstanding Securities in
+the requisite aggregate principal amount, the principal amount of this Security on any day will be deemed to equal the portion of the
+Face Amount then Outstanding. This Security shall cease to be Outstanding as provided in the definition of such term in the GSFC 2008
+Indenture or when the principal of this Security shall be deemed to have been paid in full as provided above and any interest payable
+on this Security has been paid (or, in the case of any such interest, when such interest has been made available for payment).</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">(Face of Security continued on next page)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"></P>
+
+<!-- Field: Page; Sequence: 6; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt">-<!-- Field: Sequence; Type: Arabic; Name: PageNo -->6<!-- Field: /Sequence -->-</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">4. <FONT STYLE="background-color: white"><U>Company&rsquo;s
+Redemption Right</U></FONT></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; background-color: white">This
+Security is subject to redemption upon at least five Business Days&rsquo; prior notice to the Holder and the Trustee, on the Interest
+Payment Date on May 28, 2022 and each Interest Payment Date thereafter, in whole but not in part, at the election of the Company for
+cash at a Redemption Price for each $1,000 of such Outstanding Face Amount on the Redemption Date equal to 100% of such $1,000 Face Amount
+plus accrued and unpaid interest to, but excluding, the Redemption Date, as calculated pursuant to subsections 1(d) and 1(e) of this
+Security.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; background-color: white">The
+Company shall not give a Redemption Notice that results in a Redemption Date later than the Stated Maturity Date. A Redemption Notice,
+once given, shall be irrevocable.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">5. <U>Role
+of Calculation Agent</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+Calculation Agent, in its sole discretion, will make all determinations and calculations regarding the CMS Spread; the 30-Year CMS Rate;
+the 5-Year CMS Rate; Interest Determination Dates; Regular Record Dates; the interest payable, if any, on each Interest Payment Date;
+U.S. Government Securities Business Days; Business Days; postponement of interest or principal payments; the amount of cash, if any,
+payable on this Security on the Stated Maturity Date, or the Redemption Date, as applicable; and all such other matters as may be specified
+elsewhere herein as matters to be determined by the Calculation Agent. The Calculation Agent shall make all such determinations and calculations
+in its sole discretion, and absent manifest error all determinations and calculations made by the Calculation Agent shall be final and
+binding on the Company, the Holder and all other Persons having an interest in this Security, without liability on the part of the Calculation
+Agent.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+Company shall take such action as shall be necessary to ensure that there is at all relevant times a financial institution serving as
+the Calculation Agent hereunder. The Company may, in its sole discretion at any time and from time to time, upon written notice to the
+Trustee, but without notice to the Holder of this Security, terminate the appointment of any Person serving as the Calculation Agent
+and appoint another Person (including any Affiliate of the Company) to serve as such agent. Insofar as this Security provides for the
+Calculation Agent to obtain quotations or other information from any institution or other source, the Calculation Agent may do so from
+any source or sources of the kind contemplated or otherwise permitted hereby notwithstanding that any one or more of such sources are
+such agent, Affiliates of such agent or Affiliates of the Company.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">6. <U>Payment</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Payment
+of any amount payable on this Security will be made in cash, in such coin or currency of the United States of America as at the time
+of payment is legal tender for payment of public and private debts. Payment of cash on this Security will be made to an account designated
+by the Holder (in writing to the Company and the Trustee on or before the relevant Interest Determination Date) and acceptable to the
+Company or, if no such account is designated and acceptable as aforesaid, at the office or agency of the Company maintained for that
+purpose in The City of New York; <I>provided</I>, <I>however</I>, that, at the option of the Company, payment of any interest may be
+made by check mailed to the address of the Holder entitled thereto as such address shall appear in the Security Register; and <I>provided</I>,
+<I>further</I>, that payment at Maturity shall be made only upon surrender of this Security at such office or agency (unless the Company
+waives surrender). Notwithstanding the foregoing, if this Security is a Global Security, any payment may be made pursuant to the Applicable
+Procedures of the Depositary as permitted in the GSFC 2008 Indenture. The Holder of this Security shall not be entitled under the terms
+of this Security to receive, in payment hereof, any property other than cash.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">(Face of Security continued on next page)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"></P>
+
+<!-- Field: Page; Sequence: 7; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt">-<!-- Field: Sequence; Type: Arabic; Name: PageNo -->7<!-- Field: /Sequence -->-</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">7. <U>Holidays</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Notwithstanding
+any provision of this Security or of the GSFC 2008 Indenture, if any payment of principal or interest would otherwise be due on this
+Security on a day (the &ldquo;<U>Specified Day</U>&rdquo;) that is not a Business Day, such payment may be made (or such principal or
+interest may be made available for payment) on the next succeeding Business Day with the same force and effect as if such payment were
+made on the Specified Day. The provisions of this Section&nbsp;7 shall apply to this Security in lieu of the provisions of Section&nbsp;1.13
+of the GSFC 2008 Indenture.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">8. <U>Reverse of this Security</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Reference
+is hereby made to the further provisions of this Security set forth on the reverse hereof, which further provisions shall for all purposes
+have the same effect as if set forth at this place.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">9. <U>Certificate of Authentication</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Unless
+the certificate of authentication hereon has been executed by the Trustee referred to on the reverse hereof by manual signature, this
+Security shall not be entitled to any benefit under the GSFC 2008 Indenture or be valid or obligatory for any purpose.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">10. <U>Guarantee
+by the Guarantor</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">This
+Security is fully and unconditionally guaranteed by the Guarantor pursuant to the Guarantee set forth in the GSFC 2008 Indenture.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">(Face of Security continued on next page)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"></P>
+
+<!-- Field: Page; Sequence: 8; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt">-<!-- Field: Sequence; Type: Arabic; Name: PageNo -->8<!-- Field: /Sequence -->-</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 58.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">IN
+WITNESS WHEREOF, the Company has caused this instrument to be duly executed.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 58.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Dated:
+May 28, 2021</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD COLSPAN="3" STYLE="font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">GS
+    FINANCE CORP.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-bottom: 1.5pt; font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="padding-bottom: 1.5pt; font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1.5pt solid; font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">/s/
+    SEBASTIAN GAVOR</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-family: Courier New, Courier, Monospace; width: 60%"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="font-family: Courier New, Courier, Monospace; width: 4%"></TD>
+    <TD STYLE="font-family: Courier New, Courier, Monospace; width: 5%"><FONT STYLE="font-family: Times New Roman, Times, Serif">Name:&nbsp;</FONT></TD>
+    <TD STYLE="font-family: Courier New, Courier, Monospace; width: 31%"><FONT STYLE="font-family: Times New Roman, Times, Serif">Sebastian
+    Gavor</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="font-family: Courier New, Courier, Monospace"></TD>
+    <TD STYLE="font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">Title:</FONT></TD>
+    <TD STYLE="font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">Treasury Signatory
+    </FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 58.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">This
+is one of the Securities of the series designated herein and referred to in the GSFC 2008 Indenture.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 58.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Dated:
+May 28, 2021</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">THE
+    BANK OF NEW YORK MELLON,</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">as
+    Trustee</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 60%; font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 4%; font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 36%; font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-bottom: 1.5pt; font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="padding-bottom: 1.5pt; font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">/s/ EVA WAITE</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="font-family: Courier New, Courier, Monospace"><FONT STYLE="font-family: Times New Roman, Times, Serif">Authorized Signatory</FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">(Face of Security continued on next page)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 9; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt">-<!-- Field: Sequence; Type: Arabic; Name: PageNo -->9<!-- Field: /Sequence -->-</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 4.5pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; background-color: white">(Reverse
+of Security)</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 4.5pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">This
+Security is one of a duly authorized issue of securities of the Company (herein called the &ldquo;Securities&rdquo;) issued and to be
+issued in one or more series under a Senior Debt Indenture, dated as of October 10, 2008, as supplemented by the First Supplemental Indenture,
+dated as of February 20, 2015, the Second Supplemental Indenture, dated as of January 17, 2017, the Third Supplemental Indenture, dated
+as of June 15, 2018, the Fourth Supplemental Indenture, dated as of August 21, 2018, the Fifth Supplemental Indenture, dated as of October
+2, 2018, the Sixth Supplemental Indenture, dated as of November 9, 2018 and the Seventh Supplemental Indenture, dated as of July 1, 2020,
+and as may be further supplemented or amended from time to time (herein called the &ldquo;GSFC 2008 Indenture&rdquo;, which term shall
+have the meaning assigned to the term &ldquo;Indenture&rdquo; in such instrument), each among the Company, as Issuer, The Goldman Sachs
+Group, Inc., as Guarantor (herein called the &ldquo;Guarantor&rdquo;, which term includes any successor guarantor under the GSFC 2008
+Indenture), and The Bank of New York Mellon, as Trustee (herein called the &ldquo;Trustee&rdquo;, which term includes any successor trustee
+under the GSFC 2008 Indenture), and reference is hereby made to the GSFC 2008 Indenture for a statement of the respective rights, limitations
+of rights, duties and immunities thereunder of the Company, the Guarantor, the Trustee and the Holders of the Securities and of the terms
+upon which the Securities are, and are to be, authenticated and delivered. Insofar as the provisions of the GSFC 2008 Indenture may conflict
+with the provisions set forth on the face of this Security, the latter shall control for purposes of this Security. </FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">This
+Security is one of the series designated on the face hereof, limited to an aggregate principal amount as shall be determined and may
+be increased from time to time by the Company(or the equivalent thereof in any other currency or currencies or currency units). References
+herein to &ldquo;this series&rdquo; mean the series of Securities designated as Medium-Term Notes, Series F, except that solely for purposes
+specified below, the term &ldquo;series&rdquo; (and references to Securities of a series) shall be deemed to refer to Securities with
+the same CUSIP number.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+GSFC 2008 Indenture permits, with certain exceptions as therein provided, the amendment thereof and the modification of the rights and
+obligations of the Company and the Guarantor and the rights of the Holders of the Securities to be affected under the GSFC 2008 Indenture
+at any time by the Company, the Guarantor and the Trustee with the consent of the Holders of a majority in principal amount of all Securities
+at the time Outstanding to be affected, considered together as one class for this purpose (such Securities to be affected may be Securities
+of the same or different series and, with respect to any series, may comprise fewer than all the Securities of such series).</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+GSFC 2008 Indenture also contains provisions (i)&nbsp;permitting the Holders of a majority in principal amount of the Securities at the
+time Outstanding to be affected under the GSFC 2008 Indenture, considered together as one class for this purpose (such affected Securities
+may be Securities of the same or different series and, with respect to any particular series, may comprise fewer than all the Securities
+of such series), on behalf of the Holders of all Securities so affected, to waive compliance by the Company or the Guarantor with certain
+provisions of the GSFC 2008 Indenture and (ii)&nbsp;permitting the Holders of a majority in principal amount of the Securities of such
+series at the time Outstanding to be affected under the GSFC 2008 Indenture (with each such series considered separately for this purpose),
+on behalf of the Holders of all Securities of such series, to waive certain past defaults under the GSFC 2008 Indenture and their consequences.
+Any such consent or waiver by the Holder of this Security shall be conclusive and binding upon such Holder and upon all future Holders
+of this Security and of any Security issued upon the registration of transfer hereof or in exchange herefor or in lieu hereof, whether
+or not notation of such consent or waiver is made upon this Security. For the purpose of this paragraph, the term &ldquo;default&rdquo;
+means, with respect to any Securities, any event which is, or after notice or lapse of time or both would become, an Event of Default
+or Covenant Breach in respect of such Securities. As used in this paragraph, the term &ldquo;series&rdquo; (and references to the Securities
+of a series) shall mean Securities having the same CUSIP number.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">If
+an Event of Default with respect to Securities of a series shall occur and be continuing, the principal of the Securities of such series
+may be declared due and payable in the manner and with the effect provided in the GSFC 2008 Indenture. With respect to the Securities
+of a series, the only Events of Default are payment defaults on the Securities of such series that continue for 30 days and insolvency
+events, all as specified in the GSFC 2008 Indenture. Any other default under or breach of the GSFC 2008 Indenture or the Securities will
+not give rise to an Event of Default, whether after notice, the passage of time or otherwise. As used in this paragraph, the term &ldquo;series&rdquo;
+(and references to the Securities of a series) shall mean Securities having the same CUSIP number.</FONT></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 10; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt">-<!-- Field: Sequence; Type: Arabic; Name: PageNo -->10<!-- Field: /Sequence -->-</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">As
+provided in and subject to the provisions of the GSFC 2008 Indenture, the Holder of a Security of any series shall not have the right
+to institute any proceeding with respect to the GSFC 2008 Indenture or for the appointment of a receiver or trustee or for any other
+remedy thereunder, unless such Holder shall have previously given the Trustee written notice of a continuing Event of Default or Covenant
+Breach with respect to the Securities of such series, the Holders of not less than 25% in principal amount of the Securities of such
+series at the time Outstanding shall have made written request to the Trustee to institute proceedings in respect of such Event of Default
+or Covenant Breach, as applicable, as Trustee and offered the Trustee indemnity reasonably satisfactory to it, and the Trustee shall
+not have received from the Holders of a majority in principal amount of the Securities of such series at the time Outstanding a direction
+inconsistent with such request, and shall have failed to institute any such proceeding, for 60 days after receipt of such notice, request
+and offer of indemnity. The foregoing shall not apply to any suit instituted by the Holder of this Security for the enforcement of any
+payment of principal hereof or any premium or interest hereon on or after the respective due dates expressed herein.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">As
+used in the preceding paragraph, the term &ldquo;series&rdquo; (and references to Securities of a series) shall mean Securities having
+the same CUSIP number.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">If
+so provided pursuant to the terms of any specific Securities, the above-referenced provisions of the GSFC 2008 Indenture regarding the
+ability of Holders to waive certain defaults, or to request the Trustee to institute proceedings (or to give the Trustee other directions)
+in respect thereof, may be applied differently with regard to such Securities.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No
+reference herein to the GSFC 2008 Indenture and no provision of this Security or of the GSFC 2008 Indenture shall alter or impair the
+obligation of the Company, which is absolute and unconditional, to pay the principal of (and premium, if any) and interest on this Security
+at the times, place and rate, and in the coin or currency, herein prescribed, or alter or impair the obligation of the Guarantor, which
+is unconditional, to pay pursuant to the Guarantee.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">As
+provided in the GSFC 2008 Indenture and subject to certain limitations therein set forth, the transfer of this Security is registrable
+in the Security Register, upon surrender of this Security for registration of transfer at the office or agency of the Company in any
+place where the principal of and any premium and interest on this Security are payable, duly endorsed by, or accompanied by a written
+instrument of transfer in form satisfactory to the Company and the Security Registrar duly executed by, the Holder hereof or his or her
+attorney duly authorized in writing, and thereupon one or more new Securities of this series and of like tenor, of Authorized Denominations,
+and for the same aggregate principal amount, will be issued to the designated transferee or transferees.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">This
+Security and any Security issued in exchange for or in lieu of this Security are issuable only in registered form without coupons in
+Authorized Denominations. As provided in the GSFC 2008 Indenture and subject to certain limitations therein set forth, Securities of
+this series are exchangeable for a like aggregate principal amount of Securities of this series and of like tenor, of a different Authorized
+Denomination, as requested by the Holder surrendering the same.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No
+service charge shall be made for any such registration of transfer or exchange, but the Company may require payment of a sum sufficient
+to cover any tax or other governmental charge payable in connection therewith.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Prior
+to due presentment of this Security for registration of transfer, the Company, the Guarantor, the Trustee and any agent of the Company,
+the Guarantor or the Trustee may treat the Person in whose name this Security is registered as the owner hereof for all purposes, whether
+or not this Security be overdue, and neither the Company, the Guarantor, the Trustee nor any such agent shall be affected by notice to
+the contrary.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">This
+Security is a Global Security and is subject to the provisions of the GSFC 2008 Indenture relating to the Global Securities, including
+the limitations in Section 3.05 thereof on transfers and exchanges of Global Securities.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>This
+Security and the GSFC 2008 Indenture shall be governed by and construed in accordance with the laws of the State of New York.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">-11-</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>ex5_001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 ex5_001.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1" !. D8# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+M-OY4I.R;&E=V):*\1^ O@K34TJ'Q@)[O^T',UN8RZ^5MW8SC;G/'K79?:/\
+MA+?B9+9$EM*\-A9'7'RRWC@[<^NQ<GZGVJVK-+^OZV^\F^C9WE%>+_$/PG8>
+M-/C-HNCZC+<Q6[Z4\A:W95?*NQ'+ C]*G;]GK1+-6GT77];LM00'R9S,A"G'
+M^RBG\B*A.ZN_/\-"FM;+R_'4]AHKSSX7>)]7U%-5\.^(V5]:T2812RC_ );(
+M<[6]SQU[C%>AU31*\PHHHI#"BO$/%'@C3?'?QSO=-U2>[AABTB.96M756+!L
+M<[E88Y/:KLOP!L-,A>Z\,>(M9L=51?W,LDR[2>N#L53@X]?P-"V3?]:M?H#W
+MLCV*BN&^%WBR_P#$V@7-OK*JNLZ7<-9WF!C<R]&Q[\YQQD&NYIM6$F%%<)ID
+MY\+?$6;P\2%TS6D>^L%[13C_ %R#V.=_U)KAOB3X*TW1OB!X<\26\]VUYJ>N
+M0"9)'4QK@K]T!01T[DT15W%=_P#AOS&]+^7_  Y[I1112 \T^/'_ "3"Y_Z^
+MH/\ T.O1K;_CUA_W%_E7G/QX_P"287/_ %]0?^AUT7C#PHGC+P8=*,YMY\)+
+M;S@9\N5>5/\ 3\:$[0?K^B&]6O1_F97C/X4:1XPU)M8EN[NWU5%403(RLB;,
+M[04(((R<GO[UQFK>(M2\3?L]ZXVH8?4;"<6=S)& !(8Y4RV!QT(SBM+S?C?*
+MAT<V6AQIL\O^UP^3T^]C>3G_ +9]>U=EH'@'3]&\ OX5E=KB*XB=;J;&#*[C
+MYF]O;Z"DU[C2VZ>M_P#((RM*+>_7TL<-IOPC'C+0]-UKQ+XBU1K^2W22WCM)
+M$2&U4J"JHI4]!C)!&2/QJYX7U'5Y?"/CCPMJMV]_=Z*DUO%<O]Z6-HVV9/<\
+M?K5:SL/B]X/M8= T:VT?6--B_=V][<-M>*/MN!=>GH W3O7:> _!]QX;TF].
+MK727NK:I.US?S*/E+$8VK[#GTZ]JJ?O*5MFG]_\ 6XH-QY;[IK[E_2(_A,ZO
+M\+/#Y4Y M\'ZAB#61HA\WX_>)6CY6+2X$DQV8[2/TK M="^*7P_-QI/A2TTW
+M5]$>9Y+7[0X5[=6.<'+IZ_[0XSQG%=C\//"&IZ!_:FK>(+J*ZUW5IA)<O%]Q
+M%7A4'TR?T':G=2ES^3_%)$\O+'D]/P=SL;R\MM/LYKR\G2"VA0O)+(<*JCJ2
+M:\1U/0-2\<:C<^-M'T>,:2DD;KIDY>,ZTL9)\QU!P/\ 8R#G'->K^(_"MKXH
+M>QCU"XN#86\OFRV2D"*Y(^Z).,D \XS@]ZW5541410JJ,  8 %2M->O3^OZ^
+M^UK>UOZ_K^NYD>&?$6G>)]%BU#3B5C^Y)"Z[7@<<%&7L17'_ !ID+>%M+L3_
+M *J^U>V@E_W<EOY@5U,7A2TM?%S^(;*:6UEGB*7EO%CRKIOX7<?WASR,$UC_
+M !8T>XU?P!>&S3?=V+I>PJ!DDQG) ]]NZAM)J7FF_O7_  XHIZQ\G;[G8[8
+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
+MX'_M5[K7)-7GU&599)I82C;AG))+L6)SUKH_^$<TG_GT_P#(C_XT?\(YI/\
+MSZ?^1'_QHOJWW!K1+L:E%9?_  CFD_\ /I_Y$?\ QH_X1S2?^?3_ ,B/_C0!
+MJ4R5/-A>/.-RE<^F:SO^$<TG_GT_\B/_ (T?\(YI/_/I_P"1'_QI-75@3L<5
+MX ^%VI>!]4$Q\7W=]IX1U&GF%HX@S?Q8\QAG\*Z[5/#JWVOZ7K=O<?9;ZQ+(
+MS[-PF@;[T;#([X(/8CH:G_X1S2?^?3_R(_\ C1_PCFD_\^G_ )$?_&JN]/(+
+M;^9J45E_\(YI/_/I_P"1'_QH_P"$<TG_ )]/_(C_ .-(#4HK+_X1S2?^?3_R
+M(_\ C1_PCFD_\^G_ )$?_&@#4HK+_P"$<TG_ )]/_(C_ .-'_".:3_SZ?^1'
+M_P : -2BLO\ X1S2?^?3_P B/_C1_P (YI/_ #Z?^1'_ ,: -2BLO_A'-)_Y
+M]/\ R(_^-'_".:3_ ,^G_D1_\: (-$\.II5_J>I3W'VK4-1FWRSE-NV,<1QJ
+M,G"J/?DY/>N.UGX5ZEK?C>#7KCQA=M9V]['=PZ;)"SQQ;2#M4F3 SCJ%[UW'
+M_".:3_SZ?^1'_P :T((8[>%(8EVQH,*,YP*$[--= >J:[DE%%% !1110 444
+M4 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110
+M 4444 %%%% !1110!F^(-=LO#6@WFL:@Y6VM8][8ZL>@4>Y. /K7EW_"P_B<
+M]M_;T?@.W.@>7YP0S?Z08\9S][/O_J^GYUZU?:?9:I:-:ZA9V]W;,06AN(A(
+MA(.1D$$=:X/XBW'Q"1)K7PIIMH^EFW"RS+@W()W!O+4L!PH';.3QGM+=M?\
+MAOF4K/3^OD=;X>\2V'B/PQ;:_:N4M)HC(?,X,>,A@?H0?RKSI_B/X[\1/)>^
+M!_",%WHL4C(+J\D"M<!>I12ZXZ'^]_2A=1T>+]G74?\ A&_/CMK>SDMV6?Y9
+M4D)P^_'\66)X]:S?#OBOQN?"6DVW@3P?#<Z7:6R1O=WKB/SW ^<HI=3C=GGG
+M)JY)<TK=+?C^A"?NJ_6_X?J>C^!O&47C/1I;DVDEE>VLIM[RTDZPR#J.@XKC
+M+WXD>-->U2]A\!>%[>_L+*8PR7MV^%E8==N70=?<\>F:W/"'B:PUW0=?NX-%
+MCT?6[<NNIVXC57\T*<,S  MWP3SUIOP3A2+X4Z2RCYI6F=SZGS&']!1:[;[)
+M?C^F@7LOF_P_4T/ 7CB3Q='J%KJ&FOIFL:;*([JT9MV,]&!]#@__ %\UV->9
+MV1^S?M$ZE%'PMUH:2RCU97"@_D*],H>J3[_\%?H&S:_KH%%%%(84444 %%%%
+M !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444
+M%%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4
+M444 %%%% !1110 4444 %%%% !1110 4444 %%%% &#XSU#6])\+7E_X?M(+
+MO4+<"18)D9@Z@_, %(.<9Q7(1?'CP.VD+=37TZ7?E[FLA;2%P^.5#;=O7OG%
+M>FUF-X<T)M2_M)M%TXW^<_:C:IYN<8^_C/ZT#T/-O!WA#4-4^%WB6.^@-G<>
+M(Y[B[AMW7!B#CY,CMR ?IBHO!?Q8\-^'O"MIH7B66;2=5TN,6LUL]M(V2G (
+M*J1R,=<?UKV&LZ_T#1M4N(I]0TFPNYHN8Y+BV21D^A()'04[ZZ;:?AHOP%OO
+MOK^)Y_\ #:W;Q!J_B_Q5]FEM].UN5(K595VF2-%*E\>AS_.L+P#\0M%\ :3<
+M>#_%<TUA>:7<2I&[0.ZRH6+ C:">_P!,8KVU5"J%4 *!@ =JS]2T#1M99&U3
+M2+"^9/N&ZMDEV_3<#BE>VBVLE]W]/[PWW[W/._A[>'QE\1-?\:PV\L>E^0FG
+MV3RKM,H!RS8^H_6O5:9%%'!$L4,:1QJ,*B+@ >P%/INUDET%U;?4****0PHH
+MHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB
+4@ HHHH **** "BBB@ HHHH __]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,24 @@
+Validation report  (2026-05-31T17:30:01.733246+00:00)
+16/16 checks passed
+
+  [PASS] no in-scope broad row before rule start  (count=0)
+  [PASS] no in-scope broad row after 2024-12-10  (count=0)
+  [PASS] no in-scope SPAC  (count=0)
+  [PASS] no in-scope fund/ETF  (count=0)
+  [PASS] no in-scope asset-backed  (count=0)
+  [PASS] no in-scope LP  (count=0)
+  [PASS] no in-scope warrant/right/unit/debt/preferred security  (count=0)
+  [PASS] every in-scope row is on Nasdaq  (count=0)
+  [PASS] due_date == listing + 1yr (recomputed)  (count=0)
+  [PASS] narrow ⊆ broad  (count=0)
+  [PASS] narrow == broad listing<=2023-12-10  (count=0)
+  [PASS] unique CIK  (count=0)
+  [PASS] unique (ticker, listing_date) when ticker present  (count=0)
+  [PASS] in-scope rows have listing-date provenance  (count=0)
+  [PASS] in-scope rows have due-date provenance  (count=0)
+  [PASS] all confidence<0.8 flagged for review  (count=0)
+  tally: candidate IPO events = 938
+  tally: in_scope_nasdaq = 409
+  tally: broad_cohort = 409
+  tally: narrow_matured_cohort = 297
+  tally: edge_case = 1

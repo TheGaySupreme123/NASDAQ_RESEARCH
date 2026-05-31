@@ -1,0 +1,265 @@
+<SEC-DOCUMENT>0001213900-23-091377.txt : 20231130
+<SEC-HEADER>0001213900-23-091377.hdr.sgml : 20231130
+<ACCEPTANCE-DATETIME>20231130142401
+ACCESSION NUMBER:		0001213900-23-091377
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20231130
+DATE AS OF CHANGE:		20231130
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Garden Stage Ltd
+		CENTRAL INDEX KEY:			0001954269
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES [6200]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41879
+		FILM NUMBER:		231455166
+
+	BUSINESS ADDRESS:	
+		STREET 1:		201, 2/F, CHINA INSURANCE GROUP BUILDING
+		STREET 2:		141 DES VOEUX ROAD CENTRAL
+		CITY:			HONG KONG
+		STATE:			K3
+		ZIP:			000
+		BUSINESS PHONE:		00852 2688 6333
+
+	MAIL ADDRESS:	
+		STREET 1:		201, 2/F, CHINA INSURANCE GROUP BUILDING
+		STREET 2:		141 DES VOEUX ROAD CENTRAL
+		CITY:			HONG KONG
+		STATE:			K3
+		ZIP:			000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ea188981-8a12b_gardenstage.htm
+<DESCRIPTION>FOR REGISTRATION OF CERTAIN CLASSES
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>WASHINGTON, D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM 8-A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>PURSUANT TO SECTION 12(b) OR 12(g) OF THE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR>
+    <TD STYLE="border-bottom: Black 2px solid; font-size: 10pt; text-align: center"><FONT STYLE="font-size: 12pt"><B>GARDEN STAGE LIMITED</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt">(Exact name of registrant as specified in its charter)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR>
+    <TD STYLE="border-bottom: Black 2px solid; vertical-align: top; font-size: 10pt; text-align: center; width: 32%"><FONT STYLE="font-size: 10pt"><B>Cayman Islands</B></FONT></TD>
+    <TD STYLE="padding-bottom: 2px; font-size: 10pt; text-align: center; width: 2%">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2px solid; vertical-align: top; font-size: 10pt; text-align: center; width: 32%"><FONT STYLE="font-size: 10pt"><B>6199</B></FONT></TD>
+    <TD STYLE="padding-bottom: 2px; font-size: 10pt; text-align: center; width: 2%">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2px solid; vertical-align: top; font-size: 10pt; text-align: center; width: 32%"><FONT STYLE="font-size: 10pt"><B>Not Applicable</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(State or other jurisdiction of<BR>
+incorporation
+or organization)</P></TD>
+    <TD STYLE="font-size: 10pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Primary Standard Industrial</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Classification Code Number)</P></TD>
+    <TD STYLE="font-size: 10pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(IRS. Employer<BR>
+Identification Number)</P></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Room 201, 2/F, China Insurance Group Building<BR>
+141 Des Voeux Road Central<BR>
+Central, Hong Kong<BR>
+Tel: +852 2688 6333<BR>
+</B> (Address of principal executive offices)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Securities to be registered pursuant to Section
+12(b) of the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR>
+    <TD STYLE="white-space: nowrap; border-bottom: Black 2px solid; vertical-align: bottom; text-align: center; width: 49%"><FONT STYLE="font-size: 10pt"><B>Title of each class to be so registered</B></FONT></TD>
+    <TD STYLE="white-space: nowrap; padding-bottom: 2px; width: 2%">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; border-bottom: Black 2px solid; vertical-align: bottom; text-align: center; width: 49%"><FONT STYLE="font-size: 10pt"><B>Name of each exchange on which each class is to be registered</B></FONT></TD></TR>
+  <TR STYLE="background-color: #CCEEFF">
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt">Ordinary Share, par value $0.0001 per share</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt">The Nasdaq Stock Market LLC</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">If
+this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant
+to General Instruction A.(c), check the following box. &#9746;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">If
+this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant
+to General Instruction A.(d), check the following box. &#9744;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">If
+this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">Securities
+Act registration statement or Regulation A offering statement file number to which this form relates: <B>333- 273053</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">Securities
+to be registered pursuant to Section 12(g) of the Act: <B>None</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif"></FONT></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif"></FONT></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>Item 1. Description of Registrant&rsquo;s Securities
+to be Registered.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The description of the ordinary shares, par value
+$0.0001 per share, of GARDEN STAGE LIMITED (the &ldquo;Registrant&rdquo;) to be registered hereunder is set forth under the heading &ldquo;Description
+of Share Capital&rdquo; in the Registrant&rsquo;s Registration Statement on Form F-1 (File No. <A HREF="http://www.sec.gov/Archives/edgar/data/1954269/000121390023053459/ff12023_gardenstage.htm">333-273053</A>) originally filed with the Securities
+and Exchange Commission on June 30, 2023, as amended by any amendments to such Registration Statement and by any prospectus subsequently
+filed pursuant to Rule 424(b) under the Securities Act of 1933, as amended, which information is incorporated herein by reference.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>Item 2. Exhibits.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Pursuant to the &ldquo;Instructions as to Exhibits&rdquo;
+with respect to Form 8-A, no exhibits are required to be filed because no other securities of the Registrant are registered on The Nasdaq
+Stock Market LLC and the securities registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act
+of 1934, as amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SIGNATURE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Pursuant to the requirements of Section 12 of
+the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this registration statement to be signed on its behalf
+by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Date: November 30, 2023</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt"><B>GARDEN STAGE LIMITED</B></FONT></TD>
+    </TR>
+  <TR>
+    <TD STYLE="width: 60%">&nbsp;</TD>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 35%">&nbsp;</TD>
+    </TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="padding-bottom: 2px; vertical-align: top"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 2px solid; vertical-align: top"><FONT STYLE="font-size: 10pt"><I>/s/ Sze Ho, CHAN</I></FONT></TD>
+    </TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">Name:&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">Sze Ho, CHAN</FONT></TD>
+    </TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">Chief Executive Officer and Director</FONT></TD>
+    </TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">2</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

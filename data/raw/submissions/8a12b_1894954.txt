@@ -1,0 +1,280 @@
+<SEC-DOCUMENT>0001903596-22-000127.txt : 20220331
+<SEC-HEADER>0001903596-22-000127.hdr.sgml : 20220331
+<ACCEPTANCE-DATETIME>20220331161839
+ACCESSION NUMBER:		0001903596-22-000127
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20220331
+DATE AS OF CHANGE:		20220331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Expion360 Inc.
+		CENTRAL INDEX KEY:			0001894954
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		IRS NUMBER:				812701049
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41347
+		FILM NUMBER:		22792824
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2025 SW DEERHOUND AVE
+		CITY:			REDMOND
+		STATE:			OR
+		ZIP:			97756
+		BUSINESS PHONE:		541 -797-6714
+
+	MAIL ADDRESS:	
+		STREET 1:		2025 SW DEERHOUND AVE
+		CITY:			REDMOND
+		STATE:			OR
+		ZIP:			97756
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>expion8a.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: middle">
+    <TD STYLE="font: bold 12pt Times New Roman, Times, Serif; text-align: center; width: 100%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">UNITED
+    STATES</FONT></TD></TR>
+  <TR STYLE="vertical-align: middle">
+    <TD STYLE="font: bold 12pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">SECURITIES
+    EXCHANGE COMMISSION</FONT></TD></TR>
+  <TR STYLE="vertical-align: middle">
+    <TD STYLE="font: bold 12pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Washington,
+    D.C. 20549</FONT></TD></TR>
+  <TR STYLE="vertical-align: middle">
+    <TD STYLE="font: bold 15pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: middle">
+    <TD STYLE="font: bold 15pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">FORM
+    8-A</FONT></TD></TR>
+  <TR STYLE="vertical-align: middle">
+    <TD STYLE="font: 15pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: middle">
+    <TD STYLE="font: bold 12pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 150%">FOR
+    REGISTRATION OF CERTAIN CLASSES OF SECURITIES</FONT></TD></TR>
+  <TR STYLE="vertical-align: middle">
+    <TD STYLE="font: bold 12pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 150%">PURSUANT
+    TO SECTION 12(b) OR (g) OF THE</FONT></TD></TR>
+  <TR STYLE="vertical-align: middle">
+    <TD STYLE="font: bold 12pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">SECURITIES
+    EXCHANGE ACT OF 1934</FONT></TD></TR>
+  <TR STYLE="vertical-align: middle">
+    <TD STYLE="font: 11pt Times New Roman, Times, Serif; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: middle">
+    <TD STYLE="font: bold 13pt Times New Roman, Times, Serif; text-decoration: underline; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">EXPION360
+    INC.</FONT></TD></TR>
+  <TR STYLE="vertical-align: middle">
+    <TD STYLE="font: 9pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Exact
+    Name of Company as Specified in its Charter)</FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 1in; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 11pt Calibri, Helvetica, Sans-Serif">
+  <TR>
+    <TD STYLE="font: bold 13pt Times New Roman, Times, Serif; text-decoration: underline; vertical-align: middle; text-align: center; width: 40%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Nevada</FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 10%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: bold 13pt Times New Roman, Times, Serif; text-decoration: underline; vertical-align: middle; text-align: center; width: 40%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">81-2701049</FONT></TD></TR>
+  <TR>
+    <TD STYLE="font: 9pt Times New Roman, Times, Serif; vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(State
+    or other jurisdiction of</FONT></TD>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 9pt Times New Roman, Times, Serif; vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(IRS
+    Employer</FONT></TD></TR>
+  <TR>
+    <TD STYLE="font: 9pt Times New Roman, Times, Serif; vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">incorporation
+    or organization)</FONT></TD>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 9pt Times New Roman, Times, Serif; vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Identification
+    No.)</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR>
+    <TD STYLE="font: bold 13pt Times New Roman, Times, Serif; vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">2025
+    SW Deerhound Avenue</FONT></TD>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR>
+    <TD STYLE="font: bold 13pt Times New Roman, Times, Serif; text-decoration: underline; vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Redmond,
+    OR</FONT></TD>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: bold 13pt Times New Roman, Times, Serif; text-decoration: underline; vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">97756</FONT></TD></TR>
+  <TR>
+    <TD STYLE="font: 9pt Times New Roman, Times, Serif; vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Address
+    of Principal Executive Offices)</FONT></TD>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 9pt Times New Roman, Times, Serif; vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Zip
+    Code)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 1in; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 1in; text-align: justify"></P>
+
+<P STYLE="color: rgb(0, 0, 0); font: 10pt Times New Roman, Times, Serif; letter-spacing: normal; word-spacing: 0px; text-indent: 0px"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Securities
+to be registered pursuant to Section 12(b) of the Act:</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman , Times, serif; letter-spacing: normal; orphans: 2; text-transform: none; widows: 2; word-spacing: 0px; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 51%; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title of each
+    class</FONT></TD>
+    <TD STYLE="width: 3%; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="width: 46%; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name of each
+    exchange on which</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">to be so registered</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">each class is to be registered</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Common Shares</B></FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>The NASDAQ Stock Market
+    LLC</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  </TABLE>
+<P STYLE="color: rgb(0, 0, 0); font: 10pt Times New Roman, Times, Serif; letter-spacing: normal; word-spacing: 0px; text-indent: 0px"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="color: rgb(0, 0, 0); font: 10pt Times New Roman, Times, Serif; letter-spacing: normal; word-spacing: 0px; text-indent: 0px"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">If
+this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant
+to General Instruction A.(c), check the following box. &#9746;</FONT></P>
+
+<P STYLE="color: rgb(0, 0, 0); font: 10pt Times New Roman, Times, Serif; letter-spacing: normal; word-spacing: 0px; text-indent: 0px"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">If
+this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant
+to General Instruction A.(d), check the following box. &#9744;</FONT></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 11pt Calibri, Helvetica, Sans-Serif">
+  <TR>
+    <TD COLSPAN="5" STYLE="font: bold 13pt Times New Roman, Times, Serif; vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Securities
+    to be registered pursuant to Section 12(g) of the Act:</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: bottom; width: 20%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 20%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center; vertical-align: bottom; width: 20%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;N/A&nbsp;&nbsp;</B>&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 20%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD></TR>
+  <TR>
+    <TD STYLE="font: 9pt Times New Roman, Times, Serif; vertical-align: middle; text-align: justify"></TD>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Title
+    of class)</FONT></TD>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="color: rgb(0, 0, 0); font: 10pt Times New Roman, Times, Serif; letter-spacing: normal; word-spacing: 0px; text-align: center; text-indent: 0px; margin-top: 0; margin-bottom: 0"></P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-underline-style: double"><B><U>&#9;</U></B></FONT></P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 8pt; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Item
+1. Description of Registrant&rsquo;s Securities to be Registered.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 8pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Expion360
+Inc. (the &ldquo;Registrant&rdquo;) hereby incorporates by reference the description of its common stock, par value $0.001 per share,
+to be registered hereunder contained under the heading &ldquo;Description of Securities&rdquo; in the Registrant&rsquo;s Registration
+Statement on Form S-1 (File No. 333-262285), as originally filed with the Securities and Exchange Commission (the &ldquo;Commission&rdquo;)
+on January 21, 2022, as subsequently amended (the &ldquo;Registration Statement&rdquo;), and in the prospectus included in the Registration
+Statement to be filed separately by the Registrant with the Commission pursuant to Rule 424(b) under the Securities Act of 1933, as amended,
+which prospectus shall be deemed to be incorporated by reference herein.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 8pt; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Item
+2. Exhibits.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 8pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuant
+to the Instructions as to Exhibits with respect to Form 8-A, no exhibits are required to be filed as part of this registration statement
+because no other securities of the Registrant are registered on The Nasdaq Stock Market LLC and the securities registered hereby are
+not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</FONT></P>
+
+<P STYLE="font: 13.5pt Times New Roman, Times, Serif; margin: 0; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<HR SIZE="2" NOSHADE ALIGN="CENTER" STYLE="width: 100%; color: black">
+
+<P STYLE="font: 13.5pt Times New Roman, Times, Serif; margin: 0; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 8pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>SIGNATURE</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 8pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuant
+to the requirements of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement
+to be signed on its behalf by the undersigned, thereunto duly authorized.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 8pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 11pt">
+  <TR STYLE="vertical-align: middle">
+    <TD STYLE="font-family: Times New Roman, Times, Serif; text-align: justify; width: 50%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Dated:&nbsp;&nbsp;March
+    31, 2022</FONT></TD>
+    <TD STYLE="font-family: Times New Roman, Times, Serif; text-align: justify; width: 50%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">EXPION360
+    INC.</FONT></TD></TR>
+  <TR>
+    <TD STYLE="font-family: Times New Roman, Times, Serif; vertical-align: middle; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font-family: Calibri, Helvetica, Sans-Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR>
+    <TD STYLE="font-family: Times New Roman, Times, Serif; vertical-align: middle; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font-family: Calibri, Helvetica, Sans-Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR>
+    <TD STYLE="font-family: Calibri, Helvetica, Sans-Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font-family: Times New Roman, Times, Serif; vertical-align: middle; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By<FONT STYLE="font-style: normal; font-weight: 400"><U>:
+    /s/ John Yozamp</U></FONT></FONT></TD></TR>
+  <TR>
+    <TD STYLE="font-family: Times New Roman, Times, Serif; vertical-align: middle; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="font-family: Calibri, Helvetica, Sans-Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">John
+    Yozamp</FONT></TD></TR>
+  <TR>
+    <TD STYLE="font-family: Times New Roman, Times, Serif; vertical-align: middle; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="font-family: Calibri, Helvetica, Sans-Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief
+    Executive Officer</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 8pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 3.5in; text-align: justify"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

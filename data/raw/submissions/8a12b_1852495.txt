@@ -1,0 +1,278 @@
+<SEC-DOCUMENT>0001140361-21-040434.txt : 20211206
+<SEC-HEADER>0001140361-21-040434.hdr.sgml : 20211206
+<ACCEPTANCE-DATETIME>20211206135210
+ACCESSION NUMBER:		0001140361-21-040434
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211206
+DATE AS OF CHANGE:		20211206
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Jackson Acquisition Co
+		CENTRAL INDEX KEY:			0001852495
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				862494888
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41128
+		FILM NUMBER:		211472770
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2655 NORTHWINDS PARKWAY
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30009
+		BUSINESS PHONE:		678-690-1079
+
+	MAIL ADDRESS:	
+		STREET 1:		2655 NORTHWINDS PARKWAY
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30009
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>nt10021691x4_8a12b.htm
+<DESCRIPTION>8A12B
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using EDGARfilings PROfile 7.7.0.0
+         Copyright 1995 - 2021 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <div style="text-align: center; font-weight: bold;">
+      <hr style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; margin-left: auto; margin-right: auto;" align="center"><font style="font-size: 14pt;">UNITED
+        STATES</font></div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 12pt; font-weight: bold;">WASHINGTON, D.C.&#160; 20549</div>
+    <div>&#160;</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 18pt; font-weight: bold;">FORM 8-A</div>
+    <div>&#160;</div>
+    <div style="text-align: center; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+    <div style="text-align: center; font-weight: bold;">PURSUANT TO SECTION 12(b) OR 12(g) OF THE</div>
+    <div style="text-align: center; font-weight: bold;">SECURITIES EXCHANGE ACT OF 1934</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 24pt; font-weight: bold;">Jackson Acquisition Company</div>
+    <div style="text-align: center;">(Exact name of registrant as specified in its charter)</div>
+    <div>&#160;</div>
+    <table style="font-family: 'Times New Roman',Times,serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: rgb(0, 0, 0);" id="z18e08421da5a415a8d976f947d26d7c9" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman', Times, serif; font-weight: bold;">Delaware</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman', Times, serif; font-weight: bold;">86-2494888</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman', Times, serif;">(State of incorporation or organization)</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman', Times, serif;">(I.R.S. Employer Identification No.)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">2655 Northwinds Parkway</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; text-align: center;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Alpharetta, GA 30009</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">30009</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center;">(Address of principal executive offices)</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center;">(Zip Code)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div>Securities to be registered pursuant to Section 12(b) of the Act:</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman',Times,serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: rgb(0, 0, 0);" id="ze4531aa4b0cb48feab8444e74aa15d12" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman', Times, serif;">Title of each class</div>
+            <div style="text-align: center; font-family: 'Times New Roman', Times, serif;"><u>to be so registered</u></div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman', Times, serif;">Name of each exchange on which</div>
+            <div style="text-align: center; font-family: 'Times New Roman', Times, serif;"><u>each class is to be registered</u></div>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1" style="width: 50%; vertical-align: top;">&#160;</td>
+          <td rowspan="1" style="width: 50%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman', Times, serif; font-weight: bold;">Units, each consisting of one share of Class A common stock </div>
+            <div style="text-align: center; font-family: 'Times New Roman', Times, serif; font-weight: bold;">and one-half of one redeemable warrant</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman', Times, serif; font-weight: bold;">The New York Stock Exchange</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman', Times, serif; font-weight: bold;">Class A common stock, par value $0.0001 per share</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman', Times, serif; font-weight: bold;">The New York Stock Exchange</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman', Times, serif; font-weight: bold;">Redeemable warrants, each whole warrant exercisable for one </div>
+            <div style="text-align: center; font-family: 'Times New Roman', Times, serif; font-weight: bold;">share of Class A common stock at an exercise price of $11.50, subject to adjustment</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman', Times, serif; font-weight: bold;">The New York Stock Exchange</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div>If this form relates to the registration of a class of securities pursuant to Section&#160;12(b) of the Exchange Act and is effective pursuant to General
+      Instruction&#160;A.(c) or (e), check the following box. &#9746;</div>
+    <div><br>
+    </div>
+    <div>If this form relates to the registration of a class of securities pursuant to Section&#160;12(g) of the Exchange Act and is effective pursuant to
+        General Instruction&#160;A.(d) or (e), check the following box. &#9744;<br>
+        <br>
+    </div>
+    <div>If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</div>
+    <div><br>
+    </div>
+    <div>Securities Act registration statement or Regulation A offering statement file number to which this form relates: &#160;</div>
+    <div><u>333-254727</u> (If applicable)</div>
+    <div> <br>
+    </div>
+    <div style="font-weight: bold;"><font style="font-weight: normal;">Securities to be registered pursuant to Section 12(g) of the Act:&#160; Not applicable </font><br>
+      <hr style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center"></div>
+    <div id="DSPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+      <div id="DSPFPageBreak" style="page-break-after: always;">
+        <hr style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;" noshade="noshade"></div>
+    </div>
+    <div style="font-weight: bold;">Item 1.&#160; Description of Registrant&#8217;s Securities to be Registered.</div>
+    <div>&#160;</div>
+    <div>The securities to be registered hereby are units, Class A common stock, par value $0.0001 per share, and redeemable warrants to purchase Class A common stock,
+      of Jackson Acquisition Company (the &#8220;Registrant&#8221;). The description of these units, Class A common stock and warrants under the heading &#8220;Description of Securities&#8221; in the prospectus included in the Registrant&#8217;s Registration Statement on Form S-1 (File
+      No. 333-254727), as amended (the &#8220;Registration Statement&#8221;), filed under the Securities Act of 1933, as amended (the &#8220;Securities Act&#8221;), with the Securities and Exchange Commission (the &#8220;Commission&#8221;) is incorporated herein by reference.&#160; Any form of
+      prospectus subsequently filed by the Registrant with the Commission pursuant to Rule 424(b) under the Securities Act that constitutes part of the Registration Statement shall be deemed to be incorporated herein by reference.</div>
+    <div>&#160;</div>
+    <div style="font-weight: bold;">Item 2.&#160; Exhibits.</div>
+    <div>&#160;</div>
+    <div>Pursuant to the Instructions as to Exhibits for Form 8-A, no exhibits are required to be filed, because no other securities of the Registrant are registered
+      on The New York Stock Exchange, and the securities registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</div>
+    <div id="DSPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+      <div id="DSPFPageBreak" style="page-break-after: always;">
+        <hr style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;" noshade="noshade"></div>
+    </div>
+    <div style="text-align: center; font-weight: bold;">SIGNATURE</div>
+    <div>&#160;</div>
+    <div style="text-indent: 36pt;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the Registrant has duly caused this registration
+      statement to be signed on its behalf by the undersigned, thereto duly authorized.</div>
+    <div>&#160;</div>
+    <table style="font-family: 'Times New Roman',Times,serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: rgb(0, 0, 0);" id="z453a310d9df44b58875049a3fdbb8a55" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td rowspan="1" colspan="3" style="vertical-align: top; width: 3%;">
+            <div style="font-family: 'Times New Roman', Times, serif; font-weight: bold;">JACKSON ACQUISITION COMPANY</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td colspan="1" style="vertical-align: top; width: 3%;">&#160;</td>
+          <td colspan="2" style="vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td colspan="1" style="vertical-align: top; width: 3%;">&#160;</td>
+          <td colspan="2" style="vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+          <td colspan="1" style="width: 3%; vertical-align: top; padding-bottom: 2px;">
+            <div style="font-family: 'Times New Roman', Times, serif;">By:</div>
+          </td>
+          <td colspan="2" rowspan="1" style="width: 5%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+            <div style="font-family: 'Times New Roman', Times, serif;">/s/ Richard L. Jackson</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td colspan="1" style="width: 3%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">
+            <div style="font-family: 'Times New Roman', Times, serif;">Name:</div>
+          </td>
+          <td style="width: 42%; vertical-align: top;">
+            <div style="font-family: 'Times New Roman', Times, serif;">Richard L. Jackson</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td colspan="1" style="width: 3%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">
+            <div style="font-family: 'Times New Roman', Times, serif;">Title:</div>
+          </td>
+          <td style="width: 42%; vertical-align: top;">
+            <div style="font-family: 'Times New Roman', Times, serif;">Chief Executive Officer</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">Dated: December 6, 2021</div>
+    <div style="text-align: justify;"> <br>
+    </div>
+    <div style="text-align: justify;">
+      <hr style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"> </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

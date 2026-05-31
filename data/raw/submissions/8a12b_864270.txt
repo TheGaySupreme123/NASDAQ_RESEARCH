@@ -1,0 +1,1097 @@
+<SEC-DOCUMENT>0001193125-21-302066.txt : 20211019
+<SEC-HEADER>0001193125-21-302066.hdr.sgml : 20211019
+<ACCEPTANCE-DATETIME>20211019164957
+ACCESSION NUMBER:		0001193125-21-302066
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20211019
+DATE AS OF CHANGE:		20211019
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN HONDA FINANCE CORP
+		CENTRAL INDEX KEY:			0000864270
+		STANDARD INDUSTRIAL CLASSIFICATION:	PERSONAL CREDIT INSTITUTIONS [6141]
+		IRS NUMBER:				953472715
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36111
+		FILM NUMBER:		211331656
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1919 TORRANCE BLVD.
+		CITY:			TORRANCE
+		STATE:			CA
+		ZIP:			90501
+		BUSINESS PHONE:		310-972-2555
+
+	MAIL ADDRESS:	
+		STREET 1:		1919 TORRANCE BLVD.
+		CITY:			TORRANCE
+		STATE:			CA
+		ZIP:			90501
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>d240162d8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<HTML><HEAD>
+<TITLE>8-A12B</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>Form <FONT
+STYLE="white-space:nowrap">8-A</FONT> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>FOR
+REGISTRATION OF CERTAIN CLASSES OF SECURITIES </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Pursuant to Section&nbsp;12(b) or (g)&nbsp;of the </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Securities Exchange Act of 1934 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>AMERICAN
+HONDA FINANCE CORPORATION </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>California</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">95-3472715</FONT></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(State of incorporation or organization)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>1919 Torrance Blvd., Torrance, California</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>90501</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Securities to be registered pursuant to Section&nbsp;12(b) of the Act: </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Times New Roman; " ALIGN="center"><B>Title of each class<BR>to be so
+registered</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Times New Roman; " ALIGN="center"><B>Name of each exchange on which<BR>each
+class is to be registered</B></P></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>1.500% Medium-Term Notes, Series A, due October&nbsp;19, 2027</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>New York Stock Exchange</B></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If this form relates to the registration of a class of securities pursuant to Section&nbsp;12(b) of the Exchange Act and is effective pursuant to General
+Instruction A.(c) or (e), check the following box.&nbsp;&nbsp; &#9746; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If this form relates to the registration of a class of securities pursuant to
+Section&nbsp;12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box.&nbsp;&nbsp; &#9744; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If
+this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box.&nbsp;&nbsp;&#9744; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Securities Act registration statement file number to which this form relates: </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><FONT STYLE="white-space:nowrap">No.&nbsp;333-233119</FONT> </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Securities to be registered pursuant to Section&nbsp;12(g) of the Act: </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>None </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Title of Class)
+</B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1. Description of Registrant&#146;s Securities to be Registered. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The securities to be registered hereunder are &pound;500,000,000 aggregate principal amount of 1.500% Medium-Term Notes, Series A, due
+October&nbsp;19, 2027 (the &#147;Notes&#148;). The description of the general terms and provisions of the Notes set forth in the Prospectus dated August&nbsp;8, 2019, the Prospectus Supplement thereto dated August&nbsp;8, 2019, which was filed
+pursuant to Rule 424(b)(5) under the Securities Act of 1933, as amended (the &#147;Act&#148;), and the Pricing Supplement dated October&nbsp;14, 2021, which was filed pursuant to Rule 424(b)(4) under the Act, are incorporated herein by reference.
+The Prospectus, Prospectus Supplement and Pricing Supplement were each filed with the Securities and Exchange Commission in connection with the Registration Statement of American Honda Finance Corporation on Form
+<FONT STYLE="white-space:nowrap">S-3ASR</FONT> (File <FONT STYLE="white-space:nowrap">No.&nbsp;333-233119).</FONT> </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;2. Exhibits. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The following exhibits are filed herewith and are incorporated herein by reference: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"><A HREF="d240162dex991.htm">99.1 &#151; Form of note representing American Honda Finance Corporation&#146;s &pound;500,000,000 aggregate principal
+ amount of 1.500% Medium-Term Notes, Series A, due October&nbsp;
+19, 2027 (filed herewith). </A> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"><A HREF="http://www.sec.gov/Archives/edgar/data/864270/000119312513358694/d532727dex41.htm">99.2 &#151; Indenture,
+ dated as of September&nbsp;5, 2013, between American Honda Finance Corporation and Deutsche Bank Trust Company Americas, as Trustee (incorporated by reference to Exhibit 4.1 of the Registration Statement on Form
+<FONT STYLE="white-space:nowrap">S-3ASR</FONT> of American Honda Finance Corporation (Registration Number <FONT STYLE="white-space:nowrap">333-191021)</FONT> filed on September&nbsp;6, 2013). </A> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"><A HREF="http://www.sec.gov/Archives/edgar/data/864270/000156459018001648/ahfc-ex46_352.htm">99.3 &#151; First Supplemental Indenture, dated as of
+ February&nbsp;8, 2018, between American Honda Finance Corporation and Deutsche Bank Trust Company Americas, as Trustee (incorporated by reference to Exhibit 4.6 of the Quarterly Report on Form <FONT STYLE="white-space:nowrap">10-Q</FONT> for the
+quarter ended December&nbsp;31, 2017 of American Honda Finance Corporation filed on February&nbsp;8, 2018). </A> </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of Section&nbsp;12 of the Securities Exchange Act of 1934, the
+Registrant has duly caused this Registration Statement to be signed on its behalf by the undersigned, thereto duly authorized. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date: October&nbsp;19,
+2021 </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="7%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">American Honda Finance Corporation</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">(Registrant)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">By:</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">/s/ Paul C. Honda</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Name: Paul C. Honda</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Title: Vice President and Assistant Secretary</TD></TR>
+</TABLE></DIV>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d240162dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 99.1 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>THIS NOTE IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE HEREINAFTER REFERRED TO AND IS REGISTERED IN THE NAME OF A COMMON DEPOSITORY FOR
+CLEARSTREAM BANKING S.A. (&#147;CLEARSTREAM&#148;) AND EUROCLEAR BANK, SA/NV (&#147;EUROCLEAR&#148; AND, TOGETHER WITH CLEARSTREAM, &#147;EUROCLEAR/CLEARSTREAM&#148;) OR A NOMINEE THEREOF. UNLESS THIS NOTE IS PRESENTED BY AN AUTHORIZED
+REPRESENTATIVE OF EUROCLEAR/CLEARSTREAM TO THE COMPANY OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY NOTE ISSUED IS REGISTERED IN THE NAME OF BT GLOBENET NOMINEES LIMITED OR IN SUCH OTHER NAME AS REQUESTED BY AN AUTHORIZED
+REPRESENTATIVE OF THE COMMON DEPOSITORY FOR EUROCLEAR/CLEARSTREAM (AND ANY PAYMENT IS MADE TO BT GLOBENET NOMINEES LIMITED OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF THE COMMON DEPOSITORY FOR EUROCLEAR/CLEARSTREAM),
+ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL IN AS MUCH AS THE REGISTERED OWNER HEREOF, BT GLOBENET NOMINEES LIMITED OR SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF THE
+COMMON DEPOSITORY FOR EUROCLEAR/CLEARSTREAM, HAS AN INTEREST HEREIN. UNLESS AND UNTIL IT IS EXCHANGED IN WHOLE OR IN PART FOR NOTES IN CERTIFICATED FORM, THIS NOTE MAY NOT BE TRANSFERRED EXCEPT AS A WHOLE BY THE COMMON DEPOSITORY TO A NOMINEE OF THE
+COMMON DEPOSITORY, BY A NOMINEE OF THE COMMON DEPOSITARY TO THE COMMON DEPOSITARY OR ANOTHER NOMINEE OF THE COMMON DEPOSITARY, OR BY THE COMMON DEPOSITORY OR ANY SUCH NOMINEE TO A SUCCESSOR COMMON DEPOSITORY OR A NOMINEE OF SUCH SUCCESSOR COMMON
+DEPOSITORY. </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="22%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="46%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="30%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">No.&nbsp;1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">American&nbsp;Honda&nbsp;Finance&nbsp;Corporation</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Principal&nbsp;Amount</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>Medium-Term Note, Series A</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>(Fixed Rate)</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&pound;500,000,000</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:2%; text-indent:-2%; font-size:10pt; font-family:Times New Roman">REGISTERED: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="51%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CUSIP: U0258B AD3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">ORIGINAL ISSUE DATE: October&nbsp;19, 2021</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">ISIN NO.: XS2399232169</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">COMMON CODE: 239923216</P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">REDEMPTION: See Addendum attached hereto.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">INTEREST RATE: 1.500% per annum</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; font-size:10pt; font-family:Times New Roman">INITIAL REDEMPTION DATE: N/A</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">STATED MATURITY: October&nbsp;19, 2027</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; font-size:10pt; font-family:Times New Roman">INITIAL REDEMPTION <BR>PERCENTAGE: N/A</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">SPECIFIED CURRENCY: United States dollars for all payments unless otherwise specified below:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; font-size:10pt; font-family:Times New Roman">ANNUAL REDEMPTION <BR>PERCENTAGE REDUCTION: N/A</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.50em; font-size:10pt; font-family:Times New Roman">&#149;&#8195;&#8202;payments of principal and any premium: Sterling</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.50em; font-size:10pt; font-family:Times New Roman">&#149;&#8195;&#8202;payments of interest: Sterling</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">REGULAR RECORD DATES: May&nbsp;30 or November&nbsp;30 unless otherwise specified below:</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.50em; font-size:10pt; font-family:Times New Roman">&#149;&#8195;&#8202;Exchange Rate Agent: N/A</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">15<SUP STYLE="font-size:85%; vertical-align:top">th</SUP> calendar day, whether or not a Business Day, immediately preceding the related Interest Payment Date</TD></TR>
+</TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="51%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">INTEREST PAYMENT DATES: Each October&nbsp;19, beginning October&nbsp;19, 2022, and at Maturity</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744; <B>CHECK IF DISCOUNT NOTE</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">DAY COUNT CONVENTION: 30/360 unless otherwise specified below:</P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Actual / Actual (ICMA). See Addendum attached hereto.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Issue Price: 99.956%</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">PAYING AGENT: Deutsche Bank Trust Company Americas</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">OTHER PROVISIONS: See Addendum attached hereto.</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">DENOMINATIONS: ($2,000, and integral multiples of $1,000 unless otherwise specified below):</P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&pound;100,000 and integral multiples of &pound;1,000 in excess thereof. See Addendum
+attached hereto.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><B>ADDENDUM ATTACHED: [X] Yes [ ] No</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">HOLDER&#146;S OPTIONAL REPAYMENT DATE(S): Not applicable</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">INTEREST RATE RESET OPTION: <B>[ ] Yes [X] No</B></P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2.00em; font-size:10pt; font-family:Times New Roman">OPTIONAL RESET DATES:</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:2.00em; font-size:10pt; font-family:Times New Roman">BASIS FOR INTEREST RATE RESET:</P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"><B>American Honda Finance Corporation</B>, a California corporation (herein called the &#147;Company,&#148;
+which term includes any successor corporation under the Indenture referred to herein), for value received, hereby promises to pay to BT GLOBENET NOMINEES LIMITED, as nominee of DEUTSCHE BANK AG, LONDON BRANCH, a common depository for Clearstream
+Banking S.A. and Euroclear Bank SA/NV, as operator of the Euroclear system, or its registered assigns, the principal sum of FIVE HUNDRED MILLION POUNDS STERLING on the Stated Maturity specified above, and to pay interest thereon, if any, at the rate
+per annum specified above (if not otherwise specified above, computed on the basis of a <FONT STYLE="white-space:nowrap">360-day</FONT> year of twelve <FONT STYLE="white-space:nowrap">30-day</FONT> months) until the principal hereof is paid or made
+available for payment. The Company will pay interest annually on the Interest Payment Dates specified above, commencing with the Interest Payment Date immediately following the Original Issue Date specified above, and on the Stated Maturity or any
+earlier redemption date or optional repayment date specified above (such Stated Maturity and any earlier redemption date or optional repayment date or any other date that the principal amount hereof or an installment thereof is due and payable,
+whether by declaration of acceleration pursuant to the Indenture or otherwise, being referred to hereinafter as a &#147;Maturity&#148; with respect to the portion of the principal amount payable on such date); <I>provided</I> that if the Original
+Issue Date specified above is after a Regular Record Date as specified above and on or before the related Interest Payment Date, interest payments will commence on the next succeeding Interest Payment Date. Interest on this Note will accrue from and
+including the immediately preceding Interest Payment Date in respect of which interest has been paid or made available for payment or, if no interest has been paid or made available for payment, from and including the Original Issue Date specified
+above to, but excluding, the related Interest Payment Date or Maturity, as the case may be. If any Interest Payment Date or the Maturity would fall on a day that is not a Business Day (as defined below), the related payment of principal, premium, if
+any, and/or interest and Additional Amounts, if any, will be made the next succeeding Business Day with full force and effect as if the payment had been made on such Interest Payment Date or at Maturity, and no interest on such payment shall accrue
+on the amount payable for the period from and after such Interest Payment Date or Maturity, as the case may be, to the date of such payment on the next succeeding Business Day. The interest </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+so payable, and punctually paid or duly provided for, on any Interest Payment Date will, as provided in the Indenture, be paid to the Person in whose name this Note (or one or more Predecessor
+Securities) is registered at the close of business on the Regular Record Date for such interest (whether or not a Business Day) next preceding such Interest Payment Date; <I>provided</I>, <I>however</I>, that interest payable at Maturity shall be
+payable to the Person to whom the principal hereof is payable. Any such interest not so punctually paid or duly provided for shall forthwith cease to be payable to the Holder on such Regular Record Date and may either be paid to the Person in whose
+name this Note (or one or more Predecessor Securities) is registered at the close of business on a Special Record Date for the payment of such Defaulted Interest to be fixed by the Trustee, notice whereof shall be given to the Holder of this Note
+not less than 10 days prior to such Special Record Date, or be paid at any time in any other lawful manner not inconsistent with the requirements of any securities exchange upon which the Notes may be listed, and upon such notice as may be required
+by such exchange, all as more fully provided in the Indenture. Payment of principal, premium, if any, and interest payable at Maturity of this Note will be made in immediately available funds if this Note is presented and surrendered (in the case of
+any payment on any Holder&#146;s Optional Repayment Date, together with the &#147;Option to Elect Repayment&#148; form attached hereto duly completed) at the office or agency of the Company maintained for that purpose in The City of New York
+(currently the corporate trust office of the Paying Agent (as defined below) in The City of New York) in time for payment to be made in such funds in accordance with the normal procedures of Deutsche Bank Trust Company Americas, as paying agent, or
+such other paying agent, if any, specified in an Addendum attached hereto (the &#147;Paying Agent,&#148; which term includes any successor paying agent under the Indenture); <I>provided</I>, <I>however</I>, that if the Specified Currency of such
+payment is other than United States dollars and such payment is to be made in the Specified Currency in accordance with the provisions set forth below, such payment will be made by wire transfer of immediately available funds to an account with a
+bank designated by the Holder hereof at least fifteen days prior to the Maturity, provided that such bank has appropriate facilities therefor and that this Note is presented and surrendered and, if applicable, a duly completed &#147;Option to Elect
+Repayment&#148; form is delivered at the aforementioned office of the Paying Agent in time for the Paying Agent to make such payment in such funds in accordance with its normal procedures. Payment of the principal of, premium, if any, and interest
+on this Note in United States dollars will be made by transfer of immediately available funds to the Depositary or its nominee. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">&#147;Business Day&#148; means any day, other than a Saturday or Sunday, that is neither a legal holiday nor a day on which commercial banks
+are authorized or required by law, regulation or executive order to close in The City of New York and is also a day on which commercial banks are open for business in London; <I>provided</I>, <I>however</I>, that, if the Specified Currency above is
+not United States dollars, the day is also not a day on which commercial banks are authorized or required by law, regulation or executive order to close in the Principal Financial Center (as defined below) of the country issuing the Specified
+Currency or, if the Specified Currency is euro, the day is also a TARGET2 Business Day (as defined below). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">&#147;Principal Financial
+Center&#148; means the capital city of the country issuing the Specified Currency, except, that with respect to United States dollars, Australian dollars, Canadian dollars, euros, New Zealand dollars, South African rand and Swiss francs, the
+&#147;Principal Financial Center&#148; will be The City of New York, Sydney, Toronto, Brussels, Wellington, Johannesburg and Zurich, respectively. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">&#147;TARGET2 Business Day&#148; means any day on which the Trans-European Automated Real-Time Gross Settlement Express Transfer (TARGET2)
+System or any successor thereto is open. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Unless otherwise specified herein, payments of principal of, premium, if any, and interest on,
+this Note will be made in the applicable Specified Currency. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Notwithstanding anything in the foregoing to the contrary, if the Specified
+Currency is not available, in the Company&#146;s good faith judgment, for any amount payable on this Note on the applicable payment date (including at Maturity) due to the imposition of exchange controls or any other circumstances beyond the control
+of the Company, or is no longer used by the government of the country issuing such currency or for the settlement of transactions by public institutions of or within the international banking community, the Company will be entitled to satisfy its
+obligation to pay such amount in such Specified Currency by making such payment in United States dollars. Unless otherwise specified in an Addendum attached hereto, the amount of such payment in United States dollars shall be determined on the basis
+of the Market Exchange Rate (as defined below) as computed by the Exchange Rate Agent on the second Business Day preceding the applicable payment date, or if the Market </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Exchange Rate is not available on the second Business Day preceding the applicable payment date, on the basis of the most recently available Market Exchange Rate on or preceding the applicable
+payment date, or as otherwise determined by the Company in good faith, if the foregoing is impracticable. The &#147;Market Exchange Rate&#148; for a Specified Currency other than United States dollars means the noon dollar buying rate for cable
+transfers in The City of New York for such Specified Currency as certified for custom purposes (or, if not so certified, as otherwise determined) by the Federal Reserve Bank of New York. Any payment made under such circumstances in United States
+dollars where the required payment is in other than United States dollars will not constitute a default under the Indenture or this Note. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">If this Note is denominated in a Specified Currency other than United States dollars, in the event of an official redenomination of such
+Specified Currency (including, without limitation, an official redenomination of such Specified Currency that is a composite currency) the obligations of the Company with respect to payments on this Note denominated in such Specified Currency shall,
+in all cases, be regarded immediately following such redenomination as providing for the payment of that amount of redenominated currency representing the amount of such obligations immediately before such redenomination. No adjustment will be made
+to any amount payable under this Note as a result of (a)&nbsp;any change in the value of such Specified Currency relative to any other currency due solely to fluctuations in exchange rates or (b)&nbsp;any redenomination of any component currency of
+any composite currency (unless such composite currency is itself officially redenominated). If the official unit of any component currency is altered by way of combination or subdivision, the number of units of that currency as a component shall be
+divided or multiplied in the same proportion. If two or more component currencies are consolidated into a single currency, the amounts of those currencies as components shall be replaced by an amount in such single currency. If any component
+currency is divided into two or more currencies, the amount of that original component currency as a component shall be replaced by the amounts of such two or more currencies having an aggregate value on the date of division equal to the amount of
+the former component currency immediately before such division. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Reference is hereby made to the further provisions of this Note set forth
+on the reverse hereof, which further provisions will for all purposes have the same effect as if set forth at this place. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Unless the
+certificate of authentication hereon has been manually executed by or on behalf of the Trustee under the Indenture, this Note will not be entitled to any benefits under the Indenture or be valid or obligatory for any purpose. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">References herein to the &#147;Note,&#148; &#147;hereof,&#148; &#147;herein&#148; and comparable terms shall include any Addendum hereto if
+any Addendum is specified under &#147;Other Provisions&#148; above, which shall prevail in the event of any inconsistency. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">IN WITNESS WHEREOF, the Company has caused this Note to be duly executed, manually or in
+facsimile. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="45%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="3%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="45%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Dated: October&nbsp;19, 2021</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"><B>AMERICAN HONDA FINANCE CORPORATION</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Name:</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Title:</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">ATTEST:</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Assistant Secretary</TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="7%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">CERTIFICATE OF AUTHENTICATION</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This is one of the Securities of the series</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">designated herein issued under the</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">within-mentioned
+Indenture.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">Deutsche Bank Trust Company Americas, <BR>as Trustee</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Authorized Signatory</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Authorized Signatory</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">This Note is one of a duly authorized issue of Securities of the Company, issued and to be
+issued in one or more series under an Indenture dated as of September&nbsp;5, 2013 (the &#147;Base Indenture&#148;), as amended by the First Supplemental Indenture, dated as of February&nbsp;8, 2018 (the &#147;First Supplemental Indenture&#148; and
+the Base Indenture, as supplemented by the First Supplemental Indenture, the &#147;Indenture&#148;), between the Company and Deutsche Bank Trust Company Americas, as trustee (herein called the &#147;Trustee,&#148; which term includes any successor
+trustee under the Indenture), to which the Indenture and all indentures supplemental thereto reference is hereby made for a statement of the respective rights, limitations of rights, duties and immunities thereunder of the Company, the Trustee and
+the Holders of the Securities and of the terms upon which the Securities are, and are to be, authenticated and delivered. This Note is one of the series of the Securities designated as the Medium-Term Notes, Series A (herein called the
+&#147;Notes&#148;). The Notes may bear different dates and mature at different times, may bear interest at different rates or may not bear interest and may otherwise vary, all as provided in the Indenture. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Any provision contained herein with respect to the calculation of the rate of interest applicable to this Note, its payment dates or any other
+matter relating hereto may be modified as specified in an Addendum relating hereto if so specified above. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">This Note may be subject to
+repayment at the option of the Holder prior to the Stated Maturity specified above on the Holder&#146;s Optional Repayment Date(s), if any, specified above. If no Holder&#146;s Optional Repayment Dates are specified above, this Note may not be so
+repaid at the option of the Holder hereof prior to the Stated Maturity. On any Holder&#146;s Optional Repayment Date, this Note will be repayable in whole or in part in increments of $1,000 unless otherwise specified on the face hereof (provided
+that any remaining principal amount shall be an authorized denomination) at the option of the Holder hereof at a repayment price equal to 100% of the principal amount to be repaid (or, if the Discount Note box is checked above, such lesser amount as
+is provided in an Addendum attached hereto), together with accrued and unpaid interest thereon to, but excluding, the date of repayment, subject to the terms of any applicable Addendum hereto. For this Note to be repaid in whole or in part at the
+option of the Holder hereof, this Note must be received, with the form entitled &#147;Option to Elect Repayment&#148; set forth below (and also available at the office of the Paying Agent) duly completed, by the Paying Agent at its corporate trust
+office in The City of New York (currently at 60 Wall Street, Trust and Agency Services, 27<SUP STYLE="font-size:85%; vertical-align:top">th</SUP>&nbsp;Floor, New York, New York 10005), or such address which the Company shall from time to time notify
+the Holders of the Notes, not more than 60 nor less than 30 days prior to a Holder&#146;s Optional Repayment Date. This Note must be received by the Paying Agent by 5:00 p.m., New York City time, on the last day for the giving of such notice.
+Exercise of such repayment option by the Holder hereof shall be irrevocable except to the extent permitted in connection with an interest rate reset described below. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">This Note may be redeemed at the option of the Company on any date on or after the Initial Redemption Date (any date fixed for such redemption
+being the &#147;Redemption Date&#148;), if any, specified above, and prior to the Stated Maturity specified above, in whole, or from time to time in part (if so specified above), in increments of $1,000 unless otherwise specified on the face hereof
+(provided that any remaining principal amount shall be an authorized denomination) at the Redemption Price (as defined below), together with accrued and unpaid interest thereon to, but excluding, the Redemption Date, upon providing written notice of
+such redemption not more than 60 days nor less than 30 days prior to the Redemption Date to the Holder of this Note at such Holder&#146;s address appearing in the Security Register, all as provided in the Indenture. Unless otherwise specified above,
+the &#147;Redemption Price&#148; shall be the Initial Redemption Percentage specified on the face hereof (as adjusted by the Annual Redemption Percentage Reduction, if any, specified on the face hereof) multiplied by the unpaid principal amount of
+this Note to be redeemed. The Initial Redemption Percentage shall decline at each anniversary of the Initial Redemption Date by the Annual Redemption Percentage Reduction, if any, until the Redemption Price is 100% of the unpaid principal amount of
+this Note to be redeemed. If less than all of the Notes having Equivalent Terms are to be redeemed, the Trustee shall select, not more than 60 days nor less than 30 days prior to the Redemption Date, by such method as the Trustee shall deem fair and
+appropriate in accordance with the procedures of the Depositary, from Notes that are subject to redemption pursuant to the terms thereof, the Note or Notes, or portion or portions thereof, to be redeemed. If no Initial Redemption Date is specified
+above and no other redemption provisions are specified on the face hereof or in an Addendum attached hereto, this Note may not be redeemed prior to its Stated Maturity. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">In the event of redemption or repayment of this Note in part only, the principal amount of this Note shall be reduced. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">6 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">If an Event of Default (as defined in the Indenture) with respect to the Notes shall occur
+and be continuing, the principal of all the Notes Outstanding may be declared, and in certain cases shall automatically become, due and payable in the manner and with the effect provided in the Indenture. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">If the Company has the option with respect to this Note to reset the interest rate, such option will be indicated on the face hereof, together
+with (i)&nbsp;the date or dates on which such interest rate may be reset (each an &#147;Optional Reset Date&#148;) and (ii)&nbsp;the basis or formula, if any, for such resetting. Unless otherwise specified in an Addendum attached hereto, the Company
+may exercise such option by notifying the Trustee of such exercise at least 45 but not more than 60 days prior to an Optional Reset Date. Not later than 40 days prior to such Optional Reset Date, the Trustee will mail to the Holder hereof a notice
+(the &#147;Reset Notice&#148;), first class, postage prepaid, setting forth (i)&nbsp;the election of the Company to reset the interest rate, (ii)&nbsp;such new interest rate, and (iii)&nbsp;the provisions, if any, for redemption during the period
+from such Optional Reset Date to the next Optional Reset Date or, if there is no such next Optional Reset Date, to the Stated Maturity of this Note (each such period a &#147;Subsequent Interest Period&#148;), including the date or dates on which or
+the period or periods during which and the price or prices at which such redemption may occur during such Subsequent Interest Period. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Notwithstanding the foregoing, not later than 20 days prior to an Optional Reset Date, the Company may, at its option, revoke the interest
+rate provided for in the Reset Notice and establish a higher interest rate for the Subsequent Interest Period commencing on such Optional Reset Date by mailing or causing the Trustee to mail notice of such higher interest rate first class, postage
+prepaid, to the Holder hereof. Such notice shall be irrevocable. If the interest rate is reset on an Optional Reset Date this Note will bear such higher interest rate. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">If the Company elects to reset the interest rate of this Note, the Holder hereof will have the option to elect repayment of this Note by the
+Company on any Optional Reset Date at a price equal to 100% of the principal amount hereof plus any accrued and unpaid interest thereon to, but excluding, such Optional Reset Date. In order for this Note to be so repaid on an Optional Reset Date,
+the Holder hereof must follow the procedures set forth above for optional repayment, except that the period for delivery of this Note or notification to the Paying Agent shall be at least 25 but not more than 35 days prior to such Optional Reset
+Date and except that if the Holder hereof has tendered this Note for repayment pursuant to a Reset Notice, the Holder hereof may, by written notice to the Paying Agent, revoke any such tender for repayment until the close of business on the tenth
+day prior to such Optional Reset Date. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Indenture permits, with certain exceptions as therein provided, the amendment thereof and the
+modification of the rights and obligations of the Company and the rights of the Holders of the Securities of each series to be affected under the Indenture at any time by the Company and the Trustee with the consent of the Holders of a majority in
+aggregate principal amount of the Securities at the time Outstanding of each series to be affected (voting as separate classes). The Indenture also contains provisions permitting the Holders of a majority in aggregate principal amount of the
+Securities of each series at the time Outstanding, on behalf of the Holders of all Securities of such series, to waive compliance by the Company with certain provisions of the Indenture and certain past defaults under the Indenture and their
+consequences. Any such consent or waiver by the Holder of this Note shall be conclusive and binding upon such Holder and upon all future Holders of this Note and of any Note issued upon the registration of transfer hereof or in exchange herefor and
+in lieu hereof, whether or not notation of such consent or waiver is made upon this Note. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Indenture contains provisions where, upon
+the Company&#146;s direction and satisfaction of certain conditions, the Indenture shall cease to be of further effect with respect to the Notes, subject to the survival of specified provisions of the Indenture. The Indenture also contains
+provisions for defeasance of certain obligations of the Company under this Note and the Indenture and covenant defeasance of certain obligations of the Company under the Indenture. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">No reference herein to the Indenture and no provision of this Note or of the Indenture shall alter or impair the obligation of the Company,
+which is absolute and unconditional to pay the principal of, and premium, if any, and interest on, this Note at the time, place and rate, and in the coin or currency herein and in the Indenture prescribed. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">7 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">As provided in the Indenture and subject to certain limitations therein and herein set
+forth, the transfer of this Note is registrable in the Security Register, upon surrender of this Note for registration of transfer at the office or agency of the Company in any place where the principal of, premium, if any, and interest on, this
+Note are payable, duly endorsed by, or accompanied by a written instrument of transfer in form satisfactory to the Company and the Security Registrar duly executed by, the Holder hereof or his attorney duly authorized in writing, and thereupon one
+or more new Notes of the same series in authorized denominations and for the same aggregate principal amount will be issued to the designated transferee or transferees. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Notes are issuable only in registered form without coupons and, if payable in United States dollars, only in denominations of $2,000 and
+any integral multiple of $1,000 in excess thereof unless otherwise specified on the face hereof. As provided in the Indenture and subject to certain limitations therein and herein set forth, Notes are exchangeable for a like aggregate principal
+amount of Notes of the same tenor and terms of a different authorized denomination, as requested by the Holder surrendering the same. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">This Note shall be exchangeable for Notes in certificated form of like tenor and terms and of an equal aggregate principal amount, in
+authorized denominations, if (x)&nbsp;the Depositary notifies the Company that it is unwilling or unable, or no longer qualified to continue as depositary or at anytime the Depositary ceases to be a clearing agency registered as such under the
+Exchange Act, if so required by applicable law or regulation, and a successor depositary is not appointed by the Company within 90 days of such notification or of the Company becoming aware of the Depositary&#146;s ceasing to be so registered, as
+the case may be, (y)&nbsp;the Company executes and delivers to the Trustee a Company Order to the effect that this Note shall be so exchangeable or (z)&nbsp;an Event of Default has occurred and is continuing with respect to the Notes and the
+Depositary or the Company specifically requests such exchange. Such certificated Notes shall be registered in such name or names as the Depositary shall instruct the Trustee. If certificated Notes are so delivered, the Company may make such changes
+to the form of this Note as are necessary or appropriate to allow for the issuance of such certificated Notes. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Company may reopen
+this issue of Notes by issuing additional Securities with the same terms as these Notes. Any additional Securities so issued will be considered part of this same issue of Notes for all purposes. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">This Note is not subject to, or entitled to the benefits of, any sinking fund. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">No service charge shall be made for any registration of transfer or exchange relating to this Note, but the Company may require payment of a
+sum sufficient to cover any tax or other governmental charge payable in connection therewith, other than exchanges pursuant to the Indenture not involving any transfer. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Prior to due presentment of this Note for registration of transfer, the Company, the Trustee, any Paying Agent, any Authentication Agent and
+any other agent of the Company or the Trustee may treat the Person in whose name this Note is registered as the owner hereof for all purposes, whether or not this Note be overdue, and neither the Company, the Trustee nor any such agent shall be
+affected or subject to any liabilities by notice to the contrary. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">As provided in the Indenture, no recourse for the payment of the
+principal of, or premium, if any, or interest on, any Note, or for any claim based thereon, and no recourse upon any obligation of the Company in the Indenture or in any Note shall be had against any stockholder, employee, officer or director, as
+such, past, present or future, of the Company or of any predecessor or successor corporation. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">All terms used in this Note which are not
+defined in this Note but are defined in the Indenture shall have the meanings assigned to them in the Indenture. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">This Note shall be
+governed by, and construed in accordance with, the laws of the State of New York, without regard to principles of conflicts of laws of such State other than New York General Obligations Law
+<FONT STYLE="white-space:nowrap">Section&nbsp;5-1401.</FONT> </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">8 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><U>ASSIGNMENT/TRANSFER FORM </U></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">FOR VALUE RECEIVED the undersigned registered Holder hereby sell(s), assign(s) and transfer(s) unto (insert Taxpayer Identification
+No.)<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U><U></U> </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(Please print or typewrite name and address including postal zip code of assignee) </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">the within Note and all rights thereunder, hereby irrevocably constituting and appointing
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> attorney to transfer said Note on the books of the Company with full power of substitution in the premises. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="49%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="45%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">NOTICE: The signature of the registered Holder to this assignment must correspond with the name as written upon the face of the within instrument in every particular, without alteration or enlargement or any change
+whatsoever.</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">9 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">OPTION TO ELECT REPAYMENT </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The undersigned hereby irrevocably request(s) and instruct(s) the Company to repay this Note (or portion hereof specified below) pursuant to
+its terms at a price equal to 100% of the principal amount hereof together with accrued and unpaid interest thereon to, but excluding, the repayment date, to the undersigned, at </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:79%">&nbsp;</P></center>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">(Please print or typewrite name and address of the undersigned) </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">For this Note to be repaid, the Paying Agent must receive at its corporate trust office in The City of New York, or at such other place or
+places of which the Company shall from time to time notify the Holder of this Note, not more than 60 nor less than 30 days prior to an Optional Repayment Date, if any, shown on the face of this Note, this Note with this &#147;Option to Elect
+Repayment&#148; form duly completed. This Note must be received by the Paying Agent by 5:00 P.M., New York City time, on the last day for the giving of such notice. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">If less than the entire principal amount of this Note is to be repaid, specify the portion hereof (which shall be in increments of $1,000
+unless otherwise specified on the face of this Note, provided that any remaining principal amount shall be an authorized denomination) which the Holder elects to have repaid and specify the denomination or denominations (which shall be in an amount
+equal to an authorized denomination) of the Notes to be issued to the Holder for the portion of this Note not being repaid (in the absence of any such specification, one such Note will be issued for the portion not being repaid). </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="29%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="3%"></TD>
+
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="62%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>$</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">NOTICE: The signature on this Option to Elect Repayment must correspond with the name as written upon the face of this Note in every particular, without alteration or enlargement or any change whatever.</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">10 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="99%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>American Honda Finance Corporation</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>1.500% Medium-Term Note, Series A, due October&nbsp;19, 2027</B></P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>CUSIP / ISIN / Common Code: </B>U0258B AD3 / XS2399232169
+/ 239923216<B></B></P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>ADDENDUM TO MEDIUM-TERM
+NOTE</U></B></P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+</TABLE> <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The attached Note is subject to the terms set forth below. Any references below to &#147;the Notes&#148; means
+the Company&#146;s 1.500% Medium-Term Notes, Series A, due October&nbsp;19, 2027, and any reference below to &#147;this Note,&#148; mean the Note of which this Addendum is a part. The provisions of this Addendum supplement, and to the extent
+different therefrom or inconsistent therewith, supersede, the provisions set forth in the Note of which this Addendum is part. Any terms used and not otherwise defined in this Addendum shall have the respective meanings set forth in the Notes or, if
+not defined therein, the Indenture. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Interest payable on an Interest Payment Date will be computed on the basis of an Actual / Actual
+(ICMA) (as defined in the rulebook of the International Capital Market Association) day count convention. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">&#147;Business Day&#148; means
+any day, other than a Saturday or Sunday, which is not a day on which banking institutions in The City of New York or London are authorized or required by law, regulation or executive order to close. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">References to Clearstream and/or Euroclear shall, whenever the context so permits, be deemed to include a reference to any additional or
+alternative clearing system as may be approved by the Company. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to a recommendation promulgated by the Committee on Uniform
+Security Identification Procedures, the Company has caused &#147;CUSIP&#148; numbers to be printed on the Securities of this series as a convenience to the Holders of such Securities. No representation is made as to the correctness or accuracy of
+such CUSIP numbers as printed on the Securities of this series, and reliance may be placed only on the other identification numbers printed hereon. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Issuance in Sterling </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Principal, premium,
+if any, and interest payments in respect of this Note, including any payments made upon any redemption of this Note, will be payable in Sterling; <I>provided, however,</I> that if Sterling is not available in the Company&#146;s good faith judgment
+for the payment of principal, premium, if any, or interest with respect to this Note, including payments of redemption on the Notes, due to the imposition of exchange controls or other circumstances beyond the control of the Company, or Sterling is
+no longer used by the United Kingdom or for the settlement of transactions by public institutions of or within the international banking community, the Company will be entitled to satisfy its obligations to Holders by making that payment in U.S.
+dollars on the basis of the Market Exchange Rate (as defined below) as computed by the exchange rate agent on the second Business Day before that payment is due, or if such Market Exchange Rate is not then available, on the basis of the most
+recently available Market Exchange Rate on or before the date that payment is due or as otherwise determined by </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+the Company in good faith, if the foregoing is impracticable. Any payment in respect of this Note so made in U.S. dollars will not constitute a default under the Indenture. Neither the Trustee
+nor the Paying Agent shall be responsible for obtaining exchange rates, effecting conversions or otherwise handling redenominations. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The
+&#147;Market Exchange Rate&#148; means the noon buying rate in The City of New York for cable transfers of Sterling as certified for customs purposes (or, if not so certified, as otherwise determined) by the Federal Reserve Bank of New York. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">In the event that Sterling, or an official redenomination of Sterling, is no longer used by the United Kingdom, the Company&#146;s obligations
+with respect to payments on the Notes shall, in each case, be regarded immediately following such redenomination as providing for the payment of that amount of Sterling representing the amount of such obligations immediately before such
+redenomination. The Notes do not provide for any adjustment to any amount payable under the Notes as a result of any change in the value of Sterling relative to any other currency due solely to fluctuations in exchange rates. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">All determinations referred to above made by the exchange rate agent will be at its sole discretion and will, in the absence of clear error,
+be conclusive for all purposes and binding on the Holders of the Notes. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Optional Redemption </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Notes will be redeemable before the Stated Maturity, in whole or in part, at the Company&#146;s option, at any time, at a
+&#147;make-whole&#148; Redemption Price in cash equal to the greater of (i) 100% of the principal amount of the Notes to be redeemed and (ii)&nbsp;the sum of the present values of the remaining scheduled payments of principal of and interest on the
+Notes to be redeemed (exclusive of interest accrued to but excluding the redemption date) discounted to the redemption date on an annual basis (based on an Actual / Actual (ICMA) (as defined in the rulebook of International Capital Market
+Association) day count convention) at the applicable Comparable Government Bond Rate plus 15 basis points, plus, in each of clause (i)&nbsp;and (ii), unpaid interest, if any, thereon accrued to but excluding the redemption date. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The following definitions will apply with respect to the foregoing: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">&#147;Comparable Government Bond&#148; means, in relation to any Comparable Government Bond Rate calculation, at the discretion of an
+Independent Investment Banker, a United Kingdom government bond whose maturity is closest to the maturity of the Notes to be redeemed, or if the Independent Investment Banker in its discretion determines that such similar bond is not in issue, such
+other United Kingdom government bond as such Independent Investment Banker may, with the advice of three brokers of, and/or market makers in, United Kingdom government bonds selected by such Independent Investment Banker, determine to be appropriate
+for determining the Comparable Government Bond Rate. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">&#147;Comparable Government Bond Rate&#148; means the price, expressed as a percentage
+(rounded to three decimal places, with 0.0005 being rounded upwards), at which the gross redemption yield on the Notes to be redeemed, if they were to be purchased at such price on the third Business Day prior to the date fixed for redemption, would
+be equal to the gross redemption yield on such Business Day of the Comparable Government Bond on the basis of the middle market price of the Comparable Government Bond prevailing at 11:00 a.m. (London time) on such Business Day as determined by an
+Independent Investment Banker. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">&#147;Independent Investment Banker&#148; means each of Barclays Bank PLC, Citigroup Global Markets
+Limited, J.P. Morgan Securities plc, and MUFG Securities EMEA plc and their respective successors, or, if such firm is unwilling or unable to select the Comparable Government Bond, an independent investment banking institution of international
+standing appointed by the Company. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Notice of any redemption will be given in writing not more than 60 nor less than 30 days before the
+redemption date to each Holder of the Notes to be redeemed. Such notice of redemption shall specify the principal amount of Notes to be redeemed, ISIN and Common Code numbers of the Notes to be redeemed, the redemption date, the redemption price,
+the place or places of payment and that payment will be made upon presentation and surrender of such Notes. Unless the Company defaults in payment of the redemption price, on and after the redemption date interest will cease to accrue on the Notes
+or portions thereof called for redemption. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">If less than all of the Notes are to be redeemed, the Trustee will select the Notes to be
+redeemed, which, in the case of Notes in book-entry form, will be in accordance with the procedures of the Depositary. The Trustee may select the Notes and portions of the Notes in amounts of &pound;100,000 and integral multiples of &pound;1,000 in
+excess thereof. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Payment of Additional Amounts </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Company will, subject to the exceptions and limitations set forth below, pay as additional interest such Additional Amounts as are
+necessary in order that the net amount of such payment of the principal of and interest on this Note to a Holder who is a United States Alien (as such term is defined below), after deduction for any present or future tax, assessment or governmental
+charge of the United States (as such term is defined below), or a political subdivision or authority thereof or therein, imposed by withholding with respect to the payment, will not be less than the amount provided for in this Note to be then due
+and payable. However, the foregoing obligation to pay Additional Amounts shall not apply: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">to any tax, assessment or governmental charge that would not have been so imposed but for the existence of any
+present or former connection between such Holder (or between a fiduciary, settlor, beneficiary, member or shareholder of, or Holder of power over, such Holder, if such Holder is an estate, trust, partnership or corporation) and the United States,
+including, without limitation, such Holder (or such fiduciary, settlor, beneficiary, member, shareholder or holder of a power) being considered as: </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(i)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">being or having been present or engaged in a trade or business in the United States or having had a permanent
+establishment therein; </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(ii)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">having a current or former relationship with the United States, including a relationship as a citizen or
+resident or being treated as a resident thereof; or </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(iii)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">being or having been, for United States federal income tax purposes, a personal holding company, a
+&#147;controlled foreign corporation&#148;, a &#147;passive foreign investment company&#148; (including a qualified electing fund), a corporation that has accumulated earnings to avoid United States federal income tax or a private foundation or
+other <FONT STYLE="white-space:nowrap">tax-exempt</FONT> organization; </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">to any tax, assessment or other governmental charge imposed by reason of the Holder (i)&nbsp;owning or having
+owned, directly or indirectly, actually or constructively, 10% or more of the total combined voting power of all classes of stock of the Company entitled to vote, (ii)&nbsp;receiving interest described in Section&nbsp;881(c)(3)(A) of the United
+States Internal Revenue Code of 1986, as amended (the &#147;Code&#148;) or (iii)&nbsp;being a controlled foreign corporation with respect to the United States that is related to the Company by actual or constructive stock ownership;
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">to any Holder that is a fiduciary or partnership or other than the sole beneficial owner of this Note, but only
+to the extent that a beneficiary or settlor with respect to such fiduciary or member of such partnership or a beneficial owner of this Note would not have been entitled to the payment of such Additional Amounts had such beneficiary, settlor, member
+or beneficial owner been the Holder of this Note; </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">to any tax, assessment or governmental charge that would not have been imposed or withheld but for the failure
+of the Holder or any other person to comply with certification, identification or information reporting requirements under United States income tax laws, without regard to any tax treaty, with respect to the payment, concerning the nationality,
+residence, identity or connection with the United States of the Holder or a beneficial owner of this Note, if such compliance is required by United States income tax laws, without regard to any tax treaty, as a precondition to relief or exemption
+from such tax, assessment or governmental charge; </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(e)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">to any tax, assessment or governmental charge that is imposed otherwise than by withholding by us or a paying
+agent from the payment; </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(f)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">to any tax, assessment or governmental charge that would not have been so imposed or withheld but for the
+presentation by the Holder of this Note for payment on a date more than 15 days after the date on which such payment became due and payable or the date on which payment thereof is duly provided for, whichever occurs later; </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(g)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">to any estate, inheritance, gift, sales, transfer, excise, wealth or personal property tax or any similar tax,
+assessment or governmental charge; </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(h)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">to any withholding or deduction that is imposed on a payment to an individual and that is required to be made
+pursuant to any law implementing or complying with, or introduced to conform to, any European Union Directive on the taxation of savings; </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(i)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">to any tax, assessment or governmental charge that is payable otherwise than by withholding by the Company or
+the Paying Agent from the payment of the principal of or interest on this Note; </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(j)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">to any tax, assessment or governmental charge required to be withheld by any Paying Agent from such payment of
+principal of or interest on this Note, if such payment can be made without such withholding by any other Paying Agent; </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(k)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">to any withholding or deduction on or in respect of any Note pursuant to sections 1471 through 1474 of the
+Code, and the regulations, administrative guidance and official interpretations promulgated thereunder (&#147;FATCA&#148;), any agreement entered into pursuant to Section&nbsp;1471(b)(1) of the Code, or any fiscal or regulatory legislation, rules or
+practices adopted pursuant to any intergovernmental agreement entered into in connection with the implementation of FATCA; or </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(l)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">to any tax imposed as a result of any combination of the above. </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The term &#147;United States&#148; means the United States of America, the States thereof (including the District of Columbia) and any other
+political subdivision or taxing authority thereof or therein affecting taxation, and the term &#147;United States Alien&#148; means any corporation, partnership, individual or fiduciary that, as to the United States, is for United States federal
+income tax purposes (A)&nbsp;a foreign corporation, (B)&nbsp;a foreign partnership one or more of the members of which is, for United States federal income tax purposes, a foreign corporation, a <FONT STYLE="white-space:nowrap">non-resident</FONT>
+alien individual or a <FONT STYLE="white-space:nowrap">non-resident</FONT> alien fiduciary of a foreign estate or trust, (C)&nbsp;a <FONT STYLE="white-space:nowrap">non-resident</FONT> alien individual, or (D)&nbsp;a
+<FONT STYLE="white-space:nowrap">non-resident</FONT> alien fiduciary of a foreign estate or trust. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Redemption for Tax Reasons </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">If the Company has or will become obliged to pay Additional Amounts (as provided above under the heading &#147;Payment of Additional
+Amounts&#148;) as a result of any change in, or amendment to, the laws or regulations of the United States or any political subdivision or taxing authority thereof or therein affecting taxation, or any change in official position regarding the
+application or interpretation of such laws, regulations or rulings, which change or amendment becomes effective on or after the Original Issue Date, and the Company determines that such obligation cannot be avoided by the use of reasonable measures
+then available to the Company, the Company may, at its option, at any time, having given not less than 30 nor more than 60 days&#146; prior written notice to Holders, redeem, in whole, but not in part, the Notes at a redemption price equal to 100%
+of its principal amount, together with unpaid interest, if any, on the Notes accrued to but excluding the redemption date, provided that no such notice of redemption shall be given earlier than 90 days prior to the earliest date on which the Company
+would be obliged to pay such Additional Amounts if a payment in respect to the Notes was due on such date. Prior to the transmission or publication of any notice of redemption pursuant to this paragraph, the Company shall deliver to the Trustee a
+certificate signed by two directors of the Company stating that the Company is entitled to effect such redemption and setting forth a statement of facts showing that the conditions precedent to the Company&#146;s right to so redeem this Note has
+occurred. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Exchange of Global Notes for Certificated Notes </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Subject to certain conditions, this Note is exchangeable for Notes in definitive form of like tenor in minimum denominations of &pound;100,000
+principal amount and multiples of &pound;1,000 in excess thereof if: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman">(1) Clearstream, Euroclear or any successor thereto
+notifies the Company that it is unwilling or unable to act as a clearing system for the Notes; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman">(2) the Company, at its
+option, notifies the Trustee in writing that it elects to cause the issuance of certificated Notes; or </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman">(3) there has
+occurred and is continuing an Event of Default with respect to this Note. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">In all cases, definitive Notes delivered in exchange for this
+Note or beneficial interest therein will be registered in the names, and issued in any approved denominations, requested by or on behalf of the common depository (in accordance with its customary procedures). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Payments (including principal, premium, if any, and interest) and transfers with respect to Notes in definitive form may be executed at the
+office or agency maintained for such purpose, at the Company&#146;s option, by check mailed to the Holder thereof at the respective addresses set forth in the register of Holders of the Notes, provided that all payments (including principal,
+premium, if any, and interest) with respect to Notes in definitive form, for which the Holders thereof have given wire transfer instructions, will be required to be made by wire transfer of immediately available funds to the accounts specified by
+the Holders thereof. No service charge will be made for any registration of transfer, but payment of a sum sufficient to cover any tax or governmental charge payable in connection with that registration may be required. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">6 </P>
+
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

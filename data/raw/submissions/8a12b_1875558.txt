@@ -1,0 +1,315 @@
+<SEC-DOCUMENT>0001104659-22-011408.txt : 20220203
+<SEC-HEADER>0001104659-22-011408.hdr.sgml : 20220203
+<ACCEPTANCE-DATETIME>20220203165838
+ACCESSION NUMBER:		0001104659-22-011408
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20220203
+DATE AS OF CHANGE:		20220203
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nuvectis Pharma, Inc.
+		CENTRAL INDEX KEY:			0001875558
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				862405608
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41264
+		FILM NUMBER:		22589458
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 BRIDGE PLAZA, SUITE 275
+		CITY:			FORT LEE
+		STATE:			NJ
+		ZIP:			07024
+		BUSINESS PHONE:		360-837-7232
+
+	MAIL ADDRESS:	
+		STREET 1:		1 BRIDGE PLAZA, SUITE 275
+		CITY:			FORT LEE
+		STATE:			NJ
+		ZIP:			07024
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>tm2134024d2_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 12pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="text-align: center; font: 14pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Washington,
+D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM 8-A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FOR
+REGISTRATION OF CERTAIN CLASSES OF SECURITIES<BR>
+PURSUANT TO SECTION 12(b) OR (g) OF THE<BR>
+SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>NUVECTIS PHARMA, INC.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Exact name of registrant as specified in its charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center; width: 54%">
+    <P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><B>Delaware</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">(State or other jurisdiction</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">of incorporation)</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>1 Bridge Plaza, Suite 275</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Fort Lee, NJ</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">(Address of principal
+executive offices)</P></TD>
+    <TD STYLE="text-align: center; width: 46%">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>86-2405608<BR>
+    </B>(I.R.S. Employer<BR>
+    Identification No.)</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>07024<BR>
+    </B>(Zip Code)</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt">Securities
+to be registered pursuant to Section 12(b) of the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0" STYLE="width: 100%; margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top">
+  <TD STYLE="border-bottom: Black 1pt solid; text-align: center; padding-left: 10pt; width: 49%"><B>Title of each class to be so registered</B></TD>
+    <TD STYLE="padding-bottom: 1pt; text-align: center; width: 2%">&nbsp;</TD>
+  <TD STYLE="border-bottom: Black 1pt solid; text-align: center; padding-left: 10pt; width: 49%"><B>Name of each exchange on which
+  each class is to be registered </B></TD></TR>
+<TR STYLE="vertical-align: top">
+  <TD STYLE="text-align: center; padding-left: 10pt"><B>Common Stock, par value $0.00001 per share</B></TD>
+    <TD STYLE="text-align: center"><B>&nbsp;</B></TD>
+  <TD STYLE="text-align: center; padding-left: 10pt"><B>Nasdaq Capital Market</B></TD></TR>
+</TABLE>
+
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 1in 0pt 0.55in; text-indent: 0.15in"></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 1in 0pt 0.55in; text-indent: 0.15in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 1in 0pt 0.55in; text-indent: 0.15in"><B></B></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 1in 0pt 0.55in; text-indent: 0.15in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt">If this form relates to the
+registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction
+A.(c) or (e), check the following box. <FONT STYLE="font-family: Wingdings">&#120;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.05in 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.05in 0pt 0">If this form relates to the registration of a class of
+securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the
+following box. <FONT STYLE="font-family: Wingdings">&#168;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If this form relates to the registration of a class of securities
+concurrently with a Regulation A offering, check the following box. <FONT STYLE="font-family: Wingdings">&#168;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities Act registration statement file number to which this form
+relates: <B>File No. 333-260099</B>&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities to be registered pursuant to Section 12(g) of the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>None</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Title of class)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 12pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>INFORMATION REQUIRED</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>IN REGISTRATION STATEMENT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.75in"><B>Item 1.</B></TD><TD><B>Description of Registrant&#8217;s Securities to be Registered.</B></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The description of the
+common stock, par value $0.00001 per share, of Nuvectis Pharma, Inc., a Delaware corporation (the &#8220;Registrant&#8221;), as set
+forth under the heading &#8220;Description of Capital Stock&#8221; in the  Prospectus forming a part of the Registration
+Statement on Form S-1, as amended, originally filed with the Securities and Exchange Commission (the &#8220;Commission&#8221;) on
+October 6, 2021 and declared effective on February 4, 2022 (File  No. 333-260099), including exhibits, and as subsequently
+amended from time to time (the &#8220;Registration Statement&#8221;), is hereby incorporated by reference. In addition, all of the
+above-referenced descriptions included in any prospectus relating to the Registration Statement filed with the Commission pursuant
+to Rule 424(b) under the Securities Act of 1933, as amended, shall be deemed to be incorporated by reference herein.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.75in"><B>Item 2.</B></TD><TD STYLE="text-align: justify"><B>Exhibits.</B></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Under the Instructions
+as to Exhibits with respect to Form 8-A, no exhibits are required to be filed because no other securities of the Registrant are
+registered on the Nasdaq Stock Market LLC and the securities registered hereby are not being registered pursuant to Section 12(g) of
+the United States Securities Exchange Act of 1934, as amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SIGNATURE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.35in 0pt 0; text-indent: 0.5in">Pursuant to the requirements of Section
+12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the
+undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.35in 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0" STYLE="width: 100%; margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top">
+  <TD STYLE="padding-left: 10pt; text-indent: -10pt; width: 50%">&nbsp;</TD>
+  <TD STYLE="padding-left: 10pt; text-indent: -10pt"><B>NUVECTIS PHARMA, INC.</B></TD></TR>
+<TR STYLE="vertical-align: top">
+  <TD STYLE="padding-left: 10pt; text-indent: -10pt">&nbsp;</TD>
+  <TD STYLE="padding-left: 10pt; text-indent: -10pt">&nbsp;</TD></TR>
+</TABLE>
+
+
+<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0" STYLE="width: 100%; margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top">
+  <TD STYLE="padding-left: 10pt; text-indent: -10pt; width: 50%">Date: February 3, 2022</TD>
+  <TD STYLE="padding-left: 10pt; text-indent: -10pt; width: 3%">By:</TD>
+  <TD STYLE="border-bottom: Black 1pt solid; padding-left: 10pt; text-indent: -10pt"> /s/ Ron Bentsur</TD></TR>
+<TR STYLE="vertical-align: top">
+  <TD STYLE="padding-left: 10pt; text-indent: -10pt">&nbsp;</TD>
+  <TD STYLE="padding-left: 10pt; text-indent: -10pt">&nbsp;</TD>
+  <TD STYLE="padding-left: 10pt; text-indent: -10pt">Ron
+Bentsur</TD></TR>
+<TR STYLE="vertical-align: top">
+  <TD STYLE="padding-left: 10pt; text-indent: -10pt">&nbsp;</TD>
+  <TD STYLE="padding-left: 10pt; text-indent: -10pt">&nbsp;</TD>
+  <TD STYLE="padding-left: 10pt; text-indent: -10pt">Chairman, Chief Executive Officer and President</TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 3.15in"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 3.15in"></P>
+
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,265 @@
+<SEC-DOCUMENT>0001731122-24-000600.txt : 20240405
+<SEC-HEADER>0001731122-24-000600.hdr.sgml : 20240405
+<ACCEPTANCE-DATETIME>20240405160525
+ACCESSION NUMBER:		0001731122-24-000600
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20240405
+DATE AS OF CHANGE:		20240405
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CDT Environmental Technology Investment Holdings Ltd
+		CENTRAL INDEX KEY:			0001793895
+		STANDARD INDUSTRIAL CLASSIFICATION:	SANITARY SERVICES [4950]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42007
+		FILM NUMBER:		24826465
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C1, 4TH FLOOR, BUILDING 1,
+		STREET 2:		FINANCIAL BASE, NO.8 KEFA ROAD
+		CITY:			NANSHAN DISTRICT
+		STATE:			F4
+		ZIP:			518057
+		BUSINESS PHONE:		86-0755-86667922
+
+	MAIL ADDRESS:	
+		STREET 1:		C1, 4TH FLOOR, BUILDING 1,
+		STREET 2:		FINANCIAL BASE, NO.8 KEFA ROAD
+		CITY:			NANSHAN DISTRICT
+		STATE:			F4
+		ZIP:			518057
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CDT Enviromental Technology Investment Holdings Ltd
+		DATE OF NAME CHANGE:	20191113
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>e5578_8a12b.htm
+<DESCRIPTION>FORM 8-A12B
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 10pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 14pt"><B>UNITED
+STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt"><B>Washington,
+D.C. 20549 </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 18pt"><B>FORM
+8-A </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>FOR
+REGISTRATION OF CERTAIN CLASSES OF SECURITIES </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>PURSUANT
+TO SECTION 12(b) OR (g) OF </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>THE
+SECURITIES EXCHANGE ACT OF 1934 </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 18pt"><B>CDT
+Environmental Technology Investment Holdings Limited</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>&nbsp;</B>(Exact
+name of registrant as specified in its charter)</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: top; width: 49%; padding-right: 3pt; padding-left: 3pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Cayman
+    Islands</B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 2%; padding-right: 3pt; padding-left: 3pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; width: 49%; padding-right: 3pt; padding-left: 3pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Not
+    Applicable</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; padding-right: 3pt; padding-left: 3pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>(State
+    or other jurisdiction of incorporation or organization)</B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 3pt; padding-left: 3pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; padding-right: 3pt; padding-left: 3pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>(I.R.S.
+    Employer Identification No.)</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding-right: 3pt; padding-left: 3pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD COLSPAN="2" STYLE="padding-right: 3pt; padding-left: 3pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>C1,
+    4th Floor, Building 1, Financial Base, No. 8 Kefa Road<BR>
+    Nanshan District, Shenzhen, China&nbsp;</B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 3pt; padding-left: 3pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 3pt; padding-left: 3pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>518057</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; padding-right: 3pt; padding-left: 3pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>(Address
+    of principal executive offices)</B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 3pt; padding-left: 3pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; padding-right: 3pt; padding-left: 3pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>(Zip
+    Code)</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>Securities
+to be registered pursuant to Section 12(b) of the Act: </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-bottom: black 1pt solid; text-align: center; width: 49%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Title
+    of each class to be so registered</B></FONT></TD>
+    <TD STYLE="padding-right: 3pt; padding-bottom: 1pt; padding-left: 3pt; width: 2%"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; text-align: center; width: 49%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Name
+    of each exchange on which each class is to be registered </B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; padding-right: 3pt; padding-left: 3pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Ordinary
+    Shares, par value $0.0025 per share</B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 3pt; padding-left: 3pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; padding-right: 3pt; padding-left: 3pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>The
+    Nasdaq Stock Market LLC</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">If this form
+relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General
+Instruction A.(c) or (e), check the following box. &#9746;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">If this form
+relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General
+Instruction A.(d) or (e), check the following box. &#9744;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">If this form
+relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>Securities
+Act registration statement or Regulation A offering statement file number to which this form relates: 333- 252127</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>Securities
+to be registered pursuant to Section 12(g) of the Act:</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>None
+</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Item 1. Description of Registrant&rsquo;s Securities to be Registered.
+</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">CDT Environmental Technology Investment Holdings Limited
+(the &ldquo;Registrant&rdquo;) hereby incorporates by reference the description of its Ordinary Shares, par value $0.0025 per share, contained
+under the heading &ldquo;Description of Share Capital and Governing Documents&rdquo; in the prospectus included in the Registrant&rsquo;s
+Registration Statement on Form F-1 (File No. 333- 252127), as originally filed with the Securities and Exchange Commission (the &ldquo;Commission&rdquo;)
+on January 15, 2021, and as subsequently amended (the &ldquo;Registration Statement&rdquo;). In addition, all of the above-referenced
+descriptions included in any prospectus relating to the Registration Statement subsequently filed by the Registrant with the Commission
+pursuant to Rule 424(b) under the Securities Act of 1933, as amended, shall be deemed to be incorporated by reference herein.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Item 2. Exhibits.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Pursuant to the Instructions as to Exhibits with respect
+to Form 8-A, no exhibits are required to be filed, because no other securities of the Registrant are registered on The Nasdaq Stock Market
+LLC and the securities registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SIGNATURE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Pursuant to the requirements of Section 12 of the
+Securities Exchange Act of 1934, the Registrant has duly caused this registration statement to be signed on its behalf by the undersigned,
+thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Date: April 5, 2024</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt; text-transform: uppercase"><B>CDT Environmental Technology Investment Holdings Limited</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid"><FONT STYLE="font-size: 10pt">/s/ Yunwu Li</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 5%"><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="width: 45%"><FONT STYLE="font-size: 10pt">Yunwu Li</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">Chief Executive Officer and Chairman of the Board of Directors</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

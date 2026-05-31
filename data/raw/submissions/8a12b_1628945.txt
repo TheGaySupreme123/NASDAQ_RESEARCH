@@ -1,0 +1,320 @@
+<SEC-DOCUMENT>0001140361-21-031852.txt : 20210920
+<SEC-HEADER>0001140361-21-031852.hdr.sgml : 20210920
+<ACCEPTANCE-DATETIME>20210920171902
+ACCESSION NUMBER:		0001140361-21-031852
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20210920
+DATE AS OF CHANGE:		20210920
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cue Health Inc.
+		CENTRAL INDEX KEY:			0001628945
+		STANDARD INDUSTRIAL CLASSIFICATION:	LABORATORY ANALYTICAL INSTRUMENTS [3826]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40824
+		FILM NUMBER:		211264054
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4980 CARROLL CANYON ROAD
+		STREET 2:		SUITE 100
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+		BUSINESS PHONE:		(858) 412-8151
+
+	MAIL ADDRESS:	
+		STREET 1:		4980 CARROLL CANYON ROAD
+		STREET 2:		SUITE 100
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Cue Inc.
+		DATE OF NAME CHANGE:	20141223
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Cue, Inc.
+		DATE OF NAME CHANGE:	20141222
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>nt10023122x13_8a12b.htm
+<DESCRIPTION>FORM 8-A12(B)
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using EDGARfilings PROfile 7.5.1.0
+         Copyright 1995 - 2021 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <hr style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center">
+    <div>
+      <div>
+        <div style="font-size: 12pt;">&#160;</div>
+      </div>
+      <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">
+        <hr style="height: 1px; width: 100%; color: #000000; background-color: #000000; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+      <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">UNITED STATES</div>
+      <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+      <div style="text-align: center; font-size: 12pt;"><font style="font-weight: bold;">WASHINGTON, D.C. 20549&#160;</font></div>
+      <div>
+        <div>
+          <hr style="height: 1px; width: 100%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade">&#160;</div>
+      </div>
+      <div style="text-align: center; font-size: 12pt;"><font style="font-size: 18pt; font-weight: bold;">FORM&#160;8-A</font><font style="font-size: 18pt;">&#160;</font></div>
+      <div>
+        <div style="text-align: center; font-size: 12pt;"><font style="font-size: 10pt;">&#160;</font>
+          <hr style="height: 1px; width: 100%; color: #000000; background-color: #000000; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+        <div>&#160; <br>
+        </div>
+      </div>
+      <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+      <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">PURSUANT TO SECTION 12(b) OR (g) OF</div>
+      <div style="text-align: center; font-size: 12pt;"><font style="font-size: 10pt; font-family: 'Times New Roman',Times,serif; font-weight: bold;">THE SECURITIES EXCHANGE ACT OF 1934 </font><font style="font-size: 10pt;">&#160;</font></div>
+      <div>
+        <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">&#160;</div>
+        <div>
+          <hr style="height: 1px; width: 100%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+        <div><br>
+        </div>
+      </div>
+      <div style="text-align: center; font-size: 24pt; font-weight: bold;">Cue Health Inc.</div>
+      <div style="text-align: center; font-size: 12pt;"><font style="font-size: 10pt; font-weight: bold;">(Exact name of registrant as specified in its charter) </font>&#160;</div>
+      <div>
+        <div>&#160;
+          <hr style="height: 1px; width: 100%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+        <div><br>
+        </div>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z7b670c16f45e4862a58c194d4910b0b3" border="0" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">Delaware</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">
+              <div style="font-family: 'Times New Roman',Times,serif;">&#160;</div>
+            </td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">27-1562193</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 8pt; font-weight: bold;">(State of incorporation or organization)</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">
+              <div style="font-family: 'Times New Roman',Times,serif; font-size: 8pt;">&#160;</div>
+            </td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 8pt; font-weight: bold;">(I.R.S. Employer Identification No.)</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: middle;">&#160;</td>
+            <td colspan="2" style="vertical-align: middle;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">4980 Carroll Canyon Rd., Suite 100</div>
+              <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">San Diego, California</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">
+              <div style="font-family: 'Times New Roman',Times,serif;">&#160;</div>
+            </td>
+            <td style="width: 49%; vertical-align: bottom;">
+              <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">92121</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 8pt; font-weight: bold;">(Address of principal executive offices)</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">
+              <div style="font-family: 'Times New Roman',Times,serif; font-size: 8pt;">&#160;</div>
+            </td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 8pt; font-weight: bold;">(Zip Code)</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section&#160;12(b)&#160;of the Act:</div>
+      <div style="text-align: center; font-weight: bold;"> <br>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z85aecb397cc94c33a8dc0271d0eb3bf3" border="0" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 49%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);" nowrap="nowrap">
+              <div style="text-align: center; font-size: 8pt; font-weight: bold;">Title of each class</div>
+              <div>
+                <div style="text-align: center; font-size: 8pt; font-weight: bold;">to be so registered</div>
+              </div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">
+              <div style="font-size: 8pt;">&#160;</div>
+            </td>
+            <td style="width: 49%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);" nowrap="nowrap">
+              <div style="text-align: center; font-size: 8pt; font-weight: bold;">Name of each exchange on which</div>
+              <div>
+                <div style="text-align: center; font-size: 8pt; font-weight: bold;">&#160;&#160;&#160;&#160;each class is to be registered&#160;&#160;&#160;&#160;</div>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; font-weight: bold;">Common Stock, $0.00001 par value per share</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">
+              <div>&#160;</div>
+            </td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; font-weight: bold;">The Nasdaq Stock Market LLC</div>
+            </td>
+          </tr>
+
+      </table>
+      <div style="font-size: 12pt;">&#160;</div>
+      <div>
+        <hr style="height: 1px; width: 100%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+      <div>If this form relates to the registration of a class of securities pursuant to Section&#160;12(b)&#160;of the Exchange Act and is effective pursuant to General
+        Instruction&#160;A.(c) or (e), check the following box.&#160; &#9746;</div>
+      <div>&#160;</div>
+      <div>If this form relates to the registration of a class of securities pursuant to Section&#160;12(g)&#160;of the Exchange Act and is effective pursuant to General
+        Instruction&#160;A.(d) or (e), check the following box.&#160; &#9744;</div>
+      <div>&#160;</div>
+      <div>If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box.&#160; &#9744;</div>
+      <div>&#160;</div>
+      <div>Securities Act registration statement or Regulation A offering statement file number to which this form relates:&#160;<font style="font-weight: bold;">333-259250</font></div>
+      <div>&#160;</div>
+      <div>Securities to be registered pursuant to Section&#160;12(g)&#160;of the Act:&#160;<font style="font-weight: bold;">None.</font></div>
+      <div><font style="font-weight: bold;"> <br>
+        </font></div>
+      <div>
+        <hr style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center"><font style="font-weight: bold;"> </font></div>
+      <div id="DSPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+        <div id="DSPFPageBreak" style="page-break-after: always;">
+          <hr style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;" noshade="noshade"></div>
+      </div>
+      <div>&#160;</div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zd3e26821e4814ccab9b7788ac6c29d60" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 8%; vertical-align: top;">
+              <div style="font-weight: bold;">Item&#160;1.</div>
+            </td>
+            <td style="width: 92%; vertical-align: top;">
+              <div style="font-weight: bold;">Description of Registrant&#8217;s Securities to be Registered.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div>The description under the heading &#8220;Description of Capital Stock&#8221; relating to the Registrant&#8217;s Common Stock, $0.00001 par value per share, in the prospectus
+        included in the Registrant&#8217;s Registration Statement on Form&#160;S-1 (File No.&#160;333-259250), initially filed on September 1, 2021, as amended, including exhibits, and as may be subsequently amended (the &#8220;Registration Statement&#8221;), filed under the
+        Securities Act of 1933, as amended (the &#8220;Securities Act&#8221;), with the Securities and Exchange Commission (the &#8220;Commission&#8221;) is incorporated herein by reference.&#160;Any form of prospectus subsequently filed by the Registrant with the Commission pursuant
+        to Rule&#160;424(b)&#160;under the Securities Act that constitutes part of the Registration Statement shall be deemed to be incorporated herein by reference.</div>
+      <div style="font-size: 18pt;">&#160;</div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zc5e3720fec5d474d8407f9c5a356987d" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 8%; vertical-align: top;">
+              <div style="font-weight: bold;">Item&#160;2.</div>
+            </td>
+            <td style="width: 92%; vertical-align: top;">
+              <div style="font-weight: bold;">Exhibits.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div>Pursuant to the Instructions as to Exhibits for Form&#160;8-A, no exhibits are required to be filed because no other securities of the Registrant are registered
+        on The Nasdaq Stock Market LLC and the securities registered hereby are not being registered pursuant to Section&#160;12(g)&#160;of the Securities Exchange Act of 1934, as amended.</div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+        <div style="page-break-after:always;" id="DSPFPageBreak">
+          <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+      </div>
+      <div>&#160;</div>
+      <div style="text-align: center; font-weight: bold;">SIGNATURE</div>
+      <div>&#160;</div>
+      <div>Pursuant to the requirements of Section&#160;12 of the Securities Exchange Act of 1934, the Registrant has duly caused this registration statement to be signed
+        on its behalf by the undersigned, thereto duly authorized.</div>
+      <div><br>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zbda5dda519eb433fb5472c2aa1cdd63c" border="0" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 50%; vertical-align: top;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td colspan="2" style="vertical-align: top;">
+              <div>Cue Health Inc.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td colspan="2" style="vertical-align: top;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="color: #000000;">By:&#160;</div>
+            </td>
+            <td style="width: 45%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div><font style="color: #000000;">/s/ </font>Ayub Khattak</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 5%; vertical-align: top;">&#160;</td>
+            <td style="width: 45%; vertical-align: top;">
+              <div>Ayub Khattak</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 5%; vertical-align: top;">&#160;</td>
+            <td style="width: 45%; vertical-align: top;">
+              <div>President and Chief Executive Officer</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div>&#160;</div>
+      <div>Dated: September 20, 2021</div>
+      <div>
+        <hr style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"> </div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,324 @@
+<SEC-DOCUMENT>0001683168-21-006053.txt : 20211201
+<SEC-HEADER>0001683168-21-006053.hdr.sgml : 20211201
+<ACCEPTANCE-DATETIME>20211201165421
+ACCESSION NUMBER:		0001683168-21-006053
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211201
+DATE AS OF CHANGE:		20211201
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Mobiquity Technologies, Inc.
+		CENTRAL INDEX KEY:			0001084267
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ADVERTISING [7310]
+		IRS NUMBER:				113427886
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41117
+		FILM NUMBER:		211463656
+
+	BUSINESS ADDRESS:	
+		STREET 1:		35 TORRINGTON LANE
+		CITY:			SHOREHAM
+		STATE:			NY
+		ZIP:			11786
+		BUSINESS PHONE:		516-256-7766
+
+	MAIL ADDRESS:	
+		STREET 1:		35 TORRINGTON LANE
+		CITY:			SHOREHAM
+		STATE:			NY
+		ZIP:			11786
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACE MARKETING & PROMOTIONS INC
+		DATE OF NAME CHANGE:	19990414
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>mobiquity_8a.htm
+<DESCRIPTION>FORM 8-A12B
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM&nbsp;8-A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>PURSUANT TO SECTION&nbsp;12(b) OR (g) OF THE
+SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="4" STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 12pt"><B>Mobiquity Technologies
+    Inc.</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="4" STYLE="text-align: center"><FONT STYLE="font-size: 10pt">(Exact Name of registrant as specified in its charter)</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="4" STYLE="text-align: center">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; width: 49%; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 10pt"><B>New York</B></FONT></TD>
+    <TD STYLE="vertical-align: top; width: 2%">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; width: 48%; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 10pt"><B>11-3427886</B></FONT></TD>
+    <TD STYLE="width: 1%">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt">(State or other jurisdiction of incorporation)</FONT></TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt">(I.R.S. Employer<BR>
+Identification No.)</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: center">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: center">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 10pt"><B>35 Torrington Lane, Shoreham, New York</B></FONT></TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 10pt"><B>11786</B></FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt">(Address of principal executive offices)</FONT></TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt">(Zip Code)</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-size: 10pt">Securities registered pursuant to Section 12(b) of the Act:</FONT> </P>
+
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: top; border-bottom: Black 1pt solid; text-align: center; width: 49%"><FONT STYLE="font-size: 10pt">Title of each class to be so registered</FONT></TD>
+    <TD STYLE="vertical-align: top; width: 2%">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; border-bottom: Black 1pt solid; text-align: center; width: 48%"><FONT STYLE="font-size: 10pt">Name of each exchange on which each class is to be registered</FONT></TD>
+    <TD STYLE="width: 1%">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Common Stock, par value $0.0001 per share</B></P></TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>The Nasdaq Stock Market LLC</B></P></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="text-align: center; vertical-align: top"><B>Common Stock Purchase Warrants</B></TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="text-align: center; vertical-align: top"><B>The Nasdaq Stock Market LLC</B></TD>
+    <TD>&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">If this form relates to the registration of a
+class of securities pursuant to Section&nbsp;12(b) of the Exchange Act and is effective pursuant to General Instruction&nbsp;A.(c) or
+(e), check the following box.&nbsp;<FONT STYLE="font-family: Wingdings">&yacute;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">If this form relates to the registration of a
+class of securities pursuant to Section&nbsp;12(g) of the Exchange Act and is effective pursuant to General Instruction&nbsp;A.(d) or
+(e), check the following box.&nbsp;<FONT STYLE="font-family: Wingdings">&uml;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If this form relates to the registration of a class of securities concurrently
+with a Regulation&nbsp;A offering, check the following box.&nbsp;<FONT STYLE="font-family: Wingdings">&uml;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities Act registration statement or Regulation&nbsp;A offering
+statement file number to which this form relates: <B>333-260364</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities to be registered pursuant to Section&nbsp;12(g) of the Act:
+<B>None</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Not Applicable</B></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Title of class)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B></B></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo; Options: Hidden -->&nbsp;<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt">&nbsp;</DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><B>Item 1.</B></TD><TD STYLE="text-align: justify"><B>Description of the Registrant&rsquo;s Securities to be Registered.</B></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Mobiquity Technologies, Inc.
+(the &ldquo;Registrant&rdquo;) is hereby registering the Registrant&rsquo;s common stock, par value $0.0001 per share (&ldquo;Common Stock&rdquo;)
+and warrants to purchase shares of Common Stock (&ldquo;Warrants&rdquo;). A description of the Common Stock and Warrants to be registered
+hereunder is contained in the section entitled &ldquo;Description of Capital Stock&rdquo; in the Prospectus included in the Registrant&rsquo;s
+Registration Statement on&nbsp;Form&nbsp;S-1 (Registration No.&nbsp;333-260364)&nbsp; publicly filed with the Securities and Exchange
+Commission on October&nbsp;19, 2021, as thereafter amended and supplemented from time to time, under the Securities Act of 1933, as amended
+(the &ldquo;Registration Statement&rdquo;), which information is incorporated herein by reference. The description of the Common Stock
+and Warrants included in any form of prospectus or prospectus supplement to the Registration Statement that is filed subsequently to the
+Registration Statement is hereby also incorporated by reference herein.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><B>Item 2.</B></TD><TD STYLE="text-align: justify"><B>Exhibits.</B></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Pursuant to the Instructions
+as to Exhibits with respect to Form 8-A, no exhibits are required to be filed because no other securities of the Registrant are registered
+on the Nasdaq Capital Market and the securities registered hereby are not being registered pursuant to Section 12(g) of the Securities
+Exchange Act of 1934, as amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt">&nbsp;</DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SIGNATURES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Pursuant to the requirements
+of Section&nbsp;12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on
+its behalf by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Date: December 1, 2021</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; text-indent: 0; margin-top: 0pt; margin-bottom: 6pt">&nbsp;</P>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif">
+<TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="2"><B>MOBIQUITY TECHNOLOGIES, INC.</B></TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 4%">By:&nbsp;</TD>
+    <TD STYLE="vertical-align: top; width: 46%">/s/ Dean L. Julia</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top; border-top: #000000 1px solid">Name: Dean L. Julia<BR>Title: Chief Executive Officer</TD></TR>
+</TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; text-indent: 0pt; margin-top: 0pt; margin-bottom: 6pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; text-indent: 0pt; margin-top: 0pt; margin-bottom: 6pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; text-indent: 0pt; margin-top: 0pt; margin-bottom: 6pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; text-indent: 0pt; margin-top: 0pt; margin-bottom: 6pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; text-indent: 0pt; margin-top: 0pt; margin-bottom: 6pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; text-indent: 0pt; margin-top: 0pt; margin-bottom: 6pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; text-indent: 0pt; margin-top: 0pt; margin-bottom: 6pt"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; text-indent: 0pt; margin-top: 0pt; margin-bottom: 6pt">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

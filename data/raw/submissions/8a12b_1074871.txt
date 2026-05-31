@@ -1,0 +1,271 @@
+<SEC-DOCUMENT>0001019056-22-000163.txt : 20220209
+<SEC-HEADER>0001019056-22-000163.hdr.sgml : 20220209
+<ACCEPTANCE-DATETIME>20220209154145
+ACCESSION NUMBER:		0001019056-22-000163
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20220209
+DATE AS OF CHANGE:		20220209
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Modular Medical, Inc.
+		CENTRAL INDEX KEY:			0001074871
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				870620495
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41277
+		FILM NUMBER:		22606833
+
+	BUSINESS ADDRESS:	
+		STREET 1:		16772 WEST BERNARDO DRIVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92127
+		BUSINESS PHONE:		858-800-3500
+
+	MAIL ADDRESS:	
+		STREET 1:		16772 WEST BERNARDO DRIVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92127
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BEAR LAKE RECREATION INC
+		DATE OF NAME CHANGE:	19981208
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>modular_8a.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+
+
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin-top: 12pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 4pt solid; border-bottom: Black 1pt solid; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 14pt"><B>UNITED STATES</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 14pt"><B>SECURITIES
+AND EXCHANGE COMMISSION</B></FONT><BR>
+<FONT STYLE="font-size: 12pt"><B>Washington, D.C. 20549</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0.5in"><FONT STYLE="font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 18pt"><B>FORM 8-A</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt">For Registration
+of Certain Classes of Securities<BR>
+Pursuant to Section 12(b) or 12(g) of the<BR>
+Securities Exchange Act of 1934</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="width: 100%; border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 24pt">MODULAR
+    MEDICAL, INC.</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt">(Exact name of registrant
+    as specified in its charter)</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="width: 50%; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt">Nevada</FONT></TD>
+    <TD STYLE="width: 50%; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt">87-0620495</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="border-top: black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt">(State
+    or other jurisdiction of incorporation or organization)</FONT></TD>
+    <TD STYLE="border-top: black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt">(I.R.S.
+    Employer Identification No.)</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="vertical-align: top; width: 50%; font: 10pt Times New Roman, Times, Serif"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt">16772
+                                         W. Bernardo Drive</FONT></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt">San Diego,
+        CA</FONT></P></TD>
+    <TD STYLE="vertical-align: bottom; width: 50%; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt">92127</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="border-top: black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt">(Address
+    of principal executive offices)</FONT></TD>
+    <TD STYLE="border-top: black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt">(Zip
+    Code)</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Securities to be registered pursuant
+to Section 12(b) of the Act:</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="width: 50%; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt">Title of
+    each class<BR>
+    <U>to be so registered</U></FONT></TD>
+    <TD STYLE="width: 50%; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt">Name of
+    each exchange on<BR>
+    <U>which each class is to be registered</U></FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt">Common Stock, par value
+    $0.001 per share</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt">The Nasdaq Stock Market
+    LLC</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">If this Form relates to the registration
+of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c)
+or (e), check the following box. <FONT STYLE="font-family: Wingdings">x</font></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">If this Form relates to the registration
+of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d)
+or (e), check the following box. <FONT STYLE="font-family: Wingdings">o</font></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">If this Form relates to the registration
+of a class of securities concurrently with a Regulation A offering, check the following box. <FONT STYLE="font-family: Wingdings">o</font></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Securities Act registration statement
+or Regulation A offering statement file number to which this form relates: 333- 231167</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Securities to be registered pursuant
+to Section 12(g) of the Act:</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt">None</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="border-top: black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt">(Title
+    of class)</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;&nbsp;</FONT></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin-top: 3pt; margin-bottom: 0pt"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 4pt solid; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+
+<!-- Field: Page; Sequence: 1 -->
+
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt">INFORMATION REQUIRED
+IN REGISTRATION STATEMENT</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="width: 10%; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">Item 1.</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 90%"><FONT STYLE="font-size: 10pt"><U>Description of the Registrant&rsquo;s Securities
+    to be Registered.</U></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font-size: 10pt">This registration
+statement relates to the registration with the Securities and Exchange Commission (the &ldquo;Commission&rdquo;) of shares of
+common stock, par value $0.001 (the &ldquo;Common Stock&rdquo;) of Modular Medical, Inc. (the &ldquo;Registrant&rdquo;). The description
+of the Common Stock being registered pursuant to this Form 8-A that is set forth under the heading &ldquo;Description of Capital
+Stock&rdquo; in the prospectus contained in the Registrant&rsquo;s Registration Statement on Form S-1 (Registration No. 333-260682),
+as initially filed with the Commission on November 2, 2021, and as may be subsequently amended (the &ldquo;Registration Statement&rdquo;),
+is incorporated by reference into this Form 8-A.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font-size: 10pt">Any form of
+prospectus or prospectus supplement to the Registration Statement that includes such descriptions and that are subsequently filed
+are hereby also incorporated by reference herein.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="width: 10%; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">Item 2.</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 90%"><FONT STYLE="font-size: 10pt"><U>Exhibits.</U></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font-size: 10pt">Pursuant to
+the Instructions as to Exhibits with respect to Form 8-A, no exhibits are required to be filed because no other securities of
+the Registrant are registered on The NASDAQ Stock Market and the securities registered hereby are not being registered pursuant
+to Section 12(g) of the Securities Exchange Act of 1934.</FONT></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>SIGNATURE</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0.5in"><FONT STYLE="font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font-size: 10pt">Pursuant to
+the requirements of Section 12 of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this Registration
+Statement to be signed on its behalf by the undersigned, thereto duly authorized.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="width: 48px; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">Date:</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: justify"><FONT STYLE="font-size: 10pt">February 9, 2022</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD NOWRAP STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD COLSPAN="2" NOWRAP STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt"><B>MODULAR MEDICAL, INC.</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD NOWRAP STYLE="width: 58%; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD NOWRAP STYLE="width: 2%; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD NOWRAP STYLE="width: 40%; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD NOWRAP STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD NOWRAP STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">By:&nbsp;</FONT></TD>
+    <TD NOWRAP STYLE="border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">/s/ <I>Ellen
+    O&rsquo;Connor Vos</I></FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD NOWRAP STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD NOWRAP STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD NOWRAP STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">Name: Ellen O&rsquo;Connor Vos</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD NOWRAP STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD NOWRAP STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD NOWRAP STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">Title: Chief Executive Officer</FONT></TD></TR>
+</TABLE>
+
+
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,297 @@
+<SEC-DOCUMENT>0001575872-23-000953.txt : 20230614
+<SEC-HEADER>0001575872-23-000953.hdr.sgml : 20230614
+<ACCEPTANCE-DATETIME>20230613174019
+ACCESSION NUMBER:		0001575872-23-000953
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20230614
+DATE AS OF CHANGE:		20230613
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			60 DEGREES PHARMACEUTICALS, INC.
+		CENTRAL INDEX KEY:			0001946563
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				452406880
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41719
+		FILM NUMBER:		231012344
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1025 CONNECTICUT AVENUE NW
+		STREET 2:		SUITE 1000
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20036
+		BUSINESS PHONE:		202-327-5422
+
+	MAIL ADDRESS:	
+		STREET 1:		1025 CONNECTICUT AVENUE NW
+		STREET 2:		SUITE 1000
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20036
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>cm345_8a-12b.htm
+<DESCRIPTION>FORM 8A-12B
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt"></FONT></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 12pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 3pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>UNITED STATES</B></FONT></P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>SECURITIES AND EXCHANGE
+COMMISSION</B></FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>Washington, D.C.
+20549</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>__________________________________________________&nbsp;</B></FONT></P>
+
+<P STYLE="font: 1pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 1pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"></FONT></P>
+
+<P STYLE="font: 1pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"></FONT></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 14pt"><B>&nbsp;FORM 8-A</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>__________________________________________________&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>FOR REGISTRATION
+OF CERTAIN CLASSES OF SECURITIES</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>PURSUANT TO SECTION
+12(b) OR (g) OF</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>THE SECURITIES EXCHANGE
+ACT OF 1934</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt"></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt">&nbsp;&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font-family: Times New Roman, Times, Serif">
+  <TR>
+    <TD STYLE="border-bottom: black 1pt solid; text-align: center; font-size: 11pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 14pt"><B>60
+    Degrees Pharmaceuticals, Inc.</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="text-align: center; font-size: 11pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Exact
+    name of registrant as specified in its charter)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="width: 80%; font-family: Times New Roman, Times, Serif">
+  <TR>
+    <TD STYLE="vertical-align: top; width: 45%; border-bottom: Black 1pt solid; text-align: center; font-size: 11pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Delaware</B></FONT></TD>
+    <TD STYLE="width: 10%"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; width: 45%; border-bottom: Black 1pt solid; text-align: center; font-size: 11pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>45-2406880</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: center; font-size: 11pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(State
+    or other jurisdiction of incorporation)</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; text-align: center; font-size: 11pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(IRS
+    Employer Identification Number)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>1025 Connecticut
+Avenue NW Suite 1000</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>Washington, D.C.
+20036</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>202-327-5422 </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt">(Address of principal
+executive offices and zip code)</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt">Copies To:</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>Ross D. Carmel, Esq.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>Philip Magri, Esq.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>Carmel, Milazzo &amp;
+Feil LLP</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>55 West 39th Street,
+4th Floor</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>New York, New York
+10018</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>Telephone: (212)
+658-0458</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>Securities to be
+registered pursuant to Section 12(b) of the Exchange Act:</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0.3pt 0 0"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font-family: Times New Roman, Times, Serif">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 46%; border-bottom: black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>Title of each
+    class </B></FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>to be registered</B></FONT></P></TD>
+    <TD STYLE="width: 1%; font-size: 11pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="width: 53%; border-bottom: black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>Name of each
+    exchange on which</B></FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>each class is
+    to be registered</B></FONT></P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center; font-size: 11pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Common
+    Stock, par value $0.0001 per share</FONT></TD>
+    <TD STYLE="font-size: 11pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; font-size: 11pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The Nasdaq
+    Stock Market LLC</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 5pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 5pt"><FONT STYLE="font-size: 10pt"></FONT></P>
+
+<P STYLE="font: 10pt Calibri, Helvetica, Sans-Serif; margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; background-color: white">If
+this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant
+to General Instruction A.(c), check the following box. </FONT><FONT STYLE="font-family: Wingdings; background-color: white">x</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Calibri, Helvetica, Sans-Serif; margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; background-color: white">If
+this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant
+to General Instruction A.(d), check the following box. </FONT><FONT STYLE="font-family: Wingdings; background-color: white">&#168;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="background-color: white">Securities Act registration statement
+file number to which this form relates:&nbsp;<B>333-269483</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="background-color: white">Securities to be registered pursuant
+to Section 12(g) of the Act: <B>None</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="background-color: white"><B>&nbsp;</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 5pt"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 12pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 3pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B></B></FONT></P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 8pt"><FONT STYLE="font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 8pt"><FONT STYLE="font-size: 10pt"><B>Item 1. Description of Registrant&rsquo;s
+Securities to be Registered.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font-size: 10pt"><B>Common Stock</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font-size: 10pt">The securities to be
+registered hereby are shares of common stock, par value $0.0001 per share, of 60 Degrees Pharmaceuticals, Inc., a Delaware corporation
+(the &ldquo;Registrant&rdquo;). The description of the Registrant&rsquo;s common stock is contained in the section entitled &ldquo;Description
+of Securities&rdquo; in the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-269483), as originally filed with the
+Securities and Exchange Commission (the &ldquo;Commission&rdquo;) on January 31, 2023, and thereafter amended from time to time (the
+&ldquo;Registration Statement&rdquo;), is hereby incorporated herein by reference. Any prospectus that constitutes part of the Registration
+Statement and that is subsequently filed by the Registrant with the Commission pursuant to Rule 424(b) under the Securities Act of 1933,
+as amended, shall also be deemed to be herein incorporated by reference.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 8pt"><FONT STYLE="font-size: 10pt"><B>Item 2. Exhibits</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0.05in 0 0; text-align: justify"><FONT STYLE="font-size: 10pt">Pursuant
+to the &ldquo;Instructions as to Exhibits&rdquo; with respect to Form 8-A, no exhibits are required to be filed because no other securities
+of the Registrant are registered on The Nasdaq Stock Market LLC and the securities registered hereby are not being registered pursuant
+to Section 12(g) of the Securities Exchange Act of 1934, as amended.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0.05in 0 0; text-align: justify"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>SIGNATURES</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">Pursuant
+to the requirements of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned hereunto duly authorized.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="font-weight: bold; text-align: left">60 DEGREES PHARMACEUTICALS, INC.</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: right">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="vertical-align: bottom; width: 52%; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Dated: June 14, 2023</FONT></TD><TD STYLE="width: 1%; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 4%; padding-bottom: 1pt">By:</TD><TD STYLE="width: 1%; font-style: italic; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; width: 42%; font-style: italic; text-align: left; padding-bottom: 1pt">/s/ Geoffrey S. Dow</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: right">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">Name:&nbsp;Geoffrey S. Dow</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: right">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">Title: Chief Executive Officer and President</TD></TR>
+  </TABLE>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0; background-color: white"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0 0 8pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; background-color: white"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

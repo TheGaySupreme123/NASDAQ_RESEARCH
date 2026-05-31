@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001062993-24-018183.txt : 20241031
+<SEC-HEADER>0001062993-24-018183.hdr.sgml : 20241031
+<ACCEPTANCE-DATETIME>20241031165834
+ACCESSION NUMBER:		0001062993-24-018183
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20241031
+DATE AS OF CHANGE:		20241031
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADURO CLEAN TECHNOLOGIES INC.
+		CENTRAL INDEX KEY:			0001863934
+		STANDARD INDUSTRIAL CLASSIFICATION:	CHEMICALS & ALLIED PRODUCTS [2800]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42393
+		FILM NUMBER:		241415942
+
+	BUSINESS ADDRESS:	
+		STREET 1:		#104 - 1086 MODELAND ROAD
+		CITY:			SARNIA
+		STATE:			A6
+		ZIP:			N7S 6L2
+		BUSINESS PHONE:		604-362-7011
+
+	MAIL ADDRESS:	
+		STREET 1:		#104 - 1086 MODELAND ROAD
+		CITY:			SARNIA
+		STATE:			A6
+		ZIP:			N7S 6L2
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>form8a12b.htm
+<DESCRIPTION>FORM 8-A12B
+<TEXT>
+<html>
+
+<head>
+    <title>Aduro Clean Technologies Inc.: Form 8-A12B - Filed by newsfilecorp.com</title>
+</head>
+
+<body style="font-size:10pt; font-family:'Times New Roman';">
+    <hr width="100%" size="3" color="black" noshade="noshade"><a name="page_1"></a>
+    <p style="margin-bottom: 0pt; text-align: center;"><font style="font-size: 18pt;"><b>UNITED STATES</b></font></p>
+    <p style="margin-top: 0pt; margin-bottom: 0pt; text-align: center;"><font style="font-size: 18pt;"><b>SECURITIES AND EXCHANGE COMMISSION</b></font></p>
+    <p style="margin-top: 0pt; text-align: center;"><b>Washington, D.C.&#160; 20549</b></p>
+    <p style="text-align: center;"><font style="font-size: 18pt;"><b>FORM 8-A</b></font></p>
+    <p style="margin-bottom: 0pt; text-align: center;"><b>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</b></p>
+    <p style="margin-top: 0pt; margin-bottom: 0pt; text-align: center;"><b>PURSUANT TO SECTION 12(b) OR (g) OF THE</b></p>
+    <p style="margin-top: 0pt; text-align: center;"><b>SECURITIES EXCHANGE ACT OF 1934</b></p>
+    <p style="margin-bottom: 0pt; text-align: center;"><font style="font-size: 18pt;"><u><b>ADURO CLEAN TECHNOLOGIES INC.</b></u></font></p>
+    <p style="margin-top: 0pt; text-align: center;">(Exact name of registrant as specified in its charter)</p>
+    <table style="border-collapse: collapse; font-size: 10pt; width: 100%;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="width: 40%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: bottom; text-align: center;"><u><b>British Columbia, Canada</b></u></td>
+            <td style="width: 20%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: bottom; text-align: center;"><b>&#160;</b></td>
+            <td style="width: 40%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: bottom; text-align: center;"><u><b>Not Applicable</b></u></td>
+        </tr>
+        <tr>
+            <td style="width: 40%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; text-align: center;">(State or other jurisdiction of incorporation or organization)</td>
+            <td style="width: 20%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; text-align: center;">&#160;</td>
+            <td style="width: 40%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; text-align: center;">(I.R.S. Employer Identification No.)</td>
+        </tr>
+    </table>
+    <p style="margin-bottom: 0pt; text-align: center;"><b>542 Newbold Street</b><br><u><b>London, Ontario N6E 2S5, Canada</b></u></p>
+    <p style="margin-top: 0pt; text-align: center;">(Address of principal executive offices) (Zip Code)</p>
+    <p style="text-align: center;">Securities to be registered pursuant to Section 12(b) of the Act:</p>
+    <table style="border-collapse: collapse; font-size: 10pt; width: 100%;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="width: 45%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: bottom;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Title of each class</p>
+            </td>
+            <td style="width: 15%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: bottom;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+            </td>
+            <td style="width: 39%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: bottom;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Name of each exchange on which</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 45%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: bottom;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">to be so registered</p>
+            </td>
+            <td style="width: 15%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: bottom;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+            </td>
+            <td style="width: 39%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: bottom;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">each class is to be registered</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 45%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+            </td>
+            <td style="width: 15%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+            </td>
+            <td style="width: 39%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 45%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><u><b>Common Shares Without Par Value</b></u></p>
+            </td>
+            <td style="width: 15%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>&#160;</b></p>
+            </td>
+            <td style="width: 39%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><u><b>The Nasdaq Stock Market LLC</b></u></p>
+            </td>
+        </tr>
+    </table>
+    <p style="text-align: justify;">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box.&#160; &#9746;</p>
+    <p style="text-align: justify;">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. &#9744;</p>
+    <p style="text-align: justify;">If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box.&#160; &#9744;</p>
+    <p style="text-align: justify;">Securities Act registration statement or Regulation A offering statement file number to which this form relates: <u>333-280955 </u>(if applicable)</p>
+    <p style="text-align: justify;">Securities to be registered pursuant to Section 12(g) of the Act:</p>
+    <table style="border-collapse: collapse; font-size: 10pt; width: 100%;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="width: 100%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><u><b>None</b></u></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 100%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">(Title of class)</p>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_2"></a>
+    <p style="text-align: center;"><b>INFORMATION REQUIRED IN REGISTRATION STATEMENT</b></p>
+    <p style="text-align: justify;"><b>Item 1. Description of Registrant's Securities to be Registered.</b></p>
+    <p style="text-align: justify;">The class of securities to be registered hereby is the common shares without par value (the "<b>Common Shares</b>") of Aduro Clean Technologies Inc. (the "<b>Registrant</b>").</p>
+    <p style="text-align: justify;">The information required by this Item 1 is incorporated herein by reference to the information set forth under the sections entitled "Share Capital" and "Articles" in the registration statement on Form F-1 (File No. 333-280955) as originally filed by the Registrant with the Securities and Exchange Commission (the "<b>Commission</b>") on July 22, 2024, as amended (the "<b>Registration Statement</b>"). The description of the Common Shares included in any form of prospectus subsequently filed by the Registrant with the Commission pursuant to Rule 424(b) under the Securities Act of 1933, as amended, is incorporated herein by reference herein.</p>
+    <p style="text-align: justify;"><b>Item 2. Exhibits.</b></p>
+    <p style="text-align: justify;">Pursuant to the Instructions as to Exhibits with respect to Form 8-A, no exhibits are required to be filed because no other securities of the Registrant are registered on The Nasdaq Capital Market LLC and the securities registered herewith are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_3"></a>
+    <p style="text-align: center;"><b>SIGNATURE</b></p>
+    <p style="text-align: justify;">Pursuant to the requirements of Section l2 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</p>
+    <p style="text-align: justify;"><b>ADURO CLEAN TECHNOLOGIES INC.</b></p>
+    <p style="text-align: justify;">&#160;</p>
+    <table style="width: 50%; border-collapse: collapse; font-size: 10pt;" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="width: 10%;">By:</td>
+            <td style="width: 50%; border-bottom: 0.75pt solid #000000;"><i>"Ofer Vicus"</i></td>
+        </tr>
+        <tr>
+            <td style="width: 10%;">&#160;</td>
+            <td style="width: 50%;">Ofer Vicus</td>
+        </tr>
+        <tr>
+            <td style="width: 10%;">&#160;</td>
+            <td style="width: 50%;">Chief Executive Officer and Director</td>
+        </tr>
+    </table>
+    <p style="text-align: justify;">Dated: October 29, 2024</p>
+    <hr width="100%" size="5" color="black" noshade="noshade">
+</body>
+
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

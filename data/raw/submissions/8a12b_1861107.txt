@@ -1,0 +1,154 @@
+<SEC-DOCUMENT>0000950170-24-113508.txt : 20241008
+<SEC-HEADER>0000950170-24-113508.hdr.sgml : 20241008
+<ACCEPTANCE-DATETIME>20241008154443
+ACCESSION NUMBER:		0000950170-24-113508
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20241008
+DATE AS OF CHANGE:		20241008
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ceribell, Inc.
+		CENTRAL INDEX KEY:			0001861107
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS [3845]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				471785452
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42364
+		FILM NUMBER:		241360247
+
+	BUSINESS ADDRESS:	
+		STREET 1:		360 N. PASTORIA AVENUE
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94085
+		BUSINESS PHONE:		(800) 436-0826
+
+	MAIL ADDRESS:	
+		STREET 1:		360 N. PASTORIA AVENUE
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94085
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ceribell_8-a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<html>
+ <head>
+  <title>8-A12B</title>
+ </head>
+ <body style="margin: auto!important;padding: 8px;line-height: 1;">
+  <div style="padding-top:0.5in;z-index:-3;min-height:1in;position:relative;box-sizing:border-box;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p></div>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:18.5pt;font-family:Times New Roman;min-width:fit-content;">UNITED STATES</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:18.5pt;font-family:Times New Roman;min-width:fit-content;">SECURITIES AND EXCHANGE</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:18.5pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:18.5pt;font-family:Times New Roman;min-width:fit-content;">COMMISSION</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">Washington, D.C. 20549</font></p>
+  <p style="font-size:10pt;margin-top:12pt;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:18.5pt;font-family:Times New Roman;min-width:fit-content;">FORM 8-A</font></p>
+  <p style="font-size:10pt;margin-top:12pt;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;min-width:fit-content;">FOR REGISTRATION OF CERTAIN CLASSES OF</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;min-width:fit-content;">SECURITIES PURSUANT TO SECTION 12(b) OR 12(g) OF THE</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;min-width:fit-content;">SECURITIES EXCHANGE ACT OF 1934</font></p>
+  <p style="margin-left:11.733%;font-size:10pt;margin-top:12pt;font-family:Times New Roman;margin-bottom:0;margin-right:12.398%;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:18.5pt;font-family:Times New Roman;min-width:fit-content;">CERIBELL, INC.</font></p>
+  <p style="margin-left:11.787%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;margin-right:12.343%;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">(Exact name of registrant as specified in its charter)</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <table style="margin-left:auto;border-spacing:0;table-layout:fixed;width:99.0%;border-collapse:separate;">
+   <tr style="visibility:collapse;">
+    <td style="width:48%;box-sizing:content-box;"></td>
+    <td style="width:4%;box-sizing:content-box;"></td>
+    <td style="width:48%;box-sizing:content-box;"></td>
+   </tr>
+   <tr style="height:10pt;word-break:break-word;white-space:pre-wrap;">
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;text-align:left;"><p style="font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">Delaware</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;"><p style="font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;text-align:left;"><p style="font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">47-1785452</font></p></td>
+   </tr>
+   <tr style="height:10pt;word-break:break-word;white-space:pre-wrap;">
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;text-align:left;"><p style="font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;min-width:fit-content;">(State or other jurisdiction of incorporation or organization)</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;"><p style="font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;text-align:left;"><p style="font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;min-width:fit-content;">(I.R.S. Employer Identification No.)</font></p></td>
+   </tr>
+  </table>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <table style="margin-left:auto;border-spacing:0;table-layout:fixed;width:99.0%;border-collapse:separate;">
+   <tr style="visibility:collapse;">
+    <td style="width:48%;box-sizing:content-box;"></td>
+    <td style="width:4%;box-sizing:content-box;"></td>
+    <td style="width:48%;box-sizing:content-box;"></td>
+   </tr>
+   <tr style="height:10pt;word-break:break-word;white-space:pre-wrap;">
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;text-align:left;"><p style="font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">360 N. Pastoria Avenue</font></p><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">Sunnyvale, California</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;"><p style="font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;text-align:left;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">94085</font></p></td>
+   </tr>
+   <tr style="height:10pt;word-break:break-word;white-space:pre-wrap;">
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;text-align:left;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;min-width:fit-content;">(Address of principal executive offices)</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;"><p style="font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;text-align:left;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;min-width:fit-content;">(Zip Code)</font></p></td>
+   </tr>
+  </table>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">Securities to be registered pursuant to Section 12(b) of the Act:</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <table style="margin-left:auto;border-spacing:0;table-layout:fixed;width:99.0%;border-collapse:separate;">
+   <tr style="visibility:collapse;">
+    <td style="width:48%;box-sizing:content-box;"></td>
+    <td style="width:4%;box-sizing:content-box;"></td>
+    <td style="width:48%;box-sizing:content-box;"></td>
+   </tr>
+   <tr style="height:8pt;word-break:break-word;white-space:pre-wrap;">
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;text-align:left;"><p style="font-size:8pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">Title of each class</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;text-align:left;"><p style="font-size:8pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">Name of each exchange on which</font></p></td>
+   </tr>
+   <tr style="height:8pt;word-break:break-word;white-space:pre-wrap;">
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;text-align:left;"><p style="padding-bottom:1pt;font-size:8pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;border-bottom:0.75pt solid;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">to be so registered</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;text-align:left;"><p style="padding-bottom:1pt;font-size:8pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;border-bottom:0.75pt solid;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">each class is to be registered</font></p></td>
+   </tr>
+   <tr style="height:10pt;word-break:break-word;white-space:pre-wrap;">
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;text-align:left;"><p style="font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;min-width:fit-content;">Common Stock, $0.001 par value</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;"><p style="font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-right:0.01in;text-align:left;"><p style="font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;min-width:fit-content;">The Nasdaq Stock Market LLC</font></p></td>
+   </tr>
+  </table>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="margin-left:0.933%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. &#9746;</font></p>
+  <p style="margin-left:0.933%;font-size:10pt;margin-top:10pt;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. &#9744;</font></p>
+  <p style="margin-left:0.933%;font-size:10pt;margin-top:10pt;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</font></p>
+  <p style="margin-left:0.933%;font-size:10pt;margin-top:10pt;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">Securities Act registration statement or Regulation A offering statement file number to which this form relates: </font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">333-281784</font></p>
+  <p style="margin-left:0.933%;font-size:10pt;margin-top:10pt;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">Securities to be registered pursuant to Section 12(g) of the Act: </font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">None</font></p>
+  <div class="page-node-content"><div style="z-index:-3;flex-direction:column;display:flex;padding-bottom:0.5in;min-height:0.19in;justify-content:flex-end;position:relative;box-sizing:border-box;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:8pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p></div></div>
+  <hr style="page-break-after:always;">
+  <div style="padding-top:0.5in;z-index:-3;min-height:0.94in;position:relative;box-sizing:border-box;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p></div>
+  <p style="margin-left:0.933%;font-size:10pt;margin-top:3.05pt;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">Item 1. Description of Registrant&#x2019;s Securities to be Registered.</font></p>
+  <p style="margin-left:0.933%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">A description of the common stock, par value $0.001 per share, of CeriBell, Inc. (the &#x201c;Registrant&#x201d;) to be registered hereunder is set forth under the caption &#x201c;Description of Capital Stock&#x201d; in the prospectus that constitutes a part of the Registrant&#x2019;s Registration Statement on Form S-1, File No. 333-281784 (the &#x201c;</font><font style="color:#000000;white-space:pre-wrap;text-decoration:underline;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">Registration Statement</font><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">&#x201d;), initially filed with the U.S. Securities and Exchange Commission on August 26, 2024, as subsequently amended by any amendments to such Registration Statement and by any form of prospectus filed pursuant to Rule 424(b) under the Securities Act of 1933, as amended, in connection with such Registration Statement. Such Registration Statement, as amended, and any form of prospectus filed pursuant to Rule 424(b) under the Securities Act of 1933, as amended, that includes such description, are hereby incorporated by reference herein.</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:9.5pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="margin-left:0.933%;font-size:10pt;margin-top:0.05pt;font-family:Times New Roman;margin-bottom:0;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">Item 2. Exhibits.</font></p>
+  <p style="margin-left:0.933%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;margin-right:2.167%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">Under the Instructions as to Exhibits with respect to Form 8-A, no exhibits are required to be filed because no other securities of the Registrant are registered on The Nasdaq Stock Market LLC and the securities registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</font></p>
+  <div class="page-node-content"><div style="z-index:-3;flex-direction:column;display:flex;padding-bottom:0.5in;min-height:0.19in;justify-content:flex-end;position:relative;box-sizing:border-box;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:8pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p></div></div>
+  <hr style="page-break-after:always;">
+  <div style="padding-top:0.5in;z-index:-3;min-height:0.94in;position:relative;box-sizing:border-box;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p></div>
+  <p style="margin-left:11.787%;font-size:10pt;margin-top:3.05pt;font-family:Times New Roman;margin-bottom:0;margin-right:12.13%;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">SIGNATURE</font></p>
+  <p style="font-size:10pt;margin-top:0.35pt;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="margin-left:0.933%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;margin-right:1.63%;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</font></p>
+  <p style="font-size:10pt;margin-top:0.35pt;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:9.5pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="margin-left:11.787%;text-indent:1.769%;font-size:10pt;margin-top:0.05pt;font-family:Times New Roman;margin-bottom:0;margin-right:0.787%;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">CERIBELL, INC.</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <div class="style-break-content"><div class="multi-column" style="column-gap:48px;column-count:2;"><p style="font-size:10pt;margin-top:0.1pt;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:9.5pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p><p style="break-after:column;margin-left:5.05pt;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">Date: October 8, 2024</font></p><p style="margin-left:5.05pt;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">By:	</font><font style="color:#000000;white-space:pre-wrap;text-decoration:underline;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">/s/ Scott Blumberg	</font><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;"> </font></p><p style="margin-left:5.05pt;font-size:10pt;margin-top:0.05pt;font-family:Times New Roman;margin-bottom:0;margin-right:0.08194444444444444in;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">Name: Scott Blumberg</font></p><p style="margin-left:5.05pt;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;min-width:fit-content;">Title:  Chief Financial Officer</font></p></div></div>
+  <div class="page-node-content"><div style="z-index:-3;flex-direction:column;display:flex;padding-bottom:0.5in;min-height:0.19in;justify-content:flex-end;position:relative;box-sizing:border-box;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:8pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p></div></div>
+  <hr style="page-break-after:always;">
+ </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

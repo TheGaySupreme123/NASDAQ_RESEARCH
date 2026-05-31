@@ -1,0 +1,268 @@
+<SEC-DOCUMENT>0001140361-21-031266.txt : 20210914
+<SEC-HEADER>0001140361-21-031266.hdr.sgml : 20210914
+<ACCEPTANCE-DATETIME>20210914172451
+ACCESSION NUMBER:		0001140361-21-031266
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20210914
+DATE AS OF CHANGE:		20210914
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MODIV INC.
+		CENTRAL INDEX KEY:			0001645873
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				474156046
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40814
+		FILM NUMBER:		211253256
+
+	BUSINESS ADDRESS:	
+		STREET 1:		120 NEWPORT CENTER DRIVE
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+		BUSINESS PHONE:		855-742-4862
+
+	MAIL ADDRESS:	
+		STREET 1:		120 NEWPORT CENTER DRIVE
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RW HOLDINGS NNN REIT, INC.
+		DATE OF NAME CHANGE:	20170814
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Rich Uncles NNN REIT, Inc.
+		DATE OF NAME CHANGE:	20151209
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Rich Uncles REIT, Inc.
+		DATE OF NAME CHANGE:	20150623
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ny20000521x9_8a12b.htm
+<DESCRIPTION>FORM 8-A12B
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using EDGARfilings PROfile 7.5.1.0
+         Copyright 1995 - 2021 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <hr style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center">
+    <div>
+      <div style="text-align: center; font-size: 14pt; font-weight: bold;">UNITED STATES</div>
+      <div style="text-align: center; font-size: 14pt; font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+      <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 12pt; font-weight: bold;">WASHINGTON, D.C. 20549</div>
+      <div style="text-align: center;">__________________________</div>
+      <div><br>
+      </div>
+      <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 18pt; font-weight: bold;">FORM 8-A</div>
+      <div style="text-align: center; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+      <div style="text-align: center; font-weight: bold;">PURSUANT TO SECTION 12(b) OR (g) OF</div>
+      <div style="text-align: center; font-weight: bold;">THE SECURITIES EXCHANGE ACT OF 1934</div>
+      <div style="text-align: center;">__________________________</div>
+      <div><br>
+      </div>
+      <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 24pt; font-weight: bold;">Modiv Inc.</div>
+      <div style="text-align: center;">(Exact Name of Registrant as Specified in its Charter)</div>
+      <div><br>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z6968c902de8a421280d5f809e11aceda" border="0" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 48%; vertical-align: top;">
+              <div style="text-align: center; font-weight: bold;">Maryland</div>
+              <div style="text-align: center;">(State or Other Jurisdiction of Incorporation or Organization)</div>
+            </td>
+            <td style="width: 3.54%; vertical-align: top;">&#160;</td>
+            <td style="width: 48%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">47-4156046</div>
+              <div style="text-align: center;">(I.R.S. Employer Identification Number)</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 48%; vertical-align: top;">&#160;</td>
+            <td style="width: 3.54%; vertical-align: top;">&#160;</td>
+            <td style="width: 48%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 48%; vertical-align: top;">
+              <div style="text-align: center; font-weight: bold;">120 Newport Center Drive, Newport Beach, California</div>
+              <div style="text-align: center;">&#160;(Address of Principal Executive Offices)</div>
+            </td>
+            <td style="width: 3.54%; vertical-align: top;">&#160;</td>
+            <td style="width: 48%; vertical-align: top;">
+              <div style="text-align: center; font-weight: bold;">92660</div>
+              <div style="text-align: center;">(Zip Code)</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div style="text-align: center; font-weight: bold;">___________________________</div>
+      <div><br>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zc75096ee368b4ff0bc55c26de227566f" border="0" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td colspan="3" style="vertical-align: top;">
+              <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section 12(b) of the Act:</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 48%; vertical-align: top;">
+              <div>&#160;</div>
+              <div style="text-align: center;">(Title of Class to Be Registered)</div>
+            </td>
+            <td style="width: 4%; vertical-align: top;">&#160;</td>
+            <td style="width: 48%; vertical-align: top;">
+              <div>&#160;</div>
+              <div style="text-align: center;"><font style="font-weight: bold;">(</font>Name of Exchange on Which Class Is to Be Registered)</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 48%; vertical-align: top;">
+              <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">
+                <div style="color: rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif; font-weight: bold;">7.375% Series A Cumulative Redeemable Perpetual Preferred Stock, par value $0.001 per share</div>
+              </div>
+            </td>
+            <td style="width: 4%; vertical-align: top;">&#160;</td>
+            <td style="width: 48%; vertical-align: top;">
+              <div style="text-align: center; font-weight: bold;">New York Stock Exchange</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 48%; vertical-align: top;">&#160;</td>
+            <td style="width: 4%; vertical-align: top;">&#160;</td>
+            <td style="width: 48%; vertical-align: top;">&#160;</td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div>If this Form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box.&#160; &#160;&#160; &#9746;</div>
+      <div><br>
+      </div>
+      <div>If this Form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box.&#160; &#160;&#160; &#9744;<font style="font-size: 8pt;"></font></div>
+      <div><br>
+      </div>
+      <div style="font-size: 8pt;"><font style="font-size: 10pt;">If this Form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#160;&#160; &#9744;</font></div>
+      <div><br>
+      </div>
+      <div style="text-align: center;">
+        <div>Securities Act registration statement or Regulation A offering statement file number to which this form relates:&#160; <font style="font-weight: bold;"></font></div>
+        <div style="font-family: 'Times New Roman',Times,serif; font-weight: bold;"><font style="font-weight: bold;">Registration </font>Nos. 333-259066 and 333-259521</div>
+      </div>
+      <div><br>
+      </div>
+      <div style="text-align: center;">Securities to be registered pursuant to Section 12(g) of the Act:<font style="font-weight: bold;"> None.</font></div>
+      <div><br>
+        <hr style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center"></div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+        <div style="page-break-after:always;" id="DSPFPageBreak">
+          <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+      </div>
+      <div>&#160;</div>
+      <div style="text-align: justify;"><font style="font-weight: bold;">Item 1.</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="font-weight: bold;">Description of Registrant&#8217;s Securities to be Registered.</font></div>
+      <div>&#160;</div>
+      <div style="text-align: justify; text-indent: 36pt; color: #000000;">This registration statement relates to the registration under Section&#160;12(b) of the Securities Exchange Act of 1934, as amended, of the 7.375% Series A Cumulative Redeemable
+        Perpetual Preferred Stock, Liquidation Preference $25.00 per share, $0.001 par value per share (the &#8220;Series A Preferred Stock&#8221;), of Modiv Inc., a Maryland corporation (the &#8220;Registrant&#8221;). The description of the Series A Preferred Stock set forth
+        under the caption &#8220;Description of Capital Stock and Securities Offered &#8211; Preferred Stock &#8211; Series A Preferred Stock&#8221; in the prospectus forming a part of the Registrant&#8217;s registration statement on&#160;Form&#160;S-11&#160;(File&#160;No.&#160;333-259066),&#160;as amended (the
+        &#8220;Registration Statement&#8221;), that was initially filed with the U.S. Securities and Exchange Commission (the &#8220;Commission&#8221;) on August 25, 2021 and was declared effective by the Commission on September 14, 2021, is incorporated herein by reference. The
+        description of the Series A Preferred Stock set forth in the prospectus relating to the Registration Statement to be filed with the Commission pursuant to Rule 424(b) under the Securities Act of 1933, as amended, shall be deemed to be incorporated
+        herein by reference.</div>
+      <div>&#160;</div>
+      <div style="text-align: justify;"><font style="font-weight: bold;">Item 2.</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="font-weight: bold;">Exhibits.</font></div>
+      <div>&#160;</div>
+      <div style="text-align: justify; text-indent: 36pt; color: #000000;">Pursuant to the instructions as to exhibits for Form&#160;8-A, no exhibits are required to be filed because no other securities of the registrant are registered with the New York Stock
+        Exchange and the securities registered hereby are not being registered pursuant to Section&#160;12(g)&#160;of the Securities Exchange Act of 1934, as amended.</div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+        <div style="page-break-after:always;" id="DSPFPageBreak">
+          <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+      </div>
+      <div>&#160;</div>
+      <div style="text-align: center; text-indent: -36pt; margin-left: 36pt; font-weight: bold;">SIGNATURE</div>
+      <div>&#160;</div>
+      <div style="text-align: justify; text-indent: 36pt;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the Registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto
+        duly authorized.</div>
+      <div><br>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z0c1a0239af1d46d3a975c74b005eb38c" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 49.38%; vertical-align: top;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td colspan="2" style="width: 50.62%; vertical-align: top;">
+              <div style="font-size: 12pt; font-weight: bold;">MODIV INC.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.38%; vertical-align: top;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td colspan="2" style="width: 50.62%; vertical-align: top;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.38%; vertical-align: top;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 6.24%; vertical-align: top;">
+              <div style="color: #000000;">By:&#160;</div>
+            </td>
+            <td style="width: 44.38%; vertical-align: top; border-bottom: #000000 2px solid;">
+              <div style="color: #000000;">/s/ RAYMOND J. PACINI</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.38%; vertical-align: top;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 6.24%; vertical-align: top;">&#160;</td>
+            <td style="width: 44.38%; vertical-align: top;">
+              <div style="color: #000000;">Raymond J. Pacini</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.38%; vertical-align: top;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 6.24%; vertical-align: top;">&#160;</td>
+            <td style="width: 44.38%; vertical-align: top;">
+              <div>Chief Financial Officer</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div>Date:&#160; September 14, 2021</div>
+      <div><br>
+      </div>
+      <div>
+        <hr style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

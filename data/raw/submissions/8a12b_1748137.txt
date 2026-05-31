@@ -1,0 +1,227 @@
+<SEC-DOCUMENT>0001393905-22-000248.txt : 20220713
+<SEC-HEADER>0001393905-22-000248.hdr.sgml : 20220713
+<ACCEPTANCE-DATETIME>20220713164550
+ACCESSION NUMBER:		0001393905-22-000248
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20220713
+DATE AS OF CHANGE:		20220713
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NeoVolta Inc.
+		CENTRAL INDEX KEY:			0001748137
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		IRS NUMBER:				825299263
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41447
+		FILM NUMBER:		221081419
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13651 DANIELSON STREET
+		STREET 2:		SUITE A
+		CITY:			POWAY
+		STATE:			CA
+		ZIP:			92064
+		BUSINESS PHONE:		800-364-5464
+
+	MAIL ADDRESS:	
+		STREET 1:		13651 DANIELSON STREET
+		STREET 2:		SUITE A
+		CITY:			POWAY
+		STATE:			CA
+		ZIP:			92064
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NeoVolta, Inc.
+		DATE OF NAME CHANGE:	20220613
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NeoVolta Inc.
+		DATE OF NAME CHANGE:	20180725
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>neov_8a12b.htm
+<DESCRIPTION>REGISTRATION OF CERTAIN CLASSES OF SECURITIES
+<TEXT>
+<HTML>
+<!-- Produced by EDGARsuite software, Advanced Computer Innovations, Inc., Copyright (C) 2008-2022 [PPXC4Y912124VGFWGAFS]. www.edgarsuite.com -->
+<HEAD>
+</HEAD>
+<BODY>
+<DIV style=margin-left:72pt;width:468pt><P style='font:10pt Times New Roman;margin:0'><A name=Section_1 />&nbsp;</P>
+<TABLE style='border-collapse:collapse;border-bottom:1.5pt solid #000000'><TR><TD valign=top style=width:478.8pt;padding-left:5.4pt;padding-right:5.4pt><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+</TABLE>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:10pt Times New Roman;margin:0'><B>UNITED STATES</B></P>
+<P align=center style='font:10pt Times New Roman;margin:0'><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+<P align=center style='font:10pt Times New Roman;margin:0'><B>WASHINGTON, D.C. 20549</B></P>
+<P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:16pt Times New Roman;margin:0'><B>FORM 8-A</B></P>
+<P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:10pt Times New Roman;margin:0'><B>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</B></P>
+<P align=center style='font:10pt Times New Roman;margin:0'><B>PURSUANT TO SECTION 12(b) OR 12(g) OF THE</B></P>
+<P align=center style='font:10pt Times New Roman;margin:0'><B>SECURITIES EXCHANGE ACT OF 1934</B></P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:16pt Times New Roman;margin:0'><B>NEOVOLTA, INC.</B></P>
+<P align=center style='font:10pt Times New Roman;margin:0'>(Exact name of registrant as specified in its charter)</P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<TABLE align=center style=border-collapse:collapse;width:95%><TR><TD valign=bottom style='width:220.65pt;padding-left:3pt;padding-right:3pt;border-bottom:1pt solid #000000'><P align=center style='font:10pt Times New Roman;margin:0'><B>Nevada</B></P>
+</TD><TD valign=bottom style=width:22.5pt><P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style='width:207.15pt;padding-left:3pt;padding-right:3pt;border-bottom:1pt solid #000000'><P align=center style='font:10pt Times New Roman;margin:0'><B>82-5299263</B></P>
+</TD></TR>
+<TR><TD valign=top style=width:220.65pt;padding-left:3pt;padding-right:3pt><P align=center style='font:10pt Times New Roman;margin:0'>(State of incorporation or organization)</P>
+</TD><TD valign=top style=width:22.5pt><P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:207.15pt;padding-left:3pt;padding-right:3pt><P align=center style='font:10pt Times New Roman;margin:0'>(I.R.S. Employer Identification No.)</P>
+</TD></TR>
+</TABLE>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<TABLE align=center style=border-collapse:collapse;width:95%><TR><TD valign=bottom style='width:229.5pt;padding-left:3pt;padding-right:2pt;border-bottom:0.25pt solid #000000'><P align=center style='font:10pt Times New Roman;margin:0'><B>13651 Danielson Street, Suite A, Poway, CA</B></P>
+</TD><TD valign=bottom style=width:13.5pt;padding-left:3pt;padding-right:3pt><P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style='width:76.5pt;padding-left:3pt;padding-right:3pt;border-bottom:0.25pt solid #000000'><P align=center style='font:10pt Times New Roman;margin:0'><B>92064</B></P>
+</TD></TR>
+<TR><TD valign=top style='width:229.5pt;padding-left:3pt;padding-right:2pt;border-top:0.25pt solid #000000'><P align=center style='font:10pt Times New Roman;margin:0'>(Address of principal executive offices)</P>
+</TD><TD valign=top style=width:13.5pt;padding-left:3pt;padding-right:3pt><P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:76.5pt;padding-left:3pt;padding-right:3pt;border-top:0.25pt solid #000000'><P align=center style='font:10pt Times New Roman;margin:0'>(Zip Code)</P>
+</TD></TR>
+</TABLE>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P style='font:10pt Times New Roman;margin:0'>Securities to be registered pursuant to Section 12(b) of the Act:</P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<TABLE align=center style=border-collapse:collapse;width:95%><TR><TD valign=bottom style='width:220.65pt;padding-left:3pt;padding-right:3pt;border-bottom:0.25pt solid #000000'><P align=center style='font:10pt Times New Roman;margin:0'><B>Title of each class</B></P>
+<P align=center style='font:10pt Times New Roman;margin:0'><B>to be so registered</B></P>
+</TD><TD valign=bottom style=width:22.5pt><P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style='width:207.15pt;padding-left:3pt;padding-right:3pt;border-bottom:0.25pt solid #000000'><P align=center style='font:10pt Times New Roman;margin:0'><B>Name of each exchange on which</B></P>
+<P align=center style='font:10pt Times New Roman;margin:0'><B>each class is to be registered</B></P>
+</TD></TR>
+<TR><TD valign=top bgcolor=#EBF2F9 style=width:220.65pt;padding-left:3pt;padding-right:3pt><P align=center style='font:10pt Times New Roman;margin:0'>Common Stock, $0.001 par value per share</P>
+</TD><TD valign=top bgcolor=#EBF2F9 style=width:22.5pt><P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top bgcolor=#EBF2F9 style=width:207.15pt;padding-left:3pt;padding-right:3pt><P align=center style='font:10pt Times New Roman;margin:0'>The NASDAQ Stock Market LLC</P>
+</TD></TR>
+<TR><TD valign=top style=width:220.65pt;padding-left:3pt;padding-right:3pt><P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:22.5pt><P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:207.15pt;padding-left:3pt;padding-right:3pt><P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR><TD valign=top bgcolor=#E7F0F9 style=width:220.65pt;padding-left:3pt;padding-right:3pt><P align=center style='font:10pt Times New Roman;margin:0'>Warrants, each warrant exercisable for one share of common stock</P>
+</TD><TD valign=top bgcolor=#E7F0F9 style=width:22.5pt><P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top bgcolor=#E7F0F9 style=width:207.15pt;padding-left:3pt;padding-right:3pt><P align=center style='font:10pt Times New Roman;margin:0'>The NASDAQ Stock Market LLC</P>
+</TD></TR>
+</TABLE>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. <FONT style='font-family:MS Mincho'>&#9746;</FONT></P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. <FONT style='font-family:MS Mincho'>&#9744;</FONT></P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. <FONT style='font-family:MS Mincho'>&#9744;</FONT></P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>Securities Act registration statement or Regulation A offering statement file number to which this form relates: <B>333-264275</B></P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>Securities to be registered pursuant to Section 12(g) of the Act: <B>None</B></P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<TABLE style='border-collapse:collapse;border-bottom:1.5pt solid #000000'><TR><TD valign=top style=width:478.8pt;padding-left:5.4pt;padding-right:5.4pt><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+</TABLE>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:10pt Times New Roman;margin:0'><B>INFORMATION REQUIRED IN REGISTRATION STATEMENT</B></P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'><KBD style='position:absolute;font:10pt Times New Roman;margin-left:0pt'><B>Item 1.</B></KBD><KBD style=margin-left:72pt></KBD><B>Description of Registrant&#8217;s Securities to be Registered.</B>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0;text-indent:36pt'>A description of the common stock to be registered hereunder is contained in the section entitled &#8220;Description of Securities&#8221; in the NeoVolta, Inc. (the &#8220;Registrant&#8221;) Registration Statement on Form S-1 (File No. 333-264275) initially filed with the Securities and Exchange Commission on April 13, 2022, as amended from time to time (the &#8220;Registration Statement&#8221;), which information is incorporated herein by reference. Any form of prospectus filed pursuant to Rule 424(b) or post-effective amendment to the Registration Statement that includes such descriptions and that are filed subsequently to the Registration Statement are hereby also incorporated by reference herein.</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'><KBD style='position:absolute;font:10pt Times New Roman;margin-left:0pt'><B>Item 2.</B></KBD><KBD style=margin-left:72pt></KBD><B>Exhibits.</B>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0;text-indent:36pt'>Pursuant to the Instructions as to Exhibits with respect to Form 8-A, no exhibits are required to be filed because no other securities of the Registrant are registered on The Nasdaq Stock Market LLC, and the securities registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:8pt Times New Roman;margin:0'>2</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:10pt Times New Roman;margin:0'><B>SIGNATURES</B></P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0;text-indent:36pt'>Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>Date: July 13, 2022</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<TABLE style=margin-left:auto;border-collapse:collapse;width:50%><TR style=height:14pt><TD colspan=3 valign=top style=width:219pt;padding-left:3pt;padding-right:2pt><P align=justify style='font:10pt Times New Roman;margin:0'><B>NEOVOLTA, INC.</B></P>
+</TD></TR>
+<TR style=height:14pt><TD valign=top style=width:27pt;padding-left:3pt><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD colspan=2 valign=top style=width:192pt;padding-left:3pt><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:15pt><TD valign=top style=width:27pt;padding-left:3pt;padding-right:2pt><P align=justify style='font:10pt Times New Roman;margin:0'>By:</P>
+</TD><TD colspan=2 valign=top style=width:192pt;padding-left:3pt;padding-right:2pt><P align=justify style='font:10pt Times New Roman;margin:0'>/s/ Steve Bond</P>
+</TD></TR>
+<TR style=height:15pt><TD valign=top style=width:27pt;padding-left:3pt><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:48pt;padding-left:3pt;padding-right:2pt;border-top:1pt solid #000000'><P align=justify style='font:10pt Times New Roman;margin:0'>Name:</P>
+</TD><TD valign=top style='width:144pt;padding-left:3pt;padding-right:2pt;border-top:1pt solid #000000'><P align=justify style='font:10pt Times New Roman;margin:0'>Steve Bond</P>
+</TD></TR>
+<TR style=height:15pt><TD valign=top style=width:27pt;padding-left:3pt><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:48pt;padding-left:3pt;padding-right:2pt><P align=justify style='font:10pt Times New Roman;margin:0'>Title:</P>
+</TD><TD valign=top style=width:144pt;padding-left:3pt;padding-right:2pt><P align=justify style='font:10pt Times New Roman;margin:0'>Chief Financial Officer</P>
+</TD></TR>
+</TABLE>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:8pt Times New Roman;margin:0'>3</P>
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

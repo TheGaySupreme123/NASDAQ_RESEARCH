@@ -1,0 +1,353 @@
+<SEC-DOCUMENT>0001829126-21-011949.txt : 20211013
+<SEC-HEADER>0001829126-21-011949.hdr.sgml : 20211013
+<ACCEPTANCE-DATETIME>20211013171802
+ACCESSION NUMBER:		0001829126-21-011949
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211013
+DATE AS OF CHANGE:		20211013
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Founder SPAC
+		CENTRAL INDEX KEY:			0001862068
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40910
+		FILM NUMBER:		211321907
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11752 LAKE POTOMAC DRIVE
+		CITY:			ROCKVILLE
+		STATE:			MD
+		ZIP:			20854
+		BUSINESS PHONE:		5087409128
+
+	MAIL ADDRESS:	
+		STREET 1:		11752 LAKE POTOMAC DRIVE
+		CITY:			ROCKVILLE
+		STATE:			MD
+		ZIP:			20854
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>founderspac_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 1pt; margin-bottom: 1pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 14pt"><B>FORM 8-A</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES<BR>
+PURSUANT TO SECTION 12(b) OR 12(g) OF THE<BR>
+SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 1pt; margin-bottom: 1pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 14pt"><B>Founder SPAC</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">(Exact name of registrant as specified in its charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; width: 100%; margin-left: 0.25pt; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-bottom: Black 1pt solid; text-indent: 0pt; width: 49%; padding-top: 0pt; padding-right: 0pt; padding-left: 0pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Cayman Islands</B></FONT></TD>
+    <TD STYLE="padding: 0pt 0pt 1pt; text-indent: 0pt; width: 2%">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-indent: 0pt; width: 49%; padding-top: 0pt; padding-right: 0pt; padding-left: 0pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>N/A</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-indent: 0pt; padding: 0pt; text-align: center"><FONT STYLE="font-size: 10pt">(State of incorporation or organization)</FONT></TD>
+    <TD STYLE="text-indent: 0pt; padding: 0pt">&nbsp;</TD>
+    <TD STYLE="text-indent: 0pt; padding: 0pt; text-align: center"><FONT STYLE="font-size: 10pt">(I.R.S. Employer Identification No.)</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-indent: 0pt; padding: 0pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="text-indent: 0pt; padding: 0pt">&nbsp;</TD>
+    <TD STYLE="text-indent: 0pt; padding: 0pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-bottom: Black 1pt solid; text-indent: 0pt; padding-top: 0pt; padding-right: 0pt; padding-left: 0pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>11752 Lake Potomac Drive</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Potomac, Maryland 20854</B></P></TD>
+    <TD STYLE="padding: 0pt 0pt 1pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-indent: 0pt; padding-top: 0pt; padding-right: 0pt; padding-left: 0pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>N/A</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-indent: 0pt; padding: 0pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>&nbsp;</B>(Address of Principal Executive Offices)</FONT></TD>
+    <TD STYLE="text-indent: 0pt; padding: 0pt">&nbsp;</TD>
+    <TD STYLE="text-indent: 0pt; padding: 0pt; text-align: center"><FONT STYLE="font-size: 10pt">(Zip Code)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Securities to be registered pursuant to Section 12(b) of the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; width: 100%; margin-left: 0.25pt; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-indent: 0pt; width: 49%; border-bottom: black 1pt solid; padding: 0pt; text-align: center"><FONT STYLE="font-size: 10pt">Title of each class<BR>
+to be so registered&nbsp;</FONT></TD>
+    <TD STYLE="text-indent: 0pt; width: 2%; padding: 0pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P></TD>
+    <TD STYLE="text-indent: 0pt; width: 49%; border-bottom: black 1pt solid; padding: 0pt; text-align: center"><FONT STYLE="font-size: 10pt">Name of each exchange on which<BR>
+each class is to be registered&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="text-indent: 0pt; padding: 0pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-half of one redeemable warrant</B></FONT></TD>
+    <TD STYLE="text-indent: 0pt; padding: 0pt">&nbsp;</TD>
+    <TD STYLE="text-indent: 0pt; padding: 0pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Nasdaq Stock Market LLC</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="text-indent: 0pt; padding: 0pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="text-indent: 0pt; padding: 0pt">&nbsp;</TD>
+    <TD STYLE="text-indent: 0pt; padding: 0pt; text-align: center">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="text-indent: 0pt; padding: 0pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Class A ordinary shares, par value $0.0001 per share</B></FONT></TD>
+    <TD STYLE="text-indent: 0pt; padding: 0pt">&nbsp;</TD>
+    <TD STYLE="text-indent: 0pt; padding: 0pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Nasdaq Stock Market LLC</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="text-indent: 0pt; padding: 0pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="text-indent: 0pt; padding: 0pt">&nbsp;</TD>
+    <TD STYLE="text-indent: 0pt; padding: 0pt; text-align: center">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="text-indent: 0pt; padding: 0pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share</B></FONT></TD>
+    <TD STYLE="text-indent: 0pt; padding: 0pt">&nbsp;</TD>
+    <TD STYLE="text-indent: 0pt; padding: 0pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Nasdaq Stock Market LLC</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">If this form relates to the registration of a class of securities pursuant
+to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box.&nbsp;&#9746;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">If this form relates to the registration of a class of securities pursuant
+to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box.&nbsp;&#9744;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">If this form relates to the registration of a class of securities concurrently
+with a Regulation A offering, check the following box.&nbsp;&#9744;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Securities Act registration statement or Regulation A offering statement
+file number to which this form relates: <B>333-258158</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Securities to be registered pursuant to Section 12(g) of the Act: <B>N/A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B></B></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B></B></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Item 1.</B>&nbsp;<B>Description of Registrant&rsquo;s Securities to
+be Registered.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">The securities to be registered hereby are the units,
+Class A ordinary shares, par value $0.0001 per share, and warrants to purchase Class A ordinary shares of Founder SPAC (the &ldquo;Registrant&rdquo;).
+The description of the units, Class A ordinary shares and warrants set forth under the heading &ldquo;Description of Securities&rdquo;
+in the Registrant&rsquo;s prospectus forming a part of its Registration Statement on Form S-1 (File No. 333-258158), originally filed
+with the U.S. Securities and Exchange Commission on July 26, 2021, as thereafter amended and supplemented from time to time (the &ldquo;Registration
+Statement&rdquo;), to which this Form 8-A relates is incorporated by reference herein. Any form of prospectus or prospectus supplement
+to the Registration Statement that includes such descriptions and that are subsequently filed are hereby also incorporated by reference
+herein.</P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.75in; text-indent: -0.75in"><B>Item 2.</B>&nbsp;<B>Exhibits.</B></P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">The following exhibits have been filed as exhibits
+to the Registration Statement and are incorporated herein by reference:&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding: 0pt; width: 9%; text-align: center; text-indent: 0pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1862068/000182912621006796/founderspac_ex3-1.htm"><FONT STYLE="font-size: 10pt">3.1</FONT></A></TD>
+    <TD STYLE="padding: 0pt; width: 1%; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; width: 90%; text-align: justify; text-indent: 0pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1862068/000182912621006796/founderspac_ex3-1.htm"><FONT STYLE="font-size: 10pt">Memorandum and Articles of Association (Incorporated by reference to Exhibit 3.1 to the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-258158), filed with the U.S. Securities and Exchange Commission on July 26, 2021).</FONT></A></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding: 0pt; text-align: center; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-align: justify; text-indent: 0pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding: 0pt; text-align: center; text-indent: 0pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1862068/000182912621006796/founderspac_ex3-2.htm"><FONT STYLE="font-size: 10pt">3.2</FONT></A></TD>
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-align: justify; text-indent: 0pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1862068/000182912621006796/founderspac_ex3-2.htm"><FONT STYLE="font-size: 10pt">Amended and Restated Memorandum and Articles of Association (Incorporated by reference to Exhibit 3.2 to the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-258158), filed with the U.S. Securities and Exchange Commission on October 6, 2021).</FONT></A></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-align: justify; text-indent: 0pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding: 0pt; text-align: center; text-indent: 0pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1862068/000182912621011543/founderspac_ex4-1.htm"><FONT STYLE="font-size: 10pt">4.1</FONT></A></TD>
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-align: justify; text-indent: 0pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1862068/000182912621011543/founderspac_ex4-1.htm"><FONT STYLE="font-size: 10pt">Specimen Unit Certificate (Incorporated by reference to Exhibit 4.1 to the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-258158), filed with the U.S. Securities and Exchange Commission on October 6, 2021).</FONT></A></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-align: justify; text-indent: 0pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding: 0pt; text-align: center; text-indent: 0pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1862068/000182912621006796/founderspac_ex4-2.htm"><FONT STYLE="font-size: 10pt">4.2</FONT></A></TD>
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-align: justify; text-indent: 0pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1862068/000182912621006796/founderspac_ex4-2.htm"><FONT STYLE="font-size: 10pt">Specimen
+    Class A Ordinary Share Certificate (Incorporated by reference to Exhibit 4.2 to the Registrant&rsquo;s Registration Statement on
+    Form S-1 (File No. 333-158158), filed with the U.S. Securities and Exchange Commission on October 6, 2021).</FONT></A></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-align: justify; text-indent: 0pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding: 0pt; text-align: center; text-indent: 0pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1862068/000182912621006796/founderspac_ex4-3.htm"><FONT STYLE="font-size: 10pt">4.3</FONT></A></TD>
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-align: justify; text-indent: 0pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1862068/000182912621006796/founderspac_ex4-3.htm"><FONT STYLE="font-size: 10pt">Specimen Warrant Certificate (Incorporated by reference to Exhibit 4.3 to the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-258158), filed with the U.S. Securities and Exchange Commission on October 6, 2021).</FONT></A></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-align: justify; text-indent: 0pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding: 0pt; text-align: center; text-indent: 0pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1862068/000182912621011543/founderspac_ex4-4.htm"><FONT STYLE="font-size: 10pt">4.4</FONT></A></TD>
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-align: justify; text-indent: 0pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1862068/000182912621011543/founderspac_ex4-4.htm"><FONT STYLE="font-size: 10pt">Form of Warrant Agreement between Continental Stock Transfer &amp; Trust Company and the Registrant (Incorporated by reference to Exhibit 4.4 to the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-258158), filed with the U.S. Securities and Exchange Commission on October 6, 2021).</FONT></A></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding: 0pt; text-align: center; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-align: justify; text-indent: 0pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding: 0pt; text-align: center; text-indent: 0pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1862068/000182912621011543/founderspac_ex10-2.htm"><FONT STYLE="font-size: 10pt">10.1</FONT></A></TD>
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-align: justify; text-indent: 0pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1862068/000182912621011543/founderspac_ex10-2.htm"><FONT STYLE="font-size: 10pt">Form of Investment Management Trust Agreement between Continental Stock Transfer &amp; Trust Company and the Registrant (Incorporated by reference to Exhibit 10.2 to the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-258158), filed with the U.S. Securities and Exchange Commission on October 6, 2021).</FONT></A></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding: 0pt; text-align: center; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; text-align: justify; text-indent: 0pt">&nbsp;</TD></TR>
+
+<TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding: 0pt; width: 7%; text-align: center; text-indent: 0pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1862068/000182912621011543/founderspac_ex10-3.htm"><FONT STYLE="font-size: 10pt">10.2</FONT></A></TD>
+    <TD STYLE="padding: 0pt; width: 2%; text-indent: 0pt">&nbsp;</TD>
+    <TD STYLE="padding: 0pt; width: 91%; text-align: justify; text-indent: 0pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1862068/000182912621011543/founderspac_ex10-3.htm"><FONT STYLE="font-size: 10pt">Form of Registration Rights Agreement among the Registrant, Founder SPAC Sponsor, LLC and the Holders signatory thereto (Incorporated by reference to Exhibit 10.3 to the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-258158), filed with the U.S. Securities and Exchange Commission on October 6, 2021).</FONT></A></TD></TR>
+  </TABLE>
+<P STYLE="text-indent: 0pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"></P>
+
+
+
+
+<P STYLE="text-indent: 0pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt">&nbsp;</P>
+
+<P STYLE="text-indent: 0pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"></P>
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-indent: 0pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"></P>
+
+<P STYLE="text-indent: 0pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="text-indent: 0pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><B>SIGNATURE</B></P>
+
+<P STYLE="text-indent: 0pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin: 0pt; text-indent: 0.5in">Pursuant to the requirements of Section 12 of the
+Securities Exchange Act of 1934, as amended, the registrant has duly caused this registration statement to be signed on its behalf by
+the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.75in">&nbsp;&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-left: 0.25pt; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; padding: 0pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; padding: 0pt"><FONT STYLE="font-size: 10pt"><B>FOUNDER SPAC</B></FONT></TD>
+    </TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; width: 50%; padding: 0pt">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; width: 4%; padding: 0pt">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; width: 5%; padding: 0pt">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; width: 41%; padding: 0pt">&nbsp;</TD>
+    </TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 0pt 0pt 1pt; text-indent: 0pt"><FONT STYLE="font-size: 10pt">Date:&nbsp;&nbsp;October 13, 2021</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 0pt 0pt 1pt; text-indent: 0pt"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; border-bottom: Black 1pt solid; text-indent: 0pt; padding-top: 0pt; padding-right: 0pt; padding-left: 0pt"><FONT STYLE="font-size: 10pt">/s/ Osman Ahmed</FONT></TD>
+    </TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; padding: 0pt">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; padding: 0pt">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; white-space: nowrap; padding: 0pt"><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; padding: 0pt"><FONT STYLE="font-size: 10pt">Osman Ahmed</FONT></TD>
+    </TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; padding: 0pt">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; padding: 0pt">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; padding: 0pt"><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; padding: 0pt"><FONT STYLE="font-size: 10pt">Chief Executive Officer</FONT></TD>
+    </TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

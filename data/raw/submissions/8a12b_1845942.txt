@@ -1,0 +1,265 @@
+<SEC-DOCUMENT>0001575705-21-000624.txt : 20210909
+<SEC-HEADER>0001575705-21-000624.hdr.sgml : 20210909
+<ACCEPTANCE-DATETIME>20210909142501
+ACCESSION NUMBER:		0001575705-21-000624
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20210909
+DATE AS OF CHANGE:		20210909
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bannix Acquisition Corp.
+		CENTRAL INDEX KEY:			0001845942
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40790
+		FILM NUMBER:		211244204
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 TICE BLVD
+		CITY:			WOODCLIFF LAKE
+		STATE:			NJ
+		ZIP:			07677
+		BUSINESS PHONE:		2017129800
+
+	MAIL ADDRESS:	
+		STREET 1:		300 TICE BLVD
+		CITY:			WOODCLIFF LAKE
+		STATE:			NJ
+		ZIP:			07677
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>bannix_8a12b.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin-top: 12pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font: 14pt Times New Roman, Times, Serif"><B>UNITED
+STATES</B></FONT><BR>
+<FONT STYLE="font: 14pt Times New Roman, Times, Serif"><B>SECURITIES AND EXCHANGE COMMISSION</B></FONT><BR>
+<FONT STYLE="font: 12pt Times New Roman, Times, Serif"><B>WASHINGTON, DC 20549</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0.5in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font: 18pt Times New Roman, Times, Serif"><B>FORM
+8-A</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0.5in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES<BR>
+PURSUANT TO SECTION 12(b) OR 12(g) OF THE<BR>
+SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0.5in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font: 24pt Times New Roman, Times, Serif"><U>Bannix
+Acquisition Corp.</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">(Exact Name of Registrant as Specified in its
+Charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 10pt">Delaware</FONT></TD>
+    <TD STYLE="width: 1%; padding-bottom: 1pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="width: 49%; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 10pt">86-1626016</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">(State of Incorporation</FONT></TD>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">(I.R.S. Employer</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">or Organization)</FONT></TD>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">Identification No.)</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">300 Tice Boulevard; Suite 315<BR>
+Woodcliff Lake, New Jersey 07677<BR>
+(Address of Principal Executive Offices)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Securities to be registered pursuant to Section 12(b) of the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: bottom">
+<TD STYLE="width: 50%; border-bottom: Black 1pt solid; text-align: center">Title of Each Class to be so Registered</TD>
+<TD STYLE="width: 1%; text-align: center; padding-bottom: 1pt">&nbsp;</TD>
+<TD STYLE="width: 49%; border-bottom: Black 1pt solid; text-align: center">Name of Each Exchange on Which Each Class is to be Registered</TD></TR>
+<TR STYLE="vertical-align: bottom">
+<TD STYLE="text-align: center">&nbsp;</TD>
+<TD STYLE="text-align: center">&nbsp;</TD>
+<TD STYLE="text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+<TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">Units, each consisting of one share of Common Stock, par value $0.01 per share and one Redeemable Warrant to purchase one share of Common Stock and one Right to receive 1/10 of one share of Common Stock</FONT></TD>
+<TD STYLE="text-align: center">&nbsp;</TD>
+<TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">The Nasdaq Stock Market LLC</FONT></TD></TR>
+<TR STYLE="vertical-align: top; background-color: White">
+<TD STYLE="text-align: center">&nbsp;</TD>
+<TD STYLE="text-align: center">&nbsp;</TD>
+<TD STYLE="text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+<TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">Common Stock, par value $0.01 per share</FONT></TD>
+<TD STYLE="text-align: center">&nbsp;</TD>
+<TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">The Nasdaq Stock Market LLC</FONT></TD></TR>
+<TR STYLE="vertical-align: top; background-color: White">
+<TD STYLE="text-align: center">&nbsp;</TD>
+<TD STYLE="text-align: center">&nbsp;</TD>
+<TD STYLE="text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+<TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">Redeemable Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50</FONT></TD>
+<TD STYLE="text-align: center">&nbsp;</TD>
+<TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">The Nasdaq Stock Market LLC</FONT></TD></TR>
+<TR STYLE="vertical-align: top; background-color: White">
+<TD STYLE="text-align: center">&nbsp;</TD>
+<TD STYLE="text-align: center">&nbsp;</TD>
+<TD STYLE="text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+<TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">Rights, each consisting of the right to receive 1/10 of one share of Common Stock</FONT></TD>
+<TD STYLE="text-align: center">&nbsp;</TD>
+<TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">The Nasdaq Stock Market LLC</FONT></TD></TR>
+</TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. &#9746;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. &#9744;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Securities Act registration statement file number to which this
+form relates: <U>333-253324.</U></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Securities to be registered pursuant to Section 12(g) of the Act:
+<U>None</U>.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 8%"><FONT STYLE="font-size: 10pt"><B>Item 1.</B></FONT></TD>
+    <TD STYLE="width: 92%"><FONT STYLE="font-size: 10pt"><B>Description of Registrant&rsquo;s Securities to be Registered.</B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">A description of the units, common stock, warrants and rights to
+be registered hereunder is contained in the section entitled &ldquo;Description of Securities&rdquo; in the Prospectus included
+in Bannix Acquisition Corp.&rsquo;s (the &ldquo;<U>Registrant</U>&rdquo;) Registration Statement on Form S-1 (Registration No.
+333-253324) initially filed with the Securities and Exchange Commission on February 19, 2021, as amended from time to time (the
+&ldquo;<U>Registration Statement</U>&rdquo;). This information is incorporated herein by reference. Any form of prospectus or prospectus
+supplement to the Registration Statement that includes such descriptions and that are filed subsequently to the Registration Statement
+are hereby also incorporated by reference herein.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 8%"><FONT STYLE="font-size: 10pt"><B>Item 2.</B></FONT></TD>
+    <TD STYLE="width: 92%"><FONT STYLE="font-size: 10pt"><B>Exhibits.</B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Under the Instructions as to Exhibits with respect to Form 8-A,
+no exhibits are required to be filed because no other securities of the Registrant are registered on the Nasdaq Stock Market LLC
+and the securities registered hereby are not being registered pursuant to Section&nbsp;12(g) of the Securities Exchange Act of
+1934, as amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SIGNATURE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 36pt">Pursuant to the requirements of Section 12 of
+the Securities Exchange Act of 1934, the Registrant has duly caused this registration statement to be signed on its behalf by the
+undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 36pt">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">Date: September 9, 2021</FONT></TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt"><B>Bannix Acquisition Corp.</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 7%"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="width: 43%; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">/s/ Subash Menon</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">Subash Menon</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">Chief Executive Officer</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 216pt; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; text-align: center; margin-bottom: 0">3</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 216pt; text-indent: 0.5in"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 216pt; text-indent: 0.5in">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

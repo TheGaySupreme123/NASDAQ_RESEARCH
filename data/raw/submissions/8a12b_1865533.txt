@@ -1,0 +1,250 @@
+<SEC-DOCUMENT>0001140361-21-040769.txt : 20211208
+<SEC-HEADER>0001140361-21-040769.hdr.sgml : 20211208
+<ACCEPTANCE-DATETIME>20211208101039
+ACCESSION NUMBER:		0001140361-21-040769
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211208
+DATE AS OF CHANGE:		20211208
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Emerging Markets Horizon Corp.
+		CENTRAL INDEX KEY:			0001865533
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41136
+		FILM NUMBER:		211477887
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O WALKERS LIMITED
+		STREET 2:		190 ELGIN AVENUE
+		CITY:			GEORGE TOWN, GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-9008
+		BUSINESS PHONE:		7 985 211 3818
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O WALKERS LIMITED
+		STREET 2:		190 ELGIN AVENUE
+		CITY:			GEORGE TOWN, GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-9008
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>nt10024786x10_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using EDGARfilings PROfile 7.7.0.0
+         Copyright 1995 - 2021 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <font style="font-family: 'Times New Roman',Times,serif;"> </font>
+  <div>
+    <div style="text-align: justify; font-family: 'Times New Roman',Times,serif;">
+      <hr style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center"></div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">UNITED STATES</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 12pt; font-weight: bold;">Washington, D.C. 20549</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;"> <br>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 18pt; font-weight: bold;">FORM 8-A</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;"> <br>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES<br>
+      PURSUANT TO SECTION 12(b) OR (g) OF THE<br>
+      SECURITIES EXCHANGE ACT OF 1934</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;"> <br>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 24pt; font-weight: bold;">EMERGING MARKETS HORIZON CORP.</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">(Exact name of registrant as specified in its charter)</div>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="ze660765c73594ed781123ef3f53df318" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 49.94%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">Cayman Islands</div>
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">(State or other jurisdiction of incorporation or organization)</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">98-1607027</div>
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">(I.R.S. Employer Identification No.)</div>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1" style="width: 49.94%; vertical-align: top;">&#160;</td>
+          <td rowspan="1" style="width: 50%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 49.94%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">30 Ekaterinis Kornarou street, 3rd floor</div>
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">Stovolos 2024</div>
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">Nicosia, Cyprus</div>
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">(Address of principal executive offices)</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">2024</div>
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">(Zip Code)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">Securities to be registered pursuant to Section 12(b) of the Act:</div>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zea37dad96eed480aa659748462a39bab" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 49%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">Title of each class</div>
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">to be so registered</div>
+          </td>
+          <td style="width: 2%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">&#160;</td>
+          <td style="width: 49%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">Name of each exchange on which</div>
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">each class is to be registered</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 49%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center;">Units, each consisting of one Class A ordinary share, par value $0.0001 per share, and one-half of one redeemable warrant to acquire one Class A ordinary share</div>
+            <div style="text-align: center;"> <br>
+            </div>
+          </td>
+          <td rowspan="3" style="width: 2%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">&#160;</td>
+          <td style="width: 49%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center;">The Nasdaq Stock Market LLC</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 49%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center;">Class A ordinary shares included as part of the units</div>
+            <div style="text-align: center;"> <br>
+            </div>
+          </td>
+          <td style="width: 49%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center;">The Nasdaq Stock Market LLC</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 49%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center;">Redeemable warrants included as part of the units, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50</div>
+          </td>
+          <td style="width: 49%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center;">The Nasdaq Stock Market LLC</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+    <div style="font-family: 'Times New Roman',Times,serif;">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c), check the following box.&#160; &#9745;</div>
+    <div><font style="font-family: 'Times New Roman',Times,serif;"> </font><font style="font-family: 'Times New Roman',Times,serif;"><br>
+      </font></div>
+    <div style="font-family: 'Times New Roman',Times,serif;">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d), check the following box.&#160; &#9744;</div>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+    <div style="font-family: 'Times New Roman',Times,serif;">If this form relates to the registration of a class of securities concurrently with a Registration A offering, check the following box.&#160; &#9744;</div>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+    <div style="font-size: 8pt;"><font style="font-size: 10pt; font-family: 'Times New Roman',Times,serif; font-weight: bold;">Securities Act registration statement file number to which this form relates:</font><font style="font-size: 10pt; font-family: 'Times New Roman',Times,serif; font-weight: bold;"><u>&#160; &#160; &#160; &#160; &#160; &#160; 333-258393</u></font><font style="font-size: 10pt; font-family: 'Times New Roman',Times,serif;"><u>&#160; &#160; &#160; &#160; &#160; &#160;&#160; </u></font><font style="font-family: 'Times New Roman',Times,serif; font-size: 10pt;"> (if applicable)</font></div>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+    <div style="font-size: 8pt;"><font style="font-size: 10pt; font-family: 'Times New Roman',Times,serif; font-weight: bold;">Securities to be registered pursuant to Section 12(g) of the Act:</font><font style="font-family: 'Times New Roman',Times,serif; font-size: 10pt;">&#160;<font style="font-weight: bold;">None</font></font></div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+      <div style="page-break-after:always;" id="DSPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">INFORMATION REQUIRED IN REGISTRATION STATEMENT</div>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+    <div style="text-align: justify; font-family: 'Times New Roman',Times,serif; font-weight: bold;">Item 1. Description of Registrant&#8217;s Securities to be Registered.</div>
+    <div style="text-align: justify; font-family: 'Times New Roman',Times,serif; font-weight: bold;"> <br>
+    </div>
+    <div style="text-align: justify; text-indent: 34pt; font-family: 'Times New Roman',Times,serif;">The securities to be registered hereby are the units, the Class&#160;A ordinary shares, par value $0.0001 per share, and the redeemable warrants to purchase
+      Class&#160;A ordinary shares of Emerging Markets Horizon Corp. (the &#8220;Registrant&#8221;). The description of the units, the Class&#160;A ordinary shares and the redeemable warrants set forth under the heading &#8220;Description of Securities&#8221; in the Registrant&#8217;s prospectus
+      forming part of its Registration Statement on Form S-1 (File No.&#160;333-258393) originally filed with the U.S. Securities and Exchange Commission on August 3, 2021, as thereafter amended and supplemented from time to time (the &#8220;Registration Statement&#8221;),
+      to which this Form 8-A relates, is incorporated by reference herein. Any form of prospectus or prospectus supplement to the Registration Statement that includes such descriptions and that is subsequently filed shall be deemed to be incorporated by
+      reference herein.</div>
+    <div style="text-align: justify; font-family: 'Times New Roman',Times,serif; font-weight: bold;"> <br>
+    </div>
+    <div style="text-align: justify; font-family: 'Times New Roman',Times,serif; font-weight: bold;">Item 2. Exhibits.</div>
+    <div style="text-align: justify; text-indent: 36pt; font-family: 'Times New Roman',Times,serif;"> <br>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt; font-family: 'Times New Roman',Times,serif;">Pursuant to the Instructions as to Exhibits with respect to Form 8-A, no exhibits are required to be filed because no other securities of the Registrant
+      are registered on The Nasdaq Stock Market LLC, and the securities registered hereby are not being registered pursuant to Section&#160;12(g) of the Securities Exchange Act of 1934, as amended.</div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+      <div style="page-break-after:always;" id="DSPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">SIGNATURE</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;"> <br>
+    </div>
+    <div style="text-indent: 34pt; font-family: 'Times New Roman',Times,serif;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the Registrant has duly caused this registration statement to be signed on its behalf by the
+      undersigned, thereto duly authorized.</div>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z4a20604b07ef44ef80eee9a07e2ac2f5" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 30%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div style="font-weight: bold;">EMERGING MARKETS HORIZON CORP.</div>
+          </td>
+          <td colspan="1" style="width: 70%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">&#160;</td>
+        </tr>
+        <tr>
+          <td rowspan="1" style="width: 30%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">&#160;</td>
+          <td rowspan="1" colspan="1" style="width: 70%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 30%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif;">
+            <div>/s/ Riccardo Orcel</div>
+          </td>
+          <td colspan="1" style="width: 70%; vertical-align: top; font-family: 'Times New Roman',Times,serif; padding-bottom: 2px;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 30%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif;">
+            <div>Name: Riccardo Orcel</div>
+          </td>
+          <td colspan="1" style="width: 70%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 30%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>Title:&#160; Chief Executive Officer</div>
+          </td>
+          <td colspan="1" style="width: 70%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 30%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>Date: December 8, 2021</div>
+          </td>
+          <td colspan="1" style="width: 70%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">&#160;</td>
+        </tr>
+
+    </table>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+    <div style="font-family: 'Times New Roman',Times,serif;">
+      <hr style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+  </div>
+  <font style="font-family: 'Times New Roman',Times,serif;"> </font>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

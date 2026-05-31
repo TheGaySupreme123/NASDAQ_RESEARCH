@@ -1,0 +1,265 @@
+<SEC-DOCUMENT>0001140361-24-032913.txt : 20240711
+<SEC-HEADER>0001140361-24-032913.hdr.sgml : 20240711
+<ACCEPTANCE-DATETIME>20240711143334
+ACCESSION NUMBER:		0001140361-24-032913
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20240711
+DATE AS OF CHANGE:		20240711
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Icon Energy Corp
+		CENTRAL INDEX KEY:			0001995574
+		STANDARD INDUSTRIAL CLASSIFICATION:	DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT [4412]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NY
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42174
+		FILM NUMBER:		241111820
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17TH KM NATIONAL ROAD
+		STREET 2:		ATHENS-LAMIA & FOINIKOS STR.
+		CITY:			NEA KIFISSIA, ATHENS
+		STATE:			J3
+		ZIP:			14564
+		BUSINESS PHONE:		30 211 888 0200
+
+	MAIL ADDRESS:	
+		STREET 1:		17TH KM NATIONAL ROAD
+		STREET 2:		ATHENS-LAMIA & FOINIKOS STR.
+		CITY:			NEA KIFISSIA, ATHENS
+		STATE:			J3
+		ZIP:			14564
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ny20016798x21_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Finanicial Soultions, Inc.
+         Document created using Broadridge PROfile 24.6.1.5240
+         Copyright 1995 - 2024 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">UNITED STATES</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 12pt; font-weight: bold;">Washington, D.C. 20549</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 18pt; font-weight: bold;">FORM 8-A</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+    <div style="text-align: center; font-weight: bold;">PURSUANT TO SECTION 12(b) OR (g) OF THE</div>
+    <div style="text-align: center; font-weight: bold;">SECURITIES EXCHANGE ACT OF 1934</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" id="z95f41f48ba7040d19a1543411e85c06e" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 100%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0); font-size: 24pt;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">ICON ENERGY CORP.</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="text-align: center;">(Exact name of registrant as specified in its charter)</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" id="z746121546c664571996fe2753dbb336c" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 61.12%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Republic of the Marshall Islands</div>
+          </td>
+          <td style="width: 0.78%; vertical-align: top;">&#160;</td>
+          <td style="width: 38.09%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">N/A</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 61.12%; vertical-align: top;">
+            <div style="text-align: center;">(State or other jurisdiction of incorporation or organization)</div>
+          </td>
+          <td style="width: 0.78%; vertical-align: top;">&#160;</td>
+          <td style="width: 38.09%; vertical-align: bottom;">
+            <div style="text-align: center;">(I.R.S. Employer Identification No.)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" id="z6e54610da75f427b9eb2000ab486d3df" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 55.44%; vertical-align: bottom;">
+            <div style="text-align: center; font-weight: bold;">c/o Pavimar Shipping Co.</div>
+            <div style="text-align: center; font-weight: bold;">17th km National Road</div>
+            <div style="text-align: center; font-weight: bold;">Athens-Lamia &amp; Foinikos Str.</div>
+            <div style="text-align: center; font-weight: bold;">14564, Nea Kifissia</div>
+            <div style="text-align: center; font-weight: bold;">Athens, Greece</div>
+            <div style="text-align: center; font-weight: bold;">+30 211 88 81 300</div>
+            <div style="text-align: center;">(Address of principal executive office)</div>
+          </td>
+          <td style="width: 44.56%; vertical-align: bottom;">
+            <div style="text-align: center; font-weight: bold;"><br>
+            </div>
+            <div style="text-align: center;">(Zip Code)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div>Securities to be registered pursuant to Section 12(b) of the Act:</div>
+    <div> <br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" id="z43bbc0f783704f55bdbd8586023c3967" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 55.33%; vertical-align: bottom;">
+            <div style="text-align: center;">Title of each class</div>
+            <div style="text-align: center;">to be so registered</div>
+          </td>
+          <td style="width: 1.06%; vertical-align: top;">&#160;</td>
+          <td style="width: 43.6%; vertical-align: bottom;">
+            <div style="text-align: center;">Name of each exchange on which</div>
+            <div style="text-align: center;">each class is to be registered</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 55.33%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Common Shares, par value $0.001 per share</div>
+          </td>
+          <td style="width: 1.06%; vertical-align: top;">&#160;</td>
+          <td style="width: 43.6%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">The Nasdaq Stock Market LLC</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 55.33%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Preferred Share Purchase Rights</div>
+          </td>
+          <td style="width: 1.06%; vertical-align: top;">&#160;</td>
+          <td style="width: 43.6%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">The Nasdaq Stock Market LLC</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div>If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. &#9746;</div>
+    <div> <br>
+    </div>
+    <div>If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. &#9744;</div>
+    <div> <br>
+    </div>
+    <div>If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</div>
+    <div> <br>
+    </div>
+    <div>Securities Act registration statement or Regulation A offering statement file number to which this form relates:<font style="font-weight: bold;"> File No: 333-279394.</font></div>
+    <div> <br>
+    </div>
+    <div>Securities to be registered pursuant to Section 12(g) of the Act:<font style="font-weight: bold;"> None.</font></div>
+    <div class="BRPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+      <div class="BRPFPageBreak" style="page-break-after: always;">
+        <hr style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;" noshade="noshade"></div>
+    </div>
+    <div style="text-align: center; font-weight: bold;">INFORMATION REQUIRED IN REGISTRATION STATEMENT</div>
+    <div><br>
+    </div>
+    <div><font style="font-weight: bold;">Item 1.<font class="HorizontalTab" style="width: 9pt; font-size: 1px; display: inline-block;"> </font>Description of Registrant&#8217;s Securities to be Registered.</font></div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">A description of the common shares, par value $0.001 per share (the &#8220;<font style="font-weight: bold;">Common Shares</font>&#8221;) and preferred share purchase rights (the <font style="font-weight: bold;">&#8220;Preferred Share
+        Purchase Rights</font>&#8221;) of Icon Energy Corp., a Marshall Islands corporation (the &#8220;<font style="font-weight: bold;">Registrant</font>&#8221;) to be registered hereby is set forth under the caption &#8220;<font style="font-weight: bold;">Description of Capital
+        Stock</font>&#8221; in (i) the prospectus (subject to completion) included in Part I of the Registration Statement (Registration No. 333-279394) on Form F-1 (as amended, the &#8220;<font style="font-weight: bold;">Registration Statement</font>&#8221;) of the
+      Registrant originally filed with the Securities and Exchange Commission (the &#8220;<font style="font-weight: bold;">Commission</font>&#8221;) pursuant to the Securities Act of 1933, as amended (the &#8220;<font style="font-weight: bold;">Securities Act</font>&#8221;) on
+      May 14, 2024 and (ii) the related final form of the prospectus to be filed with the Commission pursuant to Rule 424(b) of the Securities Act. Such prospectus, in the form in which it is so filed, shall be deemed to be incorporated herein by
+      reference.</div>
+    <div><br>
+    </div>
+    <div><font style="font-weight: bold;">Item 2.</font><font class="HorizontalTab" style="width: 9pt; font-size: 1px; display: inline-block;"> </font><font style="font-weight: bold;">Exhibits</font></div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">No exhibits are required to be filed because no other securities of the Registrant are registered on the Nasdaq Stock Market LLC and the securities registered hereby are not being registered pursuant to Section 12(g)
+      of the Securities Exchange Act of 1934, as amended.</div>
+    <div class="BRPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+      <div class="BRPFPageBreak" style="page-break-after: always;">
+        <hr style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;" noshade="noshade"></div>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">SIGNATURE</div>
+    <div><br>
+    </div>
+    <div>Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" id="zc71f832b2734470eb2983a857964ffeb" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: middle;">&#160;</td>
+          <td colspan="2" style="vertical-align: top;">
+            <div style="text-align: justify; font-weight: bold;">ICON ENERGY CORP.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: middle;">&#160;</td>
+          <td style="width: 5%; vertical-align: middle;">&#160;</td>
+          <td style="width: 45%; vertical-align: middle;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: justify; margin-left: 4.5pt;">Dated: July 11, 2024</div>
+          </td>
+          <td style="width: 5%; vertical-align: top;">
+            <div style="text-align: justify; margin-left: 2.25pt;">By:</div>
+          </td>
+          <td style="width: 45%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+            <div style="text-align: justify; margin-left: 2.25pt;">/s/ Ismini Panagiotidi</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: middle;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">
+            <div style="text-align: justify; margin-left: 2.25pt;">Name:</div>
+          </td>
+          <td style="width: 45%; vertical-align: top;">
+            <div style="text-align: justify; margin-left: 2.25pt;">Ismini Panagiotidi</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: middle;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">
+            <div style="text-align: justify; margin-left: 2.25pt;">Title:</div>
+          </td>
+          <td style="width: 45%; vertical-align: top;">
+            <div style="margin-left: 2.25pt;">Chief Executive Officer</div>
+            <div style="margin-left: 2.25pt;">(Principal Executive Officer)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+      <hr style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

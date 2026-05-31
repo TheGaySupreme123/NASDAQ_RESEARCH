@@ -1,0 +1,245 @@
+<SEC-DOCUMENT>0001140361-24-001823.txt : 20240111
+<SEC-HEADER>0001140361-24-001823.hdr.sgml : 20240111
+<ACCEPTANCE-DATETIME>20240111060429
+ACCESSION NUMBER:		0001140361-24-001823
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20240111
+DATE AS OF CHANGE:		20240111
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Smith Douglas Homes Corp.
+		CENTRAL INDEX KEY:			0001982518
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATIVE BUILDERS [1531]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41917
+		FILM NUMBER:		24527916
+
+	BUSINESS ADDRESS:	
+		STREET 1:		110 VILLAGE TRAIL, SUITE 215
+		CITY:			WOODSTOCK
+		STATE:			GA
+		ZIP:			30188
+		BUSINESS PHONE:		(770) 213-8067
+
+	MAIL ADDRESS:	
+		STREET 1:		110 VILLAGE TRAIL, SUITE 215
+		CITY:			WOODSTOCK
+		STATE:			GA
+		ZIP:			30188
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ny20009679x6_8a12b.htm
+<DESCRIPTION>FORM 8-A12B
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using Broadridge PROfile 23.12.1.5186
+         Copyright 1995 - 2024 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <hr style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center">
+    <div>
+      <div style="text-align: center; font-size: 14pt; font-weight: bold;"> <br>
+      </div>
+      <div style="text-align: center; font-size: 14pt; font-weight: bold;">UNITED STATES</div>
+      <div style="text-align: center; font-size: 14pt; font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+      <div style="text-align: center; font-size: 12pt; font-weight: bold;">Washington, D.C. 20549</div>
+      <div>&#160;</div>
+      <div style="text-align: center; font-size: 18pt; font-weight: bold;">FORM 8-A</div>
+      <div>&#160;</div>
+      <div style="text-align: center; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+      <div style="text-align: center; font-weight: bold;">PURSUANT TO SECTION 12(b) OR (g) OF</div>
+      <div style="text-align: center; font-weight: bold;">THE SECURITIES EXCHANGE ACT OF 1934</div>
+      <div>&#160;</div>
+      <div style="text-align: center; font-size: 24pt; font-weight: bold;">Smith Douglas Homes Corp.</div>
+      <div style="text-align: center; font-weight: bold;">(Exact name of registrant as specified in its charter)</div>
+      <div><br>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z526691de1c4f4a0b9b9fcba82cd51c83" border="0" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 50%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">Delaware</div>
+            </td>
+            <td style="width: 50%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">93-1969003</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">
+              <div style="text-align: center; color: rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif; font-weight: bold;">(State or other jurisdiction of incorporation or organization)</div>
+            </td>
+            <td style="width: 50%; vertical-align: top;">
+              <div style="text-align: center; color: rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif; font-weight: bold;">(I.R.S. Employer Identification No.)</div>
+            </td>
+          </tr>
+
+      </table>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zaf6d04e708f6468683bb820c84d6d8f6" border="0" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="vertical-align: top; width: 50%; padding: 3px 0px 0px;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">110 Village Trail, Suite 215</div>
+              <div style="text-align: center; color: #000000; font-weight: bold;">Woodstock, Georgia 30188</div>
+              <div style="text-align: center; color: #000000; font-weight: bold;">Telephone: (770) 213-8067</div>
+            </td>
+            <td style="vertical-align: bottom; width: 50%; padding: 3px 0px 0px;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">30188</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">
+              <div style="text-align: center; color: rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif; font-weight: bold;">(Address of Principal Executive Offices)</div>
+            </td>
+            <td style="width: 50%; vertical-align: top;">
+              <div style="text-align: center; color: rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif; font-weight: bold;">(Zip Code)</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section 12(b) of the Act:</div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z7c9322293e6341daa8512b57e7cef177" border="0" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 49.94%; vertical-align: bottom;" nowrap="nowrap">
+              <div style="text-align: center; color: rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif; font-weight: bold;">Title of each class</div>
+              <div style="text-align: center; color: rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif; font-weight: bold;">to be so registered</div>
+            </td>
+            <td style="width: 49.94%; vertical-align: bottom;" nowrap="nowrap">
+              <div style="text-align: center; color: rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif; font-weight: bold;">Name of each exchange on which</div>
+              <div style="text-align: center; color: rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif; font-weight: bold;">each class is to be registered</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.94%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">Class A common stock, par value $0.0001 per share</div>
+            </td>
+            <td style="width: 49.94%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">New York Stock Exchange</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div>If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. &#9746;</div>
+      <div>&#160;</div>
+      <div>If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. &#9744;</div>
+      <div>&#160;</div>
+      <div>If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box: &#9744;<font style="font-family: 'Segoe UI Symbol', sans-serif;"></font></div>
+      <div>&#160;</div>
+      <div style="text-align: center; font-weight: bold;">Securities Act registration statement or Regulation A offering statement file number to which this form relates:</div>
+      <div style="text-align: center; font-weight: bold;">333-274379</div>
+      <div>&#160;</div>
+      <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section 12(g) of the Act:</div>
+      <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">None.</div>
+      <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;"> <br>
+      </div>
+      <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">
+        <hr style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; margin-left: auto; margin-right: auto;" align="center"></div>
+      <div class="BRPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+        <div class="BRPFPageBreak" style="page-break-after: always;">
+          <hr style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;" noshade="noshade"></div>
+      </div>
+      <div>
+        <div style="font-weight: bold;">Item 1. Description of Registrant&#8217;s Securities to be Registered.</div>
+        <div style="font-weight: bold;"> <br>
+        </div>
+        <div>The description of the Class A common stock, par value $0.0001 per share, of Smith Douglas Homes Corp. (the &#8220;Company&#8221;) as included under the caption &#8220;Description of capital stock&#8221; in the prospectus forming a part of the Company&#8217;s Registration
+          Statement on Form S-1, originally filed with the Securities and Exchange Commission (the &#8220;Commission&#8221;) on September 6, 2023 (File No. 333-274379) and as subsequently amended (the &#8220;Registration Statement&#8221;), is hereby incorporated by reference
+          herein. In addition, all of the above-referenced descriptions included in any prospectus relating to the Registration Statement filed with the Commission pursuant to Rule 424(b) under the Securities Act of 1933, as amended, shall be deemed to be
+          incorporated by reference herein.</div>
+        <div>&#160;</div>
+        <div style="font-weight: bold;">Item 2. Exhibits.</div>
+        <div style="font-weight: bold;"> <br>
+        </div>
+        <div>Under the Instructions as to Exhibits with respect to Form 8-A, no exhibits are required to be filed because no other securities of the Company are registered on the New York Stock Exchange and the securities registered hereby are not being
+          registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</div>
+        <div> <br>
+        </div>
+        <div class="BRPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+          <div class="BRPFPageBreak" style="page-break-after: always;">
+            <hr style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;" noshade="noshade"></div>
+        </div>
+        <div>
+          <div style="text-align: center; font-weight: bold;">SIGNATURES</div>
+          <div>&#160;</div>
+          <div>Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</div>
+          <div> <br>
+          </div>
+          <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zc9cdc4ad1d444f9096f22779b7e111f5" border="0" cellpadding="0" cellspacing="0">
+
+              <tr>
+                <td rowspan="1" style="width: 55%; vertical-align: top;">
+                  <div style="color: #000000;">Date: January 11, 2024<br>
+                  </div>
+                </td>
+                <td colspan="3" style="vertical-align: bottom;" nowrap="nowrap">
+                  <div style="color: #000000; font-weight: bold;">SMITH DOUGLAS HOMES CORP.</div>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="4" rowspan="1" style="vertical-align: middle;">&#160;&#160;&#160;&#160;&#160;&#160;</td>
+              </tr>
+              <tr>
+                <td rowspan="1" style="width: 55%; vertical-align: top;">&#160;&#160;&#160;&#160;&#160;&#160; <br>
+                </td>
+                <td style="width: 3%; vertical-align: bottom;" nowrap="nowrap">
+                  <div style="color: #000000;">By:</div>
+                </td>
+                <td style="width: 0%; vertical-align: bottom;">&#160;</td>
+                <td style="width: 42%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);" nowrap="nowrap">
+                  <div>
+                    <div style="color: #000000;">/s/ Russell Devendorf</div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td rowspan="1" style="width: 55%; vertical-align: top;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</td>
+                <td style="width: 3%; vertical-align: bottom;" nowrap="nowrap">
+                  <div style="color: #000000;">Name:</div>
+                </td>
+                <td style="width: 0%; vertical-align: bottom;">&#160;</td>
+                <td style="width: 42%; vertical-align: bottom;" nowrap="nowrap">
+                  <div style="color: #000000;">Russell Devendorf</div>
+                </td>
+              </tr>
+              <tr>
+                <td rowspan="1" style="width: 55%; vertical-align: top;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</td>
+                <td style="width: 3%; vertical-align: top;" nowrap="nowrap">
+                  <div style="color: #000000;">Title:</div>
+                </td>
+                <td style="width: 0%; vertical-align: bottom;">&#160;</td>
+                <td style="width: 42%; vertical-align: bottom;" nowrap="nowrap">
+                  <div style="color: #000000; font-style: italic;">Executive Vice President and Chief Financial Officer</div>
+                </td>
+              </tr>
+
+          </table>
+          <div><br>
+            <hr style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"><br>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,304 @@
+<SEC-DOCUMENT>0001552781-23-000398.txt : 20231003
+<SEC-HEADER>0001552781-23-000398.hdr.sgml : 20231003
+<ACCEPTANCE-DATETIME>20231003160852
+ACCESSION NUMBER:		0001552781-23-000398
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20231003
+DATE AS OF CHANGE:		20231003
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SWK Holdings Corp
+		CENTRAL INDEX KEY:			0001089907
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS BUSINESS CREDIT INSTITUTION [6159]
+		IRS NUMBER:				770435679
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39184
+		FILM NUMBER:		231303623
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5956 SHERRY LANE
+		STREET 2:		SUITE 650
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75225
+		BUSINESS PHONE:		2142177253
+
+	MAIL ADDRESS:	
+		STREET 1:		5956 SHERRY LANE
+		STREET 2:		SUITE 650
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75225
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KANA SOFTWARE INC
+		DATE OF NAME CHANGE:	20011114
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KANA COMMUNICATIONS INC
+		DATE OF NAME CHANGE:	19990702
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>e23409_swkh-8a12b.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><FONT STYLE="font-size: 14pt"><B>UNITED
+STATES </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 14pt"><B>SECURITIES
+AND EXCHANGE COMMISSION </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 12pt"><B>Washington,
+D.C. 20549</B></FONT><B><FONT STYLE="font-size: 10pt"> </FONT></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-align: center"><FONT STYLE="font-size: 18pt"><B>FORM
+8-A </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>FOR
+REGISTRATION OF CERTAIN CLASSES OF SECURITIES </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>PURSUANT TO
+SECTION 12(b) OR (g) OF </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>THE SECURITIES
+EXCHANGE ACT OF 1934 </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-align: center"><FONT STYLE="font-size: 24pt"><B>SWK
+HOLDINGS CORPORATION</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>(Exact Name
+of Registrant as Specified in Its Charter) </B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="width: 49%; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD STYLE="vertical-align: bottom; width: 2%; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD STYLE="width: 49%; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td></tr>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="vertical-align: top; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt"><B>Delaware</B></FONT></td>
+    <TD STYLE="vertical-align: bottom; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD STYLE="vertical-align: top; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt"><B>77-0435679</B></FONT></td></tr>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="vertical-align: top; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt"><B>(State
+    or other jurisdiction of incorporation or organization)</B></FONT></td>
+    <TD STYLE="vertical-align: bottom; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD STYLE="vertical-align: top; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt"><B>(I.R.S.
+    Employer Identification No.)</B></FONT></td></tr>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD COLSPAN="2" STYLE="padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td></tr>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="vertical-align: top; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 1pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>5956
+        Sherry Lane, Suite 650</B></FONT></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 1pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Dallas,
+        TX</B></FONT></P></td>
+    <TD STYLE="vertical-align: bottom; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD STYLE="vertical-align: bottom; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt"><B>75225</B></FONT></td></tr>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="vertical-align: top; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt"><B>(Address
+    of principal executive offices)</B></FONT></td>
+    <TD STYLE="vertical-align: bottom; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD STYLE="vertical-align: top; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt"><B>(Zip
+    code)</B></FONT></td></tr>
+</table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>Securities
+to be registered pursuant to Section 12(b) of the Act: </B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="width: 51%; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD STYLE="vertical-align: bottom; width: 1%; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD STYLE="width: 48%; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td></tr>
+<TR STYLE="vertical-align: bottom; font: 10pt Times New Roman, Times, Serif">
+    <TD NOWRAP STYLE="padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>Title
+        of Each Class</B></FONT></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>to
+        be so Registered</B></FONT></P></td>
+    <TD STYLE="padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD NOWRAP STYLE="padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>Name
+        of Each Exchange on Which</B></FONT></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>Each
+        Class is to be Registered</B></FONT></P></td></tr>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="vertical-align: top; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt"><B>9.00%
+    Senior Notes due 2027</B></FONT></td>
+    <TD STYLE="vertical-align: bottom; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD STYLE="vertical-align: top; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-size: 10pt"><B>The
+    Nasdaq Stock Market LLC</B></FONT></td></tr>
+</table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0"><FONT STYLE="font-size: 10pt">If this form relates to the
+registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction
+A.(c) or (e), check the following box. <FONT STYLE="font-family: Wingdings">x</font></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0"><FONT STYLE="font-size: 10pt">If this form relates to the
+registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction
+A.(d) or (e), check the following box. <FONT STYLE="font-family: Wingdings">o</font></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0"><FONT STYLE="font-size: 10pt">If this form relates to the
+registration of a class of securities concurrently with a Regulation A offering, check the following box. <FONT STYLE="font-family: Wingdings">o</font></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>Securities
+Act registration statement or Regulation A offering statement file number to which this form relates: </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>333-274511</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>Securities
+to be registered pursuant to Section 12(g) of the Act: </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>None </B></FONT></P>
+
+
+
+
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; padding-bottom: 6pt; border-bottom: Gainsboro 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">&nbsp;</DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>INFORMATION
+REQUIRED IN REGISTRATION STATEMENT </B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0"><FONT STYLE="font-size: 10pt">SWK Holdings Corporation (the
+&ldquo;Registrant&rdquo;) has filed with the Securities and Exchange Commission (the &ldquo;Commission&rdquo;) pursuant to Rule
+424(b) under the Securities Act of 1933, as amended, a prospectus, dated September 28, 2023 (the &ldquo;Prospectus&rdquo;). The
+Prospectus relates to the offering of $30.0 million aggregate principal amount of 9.00% Senior Notes due 2027 (the &ldquo;Notes&rdquo;)
+to be issued by the Registrant. The Prospectus forms a part of the Registrant&rsquo;s Registration Statement on Form S-1, as amended
+(File No. 333-274511), previously filed with the Commission and declared effective on September 28, 2023.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="width: 9%; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt"><B>Item 1.</B></FONT></td>
+    <TD STYLE="padding: 0.25pt; font: 10pt Times New Roman, Times, Serif; width: 91%"><FONT STYLE="font-size: 10pt"><B>Description of Registrant&rsquo;s
+    Securities to be Registered. </B></FONT></td></tr>
+</table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 6pt 0 0"><FONT STYLE="font-size: 10pt">The description under the heading
+&ldquo;Description of Notes&rdquo; in the Prospectus is incorporated by reference herein. Copies of such description will be filed
+with The Nasdaq Stock Market LLC.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 9%; text-align: left"><FONT STYLE="font-size: 10pt"><B>Item 2.</B></FONT></TD><TD STYLE="text-align: justify; width: 91%"><FONT STYLE="font-size: 10pt"><B>Exhibits.</B></FONT></TD>
+</TR></TABLE>
+
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: bottom; font: 10pt Times New Roman, Times, Serif">
+    <TD NOWRAP STYLE="padding-top: 0.25pt; padding-right: 0.25pt; border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; padding-left: 0.25pt; text-align: left; width: 9%"><FONT STYLE="font-size: 10pt"><B>Exhibit</B><br>
+    <B>No.</B></FONT></td>
+    <TD STYLE="padding: 0.25pt 0.25pt 1pt; font: 10pt Times New Roman, Times, Serif; width: 2%"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD NOWRAP STYLE="padding-top: 0.25pt; padding-right: 0.25pt; border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; padding-left: 0.25pt; text-align: center; width: 89%"><FONT STYLE="font-size: 10pt"><B>Description</B></FONT></td></tr>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD COLSPAN="2" STYLE="padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td></tr>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD NOWRAP STYLE="vertical-align: top; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">4.1</FONT></td>
+    <TD STYLE="vertical-align: bottom; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD STYLE="vertical-align: top; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt"><A HREF="https://www.sec.gov/Archives/edgar/data/1089907/000155278123000397/e23407_ex4-1.htm">Indenture dated as of October 3, 2023, between SWK Holdings Corporation and Wilmington Trust, National Association, as trustee (incorporated by reference to Exhibit 4.1 to the Registrant&rsquo;s Current Report on Form 8-K filed on October 3, 2023).</A></FONT></td></tr>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD COLSPAN="2" STYLE="padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td></tr>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD NOWRAP STYLE="vertical-align: top; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">4.2</FONT></td>
+    <TD STYLE="vertical-align: bottom; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD STYLE="vertical-align: top; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt"><A HREF="https://www.sec.gov/Archives/edgar/data/1089907/000155278123000397/e23407_ex4-2.htm">First Supplemental Indenture dated as of October 3, 2023, between SWK Holdings Corporation and Wilmington Trust, National Association, as trustee (incorporated by reference to Exhibit 4.2 to the Registrant&rsquo;s Current Report on Form 8-K filed on October 3, 2023).</A></FONT></td></tr>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD COLSPAN="2" STYLE="padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td></tr>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD NOWRAP STYLE="vertical-align: top; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">4.3</FONT></td>
+    <TD STYLE="vertical-align: bottom; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></td>
+    <TD STYLE="vertical-align: top; padding: 0.25pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">Form
+    of 9.00% Senior Notes due 2027 (included as <A HREF="https://www.sec.gov/Archives/edgar/data/1089907/000155278123000397/e23407_ex4-2.htm">Exhibit A to Exhibit 4.2</A> above).</FONT></td></tr>
+</table>
+
+
+
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; padding-bottom: 6pt; border-bottom: Gainsboro 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt">&nbsp;</DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>SIGNATURE
+</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0"><FONT STYLE="font-size: 10pt">Pursuant to the requirements
+of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed
+on its behalf by the undersigned, thereto duly authorized.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0"><FONT STYLE="font-size: 10pt"></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="vertical-align: bottom; width: 50%; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; width: 3%; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; width: 47%; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="vertical-align: bottom; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD COLSPAN="2" STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt"><B>SWK Holdings Corporation</B></FONT></TD></TR>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="vertical-align: bottom; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="vertical-align: bottom; font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt"><FONT STYLE="font-size: 10pt">Dated: October
+    3, 2023</FONT></TD>
+    <TD STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">/s/ Joe D. Staggs</FONT></TD></TR>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="vertical-align: bottom; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">Joe D. Staggs</FONT></TD></TR>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="vertical-align: bottom; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">President and Chief
+    Executive Officer</FONT></TD></TR>
+</TABLE>
+
+
+
+
+
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; padding-bottom: 6pt; border-bottom: Gainsboro 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+
+
+<P STYLE="margin: 0; font: 10pt Times New Roman, Times, Serif"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

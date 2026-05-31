@@ -1,0 +1,311 @@
+<SEC-DOCUMENT>0001140361-23-038613.txt : 20230808
+<SEC-HEADER>0001140361-23-038613.hdr.sgml : 20230808
+<ACCEPTANCE-DATETIME>20230808171506
+ACCESSION NUMBER:		0001140361-23-038613
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20230808
+DATE AS OF CHANGE:		20230808
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Conifer Holdings, Inc.
+		CENTRAL INDEX KEY:			0001502292
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		IRS NUMBER:				271298795
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37536
+		FILM NUMBER:		231152524
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3001 WEST BIG BEAVER ROAD
+		STREET 2:		SUITE 200
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+		BUSINESS PHONE:		(248) 559-0840
+
+	MAIL ADDRESS:	
+		STREET 1:		3001 WEST BIG BEAVER ROAD
+		STREET 2:		SUITE 200
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>brhc20057182_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using Broadridge PROfile 23.7.1.5162
+         Copyright 1995 - 2023 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman'; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <hr align="center" style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;">
+    <div>
+      <div style="text-align: center; font-size: 14pt; font-weight: bold;">UNITED STATES</div>
+      <div style="text-align: center; font-size: 14pt; font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+      <div style="text-align: center; font-size: 12pt; font-weight: bold;">Washington, D.C. 20549</div>
+      <div>&#160;</div>
+      <div style="text-align: center; font-size: 18pt; font-weight: bold;">FORM 8-A</div>
+      <div>&#160;</div>
+      <div style="text-align: center; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+      <div style="text-align: center; font-weight: bold;">PURSUANT TO SECTION 12(b) OR (g) OF</div>
+      <div style="text-align: center; font-weight: bold;">THE SECURITIES EXCHANGE ACT OF 1934</div>
+      <div>&#160;</div>
+      <div style="text-align: center; font-size: 24pt; font-weight: bold;">Conifer Holdings, Inc.</div>
+      <div style="text-align: center; font-weight: bold;">(Exact name of registrant as specified in its charter)</div>
+      <div><br>
+      </div>
+      <table cellspacing="0" cellpadding="0" border="0" id="za990b7c88aed4a84a4c1759e88f7ae60" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">Michigan</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">&#160;</td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">27-1298795</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: rgb(0, 0, 0);">(State of incorporation or organization)</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">&#160;</td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: rgb(0, 0, 0);">(I.R.S. Employer Identification No.)</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="text-align: center; font-weight: bold;">550 West Big Beaver Road, Suite 200</div>
+      <div style="text-align: center; font-weight: bold;">Troy, MI&#160; 48084</div>
+      <div style="text-align: center;">(Address of principal executive offices including zip code)</div>
+      <div>&#160;</div>
+      <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section 12(b) of the Act:</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" border="0" id="zdf89b0754d6042f9bacd8c47b4a51e6d" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td nowrap="nowrap" style="width: 49%; vertical-align: bottom;">
+              <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">Title of each class</div>
+              <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">to be so registered</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">&#160;</td>
+            <td nowrap="nowrap" style="width: 49%; vertical-align: bottom;">
+              <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">Name of each exchange on which</div>
+              <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">each class is to be registered</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">9.75% Senior Unsecured Notes due 2028</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">&#160;</td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">The Nasdaq Stock Market LLC</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div>If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. &#9746;</div>
+      <div>&#160;</div>
+      <div>If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. &#9744;</div>
+      <div>&#160;</div>
+      <div>If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</div>
+      <div>&#160;</div>
+      <div style="text-align: center; font-weight: bold;">Securities Act registration statement file number to which this form relates:</div>
+      <div style="text-align: center; font-weight: bold;">333-272217</div>
+      <div>&#160;</div>
+      <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section 12(g) of the Act:</div>
+      <div style="text-align: center; font-weight: bold;">None</div>
+      <div style="text-align: center; font-weight: bold;"> <br>
+      </div>
+      <div style="text-align: center; font-weight: bold;">
+        <hr align="center" style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; margin-left: auto; margin-right: auto;"> </div>
+      <div class="BRPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+        <div class="BRPFPageBreak" style="page-break-after: always;">
+          <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+      </div>
+      <table cellspacing="0" cellpadding="0" id="z45e28807b854457f8e943923f745367f" class="DSPFListTable" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 1.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="font-weight: bold;">Description of Registrant&#8217;s Securities to be Registered.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div>The class of securities to be registered hereby is the 9.75% Senior Unsecured Notes due 2028 (the &#8220;<font style="font-weight: bold; font-style: italic;">Notes</font>&#8221;) of Conifer Holdings, Inc. (the &#8220;<font style="font-weight: bold; font-style: italic;">Company</font>&#8221;). For a description of the Notes, reference is made to (i) the information under the heading &#8220;Description of the New Notes&#8221; in the Company&#8217;s registration statement on Form S-4 and S-1 (Registration No. 333-272217) filed
+        with the Securities and Exchange Commission (the &#8220;<font style="font-weight: bold; font-style: italic;">Commission</font>&#8221;) under the Securities Act of 1933, as amended (the &#8220;<font style="font-weight: bold; font-style: italic;">Securities Act</font>&#8221;)
+
+
+        and declared effective by the Commission on June 26, 2023 and (ii) the information under the heading &#8220;Description of the New Notes&#8221; included in the prospectus, dated June 26, 2023, with respect to the Notes, filed with the Commission pursuant to
+        Rule 424(b) under the Securities Act, which information is incorporated herein by reference.</div>
+      <div>
+        <div> <br>
+        </div>
+      </div>
+      <table cellspacing="0" cellpadding="0" id="zea093cb5947d49b8967c7939379de1f4" class="DSPFListTable" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 2.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="font-weight: bold;">Exhibits.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" border="0" id="z72ff1a9ee46f47b98d2618815a9ca132" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td nowrap="nowrap" style="width: 6.4%; vertical-align: bottom;">
+              <div style="color: rgb(0, 0, 0);">Exhibit</div>
+            </td>
+            <td style="width: 3%; vertical-align: bottom;">&#160;</td>
+            <td style="width: 91%; vertical-align: bottom;">
+              <div style="color: rgb(0, 0, 0);">Description</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 6.4%; vertical-align: middle;">&#160;</td>
+            <td style="vertical-align: middle;" colspan="2">&#160;</td>
+          </tr>
+          <tr>
+            <td nowrap="nowrap" style="width: 6.4%; vertical-align: top;">
+              <div><a href="https://www.sec.gov/Archives/edgar/data/1502292/000150229218000043/exhibit41288199721.htm">4.1</a></div>
+            </td>
+            <td style="width: 3%; vertical-align: bottom;">&#160;</td>
+            <td style="width: 91%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Base Indenture, dated as of September 24, 2018 between the Company and Wilmington Trust, National Association, as trustee (incorporated by reference to Exhibit 4.1 of the Company&#8217;s Current Report on Form 8-K
+                filed on September 24, 2018)</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 6.4%; vertical-align: middle;">&#160;</td>
+            <td style="vertical-align: middle;" colspan="2">&#160;</td>
+          </tr>
+          <tr>
+            <td nowrap="nowrap" style="width: 6.4%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);"><a href="https://www.sec.gov/Archives/edgar/data/1502292/000114036123038603/brhc20057178_ex4-2.htm">4.2</a></div>
+            </td>
+            <td style="width: 3%; vertical-align: bottom;">&#160;</td>
+            <td style="width: 91%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Second Supplemental Indenture, dated as of August 8, 2023 between the Company and Wilmington Trust, National Association, as trustee (incorporated by reference to Exhibit 4.2 to the Registrant&#8217;s Current
+                Report on Form 8-K filed on August 8, 2023).</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 6.4%; vertical-align: middle;">&#160;</td>
+            <td style="vertical-align: middle;" colspan="2">&#160;</td>
+          </tr>
+          <tr>
+            <td nowrap="nowrap" style="width: 6.4%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);"><a href="https://www.sec.gov/Archives/edgar/data/1502292/000114036123038603/brhc20057178_ex4-3.htm">4.3</a></div>
+            </td>
+            <td style="width: 3%; vertical-align: bottom;">&#160;</td>
+            <td style="width: 91%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Form of 9.75% Senior Unsecured Notes due 2028 (included as Exhibit A to Exhibit 4.2 above).</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+      </div>
+      <div style="text-align: center; font-weight: bold;">SIGNATURE</div>
+      <div>&#160;</div>
+      <div>Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</div>
+      <div> <br>
+      </div>
+      <table cellspacing="0" cellpadding="0" border="0" id="zd9c74433891948d793a45429b32b7762" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 50%; vertical-align: top;" rowspan="1">
+              <div style="color: rgb(0, 0, 0);">Date: August 8, 2023</div>
+            </td>
+            <td style="vertical-align: bottom;" colspan="2" rowspan="1"><br>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;" rowspan="1"><br>
+            </td>
+            <td style="vertical-align: bottom;" colspan="2" rowspan="1"><br>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;"> <br>
+            </td>
+            <td style="vertical-align: bottom;" colspan="2">
+              <div style="color: #000000; font-weight: bold;">CONIFER HOLDINGS, INC.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: middle;"><br>
+            </td>
+            <td style="width: 3%; vertical-align: top;">&#160;</td>
+            <td style="width: 47%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;"><br>
+            </td>
+            <td style="width: 3%; vertical-align: bottom;">
+              <div style="color: rgb(0, 0, 0);">By:</div>
+            </td>
+            <td style="width: 47%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>
+                <div style="color: #000000;">/s/ BRIAN J. RONEY</div>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;"><br>
+            </td>
+            <td style="width: 3%; vertical-align: bottom;">&#160;</td>
+            <td style="width: 47%; vertical-align: bottom;">
+              <div style="color: rgb(0, 0, 0);">Brian J. Roney</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;"><br>
+            </td>
+            <td style="width: 3%; vertical-align: bottom;">&#160;</td>
+            <td style="width: 47%; vertical-align: bottom;">
+              <div style="color: rgb(0, 0, 0);">President</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+        <br>
+      </div>
+      <div>
+        <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;"></div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,276 @@
+<SEC-DOCUMENT>0001140361-21-041132.txt : 20211210
+<SEC-HEADER>0001140361-21-041132.hdr.sgml : 20211210
+<ACCEPTANCE-DATETIME>20211210090217
+ACCESSION NUMBER:		0001140361-21-041132
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211210
+DATE AS OF CHANGE:		20211210
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Heartland Media Acquisition Corp.
+		CENTRAL INDEX KEY:			0001850529
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				862016556
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41152
+		FILM NUMBER:		211483816
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3282 NORTHSIDE PKWY NW, STE 275
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30327
+		BUSINESS PHONE:		(470) 355-1944
+
+	MAIL ADDRESS:	
+		STREET 1:		3282 NORTHSIDE PKWY NW, STE 275
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30327
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>brhc10031592_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Summit Financial
+         Document created using EDGARfilings PROfile 8.0.0.0
+         Copyright 1995 - 2021 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman'; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <hr align="center" style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;">
+    <div><font style="font-size: 14pt;"> </font>
+      <div style="text-align: center; font-size: 14pt; font-weight: bold;">UNITED STATES</div>
+      <div style="text-align: center; font-size: 14pt; font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+      <div style="text-align: center; font-size: 12pt; font-weight: bold;">Washington, D.C. 20549</div>
+      <div style="text-align: center; font-weight: bold;"> <br>
+      </div>
+      <div style="text-align: center; font-size: 18pt; font-weight: bold;">FORM 8-A</div>
+      <div style="text-align: center; font-weight: bold;"> <br>
+      </div>
+      <div style="text-align: center; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+      <div style="text-align: center; font-weight: bold;">PURSUANT TO SECTION 12(b) OR 12(g) OF THE</div>
+      <div style="text-align: center; font-weight: bold;">SECURITIES EXCHANGE ACT OF 1934</div>
+      <div style="text-align: center; font-weight: bold;"> <br>
+      </div>
+      <div style="text-align: center; font-size: 24pt; font-weight: bold;">HEARTLAND MEDIA ACQUISITION CORP.</div>
+      <div style="text-align: center;">(Exact name of registrant as specified in its charter)</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" border="0" id="zadf982003e15496081ad7c8709046ae9" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 49%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; font-weight: bold;">Delaware</div>
+            </td>
+            <td style="width: 2%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+            <td style="width: 49%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; font-weight: bold;">86-2016556</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center;">(State of incorporation or organization)</div>
+            </td>
+            <td style="width: 2%; vertical-align: top;">&#160;</td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center;">(I.R.S. Employer Identification No.)</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <table cellspacing="0" cellpadding="0" border="0" id="ze0f3a335d82d409dad35ac96f9dbdee9" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 49%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; font-weight: bold;">3282 Northside Pkwy, Suite 275</div>
+              <div style="text-align: center; font-weight: bold;">Atlanta, Georgia</div>
+            </td>
+            <td style="width: 2%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+            <td style="width: 49%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; font-weight: bold;">30327</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center;">(Address of Principal Executive Offices)</div>
+            </td>
+            <td style="width: 2%; vertical-align: top;">&#160;</td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center;">(Zip Code)</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div>Securities to be registered pursuant to Section 12(b) of the Act:</div>
+      <table cellspacing="0" cellpadding="0" border="0" id="z85f79a6a8f424b9d9b690d6400d75d56" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 49%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; font-weight: bold;">Title of each class</div>
+              <div style="text-align: center; font-weight: bold;">to be so registered</div>
+            </td>
+            <td style="width: 2%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+            <td style="width: 49%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; font-weight: bold;">Name of each exchange on which</div>
+              <div style="text-align: center; font-weight: bold;">each class is to be registered</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; font-weight: bold;">Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant</div>
+            </td>
+            <td style="width: 2%; vertical-align: top;">&#160;</td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; font-weight: bold;">The New York Stock Exchange</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="margin: 4pt 0px; font-weight: bold; text-align: center;">Class A common stock, par value $0.0001 per share</div>
+            </td>
+            <td style="width: 2%; vertical-align: top;">&#160;</td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="margin: 4pt 0px; font-weight: bold; text-align: center;">The New York Stock Exchange</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; font-weight: bold;">Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share</div>
+            </td>
+            <td style="width: 2%; vertical-align: top;">&#160;</td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; font-weight: bold;">The New York Stock Exchange</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div>If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. &#9746;<a name="Check1"></a></div>
+      <div>&#160;</div>
+      <div>If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. &#9744;</div>
+      <div>&#160;</div>
+      <div>If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</div>
+      <div>&#160;</div>
+      <div style="text-align: center;">Securities Act registration statement or Regulation A offering statement file number to which this form relates:</div>
+      <div style="text-align: center; font-weight: bold;">333&#8209;261374</div>
+      <div>&#160;</div>
+      <div style="text-align: center;">Securities to be registered pursuant to Section 12(g) of the Act:</div>
+      <div style="text-align: center; font-weight: bold;">N/A</div>
+      <div style="text-align: center; font-weight: bold;"> <br>
+      </div>
+      <div style="text-align: center; font-weight: bold;">
+        <hr align="center" style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; margin-left: auto; margin-right: auto;"> </div>
+      <div id="DSPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+        <div id="DSPFPageBreak" style="page-break-after:always;">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+      </div>
+      <!--PROfilePageNumberReset%Num%2%%%-->
+      <table cellspacing="0" cellpadding="0" id="z5fb1dcc8edb648f6aa2de480ff3b3b89" class="DSPFListTable" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 36pt; vertical-align: top; font-weight: bold;">Item 1.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="font-weight: bold;">Description of Registrant&#8217;s Securities to be Registered.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="text-align: justify; text-indent: 36pt;">The securities to be registered hereby are the units, Class A common stock, par value $0.0001 per share, and warrants to purchase Class A common stock of Heartland Media Acquisition Corp. (the
+        &#8220;Registrant&#8221;).&#160; The description of the units, Class A common stock and warrants set forth under the heading &#8220;Description of Securities&#8221; in the Registrant&#8217;s prospectus forming a part of its Registration Statement on Form S-1 (File No. 333-261374),
+        originally filed with the U.S. Securities and Exchange Commission on November 26, 2021, as thereafter amended and supplemented from time to time (the &#8220;Registration Statement&#8221;), to which this Form 8-A relates is incorporated by reference herein.&#160;
+        Any form of prospectus or prospectus supplement to the Registration Statement that includes such descriptions and that are subsequently filed are hereby also incorporated by reference herein.</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" id="ze8985d95b61f4528ae0a568e9ac5689f" class="DSPFListTable" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 36pt; vertical-align: top; font-weight: bold;">Item 2.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="font-weight: bold;">Exhibits.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="text-align: justify; text-indent: 36pt;">Pursuant to the Instructions as to Exhibits with respect to Form 8-A, no exhibits are required to be filed because no other securities of the Registrant are registered on The New York Stock
+        Exchange and the securities registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</div>
+      <div>&#160;</div>
+      <div id="DSPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+        <div style="text-align: center;" id="DSPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" id="DSPFPageNumber">2</font></div>
+        <div id="DSPFPageBreak" style="page-break-after:always;">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+      </div>
+      <div style="text-align: center; font-weight: bold;">SIGNATURE</div>
+      <div>&#160;</div>
+      <div style="text-align: justify; text-indent: 36pt;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this registration statement to be signed on its behalf by the
+        undersigned, thereto duly authorized.</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" border="0" id="zae6b7731462d4fadb33b2a61e74c1833" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 50%; vertical-align: bottom;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="font-weight: bold;">HEARTLAND MEDIA ACQUISITION CORP.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: bottom;" rowspan="1">&#160;</td>
+            <td style="vertical-align: top;" colspan="3" rowspan="1">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top; padding-bottom: 2px;">
+              <div>Date:&#160; December 10, 2021</div>
+            </td>
+            <td style="width: 3%; vertical-align: top; padding-bottom: 2px;">
+              <div style="text-indent: -19.45pt; margin-left: 19.45pt;">By:</div>
+            </td>
+            <td style="width: 42%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="text-indent: -19.45pt; margin-left: 19.45pt;">/s/ Robert S. Prather, Jr.</div>
+            </td>
+            <td style="width: 5%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;" rowspan="1">&#160;</td>
+            <td style="width: 3%; vertical-align: top;" rowspan="1">&#160;</td>
+            <td style="width: 42%; vertical-align: bottom;" rowspan="1">Name:&#160; Robert S. Prather, Jr.</td>
+            <td style="width: 5%; vertical-align: top;" rowspan="1">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;" rowspan="1">&#160;</td>
+            <td style="width: 3%; vertical-align: top;" rowspan="1">&#160;</td>
+            <td style="width: 42%; vertical-align: bottom;" rowspan="1">
+              <div style="text-indent: -19.45pt; margin-left: 19.45pt;">Title:&#160; Chief Executive Officer and Director</div>
+            </td>
+            <td style="width: 5%; vertical-align: top;" rowspan="1">&#160;</td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div>&#160;
+        <div style="text-align: center;" id="DSPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" id="DSPFPageNumber">3</font></div>
+      </div>
+      <div>
+        <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;"> </div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

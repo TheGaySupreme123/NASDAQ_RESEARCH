@@ -1,0 +1,194 @@
+<SEC-DOCUMENT>0001564590-21-051089.txt : 20211019
+<SEC-HEADER>0001564590-21-051089.hdr.sgml : 20211019
+<ACCEPTANCE-DATETIME>20211019094733
+ACCESSION NUMBER:		0001564590-21-051089
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211019
+DATE AS OF CHANGE:		20211019
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Stronghold Digital Mining, Inc.
+		CENTRAL INDEX KEY:			0001856028
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				862759890
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40931
+		FILM NUMBER:		211329808
+
+	BUSINESS ADDRESS:	
+		STREET 1:		595 MADISON AVENUE
+		STREET 2:		29TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 967-5294
+
+	MAIL ADDRESS:	
+		STREET 1:		595 MADISON AVENUE
+		STREET 2:		29TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>sdmi-8a_20211020.htm
+<DESCRIPTION>FORM 8-A12B
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>
+sdmi-8k_20211020.htm
+</title>
+</head>
+<!-- NG Converter v5.0.2.50 -->
+<body>
+
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:left;margin-bottom:40pt;border-bottom:Double 2.25pt;padding-bottom:1pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:bold;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:10pt;margin-top:0pt;text-indent:0%;font-size:18pt;font-weight:bold;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">UNITED STATES<br />SECURITIES AND EXCHANGE COMMISSION<font style="font-size:10pt;"><br /></font><font style="font-size:14pt;">Washington, D.C. 20549</font></p>
+<p style="border-bottom:Solid 0.75pt;padding-bottom:1pt;margin-bottom:5pt;margin-top:0pt;margin-left:38.46%;margin-right:38.46%;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:10pt;margin-top:0pt;text-indent:0%;font-size:18pt;font-weight:bold;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">FORM 8-A</p>
+<p style="border-bottom:Solid 0.75pt;padding-bottom:1pt;margin-bottom:5pt;margin-top:0pt;margin-left:38.46%;margin-right:38.46%;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:10pt;margin-top:0pt;text-indent:0%;font-size:12pt;font-weight:bold;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES<br />PURSUANT TO SECTION 12(b) OR 12(g) OF THE<br />SECURITIES EXCHANGE ACT OF 1934</p>
+<p style="border-bottom:Solid 0.75pt;padding-bottom:1pt;margin-bottom:5pt;margin-top:0pt;margin-left:38.46%;margin-right:38.46%;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Stronghold Digital Mining, Inc.</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Exact Name of Registrant as Specified in its Charter)</p>
+<p style="border-bottom:Solid 0.75pt;padding-bottom:1pt;margin-bottom:5pt;margin-top:0pt;margin-left:38.46%;margin-right:38.46%;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td style="width:50%;"></td>
+<td style="width:50%;"></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Delaware</p></td>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">86-2759890</p></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(State or other jurisdiction<br />of incorporation or organization)</p></td>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(I.R.S. Employer <br />Identification No.)</p></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td colspan="2" valign="bottom" >
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">595 Madison Avenue, 29th Floor</p>
+<p style="margin-bottom:10pt;text-align:center;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">New York, New York 10022 </p>
+<p style="margin-bottom:10pt;text-align:center;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Address of principal executive offices and zip code)</p></td>
+</tr>
+<tr>
+<td colspan="2" valign="bottom" >
+<p style="text-align:left;margin-bottom:10pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Securities to be registered pursuant to Section 12(b) of the Act:</p></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Title of each class<br />to be so registered<font style="font-weight:bold;font-size:9pt;"><br /></font><font style="font-weight:bold;font-size:10pt;">Class A common stock, par value $0.0001 per share</font></p></td>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Name of each exchange on which<br />each class is to be registered<font style="font-size:9pt;"><br /></font><font style="font-weight:bold;font-size:10pt;">The Nasdaq Stock Market LLC</font></p></td>
+</tr>
+</table></div>
+<p style="border-bottom:Solid 0.75pt;padding-bottom:1pt;margin-bottom:5pt;margin-top:0pt;margin-left:38.46%;margin-right:38.46%;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-top:10pt;margin-bottom:10pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c), check the following box.  <font style="font-family:'Times New Roman';"><font style="font-size:10pt;font-family:'Times New Roman'">&#9746;</font></font></p>
+<p style="margin-top:10pt;margin-bottom:10pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d), check the following box.  <font style="font-family:'Times New Roman';"><font style="font-size:10pt;font-family:'Times New Roman'">&#9744;</font></font></p>
+<p style="margin-bottom:10pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box.&nbsp;&nbsp; <font style="font-family:'Times New Roman';"><font style="font-size:10pt;font-family:'Times New Roman'">&#9744;</font></font></p>
+<p style="margin-top:10pt;margin-bottom:10pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Securities Act registration statement or Regulation A offering statement file number to which this form relates:  333&#8209;258188</p>
+<p style="margin-bottom:40pt;margin-top:10pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Securities to be registered pursuant to Section 12(g) of the Act:  None. </p>
+<p style="border-bottom:Double 2.25pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:10pt;margin-top:0pt;font-weight:bold;text-transform:uppercase;font-family:Times New Roman;font-size:10pt;font-style:normal;font-variant: normal;text-indent:3.85%;">INFORMATION REQUIRED IN REGISTRATION STATEMENT</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:11.54%;white-space:nowrap">
+<p style="margin-bottom:10pt;margin-top:0pt;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Item 1.</font></p></td>
+<td valign="top">
+<p style="margin-bottom:10pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Description of Registrant&#8217;s Securities to be Registered.</p></td></tr></table></div>
+<p style="margin-top:10pt;margin-bottom:10pt;text-indent:3.85%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">The class of securities to be registered hereby is the Class A common stock, par value $0.0001 per share (the &#8220;Common Stock&#8221;), of Stronghold Digital Mining, Inc., a Delaware corporation (the &#8220;Registrant&#8221;).</p>
+<p style="margin-top:10pt;margin-bottom:10pt;text-indent:3.85%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">The description of the Common Stock set forth under the captions &#8220;Prospectus Summary&#8221; and &#8220;Description of Capital Stock&#8221; in the Registrant&#8217;s Registration Statement on Form S&#8209;1, as amended (File No.&#160;333&#8209;258188), initially filed with the Securities and Exchange Commission on July 27, 2021 (the &#8220;Form S-1&#8221;), and in the prospectus to be filed by the Registrant pursuant to Rule&#160;424(b) under the Securities Act of 1933, as amended, which prospectus will constitute a part of the Form S-1, is hereby incorporated herein by reference.</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:11.54%;white-space:nowrap">
+<p style="margin-bottom:10pt;margin-top:0pt;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Item 2.</font></p></td>
+<td valign="top">
+<p style="margin-bottom:10pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Exhibits.</p></td></tr></table></div>
+<p style="margin-top:10pt;margin-bottom:10pt;text-indent:3.85%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Pursuant to the Instructions as to Exhibits with respect to Form 8&#8209;A, no exhibits are required to be filed because no other securities of the Registrant are registered on The Nasdaq Stock Market LLC and the securities registered hereby are not being registered pursuant to Section&#160;12(g) of the Exchange Act.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><br /></p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:10pt;margin-top:0pt;font-weight:bold;text-transform:uppercase;font-family:Times New Roman;font-size:10pt;font-style:normal;font-variant: normal;text-indent:3.85%;">SIGNATURE</p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:3.85%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Pursuant to the requirements of Section&#160;12 of the Securities Exchange Act of 1934, the Registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<div align="right">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; width:55%;">
+<tr>
+<td colspan="3" valign="bottom"  style="width:48%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">STRONGHOLD DIGITAL MINING, INC.</p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;text-align:left;">&nbsp;</p></td>
+<td valign="bottom"  style="width:2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;text-align:left;">&nbsp;</p></td>
+<td valign="bottom"  style="width:48%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;text-align:left;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">By:</p></td>
+<td valign="bottom"  style="width:2%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;text-align:left;">&nbsp;</p></td>
+<td valign="bottom"  style="width:48%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">/s/ Gregory A. Beard</p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Name:</p></td>
+<td valign="bottom"  style="width:2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;text-align:left;">&nbsp;</p></td>
+<td valign="bottom"  style="width:48%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Gregory A. Beard</p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Title:</p></td>
+<td valign="bottom"  style="width:2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;text-align:left;">&nbsp;</p></td>
+<td valign="bottom"  style="width:48%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Chief Executive Officer</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Date:&nbsp;&nbsp;October 19, 2021</p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

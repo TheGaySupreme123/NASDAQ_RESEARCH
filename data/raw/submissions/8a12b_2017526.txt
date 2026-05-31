@@ -1,0 +1,294 @@
+<SEC-DOCUMENT>0001140361-24-029451.txt : 20240610
+<SEC-HEADER>0001140361-24-029451.hdr.sgml : 20240610
+<ACCEPTANCE-DATETIME>20240610110303
+ACCESSION NUMBER:		0001140361-24-029451
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20240610
+DATE AS OF CHANGE:		20240610
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Perceptive Capital Solutions Corp
+		CENTRAL INDEX KEY:			0002017526
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42126
+		FILM NUMBER:		241031787
+
+	BUSINESS ADDRESS:	
+		STREET 1:		51 ASTOR PLACE, 10TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+		BUSINESS PHONE:		212-284-2300
+
+	MAIL ADDRESS:	
+		STREET 1:		51 ASTOR PLACE, 10TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ny20026753x8_8a.htm
+<DESCRIPTION>FORM 8-A
+<TEXT>
+<html>
+<head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions
+         Document created using Broadridge PROfile 24.3.1.5224
+         Copyright 1995 - 2024 Broadridge -->
+  </head>
+<body style="font: 10pt Times New Roman, Times, Serif">
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<!-- Field: Rule-Page --><div align="LEFT"><div style="font-size: 1pt; border-top: Black 4pt solid; border-bottom: Black 1pt solid; width: 100%">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>UNITED STATES</b></p>
+
+<p style="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Washington, D.C. 20549</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<!-- Field: Rule-Page --><div align="CENTER"><div style="font-size: 1pt; border-top: Black 1pt solid; width: 20%">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>FORM 8-A</b></p>
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<!-- Field: Rule-Page --><div align="CENTER"><div style="font-size: 1pt; border-top: Black 1pt solid; width: 20%">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">PURSUANT TO SECTION 12(b) OR 12(g) OF</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">THE SECURITIES EXCHANGE ACT OF 1934</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<!-- Field: Rule-Page --><div align="CENTER"><div style="font-size: 1pt; border-top: Black 1pt solid; width: 20%">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+
+
+<p style="font: 24pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>PERCEPTIVE CAPITAL SOLUTIONS CORP</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Exact name of registrant as specified in
+its charter)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<!-- Field: Rule-Page --><div align="CENTER"><div style="font-size: 1pt; border-top: Black 1pt solid; width: 20%">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr>
+    <td style="vertical-align: bottom; width: 49%; padding: 0.25pt; text-align: center"><b>Cayman Islands</b></td>
+    <td style="vertical-align: top; width: 2%; padding: 0.25pt">&nbsp;</td>
+    <td style="vertical-align: bottom; width: 49%; padding: 0.25pt; text-align: center"><b>98-1783595</b></td></tr>
+<tr>
+    <td style="vertical-align: bottom; padding: 0.25pt; text-align: center"><font style="font-size: 10pt">(State or other jurisdiction of incorporation or organization)</font></td>
+    <td style="vertical-align: top; padding: 0.25pt">&nbsp;</td>
+    <td style="vertical-align: bottom; padding: 0.25pt; text-align: center"><font style="font-size: 10pt">(I.R.S. Employer Identification No.)</font></td></tr>
+</table>
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr>
+    <td style="vertical-align: bottom; width: 49%; padding: 0.25pt; text-align: center">&nbsp;</td>
+    <td style="vertical-align: top; width: 2%; padding: 0.25pt">&nbsp;</td>
+    <td style="vertical-align: bottom; width: 49%; padding: 0.25pt; text-align: center">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; padding: 0.25pt">
+        <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>51 Astor Place, 10th Floor</b></p>
+        <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>New York, New York</b></p></td>
+    <td style="vertical-align: top; padding: 0.25pt">&nbsp;</td>
+    <td style="vertical-align: bottom; padding: 0.25pt; text-align: center"><b>10003</b></td></tr>
+<tr>
+    <td style="vertical-align: bottom; padding: 0.25pt; text-align: center"><font style="font-size: 10pt">(Address of principal executive offices)</font></td>
+    <td style="vertical-align: top; padding: 0.25pt">&nbsp;</td>
+    <td style="vertical-align: bottom; padding: 0.25pt; text-align: center"><font style="font-size: 10pt">(Zip Code)</font></td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Securities to be registered pursuant
+to Section 12(b) of the Act:</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <td style="width: 49%; padding: 0.25pt 0.25pt 0.75pt">
+        <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; border-bottom: Black 0.75pt solid"><b>Title
+        of each class</b><br>
+        <b>to be so registered</b></p></td>
+    <td style="width: 2%; padding: 0.25pt 0.25pt 1.75pt">&nbsp;</td>
+    <td style="width: 49%; padding: 0.25pt 0.25pt 0.75pt">
+        <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; border-bottom: Black 0.75pt solid"><b>Name
+        of each exchange on which</b><br>
+        <b>each class is to be registered</b></p></td></tr>
+<tr style="vertical-align: top">
+    <td style="padding: 0.25pt; text-align: center">Class A ordinary shares, $0.0001 par value</td>
+    <td style="padding: 0.25pt">&nbsp;</td>
+    <td style="padding: 0.25pt; text-align: center">The Nasdaq Stock Market LLC</td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If this form relates to the registration of a class of securities
+pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following
+box. &#9746;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If this form relates to the registration of a class of securities
+pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following
+box. &#9744;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If this form relates to the registration of a class of securities
+concurrently with a Regulation A offering, check the following box. &#9744;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Securities Act registration statement
+file number to which this form relates:</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>333-279598</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Securities to be registered pursuant
+to Section 12(g) of the Act:</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>None</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<!-- Field: Rule-Page --><div align="LEFT"><div style="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 4pt solid; width: 100%">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+<p style="FONT: 10pt Times New Roman, Times, Serif; MARGIN: 0pt 0px">&#160;</p>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal"></font></div>
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="">
+</div>
+</div>
+
+<p style="FONT: 10pt Times New Roman, Times, Serif; MARGIN: 0pt 0px">&#160;</p>
+
+
+<table cellpadding="0" cellspacing="0" style="width: 100%; font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0%"></td><td style="width: 0.75in">Item 1.</td><td style="text-align: justify">Description of Registrant&rsquo;s Securities to be Registered</td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The description of
+the Class A ordinary shares, $0.0001 par value, of Perceptive Capital Solutions Corp, a Cayman Islands exempted company, as set
+forth under the caption &ldquo;Description of Securities&rdquo; in the prospectus forming a part of the Registration Statement
+on Form S-1, as originally filed with the Securities and Exchange Commission (the &ldquo;Commission&rdquo;) on May 21, 2024 (Registration
+No. 333-279598), including exhibits, and as subsequently amended from time to time (the &ldquo;Registration Statement&rdquo;),
+is hereby incorporated by reference. In addition, the above-referenced description included in any prospectus relating to the Registration
+Statement filed with the Commission pursuant to Rule 424(b) under the Securities Act of 1933, as amended, shall be deemed to be
+incorporated by reference herein.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0" style="width: 100%; font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0%"></td><td style="width: 0.75in">Item 2.</td><td style="text-align: justify">Exhibits</td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Pursuant to the Instructions
+as to Exhibits for Form 8-A, no exhibits are required to be filed, because no other securities of the Registrant are registered
+on The Nasdaq Stock Market LLC, and the securities registered hereby are not being registered pursuant to Section 12(g) of the
+Securities Exchange Act of 1934, as amended.</p>
+
+<p style="FONT: 10pt Times New Roman, Times, Serif; MARGIN: 0pt 0px">&#160;</p>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal">2</font></div>
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="">
+</div>
+</div>
+
+<p style="FONT: 10pt Times New Roman, Times, Serif; MARGIN: 0pt 0px">&#160;</p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">SIGNATURE</p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Pursuant to the requirements
+of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on
+its behalf by the undersigned, thereto duly authorized.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0">&nbsp;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <td style="text-align: left">Date: June 10, 2024</td>
+    <td colspan="3" style="text-align: left"><b>PERCEPTIVE CAPITAL SOLUTIONS CORP</b></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td>&nbsp;</td>
+    <td>By:</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid">/s/ Sam Cohn</td></tr>
+<tr style="vertical-align: top">
+    <td style="width: 50%">&nbsp;</td>
+    <td style="width: 3%">&nbsp;</td>
+    <td style="width: 6%">Name:</td>
+    <td style="width: 41%">Sam Cohn</td></tr>
+<tr style="vertical-align: top">
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>Title:</td>
+    <td>Chief Financial Officer</td></tr>
+</table>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0">&nbsp;</p>
+
+<!-- Field: Rule-Page --><div align="LEFT" style="margin-top: 3pt; margin-bottom: 3pt"><div style="font-size: 1pt; border-top: Black 2pt solid; width: 100%">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0">&nbsp;</p>
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

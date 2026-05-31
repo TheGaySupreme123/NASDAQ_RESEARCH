@@ -1,0 +1,285 @@
+<SEC-DOCUMENT>0001213900-21-053415.txt : 20211019
+<SEC-HEADER>0001213900-21-053415.hdr.sgml : 20211019
+<ACCEPTANCE-DATETIME>20211019100156
+ACCESSION NUMBER:		0001213900-21-053415
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211019
+DATE AS OF CHANGE:		20211019
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cyngn, Inc.
+		CENTRAL INDEX KEY:			0001874097
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING SERVICES [7371]
+		IRS NUMBER:				462007094
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40932
+		FILM NUMBER:		211329826
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1012 O'BRIEN DRIVE
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+		BUSINESS PHONE:		650-924-5905
+
+	MAIL ADDRESS:	
+		STREET 1:		1012 O'BRIEN DRIVE
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ea149008-8a12b_cyngn.htm
+<DESCRIPTION>REGISTRATION OF CERTAIN CLASSES OF SECURITIES
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 4pt; margin-bottom: 0; text-align: center"><B></B></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 4pt; margin-bottom: 0; text-align: center"><B>UNITED STATES </B></P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>Washington, D.C. 20549 </B></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="text-align: center; margin-top: 1pt; margin-bottom: 1pt; width: 100%"><DIV STYLE="text-align: center; font-size: 1pt; border-top: black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 12pt; margin-bottom: 0; text-align: center"><B>FORM 8-A</B></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="text-align: center; margin-top: 1pt; margin-bottom: 1pt; width: 100%"><DIV STYLE="text-align: center; font-size: 1pt; border-top: black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 12pt; margin-bottom: 0; text-align: center"><B>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES
+</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>PURSUANT TO SECTION 12(b) OR (g)&nbsp;OF THE </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>SECURITIES EXCHANGE ACT OF 1934 </B></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="text-align: center; margin-top: 1pt; margin-bottom: 1pt; width: 100%"><DIV STYLE="text-align: center; font-size: 1pt; border-top: black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 24pt Times New Roman, Times, Serif; margin-top: 12pt; margin-bottom: 0; text-align: center"><B>CYNGN INC. </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>(Exact name of registrant as specified in its charter)
+</B></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="text-align: center; margin-top: 1pt; margin-bottom: 1pt; width: 100%"><DIV STYLE="text-align: center; font-size: 1pt; border-top: black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="text-align: center; width: 49%">&nbsp;</TD>
+    <TD STYLE="text-align: center; vertical-align: bottom; width: 2%">&nbsp;</TD>
+    <TD STYLE="text-align: center; width: 49%">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt"><B>Delaware</B></FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt"><B>46-2007094</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt"><B>(State or incorporation or organization)</B></FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt"><B>(I.R.S. Employer Identification No.)</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>1015 O&rsquo;Brien Dr.<BR>
+Menlo Park, CA 94025</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>(Address of Principal Executive Offices) </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 12pt; margin-bottom: 0; text-align: center"><B>Securities to be registered pursuant to Section&nbsp;12(b)
+of the Act: </B></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="text-align: center; width: 49%">&nbsp;</TD>
+    <TD STYLE="text-align: center; vertical-align: bottom; width: 2%">&nbsp;</TD>
+    <TD STYLE="text-align: center; width: 49%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: center; white-space: nowrap">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>Title of each class</B></P>
+    <P STYLE="border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 1pt; text-align: center"><B>to be so registered</B></P></TD>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center; white-space: nowrap">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>Name of each exchange on which</B></P>
+    <P STYLE="border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 1pt; text-align: center"><B>each class
+    is to be registered</B></P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt"><B>Common Stock, par value $0.00001 per share</B></FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt"><B>The Nasdaq Stock Market LLC</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 1pt; margin-bottom: 1pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0">If this form relates to the registration of a class of securities
+pursuant to Section&nbsp;12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following
+box.&nbsp;&nbsp;&#9746;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0">If this form relates to the registration of a class of securities
+pursuant to Section&nbsp;12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following
+box.&nbsp;&nbsp;&#9744;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0">If this form relates to the registration of a class of securities
+concurrently with a Regulation A offering, check the following box.&nbsp;&nbsp;&#9744;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-align: center"><B>Securities Act registration statement file
+number to which this form relates: 333-259278</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-align: center"><B>Securities to be registered pursuant to Section&nbsp;12(g)
+of the Act: None. </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+
+
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Item&nbsp;1. Description of Registrant&rsquo;s Securities to be Registered.
+</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 6pt 0 0"><FONT STYLE="background-color: white">The description of the Common
+Stock, par value $0.0001 per share, of Cyngn Inc. (the &ldquo;<B>Registrant</B>&rdquo;), to be registered hereunder set forth under the
+caption &ldquo;Description of Securities&rdquo; in the Registrant&rsquo;s Registration Statement on Form&nbsp;S-1&nbsp;(File No.&nbsp;333-259278)
+as originally filed with the Securities and Exchange Commission on September 3, 2021, including any subsequent amendments thereto (the
+&ldquo;<B>Form&nbsp;S-1</B>&rdquo;), and in the prospectus to be filed by the Registrant pursuant to Rule 424(b) of the Securities Act
+of 1933, as amended, which prospectus will constitute a part of the Form&nbsp;S-1,&nbsp;is hereby incorporated by reference in response
+to this item.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0.25in 0 0"><B>Item&nbsp;2. Exhibits. </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 6pt 0 0; text-align: justify">Under the Instructions as to Exhibits with respect
+to Form 8-A, no exhibits are required to be filed hereunder because no other securities of the Company are registered on The Nasdaq Stock
+Market LLC and the securities registered hereby are not being registered pursuant to Section&nbsp;12(g) of the Securities Exchange Act
+of 1934, as amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 6pt 0 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 6pt 0 0; text-align: justify">&nbsp;</P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SIGNATURES </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 24.5pt; background-color: white">Pursuant to the requirements
+of Section&nbsp;12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on
+its behalf by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="width: 44%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 4%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 44%">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">Date: October&nbsp;&nbsp;19, 2021</FONT></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt; text-transform: uppercase"><B>CYNGN Inc</B></FONT><B><FONT STYLE="font-size: 10pt">.</FONT></B></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; vertical-align: top"><FONT STYLE="font-size: 10pt">/s/ Lior Tal </FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">Lior Tal </FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-size: 10pt"><I>Chief Executive Officer </I></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

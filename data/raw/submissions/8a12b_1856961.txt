@@ -1,0 +1,333 @@
+<SEC-DOCUMENT>0001140361-21-039957.txt : 20211201
+<SEC-HEADER>0001140361-21-039957.hdr.sgml : 20211201
+<ACCEPTANCE-DATETIME>20211201123954
+ACCESSION NUMBER:		0001140361-21-039957
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211201
+DATE AS OF CHANGE:		20211201
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Blue Ocean Acquisition Corp
+		CENTRAL INDEX KEY:			0001856961
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41112
+		FILM NUMBER:		211462110
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 WISCONSIN CIRCLE
+		STREET 2:		7TH FLOOR
+		CITY:			CHEVY CHASE
+		STATE:			MD
+		ZIP:			20815
+		BUSINESS PHONE:		(703) 541-8581
+
+	MAIL ADDRESS:	
+		STREET 1:		2 WISCONSIN CIRCLE
+		STREET 2:		7TH FLOOR
+		CITY:			CHEVY CHASE
+		STATE:			MD
+		ZIP:			20815
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ny20000023x9_8a12b.htm
+<DESCRIPTION>FORM 8-A12B
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using EDGARfilings PROfile 7.7.0.0
+         Copyright 1995 - 2021 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <hr style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center">
+    <div>
+      <div style="text-align: center; font-size: 14pt; font-weight: bold;">UNITED STATES<br>
+        SECURITIES AND EXCHANGE COMMISSION</div>
+      <div style="text-align: center; font-size: 12pt; font-weight: bold;">Washington, D.C. 20549</div>
+      <div style="text-align: center; font-size: 18pt; font-weight: bold;">
+        <hr style="height: 1px; width: 100%; color: #000000; background-color: #000000; text-align: left; margin-left: 0px; margin-right: auto; border: none;" align="left" noshade="noshade">FORM 8-A</div>
+      <div>
+        <div style="text-align: center; font-weight: bold;">
+          <hr style="height: 1px; width: 100%; color: #000000; background-color: #000000; text-align: left; margin-left: 0px; margin-right: auto; border: none;" align="left" noshade="noshade">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+      </div>
+      <div style="text-align: center; font-weight: bold;">PURSUANT TO SECTION 12(b) OR (g) OF</div>
+      <div style="text-align: center; font-weight: bold;">THE SECURITIES EXCHANGE ACT OF 1934</div>
+      <div style="text-align: center; font-size: 24pt; font-weight: bold;">
+        <hr style="height: 1px; width: 100%; color: #000000; background-color: #000000; text-align: left; margin-left: 0px; margin-right: auto; border: none;" align="left" noshade="noshade">Blue Ocean Acquisition Corp</div>
+      <div style="text-align: center; font-weight: bold;">(Exact Name of Registrant as Specified in Its Charter) <br>
+      </div>
+      <div>
+        <div>
+          <hr style="height: 1px; width: 100%; color: #000000; background-color: #000000; margin-left: 0px; margin-right: auto; border: none;" align="left" noshade="noshade"></div>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zc747b50067dd4ecda0cabcc0ac98efcd" border="0" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">Cayman Islands</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">98-1593951</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">(State or other jurisdiction</div>
+              <div style="text-align: center; color: #000000; font-weight: bold;">of incorporation or organization)</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">(I.R.S. Employer</div>
+              <div style="text-align: center; color: #000000; font-weight: bold;">Identification No.)</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: middle;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td colspan="2" style="vertical-align: middle;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">2 Wisconsin Circle, 7th Floor</div>
+              <div style="text-align: center; color: #000000; font-weight: bold;">Chevy Chase, MD</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 49%; vertical-align: bottom;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">20815</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">(Address of Principal Executive Offices)</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">(Zip Code)</div>
+            </td>
+          </tr>
+
+      </table>
+      <div style="text-align: center;">&#160;</div>
+      <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section&#160;12(b) of the Act:</div>
+      <div>&#160;</div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zd0679b0830734a81806d4976d7a1dacf" border="0" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 49%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);" nowrap="nowrap">
+              <div style="text-align: center; color: #000000; font-weight: bold;">Title of Each Class<br>
+                to be Registered&#160;</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 49%; vertical-align: bottom; border-bottom: #000000 2px solid;" nowrap="nowrap">
+              <div style="text-align: center; color: #000000; font-weight: bold;">Name of Each Exchange on&#160;<br>
+                Which Each Class is to be Registered&#160;&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">Units, each consisting of one Class&#160;A ordinary share and one-half of one redeemable warrant</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">Nasdaq Global Market</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">Class A ordinary shares, par value $0.0001 per share</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">Nasdaq Global Market</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">Redeemable warrants, each whole warrant exercisable for one Class&#160;A ordinary share at an exercise price of
+                $11.50</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 49%; vertical-align: top;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">Nasdaq Global Market</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 2%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 49%; vertical-align: top; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; color: #000000;">&#160;</div>
+            </td>
+          </tr>
+
+      </table>
+      <div> <br>
+      </div>
+      <div>If this form relates to the registration of a class of securities pursuant to Section&#160;12(b) of the Exchange Act and is effective pursuant to General
+        Instruction A.(c) or (e), check the following box.&#160; &#9746;</div>
+      <div>&#160;</div>
+      <div>If this form relates to the registration of a class of securities pursuant to Section&#160;12(g) of the Exchange Act and is effective pursuant to General
+        Instruction A.(d) or (e), check the following box.&#160; &#9744;</div>
+      <div>&#160;</div>
+      <div>If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box.&#160; &#9744;</div>
+      <div>&#160;</div>
+      <div style="text-align: center; font-weight: bold;">Securities Act registration statement or Regulation A offering Statement file number to which this form relates: 333-260889</div>
+      <div style="text-align: center; font-weight: bold;">&#160;</div>
+      <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section&#160;12(g) of the Act: <br>
+      </div>
+      <div style="text-align: center; font-weight: bold;"> <br>
+      </div>
+      <div style="text-align: center; font-weight: bold;">N/A</div>
+      <div style="text-align: center; font-weight: bold;">&#160;</div>
+      <div style="text-align: center; font-weight: bold;">(Title of Class)</div>
+      <div style="text-align: center; font-weight: bold;">
+        <hr style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; margin-left: auto; margin-right: auto;" align="center"> </div>
+      <div id="DSPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+        <div id="DSPFPageBreak" style="page-break-after: always;">
+          <hr style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;" noshade="noshade"></div>
+      </div>
+      <div style="text-align: center; font-weight: bold;">&#160;<br>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zd652dc486bc94ae0876a4406b8cfa527" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 7.69%; vertical-align: top;">
+              <div style="color: #000000; font-weight: bold;">Item&#160;1.</div>
+            </td>
+            <td style="width: 92.31%; vertical-align: top;">
+              <div style="color: #000000; font-weight: bold;">&#160;Description of Registrant&#8217;s Securities to be Registered.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div>The securities to be registered hereby are units, Class&#160;A ordinary shares, par value $0.0001 per share, and redeemable warrants to purchase Class&#160;A ordinary
+        shares, of Blue Ocean Acquisition Corp (the &#8220;Registrant&#8221;). The description of the units, Class&#160;A ordinary shares and warrants set forth under the heading &#8220;Description of Securities&#8221; in the Registrant&#8217;s prospectus forming part of its Registration
+        Statement on Form S-1 (File No.&#160;333-260889), originally filed with the Securities and Exchange Commission on November 9, 2021, as thereafter amended and supplemented from time to time (the &#8220;Registration Statement&#8221;), to which this Form 8-A relates
+        is incorporated by reference herein. Any form of prospectus or prospectus supplement to the Registration Statement that includes such descriptions and that are subsequently filed are hereby also incorporated by reference herein.</div>
+      <div>&#160;</div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z04e2c22a45394d05a667a4a528f8d6b0" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 7.69%; vertical-align: top;">
+              <div style="color: #000000; font-weight: bold;">Item&#160;2.</div>
+            </td>
+            <td style="width: 92.31%; vertical-align: top;">
+              <div style="color: #000000; font-weight: bold;">&#160;Exhibits.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div>Pursuant to the Instructions as to Exhibits for&#160;Form&#160;8-A,&#160;no&#160;exhibits are required to be filed, because no other securities of the Registrant are
+          registered on the Nasdaq Global Market, and the securities registered hereby are not being registered pursuant to Section&#160;12(g) of the Securities Exchange Act of 1934, as amended.</div>
+      <div style="text-align: center; font-weight: bold;">&#160;</div>
+      <div id="DSPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+        <div id="DSPFPageBreak" style="page-break-after: always;">
+          <hr style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;" noshade="noshade"></div>
+      </div>
+      <div style="text-align: center; font-weight: bold;"> <br>
+      </div>
+      <div style="text-align: center; font-weight: bold;">SIGNATURE</div>
+      <div style="text-align: center; font-weight: bold;">&#160;</div>
+      <div>Pursuant to the requirements of Section&#160;12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed
+        on its behalf by the undersigned, thereto duly authorized.</div>
+      <div>&#160;</div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="ze352a07f2b6549ff8199badd9cee43b7" border="0" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 50%; vertical-align: bottom;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td colspan="2" style="width: 50%; vertical-align: bottom;">
+              <div style="color: #000000; font-weight: bold;">Blue Ocean Acquisition Corp</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: bottom;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td colspan="2" style="width: 50%; vertical-align: bottom;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: bottom;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 4%; vertical-align: bottom;">
+              <div style="color: #000000;">By:</div>
+            </td>
+            <td style="width: 46%; vertical-align: bottom; border-bottom: #000000 2px solid;">
+              <div style="color: #000000;">/s/ Paul Bascobert</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: bottom;">
+              <div style="color: #000000;">Date: December 1, 2021</div>
+            </td>
+            <td style="width: 4%; vertical-align: bottom;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 46%; vertical-align: bottom;">
+              <div style="color: #000000;">Name: &#160;Paul Bascobert</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 4%; vertical-align: top;">
+              <div style="color: #000000;">&#160;</div>
+            </td>
+            <td style="width: 46%; vertical-align: top;">
+              <div style="color: #000000;">Title: &#160;&#160;&#160;Chief Executive Officer</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160; <br>
+        <hr style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

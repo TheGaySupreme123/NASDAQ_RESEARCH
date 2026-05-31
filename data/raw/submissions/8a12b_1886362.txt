@@ -1,0 +1,325 @@
+<SEC-DOCUMENT>0001213900-22-042351.txt : 20220728
+<SEC-HEADER>0001213900-22-042351.hdr.sgml : 20220728
+<ACCEPTANCE-DATETIME>20220728143607
+ACCESSION NUMBER:		0001213900-22-042351
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20220728
+DATE AS OF CHANGE:		20220728
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Mobile Global Esports, Inc.
+		CENTRAL INDEX KEY:			0001886362
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-AMUSEMENT & RECREATION SERVICES [7900]
+		IRS NUMBER:				862684455
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41458
+		FILM NUMBER:		221114459
+
+	BUSINESS ADDRESS:	
+		STREET 1:		616 S. EL CAMINO REAL, STE. H
+		CITY:			SAN CLEMENTE
+		STATE:			CA
+		ZIP:			92672
+		BUSINESS PHONE:		5622348057
+
+	MAIL ADDRESS:	
+		STREET 1:		616 S. EL CAMINO REAL, STE. H
+		CITY:			SAN CLEMENTE
+		STATE:			CA
+		ZIP:			92672
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ea163508-8a12b_mobileglobal.htm
+<DESCRIPTION>FOR REGISTRATION OF CERTAIN CLASSES
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>WASHINGTON, D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>FORM 8-A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES<BR>
+PURSUANT TO SECTION 12(b) OR (g)&nbsp;OF THE<BR>
+SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>&nbsp;</B></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-size: 24pt"><B>MOBILE GLOBAL
+ESPORTS INC</B></FONT><B><FONT STYLE="font-size: 10pt"><BR>
+(Exact Name of Registrant as Specified in Its Charter)</FONT></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: Black 1.5pt solid; vertical-align: bottom; width: 49%; text-align: center; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Delaware</FONT></TD>
+    <TD STYLE="padding-bottom: 1.5pt; vertical-align: bottom; width: 2%; text-align: center; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; vertical-align: bottom; width: 49%; text-align: center; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">86-2684455</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="vertical-align: bottom; text-align: center; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">(State
+    of Incorporation<BR>
+ or Organization)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; text-align: center; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: bottom; text-align: center; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">(I.R.S.
+    Employer<BR>
+Identification No.)</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="vertical-align: bottom; text-align: center; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: bottom; text-align: center; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: bottom; text-align: center; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: Black 1.5pt solid; text-align: center; vertical-align: bottom"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>616
+    South El Camino Real, Suite H</B></FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>San
+    Clemente, CA 92672</B></FONT></P></TD>
+    <TD STYLE="padding-bottom: 1.5pt; vertical-align: bottom; text-align: center; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; vertical-align: bottom; text-align: center; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">92672</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif">(Address of Principal
+    Executive Offices)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; text-align: center; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: bottom; text-align: center; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">(Zip
+    Code)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">Securities to be registered pursuant to Section 12(b)
+of the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: Black 1.5pt solid; text-align: center; width: 49%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title of each class&nbsp;to be so registered</FONT></TD>
+    <TD STYLE="padding-bottom: 1.5pt; text-align: left; width: 2%">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; text-align: center; width: 49%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name of each exchange on which&nbsp;each class is to be registered</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Common stock, par value $0.0001 per share</B></FONT></TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>The Nasdaq Stock Market</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">If this form relates to the registration of a class
+of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c), check the following
+box. &#9746;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">If this form relates to the registration of a class
+of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d), please check the following
+box. &#9744;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">Securities Act registration statement file number
+to which this form relates: <B>No. 333-261877</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">Securities to be registered pursuant to Section 12(g)
+of the Act: <B>None.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>INFORMATION REQUIRED IN
+REGISTRATION STATEMENT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>&nbsp;</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.75in; text-align: left"><B>Item&nbsp;1.</B></TD><TD STYLE="text-align: justify"><B>Description of Registrant&rsquo;s Securities to be Registered.</B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left; text-indent: 24.5pt">Mobile Global Esports Inc. (the
+&ldquo;Company&rdquo;) is authorized to issue 110,000,000 shares of capital stock, 100,000,000 of which are shares of common stock, par
+value of $0.0001 per share (the &ldquo;Common Stock&rdquo;), and 10,000,000 of which are shares of preferred stock, no par value. At July
+28, 2022, the Company had 16,809,800 shares of Common Stock outstanding and no shares of preferred stock outstanding.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left; text-indent: 24.5pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B>Description of Common Stock</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left; text-indent: 24.5pt">Each share of Common Stock has
+the same relative rights as, and is identical in all respects to, each other share of Common Stock.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left; text-indent: 24.5pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B>Dividends</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left; text-indent: 24.5pt">The holders of Common Stock
+are entitled to receive and share equally in such dividends, if any, as may be declared by the Board of Directors of the Company.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left; text-indent: 24.5pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B>Voting Rights</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left; text-indent: 24.5pt">The holders of Common Stock
+are generally entitled to one vote per share. Holders of Common Stock are not entitled to cumulate their votes in the election of directors.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left; text-indent: 24.5pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B>Liquidation</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left; text-indent: 24.5pt">In the event of the Company&rsquo;s
+liquidation, dissolution or winding up, the holders of its Common Stock would be entitled to receive, after payment or provision for payment
+of all its debts and liabilities and the holders of any preferred stock, all of its assets available for distribution.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left; text-indent: 24.5pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B>No Preemptive or Redemption Rights</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left; text-indent: 24.5pt">Holders of Common Stock are
+not entitled to preemptive rights with respect to any shares that may be issued. The Common Stock is not subject to redemption.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left; text-indent: 24.5pt">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.75in; text-align: left"><B>Item&nbsp;2.</B></TD><TD STYLE="text-align: justify"><B>Exhibits.</B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: Black 1.5pt solid; width: 9%; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Exhibit No.</B></FONT></TD>
+    <TD STYLE="padding-bottom: 1.5pt; width: 1%; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; width: 90%; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Description</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">3.1</FONT></TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: left"><A HREF="http://www.sec.gov/Archives/edgar/data/1886362/000121390021067331/ea152859ex3-1_mobile.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Articles of Incorporation of Mobile Global Esports Inc. (incorporated by reference to Exhibit 3.1 to the Registrant&rsquo;s S-1 Registration Statement filed on December 23, 2021)</FONT></A></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">3.2</FONT></TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1886362/000121390021067331/ea152859ex3-2_mobile.htm">Bylaws of Mobile Global Esports Inc. (incorporated by reference to Exhibit 3.2 to the Registrant&rsquo;s S-1 Registration statement filed on December 23, 2021)</A></FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">4.1&nbsp;</FONT></TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A HREF="http://www.sec.gov/Archives/edgar/data/1886362/000121390021067331/ea152859ex4-1_mobile.htm">Form of Specimen Common Stock Certificate of the Registrant (incorporated by reference to Exhibit 4.1 to the Registrant&rsquo;s S-1 Registration Statement filed on December 23, 2021)</A></FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SIGNATURE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left; text-indent: 0.5in">Pursuant to the requirements
+of Section&nbsp;12 of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this registration statement to be
+signed on its behalf by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>MOBILE GLOBAL ESPORTS INC.</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 60%; text-align: left">&nbsp;</TD>
+    <TD STYLE="width: 4%; text-align: left">&nbsp;</TD>
+    <TD STYLE="width: 36%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-bottom: 1.5pt; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date:&nbsp; July 28, 2022</FONT></TD>
+    <TD STYLE="padding-bottom: 1.5pt; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By: </FONT></TD>
+    <TD STYLE="white-space: nowrap; border-bottom: black 1.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ David Pross</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: left">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">David Pross</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief Executive Officer</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">2</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

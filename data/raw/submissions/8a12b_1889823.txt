@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001062993-22-023416.txt : 20221206
+<SEC-HEADER>0001062993-22-023416.hdr.sgml : 20221206
+<ACCEPTANCE-DATETIME>20221206161817
+ACCESSION NUMBER:		0001062993-22-023416
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20221206
+DATE AS OF CHANGE:		20221206
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KWESST Micro Systems Inc.
+		CENTRAL INDEX KEY:			0001889823
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41566
+		FILM NUMBER:		221448007
+
+	BUSINESS ADDRESS:	
+		STREET 1:		155 TERENCE MATTHEWS CRESCENT, UNIT #1
+		CITY:			KANATA
+		STATE:			A6
+		ZIP:			K2M 2A8
+		BUSINESS PHONE:		613-319-0537
+
+	MAIL ADDRESS:	
+		STREET 1:		155 TERENCE MATTHEWS CRESCENT, UNIT #1
+		CITY:			KANATA
+		STATE:			A6
+		ZIP:			K2M 2A8
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>form8a12b.htm
+<DESCRIPTION>FORM 8-A12B
+<TEXT>
+<html>
+
+<head>
+    <title>KWESST Micro Systems Inc.: Form 8-A12B - Filed by newsfilecorp.com</title>
+</head>
+
+<body style="font-size:10pt; font-family:'Times New Roman';">
+    <hr width="100%" size="3" color="black" noshade="noshade"><a name="page_1"></a>
+    <p style="margin-bottom: 0pt; text-align: center;"><font style="font-size: 18pt;"><b>UNITED STATES </b></font></p>
+    <p style="margin-top: 0pt; margin-bottom: 0pt; text-align: center;"><b><font style="font-size: 18pt;">SECURITIES AND EXCHANGE COMMISSION</font> </b></p>
+    <p style="margin-top: 0pt; text-align: center;">Washington, D.C. 20549</p>
+    <p style="text-align: center;"><font style="font-size: 18pt;"><b>FORM 8-A</b></font></p>
+    <p style="margin-bottom: 0pt; text-align: center;"><b>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES </b></p>
+    <p style="margin-top: 0pt; margin-bottom: 0pt; text-align: center;"><b>PURSUANT TO SECTION 12(b) OR (g) OF </b></p>
+    <p style="margin-top: 0pt; text-align: center;"><b>THE SECURITIES EXCHANGE ACT OF 1934 </b></p>
+    <p style="margin-bottom: 0pt; text-align: center;"><u><font style="font-size: 18pt;"><b>KWESST MICRO SYSTEMS INC.</b></font></u></p>
+    <p style="margin-top: 0pt; text-align: center;">(Exact name of registrant as specified in its charter)s</p>
+    <table style="width: 100%; border-collapse: collapse; font-size: 10pt;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="vertical-align: top; width: 50%; text-align: center; padding-left: 5.4pt; padding-right: 5.4pt;"><u><b>British Columbia</b></u></td>
+            <td style="vertical-align: top; width: 50%; text-align: center; padding-left: 5.4pt; padding-right: 5.4pt;"><u><b>98-1650180</b></u></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top; width: 50%; text-align: center; padding-left: 5.4pt; padding-right: 5.4pt;">(State or other jurisdiction of incorporation or organization)</td>
+            <td style="vertical-align: top; width: 50%; text-align: center; padding-left: 5.4pt; padding-right: 5.4pt;">(I.R.S. Employer Identification No.)</td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%; padding-left: 5.4pt; padding-right: 5.4pt;">&#160;</td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%; padding-left: 5.4pt; padding-right: 5.4pt;">&#160;</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top; width: 50%; text-align: center; padding-left: 5.4pt; padding-right: 5.4pt;"><b>155 Terence Matthews Crescent,</b><br><u><b>Unit #1, Ottawa, Ontario, Canada</b></u></td>
+            <td style="width: 50%; text-align: center; vertical-align: bottom; padding-left: 5.4pt; padding-right: 5.4pt;"><u><b>K2M 2A8</b></u></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top; width: 50%; text-align: center; padding-left: 5.4pt; padding-right: 5.4pt;">(Address of principal executive offices)</td>
+            <td style="vertical-align: bottom; width: 50%; text-align: center; padding-left: 5.4pt; padding-right: 5.4pt;">(Zip Code)</td>
+        </tr>
+    </table>
+    <p style="text-align: center;"><b>Securities to be registered pursuant to Section 12(b) of the Act: </b></p>
+    <table style="width: 100%; border-collapse: collapse; font-size: 10pt;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="vertical-align: bottom; width: 49%; text-align: center; border-bottom: 0.75pt solid #000000; white-space: nowrap;"><b>Title of each class</b><br><b>to be so registered</b></td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; white-space: nowrap;">&#160;</td>
+            <td style="vertical-align: bottom; width: 49%; text-align: center; border-bottom: 0.75pt solid #000000; white-space: nowrap;"><b>Name of each exchange on which</b><br><b> to be registered </b></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top; width: 49%; text-align: center;"><b>Common Shares, no par value</b></td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt;">&#160;</td>
+            <td style="vertical-align: top; width: 49%; text-align: center;"><b>The Nasdaq Stock Market LLC</b></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top; width: 49%; text-align: center;">&#160;</td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt;">&#160;</td>
+            <td style="vertical-align: top; width: 49%; text-align: center;">&#160;</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top; width: 49%; text-align: center;"><b>Warrants to purchase Common Shares</b></td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt;">&#160;</td>
+            <td style="vertical-align: top; width: 49%; text-align: center;"><b>The Nasdaq Stock Market LLC</b></td>
+        </tr>
+    </table>
+    <p style="text-align: justify;">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box.&#160; &#9746;</p>
+    <p style="text-align: justify;">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box.&#160; &#9744;</p>
+    <p style="text-align: justify;">If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box.&#160; &#9744;</p>
+    <p style="text-align: justify;">Securities Act registration statement or Regulation A offering statement file number to which this form relates: File No. 333-266897</p>
+    <p style="text-align: justify;">Securities to be registered pursuant to Section 12(g) of the Act:</p>
+    <p style="margin-bottom: 0pt; text-align: center;"><b>None </b></p>
+    <p style="margin-top: 0pt; text-align: center;"><b>(Title of Class) </b></p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_2"></a>
+    <p style="text-align: center;"><b>INFORMATION REQUIRED IN REGISTRATION STATEMENT </b></p>
+    <p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;"><b>Item 1.<font style="display: inline-block; width: 20pt;">&#160;</font></b><b>Description of Registrant's Securities to be Registered. </b></p>
+    <p style="text-align: justify;">The description of the common shares, no par value (the "Common Shares"), and warrants to purchase Common Shares (the "Warrants"), of KWESST Micro Systems Inc. (the "Registrant") under the sections entitled "Description of Securities", "Financial Information", "Material Canadian Federal Income Tax Considerations", and "Additional Information" in the prospectus included in the Registrant's Registration Statement on Form F-1 (File No. 333-266897), as initially filed with the Securities and Exchange Commission on August 16, 2022, including exhibits, and as subsequently amended (the "Registration Statement"), is hereby incorporated by reference. Any form of prospectus that constitutes part of the Registration Statement and is subsequently filed by the Registrant pursuant to Rule 424(b) under the United States Securities Act of 1933, as amended, shall be deemed to be incorporated by reference herein.</p>
+    <p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;"><b>Item 2.<font style="display: inline-block; width: 20pt;">&#160;</font></b><b>Exhibits. </b></p>
+    <p style="text-align: justify;">Pursuant to the Instructions as to Exhibits for Form 8-A, no exhibits are required to be filed because no other securities of the Registrant are registered on The Nasdaq Stock Market LLC and the securities registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_4"></a>
+    <p style="text-align: center;"><b>SIGNATURE </b></p>
+    <p style="text-align: justify;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.<br><br></p>
+    <table style="width: 100%; border-collapse: collapse; font-size: 10pt;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt;">
+                <p>Date: December 6, 2022</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt;" colspan="2">
+                <p><b>KWESST Micro Systems Inc.</b></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 2%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 48%;">
+                <p>&#160;</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 2%; padding-right: 5.4pt;">
+                <p>By:</p>
+            </td>
+            <td style="vertical-align: top; width: 48%;">
+                <p style="border-bottom: 0.75pt solid #000000; margin-top: 0pt; margin-bottom: 0pt;">/s/ <i>Jeffrey MacLeod</i>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 2%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-bottom: 0pt; width: 48%;">
+                <p>Jeffrey MacLeod<br>Chief Executive Officer</p>
+            </td>
+        </tr>
+    </table>
+    <p style="text-align: center;">3</p>
+    <hr width="100%" size="5" color="black" noshade="noshade">
+</body>
+
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,124 @@
+"""
+Stage 4 - Export CSV deliverables from the SQLite database.
+
+Outputs (build/):
+  nasdaq_ipo_board_diversity_applicability.csv   one row per candidate IPO event
+  field_provenance.csv                            cell-level audit trail
+  source_manifest.csv                             sources table
+  edge_case_review.csv                            confidence<0.8 / edge / unresolved
+  validation_issues.csv                           all validation checks fired
+"""
+from __future__ import annotations
+import csv
+import os
+import sqlite3
+
+import config as C
+
+MAIN_SQL = """
+SELECT
+  c.cik                         AS cik,
+  e.ticker                      AS ticker,
+  c.legal_name                  AS legal_name,
+  c.index_name                  AS index_name,
+  c.former_names                AS former_names,
+  e.exchange                    AS exchange,
+  e.market_tier                 AS market_tier,
+  e.security_type               AS security_type,
+  c.issuer_type                 AS issuer_type,
+  c.is_fpi                      AS is_fpi,
+  c.country                     AS country,
+  c.state_of_incorp_desc        AS state_of_incorporation,
+  c.sic                         AS sic,
+  c.sic_description             AS sic_description,
+  c.entity_type                 AS sec_entity_type,
+  e.nasdaq_listing_date         AS nasdaq_listing_date,
+  e.date_basis                  AS listing_date_basis,
+  e.pricing_date                AS pricing_date,
+  e.prospectus_form             AS prospectus_form,
+  e.prospectus_filing_date      AS prospectus_filing_date,
+  e.reg_8a12b_date              AS reg_8a12b_date,
+  e.s1_f1_first_date            AS s1_f1_first_date,
+  e.sec_effectiveness_date      AS sec_effectiveness_date,
+  a.is_operating_company        AS is_operating_company,
+  a.is_spac                     AS is_spac,
+  a.is_fund                     AS is_fund,
+  a.is_etf_etp                  AS is_etf_etp,
+  a.is_asset_backed             AS is_asset_backed,
+  a.is_limited_partnership      AS is_limited_partnership,
+  a.is_excluded                 AS is_excluded,
+  a.exclusion_reason            AS exclusion_reason,
+  a.in_scope_nasdaq             AS in_scope_nasdaq,
+  a.initial_matrix_due_date     AS initial_matrix_due_date,
+  a.broad_cohort                AS broad_cohort,
+  a.narrow_matured_cohort       AS narrow_matured_cohort,
+  a.edge_case                   AS edge_case,
+  a.confidence                  AS confidence,
+  e.listing_confidence          AS listing_confidence,
+  a.notes                       AS notes
+FROM companies c
+JOIN ipo_events e        ON e.cik = c.cik
+JOIN rule_applicability a ON a.cik = c.cik
+ORDER BY a.in_scope_nasdaq DESC, e.nasdaq_listing_date
+"""
+
+
+def dump(cur, sql, path, source_ids="SRC_EDGAR_FULLINDEX;SRC_EDGAR_SUBMISSIONS;SRC_NASDAQ_SYMDIR"):
+    cur.execute(sql)
+    cols = [d[0] for d in cur.description]
+    rows = cur.fetchall()
+    with open(path, "w", newline="") as f:
+        w = csv.writer(f)
+        header = cols + (["source_ids"] if source_ids is not None else [])
+        w.writerow(header)
+        for r in rows:
+            w.writerow(list(r) + ([source_ids] if source_ids is not None else []))
+    return len(rows)
+
+
+def main():
+    con = sqlite3.connect(C.SQLITE_PATH)
+    cur = con.cursor()
+
+    n = dump(cur, MAIN_SQL, os.path.join(C.BUILD, "nasdaq_ipo_board_diversity_applicability.csv"))
+    print(f"applicability.csv: {n} rows")
+
+    n = dump(cur, "SELECT * FROM field_provenance ORDER BY target_table,row_key,column_name",
+             os.path.join(C.BUILD, "field_provenance.csv"), source_ids=None)
+    print(f"field_provenance.csv: {n} rows")
+
+    n = dump(cur, "SELECT * FROM sources ORDER BY kind,source_id",
+             os.path.join(C.BUILD, "source_manifest.csv"), source_ids=None)
+    print(f"source_manifest.csv: {n} rows")
+
+    # edge_case_review: low confidence OR edge OR unresolved exchange OR unverified
+    edge_sql = """
+    SELECT c.cik,e.ticker,c.legal_name,e.exchange,e.market_tier,e.security_type,
+           e.nasdaq_listing_date,a.initial_matrix_due_date,a.in_scope_nasdaq,
+           a.broad_cohort,a.narrow_matured_cohort,a.edge_case,a.exclusion_reason,
+           a.confidence,a.notes,
+           CASE
+             WHEN a.edge_case=1 THEN 'edge_date_2024-12-11'
+             WHEN a.confidence < 0.8 THEN 'confidence_below_0.8'
+             WHEN a.in_scope_nasdaq=1 AND e.security_type LIKE '%unverified%'
+                  THEN 'in_scope_security_type_unverified'
+             ELSE 'other' END AS review_reason
+    FROM companies c
+    JOIN ipo_events e ON e.cik=c.cik
+    JOIN rule_applicability a ON a.cik=c.cik
+    WHERE a.confidence < 0.8 OR a.edge_case=1
+          OR (a.in_scope_nasdaq=1 AND e.security_type LIKE '%unverified%')
+    ORDER BY a.confidence, e.nasdaq_listing_date
+    """
+    n = dump(cur, edge_sql, os.path.join(C.BUILD, "edge_case_review.csv"), source_ids=None)
+    print(f"edge_case_review.csv: {n} rows")
+
+    n = dump(cur, "SELECT * FROM validation_issues ORDER BY severity,rule,cik",
+             os.path.join(C.BUILD, "validation_issues.csv"), source_ids=None)
+    print(f"validation_issues.csv: {n} rows")
+
+    con.close()
+
+
+if __name__ == "__main__":
+    main()

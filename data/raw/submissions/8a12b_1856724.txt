@@ -1,0 +1,285 @@
+<SEC-DOCUMENT>0001140361-21-039951.txt : 20211201
+<SEC-HEADER>0001140361-21-039951.hdr.sgml : 20211201
+<ACCEPTANCE-DATETIME>20211201115917
+ACCESSION NUMBER:		0001140361-21-039951
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211201
+DATE AS OF CHANGE:		20211201
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bullpen Parlay Acquisition Co
+		CENTRAL INDEX KEY:			0001856724
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41111
+		FILM NUMBER:		211461965
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O BULLPEN CAPITAL
+		STREET 2:		215 2ND ST
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+		BUSINESS PHONE:		415-649-6923
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BULLPEN CAPITAL
+		STREET 2:		215 2ND ST
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>nt10022668x5_8a12b.htm
+<DESCRIPTION>FORM 8-A12B
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using EDGARfilings PROfile 7.7.0.0
+         Copyright 1995 - 2021 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <hr style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center">
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">UNITED STATES</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 12pt; font-weight: bold;">WASHINGTON, D.C. 20549</div>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; width: 20%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 18pt; font-weight: bold;">FORM 8-A</div>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; width: 20%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+    <div style="text-align: center; font-weight: bold;">PURSUANT TO SECTION 12(b) OR (g) OF</div>
+    <div style="text-align: center; font-weight: bold;">THE SECURITIES EXCHANGE ACT OF 1934</div>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; width: 20%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 24pt; font-weight: bold;">Bullpen Parlay Acquisition Company</div>
+    <div style="text-align: center;">(Exact name of registrant as specified in its charter)</div>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; width: 20%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zb1d2aa771a8a4ae184148998d27e9f32" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Cayman Islands</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">98-1594916</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center;">(State or other jurisdiction of incorporation or organization)</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center;">(I.R.S. Employer Identification No.)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">215 2nd St, Floor 3</div>
+            <div style="text-align: center; font-weight: bold;">San Francisco, CA</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">94105</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center;">(Address of principal executive offices)</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center;">(Zip Code)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section 12(b) of the Act:</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zb35913e1224c42d69f6a8a669180eaa3" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);" nowrap="nowrap">
+            <div>
+              <div style="text-align: center; font-weight: bold;">Title of each class to be so registered</div>
+            </div>
+          </td>
+          <td style="width: 50%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);">
+            <div>
+              <div style="text-align: center; font-weight: bold;">Name of each exchange on which each class is to be registered</div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Units, consisting of one share of Class A ordinary share, and one-half of one redeemable Warrant</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">The Nasdaq Stock Market LLC</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Class A ordinary share, par value $0.0001 per share</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">The Nasdaq Stock Market LLC</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Redeemable warrants, each whole warrant exercisable for one share of Class A ordinary share at an exercise price of $11.50</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">The Nasdaq Stock Market LLC</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; width: 20%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General
+      Instruction A.(c) or (e), check the following box. &#9746;</div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General
+      Instruction A.(d) or (e), check the following box. &#9744;</div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">Securities Act registration statement or Regulation A offering statement file number to which this form relates:</div>
+    <div style="text-align: center; font-weight: bold;">333-261135</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section 12(g) of the Act:</div>
+    <div style="text-align: center; font-weight: bold;">None
+      <hr style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; margin-left: auto; margin-right: auto;" align="center"></div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+      <div style="page-break-after:always;" id="DSPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div><font style="font-weight: bold;">Item 1.</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="font-weight: bold;">Description
+        of Registrant&#8217;s Securities to be Registered</font></div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">The securities to be registered hereby are the units, Class A ordinary shares, par value $0.0001 per share, and redeemable warrants to purchase Class A
+      ordinary shares of Bullpen Parlay Acquisition Company (the &#8220;<font style="font-weight: bold;">Company</font>&#8221;). The description of the units, Class A ordinary shares, and warrants
+      contained in the section entitled &#8220;Description of Securities&#8221; in the prospectus included in the Company&#8217;s Registration Statement on Form S-1 (File No. 333-261135) filed with the U.S. Securities and Exchange Commission on November 17, 2021, as amended
+      from time to time (the &#8220;<font style="font-weight: bold;">Registration Statement</font>&#8221;), to which this Form 8-A relates, is incorporated herein by reference. Any form of prospectus or
+      prospectus supplement to the Registration Statement that includes such descriptions and that is subsequently filed is also incorporated by reference herein.</div>
+    <div><br>
+    </div>
+    <div><font style="font-weight: bold;">Item 2.</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="font-weight: bold;">Exhibits</font></div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">Pursuant to the Instructions as to Exhibits for Form 8-A, no exhibits are required to be filed, because no other securities of the Registrant are
+      registered on The Nasdaq Stock Market LLC, and the securities registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act, as amended.</div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+      <div style="page-break-after:always;" id="DSPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div style="text-align: center; font-weight: bold;">SIGNATURE</div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this registration statement
+      to be signed on its behalf by the undersigned, thereto duly authorized.</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z3f1ce1ddb4934be4a8611ed8312b952b" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: justify;">Date: December 1, 2021</div>
+          </td>
+          <td colspan="3" style="vertical-align: top;">
+            <div style="text-align: justify; font-weight: bold;">BULLPEN PARLAY ACQUISITION COMPANY</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">&#160;</td>
+          <td style="width: 40%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">
+            <div style="text-align: justify;">By:</div>
+          </td>
+          <td colspan="2" style="vertical-align: top; border-bottom: 2px solid black;">
+            <div style="text-align: justify;">/s/ David VanEgmond</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">
+            <div style="text-align: justify;">Name:</div>
+          </td>
+          <td style="width: 40%; vertical-align: top;">
+            <div style="text-align: justify;">David VanEgmond</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">
+            <div style="text-align: justify;">Title:</div>
+          </td>
+          <td style="width: 40%; vertical-align: top;">
+            <div style="text-align: justify;">Chief Executive Officer</div>
+          </td>
+        </tr>
+
+    </table>
+    <div>
+      <hr style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

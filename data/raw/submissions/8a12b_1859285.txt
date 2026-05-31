@@ -1,0 +1,266 @@
+<SEC-DOCUMENT>0000950142-21-003366.txt : 20211028
+<SEC-HEADER>0000950142-21-003366.hdr.sgml : 20211028
+<ACCEPTANCE-DATETIME>20211028102257
+ACCESSION NUMBER:		0000950142-21-003366
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211028
+DATE AS OF CHANGE:		20211028
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HireRight Holdings Corp
+		CENTRAL INDEX KEY:			0001859285
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40982
+		FILM NUMBER:		211355775
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 CENTERVIEW DRIVE
+		STREET 2:		SUITE 300
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37214
+		BUSINESS PHONE:		615-320-9800
+
+	MAIL ADDRESS:	
+		STREET 1:		100 CENTERVIEW DRIVE
+		STREET 2:		SUITE 300
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37214
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HireRight GIS Group Holdings, LLC
+		DATE OF NAME CHANGE:	20210427
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>eh210196026_8a12b.htm
+<DESCRIPTION>FORM 8-A12B
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 12pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0; text-align: center"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<P STYLE="font: 16pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-align: center"><B>FORM 8-A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-align: center"><B>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES<BR>
+PURSUANT TO SECTION 12(b) OR (g)&nbsp;OF THE<BR>
+SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 16pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-align: center"><B>HIRERIGHT HOLDINGS CORPORATION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">(Exact name of registrant as specified in its charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: top; text-align: center; width: 48%"><FONT STYLE="font-size: 10pt"><B>Delaware</B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 5%">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: top; text-align: center; width: 47%"><FONT STYLE="font-size: 10pt"><B>82-1092072</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt">(State or other jurisdiction of <BR>
+incorporation or organization) </FONT></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt">(I.R.S. Employer<BR>
+Identification No.)</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: center">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: center">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: top">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>100 Centerview Drive</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Suite 300</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Nashville, Tennessee</B></P></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center; vertical-align: bottom">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B><BR>
+    <BR>
+    </B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>37214</B></P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt">(Address of principal executive offices) </FONT></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt">(Zip Code)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><BR>
+Securities to be registered pursuant to Section 12(b) of the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: top; text-align: center; width: 48%"><FONT STYLE="font-size: 10pt">Title of each class <BR>
+to be registered </FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 5%">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: top; text-align: center; width: 47%"><FONT STYLE="font-size: 10pt">Name of each exchange on which<BR>
+each class is to be registered</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt">Common stock, par value $0.001 per share </FONT></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt">The New York Stock Exchange</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 6pt 0 0"><BR>
+If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant
+to General Instruction A.(c), check the following box. <FONT STYLE="font-family: Wingdings">&#254;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 6pt 0 0">If this form relates to the registration of a class of securities
+pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d), check the following box. <FONT STYLE="font-family: Wingdings">&#168;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 6pt 0 0">Securities Act registration statement file number to which this form
+relates (if applicable): 333-260079</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 6pt 0 0">Securities to be registered pursuant to Section 12(g) of the Act:
+None</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; margin-right: 0; margin-left: 0">INFORMATION REQUIRED IN
+REGISTRATION STATEMENT</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> <B>Item 1.</B> <B>Description of Registrant&rsquo;s Securities to be Registered.</B></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-indent: 0.5in">The securities to be registered hereby are shares
+of common stock, par value $0.001 per share, of HireRight Holdings Corporation (the &ldquo;<U>Registrant</U>&rdquo;). The information
+required by this Item 1 is incorporated herein by reference to the information set forth under &ldquo;Description of Capital Stock&rdquo;
+in the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-260079) under the Securities Act of 1933, as amended, as filed
+with the Securities and Exchange Commission on October 6, 2021, and as amended on October 20, 2021 and October 22, 2021 (the &ldquo;<U>S-1
+Registration Statement</U>&rdquo;). Such information also will appear in the Registrant&rsquo;s prospectus that forms a part of the S-1
+Registration Statement, and such prospectus is incorporated herein by reference.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0"><B>Item 2. Exhibits.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-indent: 0.5in">Not applicable.</P>
+
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin: 0; text-indent: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0">&nbsp;</P>
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0; text-align: center"><B>SIGNATURE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 6pt 0 0; text-indent: 0.5in">Pursuant to the requirements of Section 12 of
+the Securities and Exchange Act of 1934, as amended, the Registrant has duly caused this registration statement to be signed on its behalf
+by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0">Date: October 28, 2021</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="width: 55%">&nbsp;</TD>
+    <TD STYLE="width: 5%"><FONT STYLE="font-size: 10pt; color: Black">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 5%"><FONT STYLE="font-size: 10pt; color: Black">&nbsp;</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-size: 10pt; color: Black">&nbsp;</FONT></TD>
+    <TD STYLE="width: 10%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-size: 10pt; color: Black"><B>HIRERIGHT HOLDINGS CORPORATION</B></FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt; color: Black">&nbsp;</FONT></TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt; color: Black">&nbsp;</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt; color: Black">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="vertical-align: bottom"><P STYLE="border-bottom: black 0.75pt solid; font: 10pt Times New Roman, Times, Serif; margin: 0 0 1pt"><FONT STYLE="font-size: 10pt; color: Black">/s/ Brian Copple</FONT></P>
+
+</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt; color: Black">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: Black">Name:</FONT></TD>
+    <TD STYLE="vertical-align: top">Brian Copple</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt; color: Black">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: left; vertical-align: top"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: Black">Title:</FONT></TD>
+    <TD STYLE="vertical-align: top">General Counsel and Secretary</TD>
+    <TD>&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

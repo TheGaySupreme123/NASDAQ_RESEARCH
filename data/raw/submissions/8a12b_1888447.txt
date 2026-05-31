@@ -1,0 +1,308 @@
+<SEC-DOCUMENT>0001140361-22-013730.txt : 20220408
+<SEC-HEADER>0001140361-22-013730.hdr.sgml : 20220408
+<ACCEPTANCE-DATETIME>20220408120817
+ACCESSION NUMBER:		0001140361-22-013730
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20220408
+DATE AS OF CHANGE:		20220408
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Excelerate Energy, Inc.
+		CENTRAL INDEX KEY:			0001888447
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS DISTRIBUTION [4924]
+		IRS NUMBER:				872878691
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41352
+		FILM NUMBER:		22816092
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2445 TECHNOLOGY FOREST BLVD.
+		STREET 2:		LEVEL 6
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77381
+		BUSINESS PHONE:		8328137100
+
+	MAIL ADDRESS:	
+		STREET 1:		2445 TECHNOLOGY FOREST BLVD.
+		STREET 2:		LEVEL 6
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77381
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ny20000051x14_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using EDGARfilings PROfile 8.1.1.0
+         Copyright 1995 - 2022 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <font style="font-family: 'Times New Roman',Times,serif;"> </font>
+  <div>
+    <div>
+      <div style="font-family: 'Times New Roman',Times,serif;">
+        <hr style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center"></div>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">UNITED STATES</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 12pt; font-weight: bold;">Washington, D.C. 20549</div>
+    <div>
+      <div style="font-family: 'Times New Roman',Times,serif;"><br>
+      </div>
+      <div style="font-family: 'Times New Roman',Times,serif;">
+        <hr style="height: 1px; width: 15%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+      <div style="text-align: center; margin-right: 228.25pt; margin-left: 228.25pt; font-family: 'Times New Roman',Times,serif;">&#160;</div>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 18pt; font-weight: bold;">FORM&#160;8-A</div>
+    <div>&#160;</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">PURSUANT TO SECTION&#160;12(b)&#160;or (g)&#160;OF THE</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-weight: bold;">SECURITIES EXCHANGE ACT OF 1934</div>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+    <div>
+      <div style="font-family: 'Times New Roman',Times,serif;">
+        <hr style="height: 1px; width: 15%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+      <div style="text-align: center; margin-right: 228.25pt; margin-left: 228.25pt; font-family: 'Times New Roman',Times,serif;">&#160;</div>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 24pt; font-weight: bold;">Excelerate Energy, Inc.</div>
+    <div style="text-align: center; font-weight: bold;">(Exact name of Registrant as specified in its charter)</div>
+    <div>
+      <div style="font-family: 'Times New Roman',Times,serif;"><br>
+      </div>
+      <div style="text-align: center;">
+        <hr style="height: 1px; width: 15%; color: #000000; background-color: #000000; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    </div>
+    <div>&#160;</div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zdf86c022d67a457993328571b534452d" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 33.33%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center; font-weight: bold;">Delaware</div>
+          </td>
+          <td rowspan="2" style="width: 33.33%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">&#160;</td>
+          <td style="width: 33.33%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center; font-weight: bold;">87-2878691</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 33.33%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center; font-weight: bold;">(State or other jurisdiction of<br>
+              incorporation or organization)</div>
+          </td>
+          <td style="width: 33.33%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">(I.R.S. Employer</div>
+            <div style="text-align: center; font-weight: bold;">Identification Number)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z52ada1c2bb754279a2e4797a21dbbbc6" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 33.33%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">2445 Technology Forest Blvd., Level 6</div>
+            <div style="text-align: center; font-weight: bold;">The Woodlands, TX</div>
+          </td>
+          <td rowspan="2" style="width: 33.33%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">&#160;</td>
+          <td style="width: 33.33%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center; font-weight: bold;">77381</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 33.33%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center; font-weight: bold;">(Address of Principal Executive Officer)</div>
+          </td>
+          <td style="width: 33.33%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center; font-weight: bold;">(Zip Code)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="text-align: center;"> <br>
+    </div>
+    <div style="text-align: center;">Securities to be registered pursuant to Section 12(b) of the Act:</div>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z954bfc4757634ae3bc464f082d670a2e" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 49%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center; font-weight: bold;">Title&#160;of&#160;each&#160;class<br>
+              to&#160;be&#160;so&#160;registered</div>
+          </td>
+          <td style="width: 2%; vertical-align: bottom; font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center; font-weight: bold;">&#160;</div>
+          </td>
+          <td style="width: 49%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center; font-weight: bold;">Name&#160;of&#160;each&#160;exchange&#160;on&#160;which<br>
+              each&#160;class&#160;is&#160;to&#160;be&#160;registered</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 49%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center;">Class&#160;A common stock,<br>
+              par value $0.001 per share</div>
+          </td>
+          <td style="width: 2%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 49%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div style="text-align: center;">New York Stock Exchange</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+    <div>If this form relates to the registration of a class of securities pursuant to Section&#160;12(b)&#160;of the Exchange Act and is effective pursuant to General Instruction A.(c)&#160;or (e), check the following box. &#9746;</div>
+    <div>&#160;</div>
+    <div>If this form relates to the registration of a class of securities pursuant to Section&#160;12(g)&#160;of the Exchange Act and is effective pursuant to General Instruction A.(d)&#160;or (e), check the following box. &#9744;</div>
+    <div>&#160;</div>
+    <div>If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</div>
+    <div>&#160;</div>
+    <div>Securities Act registration statement or Regulation A offering statement file number to which this form relates:&#160;&#160; 333-262065.</div>
+    <div>&#160;</div>
+    <div>Securities to be registered pursuant to Section&#160;12(g)&#160;of the Act:&#160;None</div>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+    <div>
+      <div style="font-family: 'Times New Roman',Times,serif;">
+        <hr style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center"></div>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+      <div style="page-break-after:always;" id="DSPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div><font style="font-weight: bold;">Item 1.</font><font style="font-family: 'Times New Roman',Times,serif;">&#160;&#160;&#160;<font style="font-weight: bold;">Description of Registrant&#8217;s Securities to be Registered.</font></font></div>
+    <div>&#160;</div>
+    <div style="text-indent: 36pt;">Excelerate Energy, Inc. (the &#8220;Registrant&#8221;) hereby incorporates by reference the description of its Class&#160;A common stock, par value $0.001 per share, to be registered hereunder contained under the heading &#8220;Description of
+      Capital Stock&#8221; in the Registration Statement on Form&#160;S-1 (File No.&#160;333-262065), as originally filed with the Securities and Exchange Commission (the &#8220;Commission&#8221;) on January 7, 2022 (as amended from time to time, the &#8220;Registration Statement&#8221;), and in
+      the prospectus included in the Registration Statement to be filed separately by the Registrant with the Commission pursuant to Rule&#160;424(b)&#160;under the Securities Act of 1933, as amended, which prospectus shall be deemed to be incorporated by reference
+      herein.</div>
+    <div>&#160;</div>
+    <div><font style="font-weight: bold;">Item 2.</font><font style="font-family: 'Times New Roman',Times,serif;">&#160;&#160;&#160;<font style="font-weight: bold;">Exhibits.</font></font></div>
+    <div>&#160;</div>
+    <div style="text-indent: 36pt;">Pursuant to the Instructions as to Exhibits with respect to Form&#160;8-A,&#160;no exhibits are required to be filed as part of this registration statement because no other securities of the Registrant are registered on the New
+      York Stock Exchange and the securities registered hereby are not being registered pursuant to Section&#160;12(g)&#160;of the Securities Exchange Act of 1934, as amended.</div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+      <div style="page-break-after:always;" id="DSPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div style="text-align: center; font-weight: bold;">SIGNATURE</div>
+    <div>&#160;</div>
+    <div>Pursuant to the requirements of Section&#160;12 of the Securities Exchange Act of 1934, the Registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</div>
+    <div>&#160;</div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z1959da8441434e2c85f8753439d9cf7f" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>Dated: April 8, 2022</div>
+          </td>
+          <td colspan="3" style="vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>&#160;</div>
+          </td>
+          <td colspan="3" style="vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div style="font-weight: bold;">&#160;</div>
+          </td>
+          <td style="width: 5%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div style="text-indent: -10pt; margin-left: 10pt; font-weight: bold;">&#160;</div>
+          </td>
+          <td colspan="2" style="vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div style="text-indent: -10pt; margin-left: 10pt; font-weight: bold;">Excelerate Energy, Inc.<br>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 5%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>&#160;</div>
+          </td>
+          <td colspan="2" style="vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 5%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>By:</div>
+          </td>
+          <td colspan="2" style="vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif;">
+            <div>/s/ Steven Kobos</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 5%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 5%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>Name:</div>
+          </td>
+          <td style="width: 40%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>Steven Kobos</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 5%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 5%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>Title:</div>
+          </td>
+          <td style="width: 40%; vertical-align: top; font-family: 'Times New Roman',Times,serif;">
+            <div>President and Chief Executive Officer</div>
+          </td>
+        </tr>
+
+    </table>
+    <div>&#160;</div>
+    <div style="font-family: 'Times New Roman',Times,serif;">
+      <hr style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div style="font-family: 'Times New Roman',Times,serif;"><br>
+    </div>
+  </div>
+  <font style="font-family: 'Times New Roman',Times,serif;"> </font>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

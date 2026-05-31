@@ -1,0 +1,251 @@
+<SEC-DOCUMENT>0001829126-24-004151.txt : 20240613
+<SEC-HEADER>0001829126-24-004151.hdr.sgml : 20240613
+<ACCEPTANCE-DATETIME>20240613094642
+ACCESSION NUMBER:		0001829126-24-004151
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20240613
+DATE AS OF CHANGE:		20240613
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sound Point Meridian Capital, Inc.
+		CENTRAL INDEX KEY:			0001930147
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				882315951
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42131
+		FILM NUMBER:		241040180
+
+	BUSINESS ADDRESS:	
+		STREET 1:		375 PARK AVENUE
+		STREET 2:		33RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10152
+		BUSINESS PHONE:		212.895.2280
+
+	MAIL ADDRESS:	
+		STREET 1:		375 PARK AVENUE
+		STREET 2:		33RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10152
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Sound Point Meridian Capital, LLC
+		DATE OF NAME CHANGE:	20220519
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>soundpoint_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<HTML>
+<HEAD>
+  <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+
+<!-- Field: Rule-Page --><DIV STYLE="width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION<BR>Washington, D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 14pt"><B>FORM 8-A</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>PURSUANT TO SECTION 12(B) OR (G) OF THE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 14pt"><B>Sound Point Meridian Capital, Inc.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">(Exact name of registrant as specified in its charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; text-align: center; width: 49%"><B>Delaware</B></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; vertical-align: bottom; white-space: nowrap; width: 2%; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; width: 49%; text-align: center"><B>88-2315951</B></TD> </TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; vertical-align: top">(State of incorporation or
+    organization)</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; white-space: nowrap; text-align: center; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; vertical-align: top">(IRS Employer Identification No.)</TD> </TR>
+  </TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center; vertical-align: bottom; width: 49%">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>375 Park Avenue, 34th Floor</B></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>New York, NY</B></P> </TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; text-align: center; vertical-align: bottom; width: 2%"></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center; vertical-align: bottom; width: 49%">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>10152</B></P> </TD> </TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; vertical-align: top"><B>(Address of principal executive offices)</B></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; vertical-align: top"><B>(Zip Code)</B></TD> </TR>
+  </TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">Securities to be registered pursuant to Section&nbsp;12(b) of the Act:</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center; vertical-align: bottom; width: 49%"><B>Title of each class to be so registered</B></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; vertical-align: bottom; width: 2%">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center; vertical-align: bottom; width: 49%"><B>Name of each exchange on which each class is to be registered</B></TD> </TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; vertical-align: top">common stock, par value $0.001 per share</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; vertical-align: top">New York Stock Exchange</TD> </TR>
+  </TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: justify; margin: 0">If this Form relates to the registration of a class of securities pursuant to Section&nbsp;12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c), check the following box.&nbsp;&#9745;</P>
+
+<P STYLE="text-align: justify; margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: justify; margin: 0">If this Form relates to the registration of a class of securities pursuant to Section&nbsp;12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d), check the following box.&nbsp;&#9744;</P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0pt; margin-bottom: 0pt; text-align: justify; text-indent: 0.25in">Securities Act registration statement file number to which this form relates: 333-272541</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0pt; margin-bottom: 0pt; text-align: justify; text-indent: 0.25in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0pt; margin-bottom: 0pt; text-align: justify; text-indent: 0.25in">Securities to be registered pursuant to Section&nbsp;12(g) of the Act: None.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+
+
+<!-- Field: Page; Sequence: 1; Options: NewSection; Value: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><P STYLE="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>INFORMATION REQUIRED IN REGISTRATION STATEMENT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Item 1. Description of Registrant&rsquo;s Securities to be Registered.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.25in">The shares (the
+&ldquo;<U>Shares</U>&rdquo;) to be registered hereunder are shares of common stock, par value $0.001 per share, of Sound Point
+Meridian Capital, Inc. (the &ldquo;<U>Registrant</U>&rdquo;). A description of the Shares is contained under the headings
+&ldquo;Summary of Offering,&rdquo; &ldquo;Distribution Policy,&rdquo; &ldquo;Dividend Reinvestment Plan,&rdquo; &ldquo;Description
+of Our Capital Stock&rdquo; and &ldquo;U.S. Federal Income Tax Matters&rdquo; in the prospectus included in the Registrant&rsquo;s
+registration statement on Form N-2, as amended from time to time (&ldquo;<U>Registration Statement</U>&rdquo;), which Registration
+Statement was initially filed with the Securities and Exchange Commission on June&nbsp;9, 2023 under the Securities Act of 1933, as
+amended, and the Investment Company Act of 1940, as amended (Registration Nos. 333-272541 and 811-23881, respectively). The
+description of the Shares contained in the Registration Statement and any form of prospectus or prospectus supplement to the
+Registration Statement that includes such descriptions and that are subsequently filed are hereby incorporated by reference
+herein.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Item 2. Exhibits.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.25in">Pursuant to the Instructions as to Exhibits with respect to Form 8-A, no exhibits are required to be filed because no other securities of the Registrant are registered on the New York Stock Exchange and the securities registered hereby are not being registered pursuant to Section&nbsp;12(g) of the Securities Exchange Act of 1934, as amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><P STYLE="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SIGNATURE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.25in">Pursuant to the requirements of Section&nbsp;12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; vertical-align: top"><B>SOUND POINT MERIDIAN CAPITAL, INC.</B></TD> </TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; vertical-align: top; width: 50%">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; vertical-align: top; width: 5%">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; vertical-align: top; width: 45%">&nbsp;</TD> </TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; vertical-align: top">By:</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left; vertical-align: top">/s/ Ujjaval Desai</TD> </TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; vertical-align: top">Name:</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; vertical-align: top">Ujjaval Desai</TD> </TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; vertical-align: top">Title:</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; vertical-align: top">Chief Executive Officer</TD> </TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0in; text-align: justify">Date: June 13, 2024</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 3; Value: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><P STYLE="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></P></DIV>
+
+    <!-- Field: /Page -->
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,283 @@
+<SEC-DOCUMENT>0001213900-24-003878.txt : 20240117
+<SEC-HEADER>0001213900-24-003878.hdr.sgml : 20240117
+<ACCEPTANCE-DATETIME>20240117060203
+ACCESSION NUMBER:		0001213900-24-003878
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20240117
+DATE AS OF CHANGE:		20240117
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Palmer Square Capital BDC Inc.
+		CENTRAL INDEX KEY:			0001794776
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				843665200
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41920
+		FILM NUMBER:		24536641
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1900 SHAWNEE MISSION PARKWAY
+		STREET 2:		SUITE 315
+		CITY:			MISSION WOODS
+		STATE:			KS
+		ZIP:			66205
+		BUSINESS PHONE:		816-994-3200
+
+	MAIL ADDRESS:	
+		STREET 1:		1900 SHAWNEE MISSION PARKWAY
+		STREET 2:		SUITE 315
+		CITY:			MISSION WOODS
+		STATE:			KS
+		ZIP:			66205
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ea168241_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: bold 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">UNITED
+STATES</FONT></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">SECURITIES
+AND EXCHANGE COMMISSION</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif"><BR>
+<FONT STYLE="font-size: 10pt">Washington, D.C. 20549</FONT></FONT></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: bold 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">FORM
+8-A</FONT></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">FOR
+REGISTRATION OF CERTAIN CLASSES OF SECURITIES</FONT></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">PURSUANT
+TO SECTION 12(B) OR (G) OF THE</FONT></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">SECURITIES
+EXCHANGE ACT OF 1934</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif"><BR>
+</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-weight: normal">&nbsp;</FONT></P>
+
+<P STYLE="font: bold 16pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">Palmer
+Square Capital BDC Inc.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-weight: normal">(Exact
+name of Registrant as specified in Charter)</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-weight: normal">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: Black 1pt solid; width: 49%; text-align: center; font-weight: bold"><FONT STYLE="font-family: Times New Roman, Times, Serif">Maryland</FONT></TD>
+    <TD STYLE="padding-bottom: 1pt; width: 2%"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; width: 49%; text-align: center; font-weight: bold"><FONT STYLE="font-family: Times New Roman, Times, Serif; background-color: white">84-3665200</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">(State
+    of incorporation or organization)</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">(IRS
+    Employer Identification No.)</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD></TR>
+  <TR>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: top"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>1900
+    Shawnee Mission Parkway, Suite 315</B></FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>Mission
+    Woods, KS </B></FONT></P></TD>
+    <TD STYLE="padding-bottom: 1pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: bottom; text-align: center; font-weight: bold"><FONT STYLE="font-family: Times New Roman, Times, Serif">66205</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">(Address
+    of principal executive offices)</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">(Zip
+    Code)</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Securities
+    to be registered pursuant to Section 12(b) of the Act:</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; border-bottom: Black 0.5pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif">Title
+    of each class<BR>
+    to be so registered</FONT></P></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; border-bottom: Black 0.5pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif">Name
+    of each exchange on which<BR>
+    each class is to be registered</FONT></P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">Shares
+    of common stock, $0.001 par value per share</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">New
+    York Stock Exchange </FONT></TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">If
+this Form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant
+to General Instruction A.(c), check the following box.&nbsp;&nbsp;&#9746;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">If
+this Form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant
+to General Instruction A.(d), check the following box.&nbsp;&nbsp;&#9744;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;
+&nbsp; &nbsp;</FONT></P>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">Securities
+Act registration statement file number to which this form relates: 333-274967</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">Securities to be registered pursuant to Section 12(g)
+of the Act: None.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 22.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 22.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 22.5pt"></P>
+
+
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">INFORMATION
+REQUIRED IN REGISTRATION STATEMENT</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif">Item 1.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">Description
+                                            of Registrant&rsquo;s Securities to be Registered.</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0.25in"><FONT STYLE="font-family: Times New Roman, Times, Serif">The
+shares (the &ldquo;<U>Shares</U>&rdquo;) to be registered hereunder are shares of common stock, par value $0.001 per share, of
+Palmer Square Capital BDC Inc. (the &ldquo;<U>Registrant</U>&rdquo;). A description of the Shares is contained under the heading
+&ldquo;Description of Capital Stock&rdquo; in the prospectus included in the Registrant&rsquo;s registration statement on
+Form&nbsp;N-2, which registration statement was originally filed under the Securities Act of 1933, as amended, on October 13, 2023
+and as subsequently amended (Registration No. 333-274967), and such description is incorporated herein by reference.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in; text-align: justify; text-indent: 0.25in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif">Item 2.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">Exhibits.</FONT></TD></TR></TABLE>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0.25in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-weight: normal">Pursuant
+to the Instructions as to Exhibits with respect to Form 8-A, no exhibits are required to be filed because no other securities of the
+Registrant are registered on the New York Stock Exchange and the securities registered hereby are not being registered pursuant to Section&nbsp;12(g)
+of the Securities Exchange Act of 1934, as amended. </FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in; text-align: justify; text-indent: 0.25in">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> <FONT STYLE="font-family: Times New Roman, Times, Serif"><B>SIGNATURE</B></FONT></P>
+
+
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in"><FONT STYLE="font-family: Times New Roman, Times, Serif">Pursuant
+to the requirements of Section&nbsp;12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement
+to be signed on its behalf by the undersigned, thereto duly authorized.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in; text-indent: -0.25in"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">PALMER SQUARE CAPITAL BDC INC.</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; width: 60%">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1pt; width: 5%">By:</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; width: 35%">/s/ Jeffrey D. Fox</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD>Name:</TD>
+    <TD>Jeffrey D. Fox</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD>Title:</TD>
+    <TD>Chief Financial Officer</TD></TR>
+  </TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in; text-indent: -0.25in"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in; text-indent: -0.25in"><FONT STYLE="font-family: Times New Roman, Times, Serif">Date:
+January 17, 2024</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in; text-indent: -0.25in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in; text-indent: -0.25in"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in; text-indent: -0.25in">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

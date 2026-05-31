@@ -1,0 +1,257 @@
+<SEC-DOCUMENT>0001140361-23-014724.txt : 20230330
+<SEC-HEADER>0001140361-23-014724.hdr.sgml : 20230330
+<ACCEPTANCE-DATETIME>20230330124648
+ACCESSION NUMBER:		0001140361-23-014724
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20230330
+DATE AS OF CHANGE:		20230330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Himalaya Shipping Ltd.
+		CENTRAL INDEX KEY:			0001959455
+		STANDARD INDUSTRIAL CLASSIFICATION:	DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT [4412]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41676
+		FILM NUMBER:		23778821
+
+	BUSINESS ADDRESS:	
+		STREET 1:		S.E. PEARMAN BLDG., 2ND FLOOR
+		STREET 2:		9 PAR-LA-VILLE ROAD
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			HM 11
+		BUSINESS PHONE:		441-737-0152
+
+	MAIL ADDRESS:	
+		STREET 1:		S.E. PEARMAN BLDG., 2ND FLOOR
+		STREET 2:		9 PAR-LA-VILLE ROAD
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			HM 11
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ny20006357x10_8a12b.htm
+<DESCRIPTION>FORM 8-A12B
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using Broadridge PROfile 23.3.1.5138
+         Copyright 1995 - 2023 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">
+      <hr style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; margin-left: auto; margin-right: auto;" align="center">UNITED STATES</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 12pt; font-weight: bold;">Washington, D.C. 20549</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 18pt; font-weight: bold;">FORM 8-A</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+    <div style="text-align: center; font-weight: bold;">PURSUANT TO SECTION 12(b) OR (g) OF THE</div>
+    <div style="text-align: center; font-weight: bold;">SECURITIES EXCHANGE ACT OF 1934</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 24pt; font-weight: bold;">Himalaya Shipping Ltd.</div>
+    <div style="text-align: center;">(Exact name of registrant as specified in its charter)</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zfa4eb4472bbb41ba95a71d4b73deb1d6" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Bermuda</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Not Applicable</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center;">(State or other jurisdiction of incorporation or organization)</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center;">(I.R.S. Employer Identification No.)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 50%; vertical-align: bottom;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: bottom;">
+            <div style="text-align: center; font-weight: bold;">S. E. Pearman Building, 2nd Floor</div>
+            <div style="text-align: center; font-weight: bold;">9 Par-la-Ville Road</div>
+            <div style="text-align: center; font-weight: bold;">Hamilton HM11</div>
+            <div style="text-align: center; font-weight: bold;">Bermuda</div>
+          </td>
+          <td style="width: 50%; vertical-align: bottom;">
+            <div style="text-align: center; font-weight: bold;">Not Applicable</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center;">(Address of principal executive offices)</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center;">(Zip Code)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="text-align: center;">Securities to be registered pursuant to Section 12(b) of the Act:</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zc73dfcce2f0844faa3127d86e254c120" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 48%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+            <div style="text-align: center; font-weight: bold;">Title of each class</div>
+            <div style="text-align: center; font-weight: bold;">to be so registered</div>
+          </td>
+          <td style="width: 3.53%; vertical-align: top;">&#160;</td>
+          <td style="width: 48%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+            <div style="text-align: center; font-weight: bold;">Name of each exchange on which</div>
+            <div style="text-align: center; font-weight: bold;">each class is to be registered</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 48%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);">
+            <div style="text-align: center;">Common shares, par value $1.00 per share</div>
+          </td>
+          <td style="width: 3.53%; vertical-align: top;">&#160;</td>
+          <td style="width: 48%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+            <div style="text-align: center;">New York Stock Exchange</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. &#9746;</div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. &#9744;</div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">Securities Act registration statement or Regulation A offering statement file number to which this form relates (if applicable): <font style="font-weight: bold;">333-270337</font></div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">Securities to be registered pursuant to Section 12(g) of the Act: <font style="font-weight: bold;">None.</font>
+      <hr style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center"></div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">INFORMATION REQUIRED IN REGISTRATION STATEMENT</div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;"><font style="font-weight: bold;">Item 1.</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="font-weight: bold;">Description of Registrant&#8217;s Securities to be Registered.</font></div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt;">Himalaya Shipping Ltd. (the &#8220;Company&#8221;) hereby incorporates by reference (a) the description of its common shares, par value $1.00 per share, contained under the heading &#8220;Description of Share Capital&#8221;
+      and (b) the information set forth under the heading &#8220;Tax Considerations,&#8221; in each case, in the Company&#8217;s Registration Statement on Form F-1 (File No. 333-270337), as originally filed with the Securities and Exchange Commission (the &#8220;Commission&#8221;) on
+      March 7, 2023, as may be subsequently amended (the &#8220;Registration Statement&#8221;). The description of the Company&#8217;s common shares, par value $1.00 per share, included in any prospectus to the Registration Statement subsequently filed by the Company with
+      the Commission pursuant to Rule 424(b) under the Securities Act of 1933, as amended, shall also be deemed to be incorporated by reference herein.</div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;"><font style="font-weight: bold;">Item 2.</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="font-weight: bold;">Exhibits.</font></div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt;">In accordance with the Instructions as to Exhibits of Form 8-A, no exhibits are required to be filed hereunder because no other securities of the Registrant are registered on the New York Stock
+      Exchange and the securities registered hereunder are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</div>
+    <div style="text-align: justify; text-indent: 36pt;"> <br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">SIGNATURE</div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto
+      duly authorized.</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zf7383869998441c4862179d62a897717" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td colspan="1" style="width: 45%; vertical-align: top;">&#160;</td>
+          <td style="width: 4%; vertical-align: top;">&#160;</td>
+          <td colspan="2" style="vertical-align: middle;">
+            <div style="font-weight: bold;">Himalaya Shipping Ltd.</div>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1" colspan="1" style="width: 45%; vertical-align: top;">&#160;</td>
+          <td rowspan="1" style="width: 4%; vertical-align: top;">&#160;</td>
+          <td rowspan="1" colspan="2" style="vertical-align: middle;">&#160;</td>
+        </tr>
+        <tr>
+          <td colspan="1" style="width: 45%; vertical-align: top;">&#160;</td>
+          <td style="width: 4%; vertical-align: top;">
+            <div style="text-align: justify;">By:</div>
+          </td>
+          <td colspan="2" style="vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);">/s/ Vidar Hasund</td>
+        </tr>
+        <tr>
+          <td colspan="1" style="width: 45%; vertical-align: top;">&#160;</td>
+          <td style="width: 4%; vertical-align: top;">&#160;</td>
+          <td style="width: 4%; vertical-align: top;">
+            <div style="text-align: justify;">Name:</div>
+          </td>
+          <td style="width: 47%; vertical-align: top;">
+            <div style="text-align: justify;">Vidar Hasund</div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="1" style="width: 45%; vertical-align: top;">&#160;</td>
+          <td style="width: 4%; vertical-align: top;">&#160;</td>
+          <td style="width: 4%; vertical-align: top;">
+            <div style="text-align: justify;">Title:</div>
+          </td>
+          <td style="width: 47%; vertical-align: top;">
+            <div style="text-align: justify;">Chief Financial Officer</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">Dated: March 30, 2023</div>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

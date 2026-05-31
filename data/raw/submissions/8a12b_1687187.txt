@@ -1,0 +1,332 @@
+<SEC-DOCUMENT>0001104659-23-071614.txt : 20230615
+<SEC-HEADER>0001104659-23-071614.hdr.sgml : 20230615
+<ACCEPTANCE-DATETIME>20230615161658
+ACCESSION NUMBER:		0001104659-23-071614
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20230615
+DATE AS OF CHANGE:		20230615
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ramaco Resources, Inc.
+		CENTRAL INDEX KEY:			0001687187
+		STANDARD INDUSTRIAL CLASSIFICATION:	BITUMINOUS COAL & LIGNITE MINING [1220]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38003
+		FILM NUMBER:		231017560
+
+	BUSINESS ADDRESS:	
+		STREET 1:		250 WEST MAIN STREET
+		STREET 2:		SUITE 1800
+		CITY:			LEXINGTON
+		STATE:			KY
+		ZIP:			40507
+		BUSINESS PHONE:		(859) 244-7455
+
+	MAIL ADDRESS:	
+		STREET 1:		250 WEST MAIN STREET
+		STREET 2:		SUITE 1800
+		CITY:			LEXINGTON
+		STATE:			KY
+		ZIP:			40507
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>tm2318390d2_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0; margin-bottom: 0; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-size: 10pt"></FONT></P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>SECURITIES AND EXCHANGE
+COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>FORM&nbsp;8-A</B></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>FOR REGISTRATION OF CERTAIN
+CLASSES OF SECURITIES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>PURSUANT TO SECTION&nbsp;12(b)&nbsp;OR
+12(g)&nbsp;OF</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>THE SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 24pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>RAMACO RESOURCES,&nbsp;INC.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>(Exact Name of Registrant as Specified in Its
+Charter)</B></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="padding: 0.25pt; vertical-align: top; font-size: 10pt; text-align: center; width: 48%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Delaware</B></FONT></TD>
+    <TD STYLE="padding: 0.25pt; text-align: center; vertical-align: bottom; width: 4%">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; vertical-align: top; font-size: 10pt; text-align: center; width: 48%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>38-4018838</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 0.25pt; vertical-align: top; font-size: 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>(State or other jurisdiction of incorporation or organization)</B></FONT></TD>
+    <TD STYLE="padding: 0.25pt; text-align: center; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; vertical-align: top; font-size: 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>(IRS Employer Identification No.)</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 0.25pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; text-align: center">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="padding: 0.25pt; text-align: center; vertical-align: top">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>250 West Main Street, Suite&nbsp;1900</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Lexington, Kentucky</B></P></TD>
+    <TD STYLE="padding: 0.25pt; text-align: center; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; vertical-align: bottom; font-size: 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>40507</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 0.25pt; vertical-align: top; font-size: 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>(Address of principal executive offices)</B></FONT></TD>
+    <TD STYLE="padding: 0.25pt; text-align: center; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; vertical-align: top; font-size: 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>(Zip Code)</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Securities to be registered pursuant to Section&nbsp;12(b)&nbsp;of
+the Act:</B></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="padding: 0.25pt; text-align: center; width: 48%">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; text-align: center; vertical-align: bottom; width: 4%">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; text-align: center; width: 48%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 0.25pt; text-align: center; white-space: nowrap">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Title of each class</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>to be so registered</B></P></TD>
+    <TD STYLE="padding: 0.25pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; white-space: nowrap; font-size: 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Name of exchange on which<BR>
+each class is to be registered</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 0.25pt; vertical-align: top; font-size: 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Class&nbsp;B common stock, par value $0.01 per share</B></FONT></TD>
+    <TD STYLE="padding: 0.25pt; text-align: center; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; vertical-align: top; font-size: 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>The Nasdaq Stock Market LLC</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-size: 10pt">If this form relates to the registration
+of a class of securities pursuant to Section&nbsp;12(b)&nbsp;of the Exchange Act and is effective pursuant to General Instruction A.(c),
+please check the following box. </FONT><FONT STYLE="font-family: Wingdings">&#120;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-size: 10pt">If this form relates to the registration
+of a class of securities pursuant to Section&nbsp;12(g)&nbsp;of the Exchange Act and is effective pursuant to General Instruction A.(d),
+please check the following box. </FONT><FONT STYLE="font-family: Wingdings">&#168;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-size: 10pt">If this form relates to the registration
+of a class of securities concurrently with a Regulation A offering, check the following box. </FONT><FONT STYLE="font-family: Wingdings">&#168;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities Act registration statement or Regulation A offering statement
+file number to which this form relates: 333-267152</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Securities to be registered pursuant to Section&nbsp;12(g)&nbsp;of
+the Act:</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>None</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>(Title of Class)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0; margin-bottom: 0; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Explanatory Note</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Ramaco Resources,&nbsp;Inc. (the &ldquo;Company&rdquo; or the &ldquo;Registrant&rdquo;)
+is filing this registration statement on Form&nbsp;8-A with the U.S. Securities and Exchange Commission (the &ldquo;SEC&rdquo;), in connection
+with the registration pursuant to Section&nbsp;12(b)&nbsp;of the Securities Exchange Act of 1934, as amended, of its Class&nbsp;B common
+stock, par value $0.01 per share (&ldquo;Class&nbsp;B common stock&rdquo;), in connection with the distribution by the Company to holders
+of existing common stock, par value $0.01 (the &ldquo;existing common stock&rdquo;), of shares of Class&nbsp;B common stock.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Item 1. Description of Registrant&rsquo;s Securities to be Registered.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The description of the Class&nbsp;B common stock is set forth under
+the heading &ldquo;Description of Common Stock&rdquo; in the Registrant&rsquo;s prospectus forming part of its Registration Statement
+on Form&nbsp;S-1 (File No.&nbsp;333-267152), originally filed with the SEC on August&nbsp;30, 2022, as thereafter amended and supplemented
+from time to time (the &ldquo;Registration Statement&rdquo;) to which this Form&nbsp;8-A relates, and which is incorporated by reference
+herein. In addition, all of the above-referenced descriptions included in any prospectus relating to the Registration Statement filed
+with the Commission pursuant to Rule&nbsp;424(b)&nbsp;under the Securities Act of 1933, as amended, shall be deemed to be incorporated
+by reference herein.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Item 2. Exhibits.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-bottom: black 1pt solid; width: 8%; font-size: 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Exhibit<BR>
+    Number</B></FONT></TD>
+    <TD STYLE="width: 2%; padding-bottom: 1.5pt; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: black 1pt solid; width: 90%; font-size: 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Description</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: center"><A HREF="https://www.sec.gov/Archives/edgar/data/1687187/000110465923070365/tm2318390d1_ex3-1.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">3.1</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt"><A HREF="https://www.sec.gov/Archives/edgar/data/1687187/000110465923070365/tm2318390d1_ex3-1.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Second
+    Amended and Restated Certificate of Incorporation of Ramaco Resources,&nbsp;Inc. (incorporated by reference to Exhibit&nbsp;3.1 of
+    the Company&rsquo;s Current Report on Form&nbsp;8-K (File No.&nbsp;001-38003) filed with the SEC on June&nbsp;12, 2023).</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: center"><A HREF="https://www.sec.gov/Archives/edgar/data/1687187/000119312517041747/d267724dex32.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">3.2</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt"><A HREF="https://www.sec.gov/Archives/edgar/data/1687187/000119312517041747/d267724dex32.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Amended
+    and Restated Bylaws of Ramaco Resources,&nbsp;Inc. (incorporated by reference to Exhibit&nbsp;3.2 of the Company&rsquo;s Current
+    Report on Form&nbsp;8-K (File No.&nbsp;001-38003) filed with the SEC on February&nbsp;14, 2017).</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: center"><A HREF="https://www.sec.gov/Archives/edgar/data/1687187/000155837020014399/tmb-20201210xex3d2.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">3.3</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt"><A HREF="https://www.sec.gov/Archives/edgar/data/1687187/000155837020014399/tmb-20201210xex3d2.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Amendment
+    No.&nbsp;1 to the Amended and Restated Bylaws of Ramaco Resources,&nbsp;Inc. (incorporated by reference to Exhibit&nbsp;3.2 of the
+    Company&rsquo;s Current Report on Form&nbsp;8-K (File No.&nbsp;001-38003) filed with the SEC on December&nbsp;15, 2020).</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: center"><A HREF="https://www.sec.gov/Archives/edgar/data/1687187/000119312516807449/d272210dex41.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">4.1</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt"><A HREF="https://www.sec.gov/Archives/edgar/data/1687187/000119312516807449/d272210dex41.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Form&nbsp;of
+    Common Stock Certificate (incorporated by reference to Exhibit&nbsp;4.1 of the Company&rsquo;s Registration Statement on Form&nbsp;S-1
+    (File No.&nbsp;333-215363) filed with the Commission on December&nbsp;29, 2016).</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: center"><A HREF="https://www.sec.gov/Archives/edgar/data/1687187/000119312517041747/d267724dex41.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">4.2</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt"><A HREF="https://www.sec.gov/Archives/edgar/data/1687187/000119312517041747/d267724dex41.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Registration
+    Rights Agreement, dated as of February&nbsp;8, 2017, by and among Ramaco Resources,&nbsp;Inc. and the stockholders named therein
+    (incorporated by reference to Exhibit&nbsp;4.1 of the Company&rsquo;s Current Report on Form&nbsp;8-K (File No.&nbsp;001-38003) filed
+    with the Commission on February&nbsp;14, 2017).</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: center"><A HREF="https://www.sec.gov/Archives/edgar/data/1687187/000119312517041747/d267724dex42.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">4.3</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt"><A HREF="https://www.sec.gov/Archives/edgar/data/1687187/000119312517041747/d267724dex42.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Shareholders&rsquo;
+    Agreement, dated as of February&nbsp;8, 2017, by and among Ramaco Resources,&nbsp;Inc., Yorktown Energy Partners IX, L.P., Yorktown
+    Energy Partners X, L.P., Yorktown Energy Partners XI, L.P., Energy Capital Partners Mezzanine Opportunities Fund, LP, Energy Capital
+    Partners Mezzanine Opportunities Fund A, LP, and ECP Mezzanine B (Ramaco IP), LP. (incorporated by reference to Exhibit&nbsp;4.2
+    of the Company&rsquo;s Current Report on Form&nbsp;8-K (File No.&nbsp;001-38003) filed with the Commission on February&nbsp;14, 2017).</FONT></A></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>SIGNATURE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Pursuant to the requirements of Section&nbsp;12 of the Securities Exchange
+Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font-size: 10pt; vertical-align: top">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0.25pt; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>RAMACO RESOURCES,&nbsp;INC.</B></FONT></TD></TR>
+  <TR STYLE="font-size: 10pt; vertical-align: top">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0.25pt; font-size: 10pt">&nbsp;</TD></TR>
+  <TR STYLE="font-size: 10pt">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; padding: 0.25pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; padding: 0.25pt">&nbsp;</TD></TR>
+  <TR STYLE="font-size: 10pt">
+    <TD STYLE="font-size: 10pt; width: 50%">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; vertical-align: top; font-size: 10pt; width: 5%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="font-size: 10pt; vertical-align: top; padding: 0.25pt; width: 45%">
+    <P STYLE="border-bottom: black 0.75pt solid; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">/s/ Randall W. Atkins</P></TD></TR>
+  <TR STYLE="font-size: 10pt">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; vertical-align: top; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="padding: 0.25pt; vertical-align: top; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Randall W. Atkins</FONT></TD></TR>
+  <TR STYLE="font-size: 10pt">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; vertical-align: top; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title:</FONT></TD>
+    <TD STYLE="padding: 0.25pt; vertical-align: top; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chairman and Chief Executive Officer</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Date: June&nbsp;15, 2023</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

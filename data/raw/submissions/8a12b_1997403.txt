@@ -1,0 +1,109 @@
+<SEC-DOCUMENT>0001376474-24-000547.txt : 20240926
+<SEC-HEADER>0001376474-24-000547.hdr.sgml : 20240926
+<ACCEPTANCE-DATETIME>20240926171621
+ACCESSION NUMBER:		0001376474-24-000547
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20240926
+DATE AS OF CHANGE:		20240926
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ZenaTech, Inc.
+		CENTRAL INDEX KEY:			0001997403
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			Z4
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41852
+		FILM NUMBER:		241329799
+
+	BUSINESS ADDRESS:	
+		STREET 1:		69 YONGE STREET, SUITE #1404
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			MSE 1K3
+		BUSINESS PHONE:		647-249-1622
+
+	MAIL ADDRESS:	
+		STREET 1:		69 YONGE STREET, SUITE #1404
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			MSE 1K3
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>zt_8a12b.htm
+<DESCRIPTION>FORM 8-A 12B
+<TEXT>
+<HTML>
+<!-- Produced by edgar-services.com using EDGARsuite software, Advanced Computer Innovations, Inc., Copyright (C) 2008-2024 [PPWEVSUSUJKYVE46T7W9]. www.edgarsuite.com -->
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<DIV style=margin-left:72pt;width:468pt><P align=center style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'><B>UNITED STATES</B><BR><B>SECURITIES AND EXCHANGE COMMISSION</B><BR><B>Washington D.C. 20549</B></P>
+<P align=center style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'><B>FORM 8-A</B></P>
+<P align=center style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'><B>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</B><BR><B>PURSUANT TO SECTION 12(b) OR (g) OF THE</B><BR><B>SECURITIES EXCHANGE ACT OF 1934</B></P>
+<P align=center style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'><FONT style='border-bottom:1px solid #000000'><B>ZENATECH</B><B>,</B><B> INC.</B></FONT><BR>(Exact name of registrant as specified in its charter)</P>
+<TABLE align=center style=border-collapse:collapse;width:598.5pt><TR><TD valign=top style=width:41%;padding:6.75pt><P align=center style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt'><FONT style='border-bottom:1px solid #000000'><B>British Columbia</B></FONT><BR>(State or other jurisdiction of incorporation or organization)</P>
+</TD><TD valign=top style=width:18%;padding:6.75pt><P style='font:10pt Times New Roman;margin:0'>&#160;</P>
+</TD><TD valign=top style=width:41%;padding:6.75pt><P align=center style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt'><FONT style='border-bottom:1px solid #000000'><B>Not Applicable</B></FONT><BR>(I.R.S. Employer Identification No.)</P>
+</TD></TR>
+<TR><TD valign=top style=width:41%;padding:6.75pt><P align=center style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt'><B>69 Yonge Street, Suite 1403 </B><BR><B>Toronto, Ontario</B><BR><FONT style='border-bottom:1px solid #000000'><B>Canada</B></FONT><BR>(Address of principal executive offices)</P>
+</TD><TD valign=top style=width:18%;padding:6.75pt><P style='font:10pt Times New Roman;margin:0'>&#160;</P>
+</TD><TD valign=top style=width:41%;padding:6.75pt><P align=center style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt'><BR><FONT style='border-bottom:1px solid #000000'><B>M5E 1K3</B></FONT><BR>(Zip Code)</P>
+</TD></TR>
+</TABLE>
+<P style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'>Securities to be registered pursuant to Section 12(b) of the Act:</P>
+<TABLE align=center style=border-collapse:collapse;width:477.75pt><TR><TD valign=top style=width:36%;padding:6.75pt><P style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt'>Title of each class<BR>to be so registered</P>
+</TD><TD valign=top style=width:15%;padding:6.75pt><P style='font:10pt Times New Roman;margin:0'>&#160;</P>
+</TD><TD valign=top style=width:48%;padding:6.75pt><P style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt'>Name of each exchange on which each class is to be registered</P>
+</TD></TR>
+<TR><TD valign=top style=width:36%;padding:6.75pt><P align=center style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt'><B>Common Shares, Par Value $0.30</B><FONT style='border-bottom:1px solid #000000'><B> Per Share</B></FONT></P>
+</TD><TD valign=top style=width:15%;padding:6.75pt><P style='font:10pt Times New Roman;margin:0'>&#160;</P>
+</TD><TD valign=top style=width:48%;padding:6.75pt><P align=center style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt'><FONT style='border-bottom:1px solid #000000'><B>The Nasdaq Stock Market LLC</B></FONT></P>
+</TD></TR>
+</TABLE>
+<P align=justify style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'>If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. [X]</P>
+<P align=justify style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'>If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. [ ]</P>
+<P style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'>If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box: [ ]</P>
+<P style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'>Securities Act Registration Statement or Regulation A offering statement file number to which this form relates: _______________ (if applicable)</P>
+<P style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'>Securities to be registered pursuant to Section 12(g) of the Act:</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P align=center style='font:10pt Times New Roman;margin:0'>- 2 -</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'>&#160;<B>Item 1. Description of Registrant's Securities to be Registered.</B></P>
+<P align=justify style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'>A description of the Common Shares of ZenaTech, Inc. (the &quot;Registrant&quot;) to be registered hereby is set forth under the heading &quot;Description of Capital Stock - Common Shares&quot; in the prospectus included in the Registration Statement on Form F-1 filed by the Registrant with the Securities and Exchange Commission on February 2, 2024, as amended on March 11, 2024, April 10, 2024, April 30, 2024, May 22, 2024, June 6, 2024, June 21, 2024, July 25, 2024, August 20, 2024, September 6, 2024, September 18, 2024 and September 24, 2024 (the &quot;Registration Statement&quot;), and is hereby incorporated by reference. Any form of prospectus or prospectus amendment or supplement to the Registration Statement that includes a description of the Registrant's Common Shares that is subsequently filed is also incorporated by reference herein.</P>
+<P style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'><B>Item 2. Exhibits</B></P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>Pursuant to the instructions under Form 8-A, no exhibits are required to be filed herewith as no other securities of the Registrant are registered on an exchange and the securities registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.&#160;</P>
+<P style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'>&#160;</P>
+<P align=center style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'><B>SIGNATURE</B></P>
+<P align=justify style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'>Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</P>
+<P style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'>DATE: September 26, 2024</P>
+<P style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'>&#160;<B>ZENATECH, INC.</B></P>
+<TABLE style=border-collapse:collapse;width:337.5pt><TR><TD valign=top style=width:7%;padding:0.75pt><P style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt'>By:</P>
+</TD><TD valign=top style=width:93%;padding:0.75pt><P style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt'><FONT style='border-bottom:1px solid #000000'><I>/s/ </I><I>Dr. Shaun Passley</I><I>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</I></FONT></P>
+</TD></TR>
+<TR><TD valign=top style=width:7%;padding:0.75pt><P style='font:10pt Times New Roman;margin:0'>&#160;</P>
+</TD><TD valign=top style=width:93%;padding:0.75pt><P style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt'>Dr. Shaun Passley<BR>Chief Executive Officer </P>
+</TD></TR>
+<TR><TD valign=top style=width:7%;padding:0.75pt><P style='font:10pt Times New Roman;margin:0'>&#160;</P>
+</TD><TD valign=top style=width:93%;padding:0.75pt><P style='font:10pt Times New Roman;margin:0'>&#160;</P>
+</TD></TR>
+</TABLE>
+<P style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'>&#160;</P>
+<P style='font:10pt Times New Roman;margin-top:5pt;margin-bottom:5pt;color:#000000'>&#160;</P>
+<P style='font:10pt Times New Roman;margin-top:12pt;margin-bottom:0pt'>&nbsp;</P>
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

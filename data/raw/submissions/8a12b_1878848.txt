@@ -1,0 +1,275 @@
+<SEC-DOCUMENT>0001140361-21-038024.txt : 20211116
+<SEC-HEADER>0001140361-21-038024.hdr.sgml : 20211116
+<ACCEPTANCE-DATETIME>20211116094816
+ACCESSION NUMBER:		0001140361-21-038024
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211116
+DATE AS OF CHANGE:		20211116
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Iris Energy Ltd
+		CENTRAL INDEX KEY:			0001878848
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			C3
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41072
+		FILM NUMBER:		211414392
+
+	BUSINESS ADDRESS:	
+		STREET 1:		LEVEL 21, 60 MARGARET STREET
+		CITY:			SYDNEY
+		STATE:			C3
+		ZIP:			NSW 2000
+		BUSINESS PHONE:		212-906-1200
+
+	MAIL ADDRESS:	
+		STREET 1:		LEVEL 21, 60 MARGARET STREET
+		CITY:			SYDNEY
+		STATE:			C3
+		ZIP:			NSW 2000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Iris Energy Pty Ltd
+		DATE OF NAME CHANGE:	20210817
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ny20000275x11_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using EDGARfilings PROfile 7.7.0.0
+         Copyright 1995 - 2021 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <div style="text-align: center; font-weight: bold;">
+      <hr style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; margin-left: auto; margin-right: auto;" align="center"><font style="background-color: rgb(255, 255, 255); font-weight: bold; color: rgb(0, 0, 0); font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-style: normal; font-variant: normal; text-transform: none;">UNITED STATES</font></div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-transform: none;">SECURITIES AND
+      EXCHANGE COMMISSION</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 12pt; font-weight: bold; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-transform: none;">Washington, D.C.
+      20549</div>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; width: 25%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade">&#160;</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 18pt; font-weight: bold; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-transform: none;">FORM 8-A</div>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; width: 25%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+    <div style="text-align: center; font-weight: bold;">PURSUANT TO SECTION 12(b) OR (g) OF</div>
+    <div style="text-align: center; font-weight: bold;">THE SECURITIES EXCHANGE ACT OF 1934</div>
+    <div>&#160;
+      <hr style="height: 2px; width: 25%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 24pt; font-weight: bold; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-transform: none;">Iris Energy
+      Limited</div>
+    <div style="text-align: center; font-weight: bold;">(Exact name of registrant as specified in its charter)</div>
+    <div style="text-align: center; font-weight: bold;"> <br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">
+      <hr style="height: 2px; width: 25%; color: #000000; background-color: #000000; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"> </div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z228010291d684fb2aa3278fc1297c3ac" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 42.11%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Australia</div>
+            <div style="text-align: center; font-weight: bold;">(State or incorporation or organization)</div>
+          </td>
+          <td style="width: 15.79%; vertical-align: top;">&#160;</td>
+          <td style="width: 42.1%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Not applicable</div>
+            <div style="text-align: center; font-weight: bold;">(I.R.S. Employer Identification No.)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 42.11%; vertical-align: top;">&#160;</td>
+          <td style="width: 15.79%; vertical-align: top;">&#160;</td>
+          <td style="width: 42.1%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 42.11%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Level 21, 60 Margaret Street</div>
+            <div style="text-align: center; font-weight: bold;">Sydney, NSW 2000 Australia</div>
+            <div style="text-align: center; font-weight: bold;">+61 2 7906 8301</div>
+            <div style="text-align: center; font-weight: bold;">(Address of Principal Executive Offices)</div>
+          </td>
+          <td style="width: 15.79%; vertical-align: top;">&#160;</td>
+          <td style="width: 42.1%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">NSW 2000</div>
+            <div style="text-align: center; font-weight: bold;">(Zip Code)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; width: 25%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section 12(b) of the Act:</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z2fb7caea438c495580b47e74816235f3" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 42.1%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Title of each class</div>
+            <div style="text-align: center; font-weight: bold;">to be so registered</div>
+          </td>
+          <td style="width: 15.79%; vertical-align: top;">&#160;</td>
+          <td style="width: 42.11%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Name of each exchange on which</div>
+            <div style="text-align: center; font-weight: bold;">each class is to be registered</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 42.1%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Ordinary Shares, no par value</div>
+          </td>
+          <td style="width: 15.79%; vertical-align: top;">&#160;</td>
+          <td style="width: 42.11%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Nasdaq Global Select Market</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; width: 25%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div><br>
+    </div>
+    <div>If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. &#9746;</div>
+    <div><br>
+    </div>
+    <div>If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. &#9744;</div>
+    <div><br>
+    </div>
+    <div>If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">Securities Act registration statement file number to which this form relates: 333-260488.</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section 12(g) of the Act: None.</div>
+    <div>
+      <hr style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center"></div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+      <div style="page-break-after:always;" id="DSPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div><br>
+    </div>
+    <div>&#160;</div>
+    <div style="font-weight: bold;">Item 1. Description of Registrant&#8217;s Securities to be Registered.</div>
+    <div><br>
+    </div>
+    <div>The description of the Ordinary Shares, no par value, of Iris Energy Limited (the &#8220;Company&#8221;) as included under the caption &#8220;Description of Share Capital and Constitution&#8221; in the Prospectus forming a part of the Company&#8217;s Registration Statement on
+      Form F-1, originally filed with the Securities and Exchange Commission (the &#8220;Commission&#8221;) on October 25, 2021 (File No. 333-260488) and as subsequently amended (the &#8220;Registration Statement&#8221;), is hereby incorporated by reference herein. In addition,
+      the above-referenced description included in any Prospectus relating to the Registration Statement filed with the Commission pursuant to Rule 424(b) under the Securities Act of 1933, as amended, shall be deemed to be incorporated by reference herein.</div>
+    <div><br>
+    </div>
+    <div style="font-weight: bold;">Item 2. Exhibits.</div>
+    <div><br>
+    </div>
+    <div>Under the Instructions as to Exhibits with respect to Form 8-A, no exhibits are required to be filed because no other securities of the Company are registered on Nasdaq Global Select Market, and the securities registered hereby are not being
+      registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</div>
+    <div><br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+      <div style="page-break-after:always;" id="DSPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div><br>
+    </div>
+    <div>&#160;</div>
+    <div style="text-align: center; font-weight: bold;">SIGNATURES</div>
+    <div><br>
+    </div>
+    <div style="text-indent: 36pt;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the Company has duly caused this Registration Statement to be signed on its behalf by the undersigned, thereunto duly authorized, in the
+      city of Sydney, Australia, on the 16th day of November, 2021.</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z643a06dde9914fa5a12c483888bfe80a" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 49.94%; vertical-align: top;">
+            <div>Date: November 16, 2021</div>
+          </td>
+          <td colspan="2" style="vertical-align: top;">
+            <div style="font-weight: bold;">IRIS ENERGY LIMITED</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 49.94%; vertical-align: top;">&#160;</td>
+          <td style="width: 5.99%; vertical-align: top;">&#160;</td>
+          <td style="width: 43.95%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 49.94%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+          <td style="width: 5.99%; vertical-align: top; padding-bottom: 2px;">
+            <div>By:</div>
+          </td>
+          <td style="width: 43.95%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">/s/ Daniel Roberts <br>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 49.94%; vertical-align: top;">&#160;</td>
+          <td style="width: 5.99%; vertical-align: top;">
+            <div>Name:</div>
+          </td>
+          <td style="width: 43.95%; vertical-align: top;">
+            <div>Daniel Roberts</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 49.94%; vertical-align: top;">&#160;</td>
+          <td style="width: 5.99%; vertical-align: top;">
+            <div>Title:</div>
+          </td>
+          <td style="width: 43.95%; vertical-align: top;">
+            <div>Co-Chief Executive Officer and Director</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 49.94%; vertical-align: top;">&#160;</td>
+          <td style="width: 5.99%; vertical-align: top;">&#160;</td>
+          <td style="width: 43.95%; vertical-align: top;">
+            <div style="font-style: italic;">(Principal Executive Officer)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,1618 @@
+<SEC-DOCUMENT>0001104659-21-122575.txt : 20211004
+<SEC-HEADER>0001104659-21-122575.hdr.sgml : 20211004
+<ACCEPTANCE-DATETIME>20211004171926
+ACCESSION NUMBER:		0001104659-21-122575
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20211004
+DATE AS OF CHANGE:		20211004
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Healthcare Trust, Inc.
+		CENTRAL INDEX KEY:			0001561032
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				383888962
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39153
+		FILM NUMBER:		211303963
+
+	BUSINESS ADDRESS:	
+		STREET 1:		650 FIFTH AVENUE
+		STREET 2:		30TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		212-415-6500
+
+	MAIL ADDRESS:	
+		STREET 1:		650 FIFTH AVENUE
+		STREET 2:		30TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	American Realty Capital Healthcare Trust II, Inc.
+		DATE OF NAME CHANGE:	20121025
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>tm2129145d1_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B></B></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0; margin-bottom: 0; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM 8-A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>PURSUANT TO SECTION 12(b) OR (g) OF THE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>HEALTHCARE TRUST, INC.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Exact name of registrant as specified in its charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 45%; border-bottom: black 1pt solid; font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt">Maryland</FONT></TD>
+    <TD STYLE="width: 10%; font-size: 10pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="width: 45%; border-bottom: black 1pt solid; font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt">38-3888962</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt">(State or other jurisdiction of incorporation or organization)</FONT></TD>
+    <TD STYLE="font-size: 10pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt">(I.R.S. Employer Identification No.)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 45%; border-bottom: black 1pt solid; text-align: center"><FONT STYLE="font-size: 10pt">650 Fifth Ave, 30th Floor, New York, New York</FONT></TD>
+    <TD STYLE="width: 10%; text-align: center">&nbsp;</TD>
+    <TD STYLE="width: 45%; border-bottom: black 1pt solid; text-align: center"><FONT STYLE="font-size: 10pt">10019</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">(Address of principal executive offices)</FONT></TD>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">(Zip Code)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities to be registered pursuant to Section 12(b) of the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 45%; border-bottom: black 1pt solid">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Title of each class</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">to be so registered</P></TD>
+    <TD STYLE="width: 10%; font-size: 10pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="width: 45%; border-bottom: black 1pt solid">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Name of each exchange on which</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">each class is to be registered</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">7.125% Series B Cumulative Redeemable Perpetual
+    Preferred Stock,</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">$0.01 par value per share</P></TD>
+    <TD STYLE="font-size: 10pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt">The Nasdaq Stock Market LLC</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If this form relates to the registration of a class of securities pursuant
+to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. <FONT STYLE="font-family: Wingdings"><FONT STYLE="font-family: Wingdings">&#120;</FONT></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If this form relates to the registration of a class of securities pursuant
+to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. <FONT STYLE="font-family: Wingdings"><FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If this form relates to the registration of a class of securities concurrently
+with a Regulation A offering, check the following box. <FONT STYLE="font-family: Wingdings"><FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities Act registration statement or Regulation A offering statement
+file number to which this form relates:&nbsp;&nbsp;333-259494 and 333-259995</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities to be registered pursuant to Section 12(g) of the Act: None</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0; margin-bottom: 0; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Item 1. Description of Registrant&rsquo;s Securities to be Registered.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Healthcare Trust, Inc. (the &ldquo;Registrant&rdquo;)
+hereby incorporates by reference herein the description of its 7.125% Series&nbsp;B Cumulative Redeemable Perpetual Preferred Stock, $0.01
+par value per share (&ldquo;Series B Preferred Stock&rdquo;), to be registered hereunder, set forth under the section entitled &ldquo;Description
+of Capital Stock and Securities Offered&mdash;Preferred Stock&mdash;Series B Preferred Stock&rdquo; contained in the prospectus <FONT STYLE="background-color: white">forming
+a part of the Registrant&rsquo;s Registration Statement on&nbsp;Form&nbsp;S-11,&nbsp;initially filed with the Securities and Exchange
+Commission (the &ldquo;SEC&rdquo;) on September 13, 2021 (File&nbsp;No.&nbsp;333-259494)&nbsp;and as subsequently amended (the &ldquo;Registration
+Statement&rdquo;). In addition, incorporated by reference herein is information relating to the Series B Preferred Stock under the caption
+ &ldquo;Certain Provisions of the Maryland General Corporation Law and Our Charter and Bylaws&rdquo; in the Registration Statement. The
+prospectus relating to the Registration Statement to be filed with the SEC pursuant to Rule&nbsp;424(b) under the Securities Act of 1933,
+as amended, shall be deemed incorporated by reference into&nbsp;this&nbsp;Form&nbsp;8-A.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Item 2.</B>&nbsp;<B>Exhibits</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; font-size: 10pt; font-weight: bold; vertical-align: top">Exhibit No.</TD><TD STYLE="text-align: left; font-size: 10pt; font-weight: bold; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="text-align: left; font-size: 10pt; font-weight: bold; vertical-align: top">Description</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; font-size: 10pt; vertical-align: top">&nbsp;</TD><TD STYLE="text-align: left; font-size: 10pt; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="text-align: left; font-size: 10pt; vertical-align: top">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="vertical-align: top; width: 10%; font-size: 10pt; text-align: left"><A HREF="https://www.sec.gov/Archives/edgar/data/1561032/000156103216000021/ex31.htm" STYLE="-sec-extract: exhibit"><FONT STYLE="font-size: 10pt">3.1<SUP>(1)</SUP></FONT></A></TD><TD STYLE="text-align: left; width: 2%; font: 10pt Times New Roman, Times, Serif; color: #212529; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; width: 88%; font: 10pt Times New Roman, Times, Serif; color: #212529; text-align: left"><A HREF="https://www.sec.gov/Archives/edgar/data/1561032/000156103216000021/ex31.htm" STYLE="-sec-extract: exhibit">Articles of Amendment and Restatement for Healthcare Trust, Inc.</A></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: left"><A HREF="https://www.sec.gov/Archives/edgar/data/1561032/000156103217000011/ex31articlessupplementary.htm" STYLE="-sec-extract: exhibit"><FONT STYLE="font-size: 10pt">3.2<SUP>(2)</SUP></FONT></A></TD><TD STYLE="text-align: left; font-size: 10pt; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: left"><A HREF="https://www.sec.gov/Archives/edgar/data/1561032/000156103217000011/ex31articlessupplementary.htm" STYLE="-sec-extract: exhibit">Articles Supplementary relating to election to be subject to Section 3-803 of the Maryland General Corporation Law, dated November 9, 2017.</A></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: left"><A HREF="http://www.sec.gov/Archives/edgar/data/1561032/000110465919070497/tm1924656d1_ex3-3.htm" STYLE="-sec-extract: exhibit"><FONT STYLE="font-size: 10pt">3.3<SUP>(3)</SUP></FONT></A></TD><TD STYLE="text-align: left; font-size: 10pt; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: left"><A HREF="http://www.sec.gov/Archives/edgar/data/1561032/000110465919070497/tm1924656d1_ex3-3.htm" STYLE="-sec-extract: exhibit">Articles Supplementary relating to the designation of shares of 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock, dated December 6, 2019.</A></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: left"><A HREF="https://www.sec.gov/Archives/edgar/data/1561032/000156103218000003/ex32hti12312017amendedandr.htm" STYLE="-sec-extract: exhibit"><FONT STYLE="font-size: 10pt">3.4<SUP>(4)</SUP></FONT></A></TD><TD STYLE="text-align: left; font-size: 10pt; color: #212529; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt; color: #212529; text-align: left"><A HREF="https://www.sec.gov/Archives/edgar/data/1561032/000156103218000003/ex32hti12312017amendedandr.htm" STYLE="-sec-extract: exhibit">Amended and Restated Bylaws of Healthcare Trust, Inc.</A></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: left"><A HREF="https://www.sec.gov/Archives/edgar/data/1561032/000110465920063345/tm2020139d1_ex3-1.htm" STYLE="-sec-extract: exhibit"><FONT STYLE="font-size: 10pt">3.5<SUP>(5)</SUP></FONT></A></TD><TD STYLE="text-align: left; font-size: 10pt; color: #212529; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt; color: #212529; text-align: left"><A HREF="https://www.sec.gov/Archives/edgar/data/1561032/000110465920063345/tm2020139d1_ex3-1.htm" STYLE="-sec-extract: exhibit">Amendment to Amended and Restated Bylaws of Healthcare Trust, Inc.</A></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: left"><A HREF="https://www.sec.gov/Archives/edgar/data/1561032/000110465920105254/tm2030743d1_ex3-1.htm" STYLE="-sec-extract: exhibit"><FONT STYLE="font-size: 10pt">3.6<SUP>(6)</SUP></FONT></A></TD><TD STYLE="text-align: left; font-size: 10pt; color: #212529; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt; color: #212529; text-align: left"><A HREF="https://www.sec.gov/Archives/edgar/data/1561032/000110465920105254/tm2030743d1_ex3-1.htm" STYLE="-sec-extract: exhibit">Articles Supplementary designating additional shares of 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock, dated September 15, 2020</A></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: left"><A HREF="https://www.sec.gov/Archives/edgar/data/1561032/000110465921064036/tm2115654d1_ex3-1.htm" STYLE="-sec-extract: exhibit"><FONT STYLE="font-size: 10pt">3.7<SUP>(7)</SUP></FONT></A></TD><TD STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; color: #212529; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif; color: #212529; text-align: left"><A HREF="https://www.sec.gov/Archives/edgar/data/1561032/000110465921064036/tm2115654d1_ex3-1.htm" STYLE="-sec-extract: exhibit">Articles Supplementary designating additional shares of 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock, dated May 7, 2021</A></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="vertical-align: top; font-size: 10pt; color: black; text-align: left"><A HREF="tm2129145d1_ex3-8.htm" STYLE="-sec-extract: exhibit">3.8*</A></TD><TD STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; color: #212529; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif; color: #212529; text-align: left"><A HREF="tm2129145d1_ex3-8.htm" STYLE="-sec-extract: exhibit">Articles Supplementary relating to the designation of shares of 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock, dated October 4, 2021.</A></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 1pt; margin-bottom: 1pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%">(1)</TD>
+    <TD STYLE="width: 95%">Incorporated by reference to an exhibit to the Registrant&rsquo;s Annual Report on Form 10-K for the year ended December 31, 2015 filed with the Securities and Exchange Commission on March 11, 2016.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>(2)</TD>
+    <TD>Incorporated by reference to an exhibit to the Registrant&rsquo;s Quarterly Report on Form 10-Q for the quarter ended September 30, 2017 filed with the Securities and Exchange Commission on November 14, 2017.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>(3)</TD>
+    <TD>Incorporated by reference to an exhibit to the Company&rsquo;s Registration Statement on Form 8-A filed with the Securities and Exchange Commission on December 6, 2019.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>(4)</TD>
+    <TD>Incorporated by reference to an exhibit to the Registrant&rsquo;s Annual Report on&nbsp;Form 10-K&nbsp;for the year ended December 31, 2017 filed with the Securities and Exchange Commission on March 20, 2018.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>(5)</TD>
+    <TD>Incorporated by reference to an exhibit to the Company&rsquo;s Current Report on Form 8-K filed with the Securities and Exchange Commission on May 19, 2020.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>(6)</TD>
+    <TD>Incorporated by reference to an exhibit to the Company&rsquo;s Current Report on Form 8-K filed with the Securities and Exchange Commission on September 15, 2020.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>(7)</TD>
+    <TD>Incorporated by reference to an exhibit to the Company&rsquo;s Current Report on Form 8-K filed with the Securities and Exchange Commission on May 10, 2021.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>*</TD>
+    <TD>Filed herewith</TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SIGNATURE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Pursuant to the requirements of Section 12 of the
+Securities Exchange Act of 1934, the Registrant has duly caused this Registration Statement to be signed on its behalf by the undersigned,
+thereto duly authorized, on this 4th day of October, 2021.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-size: 10pt; text-transform: uppercase">HEALTHCARE TRUST, INC.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 30%">&nbsp;</TD>
+    <TD STYLE="width: 15%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid"><FONT STYLE="font-size: 10pt">/s/ Edward M. Weil, Jr.</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">Edward M. Weil, Jr.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">Chief Executive Officer and President</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.8
+<SEQUENCE>2
+<FILENAME>tm2129145d1_ex3-8.htm
+<DESCRIPTION>EXHIBIT 3.8
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: right; margin: 0"><B>Exhibit 3.8</B></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.2pt; text-align: center"><U>HEALTHCARE TRUST, INC.</U></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.2pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">ARTICLES SUPPLEMENTARY</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">7.125% SERIES B CUMULATIVE REDEEMABLE PERPETUAL
+PREFERRED STOCK</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Liquidation Preference $25.00 per Share)</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Healthcare Trust, Inc., a Maryland corporation
+(the &ldquo;Company&rdquo;), hereby certifies to the State Department of Assessments and Taxation of Maryland that:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">FIRST: Under a power contained in Article V of
+the charter of the Company (the &ldquo;Charter&rdquo;), the Board of Directors of the Company (the &ldquo;Board&rdquo;), by resolutions
+duly adopted, classified 3,680,000 authorized but unissued shares of preferred stock, par value $0.01 per share, of the Company as shares
+of a series of preferred stock, designated as 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock (the &ldquo;Series B Preferred
+Stock&rdquo;) with the following preferences, conversion and other rights, voting powers, restrictions, limitations as to dividends and
+other distributions, qualifications and terms and conditions of redemption of the Series B Preferred Stock which, upon any restatement
+of the Charter, shall become part of Article V of the Charter, with any necessary or appropriate renumbering or relettering of the sections
+or subsections hereof:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">7.125% Series B Cumulative Redeemable Perpetual
+Preferred Stock</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Section 1.<FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U>Number of Shares and Designation</U>.</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">A series of preferred stock of the Company designated
+as the &ldquo;7.125% Series B Cumulative Redeemable Perpetual Preferred Stock&rdquo; is hereby established, and the number of shares constituting
+such series shall be 3,680,000.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Section 2.<FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U>Definitions</U>.</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Aggregate Share Ownership Limit&rdquo; shall
+have the meaning set forth in Article V of the Charter.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Alternative Conversion Consideration&rdquo;
+shall have the meaning set forth in Section 8(a) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Alternative Form Consideration&rdquo; shall
+have the meaning set forth in Section 8(a) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Board of Directors&rdquo; shall mean the
+Board of Directors of the Company or any committee authorized by such Board of Directors to perform any of its responsibilities with respect
+to the Series B Preferred Stock.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Business Day&rdquo; shall mean any day other
+than a Saturday, Sunday or a day on which state or federally chartered banking institutions in New York, New York are not required to
+be open.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Capital Gains Amount&rdquo; shall have the
+meaning set forth in Section 3(g) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Change of Control&rdquo; shall have the
+meaning set forth in Section 6(b) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Change of Control Conversion Date&rdquo;
+shall have the meaning set forth in Section 8(a) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Change of Control Conversion Right&rdquo;
+shall have the meaning set forth in Section 8(a) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Change of Control Redemption Right&rdquo;
+shall have the meaning set forth in Section 6(b) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Charter&rdquo; shall mean the charter of
+the Company.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Code&rdquo; shall mean the Internal Revenue
+Code of 1986, as amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Commission&rdquo; shall have the meaning
+set forth in Section 10 hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Common Stock&rdquo; shall mean the Company&rsquo;s
+common stock, par value $0.01 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Common Stock Conversion Consideration&rdquo;
+shall have the meaning set forth in Section 8(a) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Common Stock Price&rdquo; shall have the
+meaning set forth in Section 8(a) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Company&rdquo; shall have the meaning set
+forth in Article I of the Charter.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Conversion Agent&rdquo; shall have the meaning
+set forth in Section 8(d) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Conversion Consideration&rdquo; shall have
+the meaning set forth in Section 8(a) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Delisting Event&rdquo; shall have the meaning
+set forth in Section 6(a) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Delisting Event Redemption Right&rdquo;
+shall have the meaning set forth in Section 6(a) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;DTC&rdquo; shall have the meaning set forth
+in Section 8(f) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Event&rdquo; shall have the meaning set
+forth in Section 9(f)(ii) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Exchange Act&rdquo; shall mean the Securities
+Exchange Act of 1934, as amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;NASDAQ&rdquo; shall mean the Nasdaq Stock
+Market or any successor that is a national securities exchange registered under Section 6 of the Exchange Act.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;NYSE&rdquo; shall mean the New York Stock
+Exchange or any successor that is a national securities exchange registered under Section 6 of the Exchange Act.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;NYSE American&rdquo; shall mean the NYSE
+American LLC or any successor that is a national securities exchange registered under Section 6 of the Exchange Act.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Optional Redemption Right&rdquo; shall have
+the meaning set forth in Section 5(b) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Original Issue Date&rdquo; shall mean the
+first date on which shares of Series B Preferred Stock are issued and sold.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Parity Preferred&rdquo; shall have the meaning
+set forth in Section 9(b) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Preferred Directors&rdquo; shall have the
+meaning set forth in Section 9(b) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Preferred Dividend Default&rdquo; shall
+have the meaning set forth in Section 9(b) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;REIT&rdquo; shall have the meaning set forth
+in Article IV of the Charter.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Series A Preferred Stock&rdquo; shall mean
+the series of preferred stock, par value $0.01 per share, of the Company designated as 7.375% Series A Cumulative Redeemable Perpetual
+Preferred Stock.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Series B Dividend Period&rdquo; shall
+mean the respective periods commencing on and including January 1, April 1, July 1 and October 1 of each year and ending on and
+including the day preceding the first day of the next succeeding Series B Dividend Period (other than the initial Series B Dividend
+Period, which shall commence on the Original Issue Date and end on and include December 31, 2021, and other than the Series B
+Dividend Period during which any shares of Series B Preferred Stock shall be redeemed pursuant to Section 5 or Section 6 (and that
+is not a Series B Dividend Period of the type contemplated by Section 7(b)), which, solely with respect to the shares of Series B
+Preferred Stock being redeemed, shall end on and include the day immediately preceding the redemption date with respect to such
+shares of Series B Preferred Stock being redeemed).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Series B Payment Date&rdquo; shall mean,
+with respect to each Series B Dividend Period, the fifteenth (15<SUP>th</SUP>) day of the month following the month in which the Series
+B Dividend Period has ended (January, April, July and October of each year), commencing on January 18, 2022.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Series B Preferred Stock&rdquo; shall mean
+the series of preferred stock, par value $0.01 per share, of the Company designated as 7.125% Series B Cumulative Redeemable Perpetual
+Preferred Stock.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Series B Record Date&rdquo; shall mean the
+close of business on the date set by the Board of Directors as the record date for the payment of dividends that is not more than 30 nor
+fewer than 10 days prior to the applicable Series B Payment Date.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Shares&rdquo; shall have the meaning set
+forth in Article IV of the Charter.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Share Cap&rdquo; shall have the meaning
+set forth in Section 8(a) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Special Optional Redemption Rights&rdquo;
+shall have the meaning set forth in Section 6(b) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Stock Split&rdquo; shall have the meaning
+set forth in Section 8(a) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&ldquo;Total Distributions&rdquo; shall have the
+meaning set forth in Section 3(g) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Section 3.<FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U>Dividends and other Distributions</U>.</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(a)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>Subject to the preferential rights of the holders of any class or series of equity securities of the Company ranking senior to
+the Series B Preferred Stock with respect to dividend rights, the holders of the then outstanding Series B Preferred Stock shall be entitled
+to receive, when, as and if authorized by the Board of Directors and declared by the Company, out of funds legally available for the payment
+of dividends, cumulative cash dividends in the amount of $1.78125 per share each year, which is equivalent to the rate of 7.125% of the
+$25.00 liquidation preference per share per annum. Such dividends shall accrue and be cumulative from and including the Original Issue
+Date and shall be payable quarterly in arrears on each Series B Payment Date, commencing January 18, 2022 to all holders of record on
+the applicable Series B Record Date; <U>provided</U>, <U>however</U>, that if any Series B Payment Date is not a Business Day, the dividend
+which would otherwise have been payable on such Series B Payment Date may be paid or set apart for payment on the next succeeding Business
+Day with the same force and effect as if paid or set apart on such Series B Payment Date, and no interest or additional dividends or other
+sums shall accrue on the amount so payable from such Series B Payment Date to such next succeeding Business Day. Holders of record of
+all shares of Series B Preferred Stock outstanding on the applicable Series B Record Date will be entitled to receive the full dividend
+paid on the applicable Series B Payment Date even if such shares were not issued and outstanding for the full applicable Series B Dividend
+Period.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The initial dividend payable on the Series B Preferred
+Stock will cover the period from and including the Original Issue Date through December 31, 2021 and will be paid on January 18, 2022.
+The amount of any dividend payable on the Series B Preferred Stock for each full Series B Dividend Period shall be computed by dividing
+$1.78125 by four (4), regardless of the actual number of days in such full Series B Dividend Period. The amount of any dividend payable
+on the Series B Preferred Stock for any partial Series B Dividend Period and for the initial Series B Dividend Period shall be prorated
+and computed on the basis of a 360-day year consisting of twelve 30-day months. Dividends will be payable to holders of record as they
+appear in the stockholder records of the Company at the close of business on the applicable Series B Record Date. Notwithstanding any
+provision to the contrary contained herein, the dividend payable on each share of Series B Preferred Stock outstanding on a Series B Record
+Date shall equal the dividend payable on each other share of Series B Preferred Stock that is outstanding on such Series B Record Date,
+and no holder of any share of Series B Preferred Stock shall be entitled to receive any dividends paid or payable on the Series B Preferred
+Stock with a Series B Record Date before the date such share of Series B Preferred Stock is issued.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(b)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT> No dividends on the Series B Preferred Stock shall be authorized by the Board of Directors or paid or declared and set apart for
+payment by the Company at such time as the terms and conditions of any agreement of the Company, including any agreement relating to its
+indebtedness, prohibit such authorization, payment or setting apart for payment or provide that such authorization, payment or setting
+apart for payment would constitute a breach thereof, or a default thereunder, or if such authorization, payment or setting apart for payment
+shall be restricted or prohibited by law.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(c)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>Notwithstanding anything contained herein to the contrary, dividends on the Series B Preferred Stock shall accrue with respect
+to any Series B Dividend Periods whether or not dividends are authorized by the Board of Directors and declared by the Company, from the
+later of the first date on which the Series B Preferred Stock is issued and the most recent Series B Payment Date. No interest or additional
+dividend shall be payable in respect of any accrued and unpaid dividend on the Series B Preferred Stock.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(d)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>Except as provided in Section 3(e) below, no dividends shall be declared and paid or set apart for payment and no other distribution
+of cash or other property may be declared and made, directly or indirectly, on or with respect to shares of Common Stock or shares of
+any other class or series of equity securities of the Company ranking, with respect to dividend rights and rights upon the Company&rsquo;s
+voluntary or involuntary liquidation, dissolution or winding-up, on parity with or junior to the Series B Preferred Stock (other than
+a dividend paid in shares of Common Stock or in shares of any other class or series of equity securities ranking junior to the Series
+B Preferred Stock with respect to dividend rights and rights upon the Company&rsquo;s voluntary or involuntary liquidation, dissolution
+or winding-up), nor shall any shares of Common Stock or shares of any other class or series of equity securities of the Company ranking,
+with respect to dividend rights and rights upon the Company&rsquo;s voluntary or involuntary liquidation, dissolution or winding-up, on
+parity with or junior to the Series B Preferred Stock be redeemed (or any monies be paid to or made available for a sinking fund for the
+redemption of any such shares), purchased or otherwise acquired, (except (i) by conversion into or exchange for shares of Common Stock
+or shares of any other class or series of equity securities of the Company ranking junior to the Series B Preferred Stock with respect
+to dividend rights and rights upon the Company&rsquo;s voluntary or involuntary liquidation, dissolution or winding-up, (ii)&nbsp;for
+the acquisition of shares made pursuant to the provisions of Section 5.7 of Article V of the Charter and (iii) for the purchase or acquisition
+of equity securities of the Company ranking on parity with the Series B Preferred Stock with respect to dividend rights and rights upon
+the Company&rsquo;s voluntary or involuntary liquidation, dissolution or winding-up, pursuant to a purchase or exchange offer made on
+the same terms to holders of all outstanding Series B Preferred Stock and any other shares of any other class or series of equity securities
+ranking on parity with the Series B Preferred Stock with respect to dividend rights and rights upon the Company&rsquo;s voluntary or involuntary
+liquidation, dissolution or winding-up), unless full cumulative dividends on the Series B Preferred Stock for all past Series B Dividend
+Periods shall have been or contemporaneously are declared and paid or declared and a sum sufficient for the payment thereof is set apart
+for such payment.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(e)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>When dividends are not paid in full (or declared and a sum sufficient for such full payment is not so set apart) upon the Series
+B Preferred Stock and any other class or series of equity securities ranking, with respect to dividend rights, on parity with the Series
+B Preferred Stock, all dividends (other than any acquisition of shares pursuant to the provisions of Section 5.7 of Article V of the Charter
+or a purchase or exchange offer made on the same terms to holders of all outstanding shares of Series B Preferred Stock and any such other
+class or series of equity securities ranking on parity with the Series B Preferred Stock with respect to dividend rights or rights upon
+the Company&rsquo;s voluntary or involuntary liquidation, dissolution or winding-up) declared upon the Series B Preferred Stock and any
+other class or series of equity securities ranking, with respect to dividend rights, on parity with the Series B Preferred Stock shall
+be allocated pro rata so that the amount declared per share of Series B Preferred Stock and such other equally ranked classes or series
+of equity securities shall in all cases bear to each other the same ratio that accrued dividends per share on the Series B Preferred Stock
+and such other equally ranked class or series of equity securities (which shall not include any accrual in respect of unpaid dividends
+on such other classes or series of equity securities for prior Series B Dividend Periods if such other class or series of equity securities
+does not have a cumulative dividend) bear to each other. No interest, or sum of money in lieu of interest, shall be payable in respect
+of any dividend payment or payments on the Series B Preferred Stock which may be in arrears.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(f)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT>Holders
+of the Series B Preferred Stock shall not be entitled to any dividend, whether payable in cash, property or stock, in excess of full
+cumulative dividends on the Series B Preferred Stock as provided herein. Any dividend payment made on the Series B Preferred Stock
+shall first be credited against the earliest accrued and unpaid dividend.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(g)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>If, for any taxable year, the Company elects to designate as &ldquo;capital gain dividends&rdquo; (as defined in Section 857 of
+the Code or any successor revenue code or section) any portion (the &ldquo;Capital Gains Amount&rdquo;) of the total distributions not
+in excess of the Company&rsquo;s earnings and profits (as determined for United States federal income tax purposes) paid or made available
+for such taxable year to holders of all classes and series of Shares (the &ldquo;Total Distributions&rdquo;), then the portion of the
+Capital Gains Amount that shall be allocable to holders of Series B Preferred Stock shall be in the same proportion that the Total Distributions
+paid or made available to the holders of Series B Preferred Stock for such taxable year bears to the Total Distributions for such taxable
+year made with respect to all classes or series of Shares outstanding.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Section 4.<FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U>Liquidation Preference</U>.</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Upon any voluntary or involuntary liquidation,
+dissolution or winding-up of the affairs of the Company, after payment of or provision for the Company&rsquo;s debts and liabilities and
+any other class or series of equity securities of the Company ranking, with respect to rights upon the Company&rsquo;s voluntary or involuntary
+liquidation, dissolution or winding up, senior to the Series B Preferred Stock and before any distribution or payment shall be made to
+holders of Common Stock or any other class or series of equity securities of the Company ranking, with respect to rights upon the Company&rsquo;s
+voluntary or involuntary liquidation, dissolution or winding-up, junior to the Series B Preferred Stock, the holders of shares of Series
+B Preferred Stock then outstanding shall be entitled to be paid out of the assets of the Company legally available for distribution to
+its stockholders a liquidation preference of $25.00 per share, plus an amount equal to any accrued and unpaid dividends to, but not including,
+the date of payment (whether or not declared). If, upon any such voluntary or involuntary liquidation, dissolution or winding-up, the
+available assets of the Company are insufficient to pay the amount of the distributions payable upon liquidation, dissolution or winding-up
+of the affairs of the Company, on all outstanding shares of Series B Preferred Stock and the corresponding amounts payable on all shares
+of other classes or series of securities of the Company ranking, with respect to rights upon the Company&rsquo;s voluntary or involuntary
+liquidation, dissolution or winding-up, on parity with the Series B Preferred Stock, the holders of Series B Preferred Stock and each
+such other class or series of securities ranking, with respect to rights upon the Company&rsquo;s voluntary or involuntary liquidation,
+dissolution or winding-up, on parity with the Series B Preferred Stock shall share ratably in any such distribution of assets in proportion
+to the full liquidating distributions to which they would otherwise be respectively entitled. Written notice of any such voluntary or
+involuntary liquidation, dissolution or winding up, stating the payment date or dates when, and the place or places where, the amounts
+distributable in such circumstances shall be payable, shall be given by first-class mail, postage pre-paid, at least 20 days prior to
+the payment date stated therein, to each record holder of Series B Preferred Stock at the respective addresses of such holders as the
+same shall appear on the stock transfer records of the Company. After the holders of Series B Preferred Stock have received the full amount
+of the liquidating distributions to which they are entitled, they will have no right or claim to any of the remaining assets of the Company.
+The consolidation, conversion or merger of the Company with or into any other person, corporation, trust or entity, or the sale, lease,
+transfer or conveyance of all or substantially all of the property or business of the Company (whether in connection with a Change of
+Control or otherwise), shall not be deemed to constitute a liquidation, dissolution or winding-up of the affairs of the Company.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">In determining whether any distribution (other
+than upon voluntary or involuntary dissolution) by dividend, redemption or other acquisition of Shares or otherwise is permitted under
+the Maryland General Corporation Law, amounts that would be needed, if the Company were to be dissolved at the time of the distribution,
+to satisfy the preferential rights upon dissolution of the holders of Series B Preferred Stock will not be added to the Company&rsquo;s
+total liabilities.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: -1in">Section 5.<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><U>Optional Redemption</U>.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: -1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(a)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>The Series B Preferred Stock shall not be redeemable prior to October 6, 2026, except as provided in Section 5.7 of Article V of
+the Charter or Section 5(c) or Section 6 hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(b)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT>On
+and after October 6, 2026, the Company, at its option, upon not fewer than 30 nor more than 60&nbsp;days&rsquo; written notice as
+provided in Section 5(e) hereof, may redeem the Series B Preferred Stock, in whole or in part, at any time or from time to time, at
+a redemption price of $25.00 per share, plus (subject to Section 7(b) hereof) an amount equal to all dividends accrued and unpaid
+(whether or not authorized or declared) thereon to, but not including, the date fixed for redemption, without interest (the
+ &ldquo;Optional Redemption Right&rdquo;). If less than all of the outstanding shares of Series B Preferred Stock are to be redeemed,
+the shares of Series B Preferred Stock to be redeemed shall be redeemed <I>pro rata</I> (as nearly as may be practicable without
+creating fractional shares) or by lot. If such redemption is to be by lot, and if, as a result of such redemption, any holder of
+Series B Preferred Stock would own shares of Series B Preferred Stock in excess of the Aggregate Share Ownership Limit or in
+violation of any of the other restrictions on ownership and transfer of Shares set forth in Section 5.7 of Article V of the Charter,
+then, except as otherwise provided in the Charter, the Company will redeem the requisite number of shares of Series B Preferred
+Stock of such holder such that no holder will violate the Aggregate Share Ownership Limit or any other restrictions on ownership and
+transfer of Shares set forth in Section 5.7 of Article V of the Charter subsequent to such redemption.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(c)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>The Company may redeem all or a part of the Series B Preferred Stock in accordance with the terms and conditions set forth in this
+Section 5 at any time and from time to time, whether before or after October 6, 2026, if the Board of Directors determines that such redemption
+is reasonably necessary for the Company to preserve the status of the Company as a qualified REIT. If the Company calls for redemption
+any Series B Preferred Stock pursuant to and in accordance with this Section 5(c), then the redemption price for such shares will be an
+amount in cash equal to $25.00 per share, plus (subject to Section 7(b) hereof) all dividends accrued and unpaid (whether or not authorized
+or declared) thereon to and including the date fixed for redemption, without interest.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(d)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>Unless full cumulative dividends on all shares of Series B Preferred Stock shall have been or contemporaneously are declared and
+paid or declared and a sum sufficient for the payment thereof in cash set apart for payment for all past Series B Dividend Periods, no
+shares of Series B Preferred Stock shall be redeemed pursuant to this Section 5 unless all outstanding shares of Series B Preferred Stock
+are simultaneously redeemed and the Company shall not purchase or otherwise acquire directly or indirectly any Series B Preferred Stock
+(except by exchange for equity securities of the Company ranking junior to the Series B Preferred Stock with respect to dividend rights
+and rights upon the Company&rsquo;s voluntary or involuntary liquidation, dissolution or winding-up); <U>provided</U>, <U>however</U>,
+that the foregoing shall not prevent the purchase of the Series B Preferred Stock or any other class or series of equity securities of
+the Company by the Company in accordance with the terms of Section 5(c) hereof or Section 5.7 of Article V of the Charter or the purchase
+or acquisition of the Series B Preferred Stock pursuant to a purchase or exchange offer made on the same terms to holders of all outstanding
+Series B Preferred Stock and the holders of all outstanding shares of any other class or series of preferred stock of the Company ranking
+on a party with the Series B Preferred Stock with respect to dividend rights and rights upon the Company&rsquo;s voluntary or involuntary
+liquidation, dissolution or winding up.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(e)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>Notice of redemption pursuant to this Section 5 shall be mailed by the Company, postage prepaid, as of a date set by the Company
+not fewer than 30 nor more than 60 days prior to such redemption date, addressed to the respective holders of record of such shares of
+Series B Preferred Stock to be redeemed at their respective addresses as they appear on the stock transfer records of the Company. Failure
+to give such notice or any defect thereto or in the mailing thereof shall not affect the sufficiency of notice or validity of the proceedings
+for such redemption of any shares of Series B Preferred Stock except as to shares held by a holder to whom notice was defective or not
+given. A redemption notice which has been mailed in the manner provided herein shall be conclusively presumed to have been duly given
+on the date mailed whether or not such holder received the redemption notice. In addition to any information required by law or the applicable
+rules of any exchange upon which Series B Preferred Stock may be listed or admitted to trading, each notice shall state (i) such redemption
+date; (ii) the redemption price; (iii) the total number of shares of Series B Preferred Stock to be redeemed (and, if less than all the
+shares held by any holder are to be redeemed, the number of shares to be redeemed from such holder); (iv) the place or places where such
+shares of Series B Preferred Stock are to be surrendered for payment, together with the certificates, if any, representing such shares
+(duly endorsed for transfer) and any other documents the Company requires in connection with such redemption; and (v) that dividends on
+the Series B Preferred Stock to be redeemed shall cease to accrue on such redemption rate.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 6 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: -1in">Section 6.<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<U>Special Optional Redemption by the Company</U>.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(a)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>During any period of time (whether before or after October 6, 2026) that the Series B Preferred Stock is not listed on NASDAQ,
+the NYSE or the NYSE American, but any shares of Series B Preferred Stock are outstanding (a &ldquo;Delisting Event&rdquo;), the Company
+will have the option, upon not fewer than 30 nor more than 60 days&rsquo; written notice as provided in Section 6(d) hereof, to redeem
+the outstanding shares of Series B Preferred Stock, in whole or in part, after the occurrence of the Delisting Event, for a redemption
+price of $25.00 per share, plus (subject to Section 7(b) hereof) an amount equal to all dividends accrued and unpaid (whether or not declared),
+if any, to, but not including, the redemption date (a &ldquo;Delisting Event Redemption Right&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(b)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>In addition, upon the occurrence of a Change of Control, the Company will have the option, upon not fewer than 30 nor more than
+60 days&rsquo; written notice as provided in Section 6(d) hereof, to redeem shares of Series B Preferred Stock, in whole or in part, within
+120 days after the first date on which such Change of Control occurred, for cash at $25.00 per share plus (subject to Section 7(b) hereof)
+an amount equal to dividends accrued and unpaid (whether or not declared), if any, on the Series B Preferred Stock to, but not including,
+the redemption date (&ldquo;Change of Control Redemption Right&rdquo; and, together with the Delisting Event Redemption Right, the &ldquo;Special
+Optional Redemption Rights&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">A &ldquo;Change of Control&rdquo; occurs when,
+after the Original Issue Date, the following have occurred and are continuing:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">(i)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>the acquisition by any person, including any syndicate or group deemed to be a &ldquo;person&rdquo; under Section 13(d)(3) of the
+Exchange Act of beneficial ownership, directly or indirectly, through a purchase, merger, conversion or other acquisition transaction
+or series of purchases, mergers, conversions or other acquisition transactions of shares of stock of the Company entitling that person
+to exercise more than 50% of the total voting power of all outstanding shares of stock of the Company entitled to vote generally in the
+election of directors (except that such person will be deemed to have beneficial ownership of all securities that such person has the
+right to acquire, whether such right is currently exercisable or is exercisable only upon the occurrence of a subsequent condition); and</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">(ii)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>following the closing of any transaction referred to in (i) above, neither the Company nor the acquiring or surviving entity, or
+a parent of the Company or the acquiring or surviving entity, has a class of common equity securities listed on NASDAQ, the NYSE or the
+NYSE American.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(c)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>Notice of redemption pursuant to this Section 6 shall be mailed by the Company, postage prepaid, as of a date set by the Company
+not fewer than 30 nor more than 60 days prior to such redemption date, addressed to the holders of record of the Series B Preferred Stock
+at their respective addresses as they appear on the stock transfer records of the Company. Failure to give such notice or any defect thereto
+or in the mailing thereof shall not affect the sufficiency of notice or validity of the proceedings for such redemption of any shares
+of Series B Preferred Stock except as to a holder to whom notice was defective or not given. A redemption notice which has been mailed
+in the manner provided herein shall be conclusively presumed to have been duly given on the date mailed whether or not such holder received
+such redemption notice. In addition to any information required by law or the applicable rules of any exchange upon which Series B Preferred
+Stock may be listed or admitted to trading, each notice shall state (i) the redemption date; (ii) the redemption price; (iii) the total
+number of shares of Series B Preferred Stock to be redeemed; (iv) the place or places where such shares of Series B Preferred Stock are
+to be surrendered for payment, together with the certificates, if any, representing such shares (duly endorsed for transfer) and any other
+documents the Company requires in connection with such redemption; (v) that the Series B Preferred Stock is being redeemed pursuant to
+the Delisting Event Redemption Right or the Change of Control Redemption Right, as applicable, in connection with the occurrence of a
+Delisting Event or a Change of Control, as applicable, and a brief description of the transaction or transactions constituting such Delisting
+Event or Change of Control, as applicable; (vi) that holders of Series B Preferred Stock will not be able to tender shares of Series B
+Preferred Stock for conversion in connection with a Change of Control during a continuing Delisting Event, as contemplated by Section
+8 hereto, and each share of Series B Preferred Stock tendered for conversion that is selected, prior to the Change of Control Conversion
+Date for redemption will be redeemed on the related redemption date instead of converted on the Change of Control Conversion Date; and
+(vii) that dividends on the shares of Series B Preferred Stock to be redeemed will cease to accrue on such redemption date.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 7 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(d)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT> In addition, upon the occurrence of a Delisting Event, the dividend rate specified in Section 3(a) hereof shall be increased on
+the day after the occurrence of the Delisting Event by 2.00% per annum to the rate of 9.125% of the $25.00 liquidation preference per
+share per annum (equivalent to $2.28125 per annum per share) from and after the date of the Delisting Event. Following the cure of such
+Delisting Event, the dividend rate shall revert to the rate specified in Section 3(a) hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Section 7.<FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U>Additional Provisions Relating to Optional Redemption and Special Optional Redemption by the Company</U>.</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(a)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>If (i) notice of redemption of any shares of Series B Preferred Stock has been given, (ii) the funds necessary for such redemption
+have been set apart by the Company in trust for the benefit of the holders of any Series B Preferred Stock so called for redemption and
+(iii) irrevocable instructions have been given to pay the redemption price of $25.00 per share, plus (subject to Section 7(b) hereof)
+an amount equal to all dividends accrued and unpaid (whether or not declared) to, but not including, the applicable redemption date, then
+from and after such redemption date, dividends shall cease to accrue on such shares of Series B Preferred Stock, such shares of Series
+B Preferred Stock shall no longer be outstanding, such shares of Series B Preferred Stock shall not be transferred except with the consent
+of the Company and all other rights of the holders of such shares will terminate, except the right to receive the redemption price of
+$25.00 per share, plus (subject to Section 7(b) hereof) an amount equal to any dividends accrued and unpaid (whether or not declared)
+payable upon such redemption, without interest.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(b)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>If a redemption date falls after a Series B Record Date and on or prior to the corresponding Series B Payment Date, each holder
+of shares of Series B Preferred Stock on the Series B Record Date shall be entitled to the dividend payable on such shares on the corresponding
+Series B Payment Date, notwithstanding such redemption of such shares on or prior to the Series B Payment Date, and each holder of shares
+of Series B Preferred Stock that are redeemed on such redemption date will be entitled to the dividends, if any, accruing after the end
+of the Series B Dividend Period to which the Series B Payment Date relates to, but not including, such redemption date.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(c)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>For purposes of clause (a)(ii) above, funds shall be deposited in trust with a bank or trust corporation and such deposit shall
+be irrevocable except that any balance of monies so deposited by the Company and unclaimed by the holders of Series B Preferred Stock
+entitled thereto at the expiration of two years from the applicable redemption dates shall be repaid, together with any interest or other
+earnings thereon, to the Company, and after any such repayment, the holders of the shares entitled to the funds so repaid to the Company
+shall look only to the Company for payment without interest or other earnings.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: -1in">Section 8.<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><U>Conversion Right</U>.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: -1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(a)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>Subject to Section 8(j), upon the occurrence of a Change of Control during a continuing Delisting Event, each holder of shares
+of Series B Preferred Stock shall have the right, unless, prior to the Change of Control Conversion Date the Company has provided or provides
+notice of its election to redeem such shares of Series B Preferred Stock pursuant to the Optional Redemption Right or Special Optional
+Redemption Rights, to convert some or all of such shares of Series B Preferred Stock held by such holder (the &ldquo;Change of Control
+Conversion Right&rdquo;) on the Change of Control Conversion Date into a number of shares of Common Stock per share of Series B Preferred
+Stock to be converted (the &ldquo;Common Stock Conversion Consideration&rdquo;), which is equal to the lesser of (A) the quotient obtained
+by dividing (i) the sum of $25.00 plus an amount equal to all dividends accrued and unpaid (whether or not declared) on the Series B Preferred
+Stock to, but not including, the Change of Control Conversion Date (unless such Change of Control Conversion Date is after a Series B
+Record Date and prior to the corresponding Series B Payment Date, in which case no additional amount for accrued and unpaid dividends
+that have been declared and are to be paid on the Series B Payment Date will be included in such sum), by (ii) the Common Stock Price
+and (B)&nbsp;3.4483 (as adjusted pursuant to the immediately succeeding paragraph, the &ldquo;Share Cap&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Share Cap is subject to <I>pro rata</I>
+adjustments for any stock splits (including those effected pursuant to a Common Stock dividend), subdivisions or combinations (in
+each case, a &ldquo;Stock Split&rdquo;) with respect to the Common Stock as follows: the adjusted Share Cap as the result of a Stock
+Split shall be the number of shares of Common Stock that is equivalent to the product of (i) the Share Cap in effect immediately
+prior to the Stock Split, multiplied by (ii) a fraction, the numerator of which is the number of shares of Common Stock outstanding
+after giving effect to the Stock Split and the denominator of which is the number of shares of Common Stock outstanding immediately
+prior to such Stock Split.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 8 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">In the case of a Change of Control during a continuing
+Delisting Event, pursuant to or in connection with which shares of Common Stock shall be converted into cash, securities or other property
+or assets (including any combination thereof) (the &ldquo;Alternative Form Consideration&rdquo;), a holder of shares of Series B Preferred
+Stock shall receive upon conversion of such shares of Series B Preferred Stock (subject to the next-following paragraph) the kind and
+amount of Alternative Form Consideration which such holder would have owned or been entitled to receive had such holder held a number
+of shares of Common Stock equal to the Common Stock Conversion Consideration immediately prior to the effective time of the Change of
+Control (the &ldquo;Alternative Conversion Consideration&rdquo; and, together with the Common Stock Conversion Consideration, the &ldquo;Conversion
+Consideration&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">In the event that holders of Common Stock have
+the opportunity to elect the form of consideration to be received in connection with the Change of Control during a continuing Delisting
+Event, the Conversion Consideration that holders of Series B Preferred Stock shall receive shall be the form of consideration elected
+by the holders of a plurality of the shares of Common Stock held by stockholders who participate in the election and shall be subject
+to any limitations to which all holders of shares of Common Stock are subject, including, without limitation, pro rata reductions applicable
+to any portion of the consideration payable in connection with the Change of Control during a continuing Delisting Event.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The &ldquo;Change of Control Conversion Date&rdquo;
+with respect to any Change of Control shall be a Business Day fixed by the Board of Directors that is not fewer than 20 days and not more
+than 35 days after the date on which the Company provides notice of the Change of Control pursuant to Section 8(d).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The &ldquo;Common Stock Price&rdquo; for any Change
+of Control shall be (i) if the consideration to be received in such Change of Control during a continuing Delisting Event by holders of
+Common Stock is solely cash, the amount of cash consideration per share of Common Stock, or (ii) if the consideration to be received in
+such Change of Control during a continuing Delisting Event by holders of Common Stock is other than solely cash, the Non-Traded Common
+Stock Price, if the Common Stock is not listed on a national exchange on the Change of Control Conversion Date or the Traded Common Stock
+Price, if the Common Stock is listed on a national securities exchange on the Change of Control Conversion Date. The &ldquo;Non-Traded
+Common Stock Price&rdquo; shall be the currently applicable repurchase price for shares of Common Stock pursuant to the Company&rsquo;s
+Share Repurchase Plan immediately prior to the effective date of the Change of Control, or, if the Company&rsquo;s Share Repurchase Plan
+has been terminated prior to that date, 100% of the estimated per share net asset value of Common Stock applicable immediately prior to
+the effective date of the Change of Control. The &ldquo;Traded Common Stock Price&rdquo; shall be the average of the closing prices per
+share of Common Stock on NASDAQ, the NYSE or the NYSE American (or any other national securities exchange on which Common Stock is then
+listed) for the ten consecutive trading days immediately preceding, but not including, the effective date of the Change of Control, or,
+if the Common Stock has been listed for less than ten trading days immediately preceding the effective date of the Change of Control during
+a continuing Delisting Event, the number of consecutive trading days immediately preceding such effective date.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(b)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>No fractional shares of Common Stock shall be issued upon the conversion of the Series B Preferred Stock. In lieu of fractional
+shares, holders shall be entitled to receive the cash value of the fractional shares based on the Common Stock Price.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(c)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>If a Change of Control Conversion Date falls after a Series B Record Date and on or prior to the corresponding Series B Payment
+Date, each holder of shares of Series B Preferred Stock at the close of business on the Series B Record Date shall be entitled to the
+dividend payable on such shares on the corresponding Series B Payment Date, notwithstanding the conversion of such shares on or prior
+to the Series B Payment Date, and each holder of shares of Series B Preferred Stock that are converted on the Change of Control Conversion
+Date will be entitled to the dividends, if any, accruing after the end of the Series B Dividend Period to which the Series B Payment Date
+relates to, but not including, the Change of Control Conversion Date.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 9 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(d)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT>Within
+15 days following the occurrence of a Change of Control during a continuing Delisting Event, unless the Company has provided notice
+of its election to redeem the Series B Preferred Stock pursuant to the Optional Redemption Right or Special Optional Redemption
+Rights, a notice of occurrence of the Delisting Event and the Change of Control describing the resulting Change of Control
+Conversion Right shall be delivered to the holders of record of the outstanding shares of Series B Preferred Stock at their
+addresses as they appear on the Company&rsquo;s stock transfer records. No failure to give the notice or any defect thereto or in
+the mailing thereof shall affect the validity of the proceedings for the conversion of any share of Series B Preferred Stock except
+as to the holder to whom notice was defective or not given. Each notice shall state: (i) the events constituting the Change of
+Control during a continuing Delisting Event; (ii) the date of the Change of Control during a continuing Delisting Event; (iii) the
+last date on which the holders of Series B Preferred Stock may exercise their Change of Control Conversion Right; (iv) the method
+and period for calculating the Common Stock Price; (v) the Change of Control Conversion Date; (vi) that if, prior to the applicable
+Change of Control Conversion Date, the Company provides notice of its election to redeem all or any portion of the Series B
+Preferred Stock, the holders of Series B Preferred Stock will not be able to convert such shares of Series B Preferred Stock called
+for redemption and such shares of Series B Preferred Stock shall be redeemed on the related redemption date, even if they have
+already been tendered for conversion pursuant to the Change of Control Conversion Right; (vii) if applicable, the type and amount of
+Alternative Conversion Consideration entitled to be received per share of Series B Preferred Stock; (viii) the name and address of
+the paying agent and the conversion agent (the &ldquo;Conversion Agent&rdquo;); and (ix)&nbsp;the procedures that holders of Series
+B Preferred Stock must follow to exercise the Change of Control Conversion Right.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(e)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>The Company shall issue a press release for publication on the Dow Jones &amp; Company, Inc., Business Wire, PR Newswire or Bloomberg
+Business News (or, if such organizations are not in existence at the time of issuance of such press release, another news or press organization
+as is reasonably calculated to broadly disseminate the relevant information to the public) containing the information stated in the notice,
+and post the notice on the Company&rsquo;s website, in any event prior to the opening of business on the first Business Day following
+any date on which the Company provides notice pursuant to Section 8(d) above to the holders of record of the Series B Preferred Stock.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(f)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>In order to exercise the Change of Control Conversion Right, a holder of record of shares of Series B Preferred Stock shall be
+required to deliver, on or before the close of business on the Change of Control Conversion Date, the certificates, if any, representing
+any certificated shares of Series B Preferred Stock to be converted, duly endorsed for transfer, together with a completed written conversion
+notice and any other documents the Company reasonably requires in connection with the conversion, to the Conversion Agent. Such notice
+shall state: (i) the relevant Change of Control Conversion Date; and (ii) the number of shares of Series B Preferred Stock to be converted.
+Notwithstanding the foregoing, if such shares of Series B Preferred Stock are held in global form, such notice shall instead comply with
+applicable procedures of The Depository Trust Company (&ldquo;DTC&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(g)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>Holders of the Series B Preferred Stock may withdraw any notice of exercise of a Change of Control Conversion Right (in whole or
+in part) by a written notice of withdrawal delivered to the Conversion Agent prior to the close of business on the Business Day prior
+to the Change of Control Conversion Date. The notice of withdrawal must state: (i) the number of withdrawn shares of Series B Preferred
+Stock; (ii) if certificated shares of Series B Preferred Stock have been tendered for conversion and withdrawn, the certificate numbers
+of the withdrawn certificated shares of Series B Preferred Stock; and (iii) the number of shares of Series B Preferred Stock, if any,
+which remain subject to the conversion notice. Notwithstanding the foregoing, if such shares of Series B Preferred Stock are held in global
+form, the notice of withdrawal shall instead comply with applicable procedures of DTC.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(h)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>Shares of Series B Preferred Stock as to which the Change of Control Conversion Right has been properly exercised and for which
+the conversion notice has not been properly withdrawn shall be converted into the applicable Conversion Consideration on the applicable
+Change of Control Conversion Date unless, prior thereto, the Company provides notice of its election to redeem such shares of Series B
+Preferred Stock, whether pursuant to its Optional Redemption Right or Special Optional Redemption Rights.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(i)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>The Company shall deliver the applicable Conversion Consideration no later than the third Business Day following the Change of
+Control Conversion Date.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(j)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT>Notwithstanding
+anything to the contrary in this Section 8, no holder of Series B Preferred Stock will be entitled to exercise a Change of Control
+Conversion Right or convert any shares of Series B Preferred Stock into shares of Common Stock to the extent that receipt of shares
+of Common Stock upon the conversion of such shares of Series B Preferred Stock in accordance with this Section 8 would cause such
+person or any other person to violate Section 5.7 of Article V of the Charter.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 10 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(k)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>In connection with the exercise of any Change of Control Conversion Right, the Company shall comply with all U.S. federal and state
+securities laws and stock exchange rules in connection with any conversion of shares of Series B Preferred Stock into Conversion Consideration.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Section 9.<FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U>Voting Rights</U>.</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(a)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>Holders of the Series B Preferred Stock shall not have any voting rights except as set forth in this Section 9.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(b)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>Whenever dividends on any outstanding shares of Series B Preferred Stock shall have not been paid for six or more Series B Dividend
+Periods (whether or not such dividends have been authorized or declared or the Series B Dividend Periods are consecutive) (a &ldquo;Preferred
+Dividend Default&rdquo;), the holders of Series B Preferred Stock (and all other classes and series of preferred stock of the Company
+ranking on parity with the Series B Preferred Stock with respect to dividend rights and rights upon the Company&rsquo;s voluntary or involuntary
+liquidation, dissolution or winding up and upon which like voting rights have been conferred and are exercisable and with which such holders
+of Series B Preferred Stock are entitled to vote together as a single class, including, without limitation, the Series A Preferred Stock
+(the &ldquo;Parity Preferred&rdquo;)), will have the exclusive power, voting together as a single class, to elect two additional directors
+(the &ldquo;Preferred Directors&rdquo;), at each annual meeting of the Company&rsquo;s stockholders and at any special meeting of the
+Company&rsquo;s stockholders called for the purpose of electing Preferred Directors (pursuant to Section 9(d) hereof or otherwise), until
+all dividends accrued and unpaid on outstanding shares of Series B Preferred Stock for all past Series B Dividend Periods and the then-current
+Series B Dividend Period have been fully paid. Unless the number of the Company&rsquo;s directors has previously been increased pursuant
+to the terms of any other class or series of Parity Preferred with which such holders of Series B Preferred Stock are entitled to vote
+together as a single class in the election of Preferred Directors, the number of the Company&rsquo;s directors shall automatically increase
+by two at such time as holders of Series B Preferred Stock become entitled to vote in the election of the Preferred Directors. Unless
+shares of Parity Preferred remain outstanding and entitled to vote in the election of Preferred Directors, the term of office of each
+Preferred Director will terminate, and the number of the Company&rsquo;s directors shall automatically decrease by two, when all accrued
+and unpaid dividends for all past Series B Dividend Periods and the then-current Series B Dividend Period have been fully paid. If the
+right of holders of Series B Preferred Stock to elect the Preferred Directors terminates after the record date for determining holders
+of shares of Series B Preferred Stock entitled to vote in any election of Preferred Directors but before the closing of the polls in such
+election, holders of shares of Series B Preferred Stock outstanding as of the applicable record date shall not be entitled to vote in
+the election of any Preferred Directors. The right of holders of Series B Preferred Stock to elect the Preferred Directors shall again
+vest if and whenever dividends are in arrears for six Series B Dividend Periods, as described above. In no event shall holders of Series
+B Preferred Stock be entitled to nominate or elect an individual as a Preferred Director, and no individual shall be qualified to be nominated
+for election or to serve as a Preferred Director, if the individual&rsquo;s service as a Preferred Director would cause the Company to
+fail to satisfy a requirement relating to director independence of any national securities exchange on which any class or series of Stock
+is listed or otherwise conflict with the Charter or the Company&rsquo;s Bylaws.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(c)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>The Preferred Directors shall be elected by a plurality of the votes cast in the election of such directors, and each Preferred
+Director will serve until the next annual meeting of the Company&rsquo;s stockholders and until his or her successor is duly elected and
+qualifies, or until such director&rsquo;s term of office terminates as set forth in Section 9(b). Any director elected by holders of Series
+B Preferred Stock and any Parity Preferred, voting together as a single class, may be removed, with or without cause, only by a majority
+of the votes entitled to be cast collectively by the holders of the outstanding shares of Series B Preferred Stock and Parity Preferred
+with which holders of Series B Preferred Stock are entitled to vote together as a single class in the election of Preferred Directors.
+At any time that holders of Series B Preferred Stock are entitled to vote in the election of the Preferred Directors, such holders shall
+be entitled to vote in the election of a successor to fill any vacancy on the Board of Directors that results from the removal of a Preferred
+Director.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 11 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(d)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT>At
+any time that holders of the Series B Preferred Stock have the right to elect Preferred Directors as described in Section 9(b)
+hereof but these directors have not been elected, the Company&rsquo;s secretary must call a special meeting of stockholders for the
+purpose of electing the Preferred Directors upon the written request of stockholders of record entitled to cast at least 10% of the
+votes entitled to be cast collectively by the holders of the outstanding shares of Series B Preferred Stock and any class or series
+of Parity Preferred with which holders of Series B Preferred Stock are entitled to vote together as a single class with respect to
+the election of Preferred Directors, unless the request is received more than 45 days and less than 90 days before the date fixed
+for the next annual meeting of the Company&rsquo;s stockholders at which such vote would otherwise occur, in which case, the
+Preferred Directors may be elected at either such annual meeting or at a separate special meeting of the Company&rsquo;s
+stockholders at the Company&rsquo;s discretion.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(e)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>So long as any shares of Series B Preferred Stock are outstanding, the approval of two-thirds of the votes entitled to be cast
+collectively by the holders of the outstanding shares of Series B Preferred Stock and any equally-affected class or series of Parity Preferred
+with which holders of Series B Preferred Stock are entitled to vote together as a single class, voting together as a single class, shall
+be required to authorize (i) any amendment, alteration, repeal or other change to any provision of the Charter, including the terms of
+the Series B Preferred Stock (whether by merger, conversion, consolidation, transfer or conveyance of all or substantially all of the
+Company&rsquo;s assets or otherwise), that would materially and adversely affect the rights, preferences, privileges or voting powers
+of the Series B Preferred Stock or (ii) the creation, issuance or increase in the authorized number of shares of any class or series of
+stock ranking senior to the Series B Preferred Stock (or any equity securities convertible into or exchangeable for any such shares, but
+not including debt securities convertible into or exchangeable for any such shares prior to the time of conversion) with respect to dividend
+rights and rights upon the Company&rsquo;s voluntary or involuntary liquidation, dissolution or winding up.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(f)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>The following actions shall not be deemed to materially and adversely affect the rights, preferences, privileges or voting powers
+of the Series B Preferred Stock:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">(i)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>any increase or decrease in the number of authorized Shares of any class or series, any increase in the number of authorized shares
+of Series B Preferred Stock or the classification or reclassification of any unissued Shares, or the creation or issuance of equity securities,
+of any class or series ranking, junior or on parity with the Series B Preferred Stock with respect to dividend rights and rights upon
+the Company&rsquo;s voluntary or involuntary liquidation, dissolution or winding up, <U>provided</U> that such action does not decrease
+the number of authorized shares of Common Stock below the number (after giving effect to all other outstanding shares capital stock) necessary
+to permit the Series B Preferred Stock to be converted in full in accordance with the terms hereof; or</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">(ii)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>any amendment, alteration, or repeal or other change to any provisions of the Charter, including the terms of the Series B Preferred
+Stock, as a result of a merger, conversion, consolidation, transfer or conveyance of all or substantially all of the Company&rsquo;s assets
+or other business combination (an &ldquo;Event&rdquo;), (x) if the Series B Preferred Stock (or securities of any successor person or
+entity to the Company into which the Series B Preferred Stock has been converted) remains outstanding with the terms thereof unchanged
+in all material respects or the holders of shares of Series B Preferred Stock receive securities of a successor person or entity with
+substantially identical rights as those of Series B Preferred Stock, taking into account that, upon the occurrence of an Event, the Company
+may not be the surviving entity, or (y) if holders of Series B Preferred Stock shall receive the $25.00 liquidation preference per share
+of Series B Preferred Stock, plus an amount equal to all accrued and unpaid dividends to, but not including, the date of such Event (other
+than any declared dividends having a Series B Record Date before the date of such Event and a Series B Payment Date after the date of
+such Event, which shall be paid as provided in Section 3 above), pursuant to the occurrence of any Event.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(g)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>Notwithstanding the foregoing, holders of any Parity Preferred shall not be entitled to vote together as a single class with holders
+of Series B Preferred Stock on any amendment, alteration, repeal or other change to any provision of the Charter, including the terms
+of the Series B Preferred Stock, unless such action affects holders of Series B Preferred Stock and such Parity Preferred equally. On
+any matter in which the Series B Preferred Stock may vote, each share of Series B Preferred Stock shall entitle the holder thereof to
+cast one vote, except that, in class votes, or in determining the percentage of outstanding shares, when voting together as a single class,
+with shares of one or more class or series of Parity Preferred, shares of different classes and series shall vote, or such determination
+shall be made, in proportion to the liquidation preference of such shares.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 12 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(h)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT> The foregoing voting provisions of this Section 9 shall not apply if, at or prior to the time when the act with respect to which
+such vote would otherwise be required shall be effected, all outstanding shares of Series B Preferred Stock shall have been redeemed or
+called for redemption upon proper notice and sufficient funds, in cash, shall have been deposited in trust to effect such redemption,
+in each case, in accordance with the provisions hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">(i)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>Except as expressly stated herein, the Series B Preferred Stock shall not have any relative, participating, optional or other special
+voting rights and powers and the consent of the holders thereof shall not be required for the taking of any corporate action, including,
+without limitation, any merger, conversion or consolidation of the Company or a sale of all or substantially all of the assets of the
+Company, irrespective of the effect that such merger, conversion or consolidation or sale may have upon the rights, preferences, privileges
+or voting power of holders of Series B Preferred Stock.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Section 10.<FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U>Information Rights</U>.</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">During any period in which the Company is not subject
+to the reporting requirements of Section 13 or 15(d) of the Exchange Act and any shares of Series B Preferred Stock are outstanding, the
+Company will (i)&nbsp;transmit by mail or other permissible means under the Exchange Act to all holders of Series B Preferred Stock, as
+their names and addresses appear in the Company&rsquo;s record books and without cost to such holders, copies of the annual reports on
+Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K that the Company would have been required to file with the Securities
+and Exchange Commission (the &ldquo;Commission&rdquo;), pursuant to Section 13 or Section 15(d) of the Exchange Act if the Company were
+subject thereto (other than any exhibits that would have been required) within 15 days after the respective dates by which the Company
+would have been required to file these reports with the Commission if it were subject to Section 13 or 15(d) of the Exchange Act and (ii)
+within 15 days following written request, supply copies of these reports to any prospective holder of Series B Preferred Stock.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Section 11.<FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U>Conversion</U>.</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Series B Preferred Stock shall not be convertible
+into any other property or securities of the Company or any other entity, except in accordance with Section 8 hereof and Article V of
+the Charter.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Section 12.<FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U>Ranking</U>.</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">In respect of rights to the payment of dividends
+and the distribution of assets in the event of any voluntary or involuntary liquidation, dissolution or winding up of the affairs of the
+Company, the Series B Preferred Stock shall rank (i) senior to Common Stock and to all other equity securities issued by the Company,
+the terms of which expressly provide that such securities rank junior to the Series B Preferred Stock with respect to dividend rights
+and rights upon the Company&rsquo;s voluntary or involuntary liquidation, dissolution or winding-up; (ii) on parity with the Series A
+Preferred Stock and all other equity securities issued by the Company, the terms of which expressly provide that such securities rank
+on parity with the Series B Preferred Stock with respect to dividend rights and rights upon the Company&rsquo;s voluntary or involuntary
+liquidation, dissolution or winding-up; and (iii) junior to all equity securities issued by the Company, the terms of which expressly
+provide that such securities rank senior to the Series B Preferred Stock with respect to dividend rights and rights upon the Company&rsquo;s
+voluntary or involuntary liquidation, dissolution or winding-up. All the Series B Preferred Stock shall rank equally with one another
+and shall be identical in all respects.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: -1in">Section 13.<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><U>Restrictions on Transfer and Ownership of Stock of the Series B Preferred Stock</U>.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: -1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Series B Preferred Stock is subject to the
+terms and conditions (including any applicable exceptions and exemptions) of Article V of the Charter.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 13 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Section 14.<FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U>Status of Acquired Shares of Series B Preferred Stock</U>.</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">All shares of Series B Preferred Stock which shall
+have been issued and reacquired in any manner by the Company shall be returned to the status of authorized but unissued preferred stock,
+and may thereafter be classified, reclassified or issued as any series or class of preferred stock.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Section 15.<FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U>Record Holders</U>.</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Company may deem and treat the record holder
+of any share of Series B Preferred Stock as the true and lawful owner thereof for all purposes, and the Company shall not be affected
+by any notice to the contrary. Except as may be otherwise provided by the Board of Directors (and except in connection with a global certificate
+held by a securities depositary), holders of Series B Preferred Stock are not entitled to certificates representing the Series B Preferred
+Stock held by them.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Section 16.<FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U>Sinking Fund</U>.</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Series B Preferred Stock shall not be entitled
+to the benefits of any retirement or sinking fund.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Section 17.<FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U>Physical Certificate Request</U>.</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Shares of Series B Preferred Stock shall be eligible
+for the Direct Registration System service offered by DTC and may be represented in the form of uncertificated or certificated shares,
+provided, however, that any holder of certificated shares of Series B Preferred Stock and, upon request, every holder of uncertificated
+shares of Series B Preferred Stock, shall be entitled to have a certificate for shares of Series B Preferred Stock signed by, or in the
+name of, the Company certifying the number of shares owned by such holder.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Section 18.<FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U>Exclusion of Other Rights</U>.</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Series B Preferred Stock shall not have any
+preferences or other rights, voting powers, restrictions, limitations as to dividends or other distributions, qualifications or terms
+or conditions of redemption other than expressly set forth in the Charter, including the terms of the Series B Preferred Stock.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Section 19.<FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U>Headings of Subdivisions</U>.</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The headings of the various subdivisions hereof
+are for convenience of reference only and shall not affect the interpretation of any of the provisions hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Section 20.<FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U>Severability of Provisions</U>.</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">If any preferences, conversion or other rights,
+voting powers, restrictions, limitations as to dividends or other distributions, qualifications or terms or conditions of redemption of
+the Series B Preferred Stock set forth in the Charter, including the terms of the Series B Preferred Stock, are invalid, unlawful or incapable
+of being enforced by reason of any rule of law or public policy, all other preferences, conversion or other rights, voting powers, restrictions,
+limitations as to distributions, qualifications or terms or conditions of redemption of the Series B Preferred Stock set forth in the
+Charter (including the terms of the Series B Preferred Stock) which can be given effect without the invalid, unlawful or unenforceable
+provision thereof shall, nevertheless, remain in full force and effect and no preferences, conversion or other rights, voting powers,
+restrictions, limitations as to dividends or other distributions, qualifications or terms or conditions of redemption of the Series B
+Preferred Stock herein set forth shall be deemed dependent upon any other provision thereof unless so expressed therein.</P>
+
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">SECOND: The Series B Preferred Stock have been
+classified or reclassified, and designated, by the Board of Directors under the authority contained in the Charter. These Articles Supplementary
+have been approved by the Board of Directors in the manner and by the vote required by law.</P>
+
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">THIRD: The undersigned acknowledges the
+foregoing Articles Supplementary to be the duly authorized corporate act of the Company and, as to all matters or facts required to
+be verified under oath, hereby acknowledges to the best of his knowledge, information and belief that these matters and facts are
+true in all material respects and that this statement is made under the penalties for perjury.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">[Remainder of page intentionally left blank. Signature
+page follows.]</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 14 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">IN WITNESS WHEREOF, the Company has caused these
+Articles Supplementary to be executed under seal in its name and on its behalf by its Chief Executive Officer and President and attested
+to by its Chief Financial Officer, Secretary and Treasurer on this 4th day of October, 2021.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2">ATTEST:</TD>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">HEALTHCARE TRUST, INC.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 3%">By:</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; width: 46%">/s/ Jason F. Doyle</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 3%">By:</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; width: 46%">/s/ Edward M. Weil, Jr.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2">Name: Jason F. Doyle</TD>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">Name: Edward M. Weil, Jr.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Title: Chief Financial Officer, Secretary and Treasurer</P></TD>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">Title: &nbsp;&nbsp;Chief Executive Officer and President</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 15; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

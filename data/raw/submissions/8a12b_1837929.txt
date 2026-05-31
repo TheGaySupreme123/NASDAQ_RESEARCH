@@ -1,0 +1,218 @@
+<SEC-DOCUMENT>0001564590-21-054374.txt : 20211104
+<SEC-HEADER>0001564590-21-054374.hdr.sgml : 20211104
+<ACCEPTANCE-DATETIME>20211104133308
+ACCESSION NUMBER:		0001564590-21-054374
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211104
+DATE AS OF CHANGE:		20211104
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			New Providence Acquisition Corp. II
+		CENTRAL INDEX KEY:			0001837929
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41023
+		FILM NUMBER:		211379216
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6500 RIVERPLACE BOULEVARD
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78730
+		BUSINESS PHONE:		917-969-4834
+
+	MAIL ADDRESS:	
+		STREET 1:		6500 RIVERPLACE BOULEVARD
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78730
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>npacii-8a12b_20211104.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>
+npacii-8k_20211104.htm
+</title>
+</head>
+<!-- NG Converter v5.0.2.50 -->
+<body>
+
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;border-top:Double 3pt;padding-top:1pt;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;"><br />UNITED STATES<font style="font-weight:normal;"><br /></font>SECURITIES AND EXCHANGE COMMISSION<font style="font-weight:normal;"><br /></font>WASHINGTON, DC 20549</p>
+<p style="text-align:center;margin-bottom:12pt;border-bottom:Solid 0.75pt;padding-bottom:1pt;margin-top:0pt;margin-left:30.77%;margin-right:30.77%;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">FORM 8-A</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES<font style="font-weight:normal;"><br /></font>PURSUANT TO SECTION 12(b) OR 12(g) OF<font style="font-weight:normal;"><br /></font>THE SECURITIES EXCHANGE ACT OF 1934</p>
+<p style="text-align:center;margin-bottom:12pt;border-bottom:Solid 0.75pt;padding-bottom:1pt;margin-top:0pt;margin-left:30.77%;margin-right:30.77%;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">NEW PROVIDENCE ACQUISITION CORP. II<font style="font-weight:normal;"><br /></font>(Exact Name Of Registrant As Specified In Its Charter)</p>
+<p style="text-align:center;margin-bottom:12pt;border-bottom:Solid 0.75pt;padding-bottom:1pt;margin-top:0pt;margin-left:30.77%;margin-right:30.77%;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr style="height:1pt;">
+<td valign="bottom"  style="width:48%; border-bottom:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Delaware</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:48%; border-bottom:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">86-1433401</p></td>
+</tr>
+<tr style="height:1pt;">
+<td valign="bottom"  style="width:48%; border-top:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">(State of incorporation or organization)</p></td>
+<td valign="top"  style="width:4%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:48%; border-top:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">(I.R.S. Employer Identification No.)</p></td>
+</tr>
+<tr style="height:1pt;">
+<td valign="bottom"  style="width:48%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:4%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:48%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+</tr>
+<tr style="height:1pt;">
+<td valign="bottom"  style="width:48%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">10900 Research Blvd</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Suite 160C, PMB 1081</p></td>
+<td valign="top"  style="width:4%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:48%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+</tr>
+<tr style="height:1pt;">
+<td valign="bottom"  style="width:48%; border-bottom:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Austin, TX</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:48%; border-bottom:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">78759</p></td>
+</tr>
+<tr style="height:1pt;">
+<td valign="bottom"  style="width:48%; border-top:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">(Address of principal executive offices)</p></td>
+<td valign="top"  style="width:4%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:48%; border-top:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">(Zip Code)</p></td>
+</tr>
+</table></div>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Securities to be registered pursuant to Section 12(b) of the Act:</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="bottom"  style="width:48%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Title of each class</p></td>
+<td valign="top"  style="width:4%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:48%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Name of each exchange on which</p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:48%; border-bottom:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">to be so registered</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:48%; border-bottom:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">each class is to be registered</p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:48%; border-top:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Units, each consisting of one share of Class A common stock, $0.0001 par value, and one-third of one redeemable warrant</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Class A common stock included as part of the units<br />Warrants included as part of the units, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50</p></td>
+<td valign="top"  style="width:4%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:48%; border-top:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">The Nasdaq Stock Market LLC </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">The Nasdaq Stock Market LLC</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">The Nasdaq Stock Market LLC</p></td>
+</tr>
+</table></div>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:12pt;border-bottom:Solid 0.75pt;padding-bottom:1pt;margin-top:0pt;margin-left:30.77%;margin-right:30.77%;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:12pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c), check the following box. <font style="font-family:Segoe UI Symbol;">&#9746;</font></p>
+<p style="margin-bottom:12pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d), check the following box. &#160;<font style="font-family:Segoe UI Symbol;">&#9744;</font></p>
+<p style="text-align:center;margin-bottom:12pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Securities Act registration statement file number to which this form relates: 333-<font style="font-weight:normal;"> </font>253337 </p>
+<p style="text-align:center;margin-bottom:12pt;border-bottom:Double 3pt;padding-bottom:1pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Securities to be registered pursuant to Section 12(g) of the Act: None<br /></p>
+<p style="margin-bottom:12pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-top:12pt;margin-bottom:0pt;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;text-indent:7.69%;">&nbsp;</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:12pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Item 1. Description of Registrant&#8217;s Securities to be Registered</p>
+<p style="margin-bottom:12pt;margin-top:0pt;text-indent:7.69%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">The description of the units, each consisting of one share of Class A common stock, $0.0001 par value per share, and one-third of one redeemable warrant, the shares of Class A common stock and warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50, of New Providence Acquisition Corp. II, a Delaware corporation, as set forth under the caption &#8220;Description of Securities&#8221; in the prospectus forming a part of the Registration Statement on Form S-1, as originally filed with the Securities and Exchange Commission (the &#8220;Commission&#8221;) on February 22, 2021 (Registration No. 333-253337), including exhibits, and as may be subsequently amended from time to time (the &#8220;Registration Statement&#8221;), is hereby incorporated by reference. In addition, all of the above-referenced descriptions included in any prospectus relating to the Registration Statement filed with the Commission pursuant to Rule 424(b) under the Securities Act of 1933, as amended, shall be deemed to be incorporated by reference herein.</p>
+<p style="margin-bottom:12pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Item 2. Exhibits</p>
+<p style="margin-bottom:12pt;margin-top:0pt;text-indent:7.69%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Pursuant to the Instructions as to Exhibits for Form 8-A, no exhibits are required to be filed, because no other securities of the Registrant are registered on The Nasdaq Global Market, and the securities registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended. </p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">1</a></p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:12pt;margin-top:0pt;text-indent:0%;font-weight:bold;text-transform:uppercase;font-family:Times New Roman;font-size:10pt;font-style:normal;font-variant: normal;">SIGNATURES</p>
+<p style="margin-bottom:12pt;margin-top:0pt;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;text-indent:7.69%;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="bottom"  style="width:46.24%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="bottom"  style="width:53.76%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">NEW PROVIDENCE ACQUISITION CORP. II</p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:46.24%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="bottom"  style="width:53.76%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:46.24%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Date: November 4, 2021</p></td>
+<td valign="bottom"  style="width:8.46%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">By:</p></td>
+<td valign="bottom"  style="width:45.3%;">
+<p style="border-bottom:Solid 0.75pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">/s/ Gary P. Smith</p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:46.24%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="width:8.46%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Name:&#160;&#160;</p></td>
+<td valign="bottom"  style="width:45.3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Gary P. Smith</p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:46.24%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="width:8.46%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Title:</p></td>
+<td valign="bottom"  style="width:45.3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Chief Executive Officer</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:12pt;margin-top:0pt;text-indent:7.69%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-top:12pt;margin-top:3pt;margin-bottom:0pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;">&nbsp;</p></body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

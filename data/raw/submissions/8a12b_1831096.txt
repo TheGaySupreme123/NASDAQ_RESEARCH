@@ -1,0 +1,340 @@
+<SEC-DOCUMENT>0001140361-22-023452.txt : 20220617
+<SEC-HEADER>0001140361-22-023452.hdr.sgml : 20220617
+<ACCEPTANCE-DATETIME>20220617160118
+ACCESSION NUMBER:		0001140361-22-023452
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20220617
+DATE AS OF CHANGE:		20220617
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Great Elm Group, Inc.
+		CENTRAL INDEX KEY:			0001831096
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				853622015
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39832
+		FILM NUMBER:		221023661
+
+	BUSINESS ADDRESS:	
+		STREET 1:		800 SOUTH STREET, SUITE 230
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+		BUSINESS PHONE:		(617) 375-3006
+
+	MAIL ADDRESS:	
+		STREET 1:		800 SOUTH STREET, SUITE 230
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ny20003971x9_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using EDGARfilings PROfile 8.3.1.0
+         Copyright 1995 - 2022 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <hr style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center">
+    <div><br>
+    </div>
+    <div>
+      <div style="text-align: center;"><br>
+      </div>
+      <div style="text-align: center; font-size: 14pt; font-weight: bold;">UNITED STATES</div>
+      <div style="text-align: center; font-size: 14pt; font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+      <div style="text-align: center; font-size: 12pt; font-weight: bold;">Washington, D.C. 20549</div>
+      <div style="text-align: center; font-size: 12pt; font-weight: bold;"> <br>
+      </div>
+      <div>
+        <hr style="height: 2px; width: 25%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+      <div><br>
+      </div>
+      <div style="text-align: center; font-size: 18pt; font-weight: bold;">FORM 8-A</div>
+      <div><br>
+      </div>
+      <div>
+        <hr style="height: 2px; width: 25%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+      <div><br>
+      </div>
+      <div style="text-align: center; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+      <div style="text-align: center; font-weight: bold;">PURSUANT TO SECTION 12(b) OR 12(g) OF THE</div>
+      <div style="text-align: center; font-weight: bold;">SECURITIES EXCHANGE ACT OF 1934</div>
+      <div><br>
+      </div>
+      <div>
+        <hr style="height: 2px; width: 25%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade">
+        <div> <br>
+        </div>
+      </div>
+      <div style="text-align: center; font-size: 24pt; font-weight: bold;">Great Elm Group, Inc.</div>
+      <div style="text-align: center;">(Exact name of registrant as specified in its charter)</div>
+      <div><br>
+      </div>
+      <div><br>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="za158e63672f04343b618aadf1d953c22" border="0" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 45%; vertical-align: top;">
+              <div style="text-align: center; margin-left: 5.4pt; font-weight: bold;">Delaware</div>
+              <div style="text-align: center; margin-left: 5.4pt;">(State or other jurisdiction</div>
+              <div style="text-align: center; margin-left: 5.4pt;">of incorporation or organization)</div>
+            </td>
+            <td style="width: 10%; vertical-align: top;">&#160;</td>
+            <td style="width: 45%; vertical-align: top;">
+              <div style="text-align: center; margin-left: 5.4pt; font-weight: bold;">85-3622015</div>
+              <div style="text-align: center; margin-left: 5.4pt;">(I.R.S. Employer Identification No.)</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 45%; vertical-align: bottom;">
+              <div style="text-align: center; margin-left: 5.4pt; font-weight: bold;">800 South Street, Suite 230</div>
+              <div style="text-align: center; margin-left: 5.4pt; font-weight: bold;">Waltham, Massachusetts</div>
+              <div style="text-align: center; margin-left: 5.4pt;">(Address of principal executive offices)</div>
+            </td>
+            <td style="width: 10%; vertical-align: bottom;">&#160;</td>
+            <td style="width: 45%; vertical-align: bottom;">
+              <div style="text-align: center; margin-left: 5.4pt; font-weight: bold;">02453</div>
+              <div style="text-align: center; margin-left: 5.4pt;">(Zip Code)</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div style="text-align: center; margin-left: 5.75pt;">Securities to be registered pursuant to Section 12(b) of the Act:</div>
+      <div><br>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zfca0703c87de4caf99a36c3a0b66b7c9" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 50%; vertical-align: top;">
+              <div style="text-align: center; margin-left: 5.4pt;">Title of each class</div>
+              <div style="text-align: center; margin-left: 5.4pt;"><u>to be so registered</u></div>
+            </td>
+            <td style="width: 50%; vertical-align: top;">
+              <div style="text-align: center; margin-left: 5.4pt;">Name of exchange on which</div>
+              <div style="text-align: center; margin-left: 5.4pt;"><u>each class is to be registered</u></div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">
+              <div style="text-align: center; margin-left: 5.4pt; font-weight: bold;">7.25% Notes due 2027</div>
+            </td>
+            <td style="width: 50%; vertical-align: top;">
+              <div style="text-align: center; margin-left: 5.4pt; font-weight: bold;">The Nasdaq Stock Market LLC</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div>
+        <hr style="height: 2px; width: 25%; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+      <div><br>
+      </div>
+      <div style="margin-left: 5.4pt;">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box.&#160; &#9746;</div>
+      <div><br>
+      </div>
+      <div style="margin-left: 5.4pt;">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box.&#160; &#9744;</div>
+      <div><br>
+      </div>
+      <div style="margin-left: 5.4pt;">If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box.&#160; &#9744;</div>
+      <div><br>
+      </div>
+      <div style="text-align: center; margin-left: 5.4pt; font-weight: bold;">Securities Act registration statement or Regulation A offering statement file number to</div>
+      <div style="text-align: center; margin-left: 5.4pt; font-weight: bold;">which this form relates: Registration No. 333-264692</div>
+      <div><br>
+      </div>
+      <div style="text-align: center; margin-left: 5.4pt; font-weight: bold;">Securities to be registered pursuant to Section 12(g) of the Act: None</div>
+      <div><br>
+      </div>
+      <div>
+        <hr style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center"></div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+        <div style="page-break-after:always;" id="DSPFPageBreak">
+          <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+      </div>
+      <div><br>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z80e00eb458fe4839b25cb10342b550df" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 72pt; vertical-align: top; align: right; font-weight: bold;">Item 1.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="font-weight: bold;">Description of Registrant&#8217;s Securities to be Registered.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div style="text-indent: 36pt;">The securities to be registered hereunder are 7.25% notes due 2027 (the &#8220;Notes&#8221;) of Great Elm Group, Inc. (the &#8220;<u>Company</u>&#8221;). The description of the Notes contained in the section entitled &#8220;Description of the
+        Notes&#8221; in the Prospectus, dated June 7, 2022, included in the Company&#8217;s Registration Statement on Form S-1 (File No. 333-264692) initially filed with the Securities and Exchange Commission on May 5, 2022 (as amended from time to time, the &#8220;<u>Registration
+
+          Statement</u>&#8221;), is hereby incorporated by reference. Any form of prospectus or prospectus supplement to the Registration Statement that includes such descriptions and that are subsequently filed are hereby also incorporated by reference herein.
+        The Notes are expected to be listed on The Nasdaq Global Market under the trading symbol &#8220;GEGGL,&#8221; and to trade thereon within 30 days from the original issue date.</div>
+      <div><br>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zb4ad8497c01d4fc2a9dcbcc658a23983" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 72pt; vertical-align: top; align: right; font-weight: bold;">Item 2.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="font-weight: bold;">Exhibits.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z2086e799515a4b56acc14f4639666f1a" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 36pt; vertical-align: top; align: right;"><a href="https://www.sec.gov/Archives/edgar/data/1831096/000114036120029666/brhc10018388_ex3-1.htm">(a)</a></td>
+            <td style="width: auto; vertical-align: top;">
+              <div>Certificate of Incorporation of the Company (incorporated by reference to Exhibit 3.1 to the Form 8-K (File No. 001-16073) filed on December 29, 2020)</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="ze672a58638ba4fe4930e650ed4edde68" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 36pt; vertical-align: top; align: right;"><a href="https://www.sec.gov/Archives/edgar/data/1831096/000114036120029666/brhc10018388_ex3-2.htm">(b)</a></td>
+            <td style="width: auto; vertical-align: top;">
+              <div>Bylaws of the Company (incorporated by reference to Exhibit 3.2 to the Form 8-K (File No. 001-16073) filed on December 29, 2020)</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z8b44530cfedc4572b8ef1d3e78302d67" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 36pt; vertical-align: top; align: right;"><a href="https://www.sec.gov/Archives/edgar/data/1831096/000114036122022440/ny20003971x8_ex4-1.htm">(c)</a></td>
+            <td style="width: auto; vertical-align: top;">
+              <div>Indenture, dated as of June 9, 2022, between the Company and American Stock Transfer &amp; Trust Company, LLC, as trustee (incorporated by reference to Exhibit 4.1 to the Form 8-K (File No. 001-39832) filed on June 9, 2022)</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><a href="https://www.sec.gov/Archives/edgar/data/1831096/000114036122022440/ny20003971x8_ex4-2.htm"><br>
+        </a></div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z0e4d4342637d42cfb153f7545331aa8a" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 36pt; vertical-align: top; align: right;"><a href="https://www.sec.gov/Archives/edgar/data/1831096/000114036122022440/ny20003971x8_ex4-2.htm">(d)</a></td>
+            <td style="width: auto; vertical-align: top;">
+              <div>First Supplemental Indenture, dated as of June 9, 2022, relating to the 7.25% Notes due 2027, between the Company and American Stock Transfer &amp; Trust Company, LLC, as trustee (incorporated by reference to Exhibit 4.2 to the Form 8-K
+                (File No. 001-39832) filed on June 9, 2022)</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zd7cba1958861462db54e4782cb2747c1" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 36pt; vertical-align: top; align: right;"><a href="https://www.sec.gov/Archives/edgar/data/1831096/000114036122022440/ny20003971x8_ex4-2.htm">(e)</a></td>
+            <td style="width: auto; vertical-align: top;">
+              <div>7.25% Note due 2027 (incorporated by reference to Exhibit 4.3 to the Form 8-K (File No. 001-39832) filed on June 9, 2022)</div>
+            </td>
+          </tr>
+
+      </table>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+        <div style="page-break-after:always;" id="DSPFPageBreak">
+          <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+      </div>
+      <div><br>
+      </div>
+      <div style="text-align: center; font-weight: bold;">SIGNATURE</div>
+      <div><br>
+      </div>
+      <div style="text-indent: 36pt;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereunto duly authorized.</div>
+      <div><br>
+      </div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zb0e825cb10864c4889a3cce964d50fae" border="0" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 49.58%; vertical-align: top;">&#160;</td>
+            <td colspan="3" style="vertical-align: top;">
+              <div style="font-weight: bold;">GREAT ELM GROUP, INC.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.58%; vertical-align: top;">&#160;</td>
+            <td colspan="3" style="vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 49.58%; vertical-align: top;">
+              <div>Date: June 17, 2022</div>
+            </td>
+            <td style="width: 5%; vertical-align: top;">
+              <div>By:</div>
+            </td>
+            <td colspan="2" style="vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>/s/ Brent J. Pearson</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.58%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0);">
+              <div>Name:</div>
+            </td>
+            <td style="width: 40%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0);">
+              <div>Brent J. Pearson</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.58%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">
+              <div>Title:</div>
+            </td>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Chief Financial Officer &amp; Chief Accounting Officer</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div><br>
+      </div>
+      <div><br>
+      </div>
+      <div><br>
+      </div>
+      <div>
+        <hr style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

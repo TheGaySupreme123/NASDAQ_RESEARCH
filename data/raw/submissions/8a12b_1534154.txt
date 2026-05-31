@@ -1,0 +1,370 @@
+<SEC-DOCUMENT>0001213900-21-043432.txt : 20210817
+<SEC-HEADER>0001213900-21-043432.hdr.sgml : 20210817
+<ACCEPTANCE-DATETIME>20210817160412
+ACCESSION NUMBER:		0001213900-21-043432
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20210817
+DATE AS OF CHANGE:		20210817
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ipsidy Inc.
+		CENTRAL INDEX KEY:			0001534154
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40747
+		FILM NUMBER:		211182788
+
+	BUSINESS ADDRESS:	
+		STREET 1:		670 LONG BEACH BLVD.
+		CITY:			LONG BEACH
+		STATE:			NY
+		ZIP:			11561
+		BUSINESS PHONE:		516-274-8700
+
+	MAIL ADDRESS:	
+		STREET 1:		670 LONG BEACH BLVD.
+		CITY:			LONG BEACH
+		STATE:			NY
+		ZIP:			11561
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ID Global Solutions Corp
+		DATE OF NAME CHANGE:	20141014
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	IIM Global Corp
+		DATE OF NAME CHANGE:	20130107
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Silverwood Acquisition Corp
+		DATE OF NAME CHANGE:	20111102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ea146037-8a12b_ipsidyinc.htm
+<DESCRIPTION>FOR REGISTRATION OF CERTAIN CLASSES
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B></B></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 0pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM&nbsp;8-A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 0pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>PURSUANT TO SECTION 12(b) OR (g) OF THE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>&nbsp;<IMG SRC="image_001.jpg" ALT=""></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B><U>Ipsidy Inc.</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Exact name of registrant as specified in its charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: Black 1.5pt solid; width: 49%; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U STYLE="text-decoration: none">Delaware</U></B></FONT></TD>
+    <TD STYLE="text-align: center; padding-bottom: 1.5pt; width: 2%">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; width: 49%; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U STYLE="text-decoration: none">46-2069547</U></B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(State or incorporation or organization)</FONT></TD>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(IRS Employer Identification No.)</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="text-align: center; border-bottom: Black 1.5pt solid; vertical-align: top">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>670 Long Beach
+Boulevard</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B><U STYLE="text-decoration: none">Long Beach, New York</U></B></P></TD>
+    <TD STYLE="text-align: center; padding-bottom: 1.5pt; vertical-align: top">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; vertical-align: bottom; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U STYLE="text-decoration: none">11561</U></B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Address of principal executive offices)</FONT></TD>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Zip Code)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities to be registered pursuant to Section 12(b) of the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="vertical-align: bottom; border-bottom: Black 1.5pt solid; text-align: center; width: 49%"><B>Title of each class&nbsp;to be so registered</B></TD>
+    <TD STYLE="padding-bottom: 1.5pt; text-align: center; width: 2%"><B>&nbsp;</B></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; text-align: center; width: 49%"><B>Name of each exchange on which each class is to be
+    registered</B> </TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="text-align: center"><B>Common Stock, par value $0.0001 per share</B></TD>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>The NASDAQ Stock Market LLC</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">If this form
+relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General
+Instruction A.(c), check the following box.&nbsp;&#9746;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">If this form
+relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General
+Instruction A.(d), check the following box.&nbsp;&#9744;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities Act registration statement file number to which this form
+relates:&nbsp; Not applicable.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities to be registered pursuant to Section 12(g) of the Act: None.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Item&nbsp;1. Description
+of Registrant&rsquo;s Securities to be Registered.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The description of the Common
+Stock of Ipsidy Inc. (the &ldquo;Registrant&rdquo;), par value $0.0001 per share, to be registered hereunder set forth under the caption
+&ldquo;Description of Capital Stock&rdquo; in the Registrant&rsquo;s Registration Statement on <A HREF="https://www.sec.gov/Archives/edgar/data/1534154/000121390021034281/ea143310-s1_ipsidyinc.htm" STYLE="-sec-extract: exhibit">Form S-1</A> (File No. 333-257453) as originally
+filed with the Securities and Exchange Commission on June 28, 2021, including any subsequent amendments thereto (the &ldquo;Form S-1&rdquo;),
+and in the prospectus to be filed by the Registrant pursuant to Rule 424(b) of the Securities Act of 1933, which prospectus will constitute
+a part of the Form S-1, is hereby incorporated by reference in response to this item.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Item&nbsp;2. Exhibits.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Pursuant to the Instructions
+as to Exhibits with respect to Form 8-A, no exhibits are required to be filed because no other securities of the Registrant are registered
+on The NASDAQ Stock Market LLC, and the securities registered hereby are not being registered pursuant to Section 12(g) of the Securities
+Exchange Act of 1934, as amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>SIGNATURE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Pursuant to the requirements
+of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf
+by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 0.8pt"><FONT STYLE="font: 10pt Times New Roman, Times, Serif"><B>IPSIDY INC.</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 60%">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.8pt; width: 4%">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.8pt; width: 36%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="padding-right: 0.8pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By: </FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; padding-right: 0.8pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/
+    Stuart Stoller</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="padding-right: 0.8pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.8pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Stuart Stoller</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="padding-right: 0.8pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.8pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief Financial Officer</FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 100%; padding-right: 0.8pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date:&nbsp;August 17, 2021</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">2</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>image_001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 image_001.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1" !, '(# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+0<]1Z+Y_F1+9"T445!)__V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

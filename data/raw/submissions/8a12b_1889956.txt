@@ -1,0 +1,233 @@
+<SEC-DOCUMENT>0000950170-24-085846.txt : 20240724
+<SEC-HEADER>0000950170-24-085846.hdr.sgml : 20240724
+<ACCEPTANCE-DATETIME>20240724060406
+ACCESSION NUMBER:		0000950170-24-085846
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20240724
+DATE AS OF CHANGE:		20240724
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OneStream, Inc.
+		CENTRAL INDEX KEY:			0001889956
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42187
+		FILM NUMBER:		241136024
+
+	BUSINESS ADDRESS:	
+		STREET 1:		362 SOUTH STREET
+		CITY:			ROCHESTER
+		STATE:			MI
+		ZIP:			48307
+		BUSINESS PHONE:		(415) 272-3117
+
+	MAIL ADDRESS:	
+		STREET 1:		362 SOUTH STREET
+		CITY:			ROCHESTER
+		STATE:			MI
+		ZIP:			48307
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>project_venus_8-a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<html>
+ <head>
+  <title>8-A12B</title>
+ </head>
+ <body style="margin: auto!important;padding: 8px;">
+  <div style="min-height:1in;"></div>
+  <table style="border-spacing:0;table-layout:fixed;width:100.0%;border-collapse:separate;">
+   <tr style="visibility:collapse;">
+    <td style="width:33.333%;"></td>
+    <td style="width:33.333%;"></td>
+    <td style="width:33.333%;"></td>
+   </tr>
+   <tr style="word-break:break-word;white-space:pre-wrap;">
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+   </tr>
+   <tr style="height:2.9pt;word-break:break-word;white-space:pre-wrap;">
+    <td colspan="3" style="border-top:1pt solid #000000;padding-left:0.017in;vertical-align:middle;padding-right:0.017in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+   </tr>
+  </table>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:18pt;font-family:Times New Roman;min-width:fit-content;">UNITED STATES</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:18pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:18pt;font-family:Times New Roman;min-width:fit-content;">SECURITIES AND EXCHANGE COMMISSION</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:18pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;min-width:fit-content;">Washington, D.C. 20549</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:18pt;font-family:Times New Roman;min-width:fit-content;">FORM 8-A</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:18pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;min-width:fit-content;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;min-width:fit-content;">PURSUANT TO SECTION 12(b) OR (g) OF THE</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;min-width:fit-content;">SECURITIES EXCHANGE ACT OF 1934</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:24pt;font-family:Times New Roman;min-width:fit-content;">OneStream, Inc.</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:24pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">(Exact name of registrant as specified in its charter)</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <table style="border-spacing:0;table-layout:fixed;width:100.0%;border-collapse:separate;">
+   <tr style="visibility:collapse;">
+    <td style="width:18.776%;"></td>
+    <td style="width:18.776%;"></td>
+    <td style="width:18.776%;"></td>
+    <td style="width:14.557%;"></td>
+    <td style="width:14.557%;"></td>
+    <td style="width:14.557%;"></td>
+   </tr>
+   <tr style="word-break:break-word;white-space:pre-wrap;">
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+   </tr>
+   <tr style="height:10pt;word-break:break-word;white-space:pre-wrap;text-align:left;">
+    <td colspan="3" style="padding-top:0.021in;padding-left:0.017in;vertical-align:top;padding-bottom:0.021in;padding-right:0.017in;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">Delaware</font></p></td>
+    <td colspan="3" style="padding-top:0.021in;padding-left:0.017in;vertical-align:top;padding-bottom:0.021in;padding-right:0.017in;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">87-3199478</font></p></td>
+   </tr>
+   <tr style="height:8pt;word-break:break-word;white-space:pre-wrap;text-align:left;">
+    <td colspan="3" style="padding-top:0.021in;padding-left:0.017in;vertical-align:bottom;padding-bottom:0.021in;padding-right:0.017in;"><p style="font-size:8pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">(State or other jurisdiction of incorporation or</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;"> </font></p><p style="font-size:8pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">organization)</font></p></td>
+    <td colspan="3" style="padding-top:0.021in;padding-left:0.017in;vertical-align:top;padding-bottom:0.021in;padding-right:0.017in;"><p style="font-size:8pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">(I.R.S. Employer Identification No.)</font></p></td>
+   </tr>
+  </table>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">191 N. Chester Street</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">Birmingham, Michigan 48009</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:8pt;font-family:Times New Roman;min-width:fit-content;">(Address of principal executive offices including zip code)</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:8pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">Securities to be registered pursuant to Section 12(b) of the Act:</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <table style="border-spacing:0;table-layout:fixed;width:100.0%;border-collapse:separate;">
+   <tr style="visibility:collapse;">
+    <td style="width:20.548%;"></td>
+    <td style="width:20.548%;"></td>
+    <td style="width:20.548%;"></td>
+    <td style="width:12.785%;"></td>
+    <td style="width:12.785%;"></td>
+    <td style="width:12.785%;"></td>
+   </tr>
+   <tr style="word-break:break-word;white-space:pre-wrap;">
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+   </tr>
+   <tr style="height:8pt;word-break:break-word;white-space:pre-wrap;text-align:left;">
+    <td colspan="3" style="padding-top:0.021in;padding-left:0.017in;vertical-align:bottom;padding-bottom:0.021in;padding-right:0.017in;"><p style="font-size:8pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">Title of each class</font></p><p style="font-size:8pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">to be so registered</font></p></td>
+    <td colspan="3" style="padding-top:0.021in;padding-left:0.017in;vertical-align:bottom;padding-bottom:0.021in;padding-right:0.017in;"><p style="font-size:8pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">Name of each exchange on which</font></p><p style="font-size:8pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">each class is to be registered</font></p></td>
+   </tr>
+   <tr style="height:10pt;word-break:break-word;white-space:pre-wrap;text-align:left;">
+    <td colspan="3" style="padding-top:0.021in;padding-left:0.017in;vertical-align:bottom;padding-bottom:0.021in;padding-right:0.017in;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">Class A common stock, $0.0001 par value per share</font></p><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td colspan="3" style="padding-top:0.021in;padding-left:0.017in;vertical-align:top;padding-bottom:0.021in;padding-right:0.017in;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">The Nasdaq Stock Market LLC</font></p><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+   </tr>
+  </table>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. &#9746;</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. &#9744;</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. &#9744;</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">Securities Act registration statement or Regulation A offering statement file number to which this form relates:</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;"> 333-280573</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">Securities to be registered pursuant to Section 12(g) of the Act:</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;"> None</font></p>
+  <table style="border-spacing:0;table-layout:fixed;width:100.0%;border-collapse:separate;">
+   <tr style="visibility:collapse;">
+    <td style="width:33.333%;"></td>
+    <td style="width:33.333%;"></td>
+    <td style="width:33.333%;"></td>
+   </tr>
+   <tr style="word-break:break-word;white-space:pre-wrap;">
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+   </tr>
+   <tr style="height:2.9pt;word-break:break-word;white-space:pre-wrap;">
+    <td colspan="3" style="border-top:1pt solid #000000;padding-left:0.017in;vertical-align:middle;padding-right:0.017in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+   </tr>
+  </table>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <div class="page-node-content"><div style="flex-direction:column;display:flex;min-height:1in;justify-content:flex-end;"></div></div>
+  <hr style="page-break-after:always;">
+  <div style="min-height:1in;"></div>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">Item 1. Description of Registrant&#x2019;s Securities to be Registered</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">For a description of the securities of OneStream, Inc. (the &#x201c;</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">Registrant</font><font style="color:#000000;white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">&#x201d;) being registered hereunder, reference is made to the information set forth under the heading &#x201c;Description of Capital Stock&#x201d; contained in the Registrant&#x2019;s registration statement on Form S-1 (File No. 333-280573), as initially filed with the Securities and Exchange Commission (the &#x201c;</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">Commission</font><font style="color:#000000;white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">&#x201d;) on June 28, 2024, as amended (the &#x201c;</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">Registration Statement</font><font style="color:#000000;white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">&#x201d;), and in the prospectus included in the Registration Statement to be filed separately by the Registrant with the Commission pursuant to Rule 424(b) under the Securities Act of 1933, as amended, which prospectus shall be deemed to be incorporated by reference herein.</font><font style="color:#000000;white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">Item 2. Exhibits</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">Under the &#x201c;Instructions as to Exhibits&#x201d; section of Form 8-A, no exhibits are required to be filed because no other securities of the Registrant are to be registered on The Nasdaq Stock Market LLC and the securities to be registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</font><font style="color:#000000;white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <div class="page-node-content"><div style="flex-direction:column;display:flex;min-height:1in;justify-content:flex-end;"></div></div>
+  <hr style="page-break-after:always;">
+  <div style="min-height:1in;"></div>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">SIGNATURE</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:10pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</font></p>
+  <p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <table style="border-spacing:0;table-layout:fixed;width:100.0%;border-collapse:separate;">
+   <tr style="visibility:collapse;">
+    <td style="width:13.777%;"></td>
+    <td style="width:13.697%;"></td>
+    <td style="width:16.997%;"></td>
+    <td style="width:5.319%;"></td>
+    <td style="width:16.777%;"></td>
+    <td style="width:16.717%;"></td>
+    <td style="width:16.717%;"></td>
+   </tr>
+   <tr style="word-break:break-word;white-space:pre-wrap;">
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;padding-left:0.014in;vertical-align:middle;padding-bottom:0.01in;padding-right:0.014in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+   </tr>
+   <tr style="height:10pt;word-break:break-word;white-space:pre-wrap;">
+    <td colspan="3" style="padding-top:0.021in;padding-left:0.017in;vertical-align:bottom;padding-bottom:0.021in;padding-right:0.017in;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;min-width:fit-content;">Date: July 24, 2024</font></p></td>
+    <td style="padding-left:0.017in;vertical-align:middle;padding-right:0.017in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td colspan="3" style="padding-top:0.021in;padding-left:0.017in;vertical-align:bottom;padding-bottom:0.021in;padding-right:0.017in;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="text-transform:uppercase;color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;">OneStream, Inc.</font><font style="text-transform:uppercase;color:#000000;white-space:pre-wrap;font-weight:bold;min-width:fit-content;"> </font></p></td>
+   </tr>
+   <tr style="height:12.25pt;word-break:break-word;white-space:pre-wrap;">
+    <td colspan="3" style="padding-left:0.017in;vertical-align:middle;padding-right:0.017in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-left:0.017in;vertical-align:middle;padding-right:0.017in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td colspan="3" style="padding-left:0.017in;vertical-align:middle;padding-right:0.017in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+   </tr>
+   <tr style="height:12.25pt;word-break:break-word;white-space:pre-wrap;">
+    <td colspan="3" style="padding-left:0.017in;vertical-align:middle;padding-right:0.017in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-left:0.017in;vertical-align:middle;padding-right:0.017in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td colspan="3" style="padding-left:0.017in;vertical-align:middle;padding-right:0.017in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+   </tr>
+   <tr style="height:10pt;word-break:break-word;white-space:pre-wrap;">
+    <td colspan="3" style="padding-left:0.017in;vertical-align:middle;padding-right:0.017in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.021in;padding-left:0.017in;vertical-align:bottom;padding-bottom:0.021in;padding-right:0.017in;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;min-width:fit-content;">By:</font></p></td>
+    <td colspan="3" style="padding-top:0.021in;padding-left:0.017in;vertical-align:bottom;padding-bottom:0.021in;padding-right:0.017in;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;min-width:fit-content;">/s/ Thomas Shea</font></p></td>
+   </tr>
+   <tr style="height:10pt;word-break:break-word;white-space:pre-wrap;">
+    <td colspan="3" style="padding-left:0.017in;vertical-align:middle;padding-right:0.017in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-left:0.017in;vertical-align:middle;padding-right:0.017in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td colspan="3" style="border-top:0.75pt solid #000000;padding-top:0.021in;padding-left:0.017in;vertical-align:bottom;padding-bottom:0.021in;padding-right:0.017in;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;min-width:fit-content;">Thomas Shea</font></p></td>
+   </tr>
+   <tr style="height:10pt;word-break:break-word;white-space:pre-wrap;">
+    <td colspan="3" style="padding-left:0.017in;vertical-align:middle;padding-right:0.017in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-left:0.017in;vertical-align:middle;padding-right:0.017in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;min-width:fit-content;">&#160;</font></p></td>
+    <td colspan="3" style="padding-top:0.021in;padding-left:0.017in;vertical-align:bottom;padding-bottom:0.021in;padding-right:0.017in;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;min-width:fit-content;">Chief Executive Officer</font></p></td>
+   </tr>
+  </table>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <div class="page-node-content"><div style="flex-direction:column;display:flex;min-height:1in;justify-content:flex-end;"></div></div>
+  <hr style="page-break-after:always;">
+ </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

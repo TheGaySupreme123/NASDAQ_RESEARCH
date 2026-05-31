@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001821268-21-000474.txt : 20211117
+<SEC-HEADER>0001821268-21-000474.hdr.sgml : 20211117
+<ACCEPTANCE-DATETIME>20211116182430
+ACCESSION NUMBER:		0001821268-21-000474
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211117
+DATE AS OF CHANGE:		20211116
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Guggenheim Active Allocation Fund
+		CENTRAL INDEX KEY:			0001864208
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41077
+		FILM NUMBER:		211417732
+
+	BUSINESS ADDRESS:	
+		STREET 1:		227 W. MONROE STREET
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		800-345-7999
+
+	MAIL ADDRESS:	
+		STREET 1:		227 W. MONROE STREET
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>gug83103-8a12b.htm
+<DESCRIPTION>REGISTRATION OF CERTAIN CLASSES OF SECURITIES PURSUANT TO SECTION 12(B) OR (G) OF THE SECURITIES EXCHANGE ACT OF 1934
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: FGS
+         Document created using EDGARfilings PROfile 7.3.2.0
+         Copyright 1995 - 2021 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman'; font-size: 10pt; text-align: left; color: #000000;">
+  <div style="text-align: center;">U.S. SECURITIES AND EXCHANGE COMMISSION</div>
+  <div style="text-align: center;">Washington, D.C. 20549</div>
+  <div><br>
+  </div>
+  <div style="text-align: center;">FORM 8-A</div>
+  <div><br>
+  </div>
+  <div style="text-align: center;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+  <div style="text-align: center;">PURSUANT TO SECTION 12(b) OR (g) OF THE</div>
+  <div style="text-align: center;">SECURITIES EXCHANGE ACT OF 1934</div>
+  <div><br>
+  </div>
+  <div style="text-align: center;"><font style="font-weight: bold;">GUGGENHEIM ACTIVE ALLOCATION FUN</font>D</div>
+  <div style="text-align: center;">(Exact Name of Registrant as Specified in Agreement and Declaration of Trust)</div>
+  <div><br>
+  </div>
+  <div style="text-align: center; font-weight: bold;">STATE OF DELAWARE</div>
+  <div style="text-align: center;">(Jurisdiction of Organization)</div>
+  <div><br>
+  </div>
+  <div style="text-align: center; font-weight: bold;">SEE BELOW</div>
+  <div style="text-align: center;">(I.R.S. Employer Identification No.)</div>
+  <div><br>
+  </div>
+  <div style="text-align: center; font-weight: bold;">227 WEST MONROE STREET CHICAGO, ILLINOIS</div>
+  <div style="text-align: center;">(Address of Principal Executive Offices)</div>
+  <div><br>
+  </div>
+  <div style="text-align: center; font-weight: bold;">60606</div>
+  <div style="text-align: center;">(Zip Code)</div>
+  <div><br>
+  </div>
+  <div style="margin-bottom: 12pt;">Securities to be registered pursuant to Section 12(b) of the Act:</div>
+  <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z44b6686f91204ff69c799ee940a27cf3">
+
+      <tr>
+        <td style="width: 33.31%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);">
+          <div>Title of Securities</div>
+          <div>Being Registered</div>
+        </td>
+        <td style="width: 32.66%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);">
+          <div style="text-align: center;">Name of Exchange on which</div>
+          <div style="text-align: center;">Each Class is to be Registered</div>
+        </td>
+        <td style="width: 34.02%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+          <div style="text-align: center;">I.R.S. Employer Identification Number</div>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 33.31%; vertical-align: bottom;">
+          <div style="font-weight: bold;">Common Shares of Beneficial Interest, $0.01 par value</div>
+        </td>
+        <td style="width: 32.66%; vertical-align: top;">
+          <div style="text-align: center; font-weight: bold;">New York Stock Exchange</div>
+        </td>
+        <td style="width: 34.02%; vertical-align: top;">
+          <div style="text-align: center; font-weight: bold;">87-2512331<br>
+          </div>
+        </td>
+      </tr>
+
+  </table>
+  <div><br>
+  </div>
+  <div style="margin-bottom: 12pt;">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c), check the following box:&#160; [<font style="font-weight: bold;">X</font>]</div>
+  <div style="margin-bottom: 12pt;">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d), check the following box:&#160; [&#160; ]</div>
+  <div>Securities Act registration statement file number to which this form relates:&#160; 333-256687</div>
+  <div><br>
+  </div>
+  <div style="margin-bottom: 12pt;">Securities to be registered pursuant to Section 12(g) of the Act:&#160;&#160; <font style="font-weight: bold;">None.</font></div>
+  <div style="margin-bottom: 6pt;"><br>
+  </div>
+  <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+    <div style="page-break-after:always;" id="DSPFPageBreak">
+      <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+  </div>
+  <div style="margin-bottom: 6pt;"><br>
+  </div>
+  <div style="text-align: justify; margin-bottom: 12pt;"><font style="font-weight: bold;">Item 1.</font><font style="display: inline-block; text-indent: 0px; font-size: 1px; width: 72pt" id="TRGRRTFtoHTMLTab">&#160;</font><font style="font-weight: bold;">Description
+
+
+      of Registrant&#8217;s Securities to be Registered:</font></div>
+  <div style="text-align: justify; margin-bottom: 12pt;">The description of the Registrant&#8217;s securities to be registered is incorporated by reference to the description contained under the caption &#8220;Description of Capital Structure&#8221; in the Registrant&#8217;s
+    Registration Statement on Form N-2 (Nos. 333-256687 and 811-23702) as filed electronically with the Securities and Exchange Commission (the &#8220;Commission&#8221;) on June 1, 2021 (Accession No. 0001821268-21-000253) (&#8220;Registration Statement on Form N-2&#8221;), as
+    amended by Pre-Effective Amendments Nos. 1 and 2 to the Registration Statement on Form N-2, as filed with the Commission on October 1, 2021 and October 28, 2021, respectively (Accession Nos. 0001821268-21-000418 and 0001821268-21-000435, respectively).</div>
+  <div><font style="font-weight: bold;">Item 2.</font><font style="display: inline-block; text-indent: 0px; font-size: 1px; width: 72pt" id="TRGRRTFtoHTMLTab">&#160;</font><font style="font-weight: bold;">Exhibits.</font></div>
+  <div><br>
+  </div>
+  <div>Pursuant to the Instructions as to Exhibits, no exhibits are filed herewith or incorporated by reference.</div>
+  <div><br>
+  </div>
+  <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+    <div style="page-break-after:always;" id="DSPFPageBreak">
+      <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+  </div>
+  <div style="text-align: center; font-weight: bold;">SIGNATURE</div>
+  <div><br>
+  </div>
+  <div>Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</div>
+  <div><br>
+  </div>
+  <div style="margin-left: 216pt;">Guggenheim Active Allocation Fund</div>
+  <div><br>
+  </div>
+  <div><br>
+  </div>
+  <div><font style="display: inline-block; text-indent: 0px; font-size: 1px; width: 216pt" id="TRGRRTFtoHTMLTab">&#160;</font><font style="display: inline-block; text-indent: 0px; font-size: 1px; width: 180pt" id="TRGRRTFtoHTMLTab">&#160;</font><br>
+  </div>
+  <div style="text-indent: 216pt;"><u> /s/ Brian E. Binder&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </u><br>
+  </div>
+  <div style="text-indent: 216pt;">Brian E. Binder</div>
+  <div style="text-indent: 216pt;">President and Chief Executive Officer</div>
+  <div><br>
+  </div>
+  <div style="text-indent: 216pt;">Date:&#160; November 16, 2021</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

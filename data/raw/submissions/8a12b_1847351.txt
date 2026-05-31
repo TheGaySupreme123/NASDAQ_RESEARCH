@@ -1,0 +1,411 @@
+<SEC-DOCUMENT>0000950123-21-015801.txt : 20211122
+<SEC-HEADER>0000950123-21-015801.hdr.sgml : 20211122
+<ACCEPTANCE-DATETIME>20211122152616
+ACCESSION NUMBER:		0000950123-21-015801
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211122
+DATE AS OF CHANGE:		20211122
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Beard Energy Transition Acquisition Corp.
+		CENTRAL INDEX KEY:			0001847351
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				861990354
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41098
+		FILM NUMBER:		211432208
+
+	BUSINESS ADDRESS:	
+		STREET 1:		595 MADISON AVENUE
+		STREET 2:		29TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(214) 833-8913
+
+	MAIL ADDRESS:	
+		STREET 1:		595 MADISON AVENUE
+		STREET 2:		29TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Beard Energy Acquisition Corp.
+		DATE OF NAME CHANGE:	20210222
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>beard-8a_20211122.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>
+beard-8k_20211122.DOCX.htm
+</title>
+</head>
+<!-- NG Converter v5.0.2.67 -->
+<body>
+
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="border-top:Double 3pt;padding-top:1pt;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;text-align:center;margin-top:0pt;text-indent:0%;font-size:12pt;font-weight:bold;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">UNITED STATES<br />SECURITIES AND EXCHANGE COMMISSION<font style="font-size:10pt;"><br />Washington, D.C. 20549</font></p>
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:38.46%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;text-indent:3.85%;">&nbsp;</p>
+<p style="margin-bottom:0pt;text-align:center;margin-top:0pt;text-indent:0%;font-size:20pt;font-weight:bold;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">FORM 8-A</p>
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:38.46%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;text-indent:3.85%;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:10pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES<br />PURSUANT TO SECTION 12(b) OR 12(g) OF THE<br />SECURITIES EXCHANGE ACT OF 1934</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td style="width:33.33%;"></td>
+<td style="width:33.33%;"></td>
+<td style="width:33.33%;"></td>
+</tr>
+<tr>
+<td colspan="3" valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:20pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Beard Energy Transition Acquisition Corp.</p></td>
+</tr>
+<tr>
+<td colspan="3" valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Exact Name of Registrant as Specified in Its Charter)</p></td>
+</tr>
+<tr>
+<td colspan="3" valign="bottom" >
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:180pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Delaware</p></td>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">86-1990354</p></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(State or other jurisdiction <br />of Incorporation or Organization)</p></td>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(IRS Employer <br />Identification No.)</p></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td colspan="2" valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">595 Madison Avenue, 29th Floor</p>
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">New York, NY</p></td>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">10022</p></td>
+</tr>
+<tr>
+<td colspan="2" valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Address of Principal Executive Offices)</p></td>
+<td valign="bottom" >
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Zip Code)</p></td>
+</tr>
+</table></div>
+<p style="margin-top:10pt;margin-bottom:10pt;text-indent:0%;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Securities to be registered pursuant to Section 12(b) of the Act:</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td style="width:50%;"></td>
+<td style="width:50%;"></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="text-align:center;border-bottom:Solid 0.75pt;padding-bottom:0pt;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Title of Each Class to be Registered</p></td>
+<td valign="bottom" >
+<p style="text-align:center;border-bottom:Solid 0.75pt;padding-bottom:0pt;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Name of Each Exchange on Which Each Class is to be Registered</p></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="margin-bottom:10pt;text-align:center;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Units, each consisting of one share of Class A Common Stock and one-half of one Warrant</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:10pt;text-align:center;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">The New York Stock Exchange</p></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="margin-bottom:10pt;text-align:center;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Class A Common Stock, par value $0.0001 per share</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:10pt;text-align:center;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">The New York Stock Exchange</p></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="margin-bottom:10pt;text-align:center;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:10pt;text-align:center;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">The New York Stock Exchange</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:10pt;margin-top:0pt;text-indent:3.85%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. <font style="font-family:'Times New Roman';"><font style="font-size:10pt;font-family:'Times New Roman'">&#9746;</font></font></p>
+<p style="margin-top:10pt;margin-bottom:10pt;text-indent:3.85%;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. <font style="font-family:'Times New Roman';"><font style="font-size:9pt;font-family:'Times New Roman'">&#9744;</font></font></p>
+<p style="margin-top:10pt;margin-bottom:10pt;text-indent:3.85%;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. <font style="font-family:'Times New Roman';"><font style="font-size:9pt;font-family:'Times New Roman'">&#9744;</font></font></p>
+<p style="margin-top:10pt;margin-bottom:10pt;text-indent:3.85%;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Securities Act registration statement file number to which this form relates: <font style="font-weight:bold;">333-254049</font></p>
+<p style="margin-top:10pt;margin-bottom:10pt;text-indent:3.85%;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Securities to be registered pursuant to Section 12(g) of the Act: <font style="font-weight:bold;">None</font></p>
+<p style="margin-bottom:0pt;text-align:center;margin-top:0pt;text-indent:0%;font-size:9pt;">&nbsp;</p>
+<p style="border-bottom:Double 3pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-top:10pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:11.54%;white-space:nowrap">
+<p style="margin-top:10pt;margin-bottom:10pt;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Item 1.</font></p></td>
+<td valign="top">
+<p style="margin-top:10pt;margin-bottom:10pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Description of Registrant&#8217;s Securities to be Registered.</p></td></tr></table></div>
+<p style="margin-top:10pt;margin-bottom:10pt;text-indent:3.85%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">The securities to be registered hereby are units, Class A common stock, par value $0.0001 per share, and warrants to purchase Class A common stock of Beard Energy Transition Acquisition Corp. (the &#8220;Registrant&#8221;). The description of the units, Class A common stock and warrants set forth under the heading &#8220;Description of Securities&#8221; in the Registrant&#8217;s prospectus forming part of its Registration Statement on Form S-1 (File No. 333-254049), originally filed with the Securities and Exchange Commission on March 9, 2021, as thereafter amended and supplemented from time to time (the &#8220;Registration Statement&#8221;) to which this Form 8-A relates is incorporated by reference herein. Any form of prospectus or prospectus supplement to the Registration Statement that includes such descriptions and that are subsequently filed are hereby also incorporated by reference herein.</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:11.54%;white-space:nowrap">
+<p style="margin-top:10pt;margin-bottom:10pt;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Item 2.</font></p></td>
+<td valign="top">
+<p style="margin-top:10pt;margin-bottom:10pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Exhibits.</p></td></tr></table></div>
+<p style="margin-top:10pt;margin-bottom:10pt;text-indent:3.85%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">The following exhibits have been filed as exhibits to the Registration Statement, as amended, and are incorporated herein by reference:</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="bottom"  style="width:5.26%; border-bottom:solid 0.75pt #000000;">
+<p style="border-bottom:none 0pt;padding-bottom:0pt;text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-weight:bold;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Exhibit <br />Number</p></td>
+<td valign="bottom"  style="width:1%;">
+<p style="border-bottom:none 0pt;padding-bottom:0pt;text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-weight:bold;">&nbsp;</p></td>
+<td valign="bottom"  style="width:47.36%; border-bottom:solid 0.75pt #000000;">
+<p style="border-bottom:none 0pt;padding-bottom:0pt;text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-weight:bold;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Description</p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5.26%; border-top:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">3.1</p></td>
+<td valign="bottom"  style="width:1%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:47.36%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/0001847351/000156459021011796/beard-ex31_253.htm"><font style="text-decoration:underline;">Certificate of Incorporation of the Registrant (incorporated by reference to Exhibit 3.1 filed with the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254049), filed with the Securities and Exchange Commission on March 9, 2021).</font></a></p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5.26%;">
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">3.2</p></td>
+<td valign="bottom"  style="width:1%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:47.36%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/0001847351/000156459021011796/beard-ex32_252.htm"><font style="text-decoration:underline;">Certificate of Amendment to the Certificate of Incorporation of the Registrant (incorporated by reference to Exhibit 3.2 filed with the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254049), filed with the Securities and Exchange Commission on March 9, 2021).</font></a></p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5.26%;">
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">3.3</p></td>
+<td valign="bottom"  style="width:1%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:47.36%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/1847351/000156459021056738/beard-ex33_14.htm"><font style="text-decoration:underline;">Form of Amended and Restated Certificate of Incorporation (incorporated by reference to Exhibit 3.3 filed with the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254049), filed with the Securities and Exchange Commission on November 12, 2021).</font></a></p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5.26%;">
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">3.4</p></td>
+<td valign="bottom"  style="width:1%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:47.36%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/1847351/000156459021011796/beard-ex34_250.htm"><font style="text-decoration:underline;">Amended and Restated Bylaws (incorporated by reference to Exhibit 3.4 filed with the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254049), filed with the Securities and Exchange Commission on March 9, 2021).</font></a></p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5.26%;">
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">4.1</p></td>
+<td valign="bottom"  style="width:1%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:47.36%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/1847351/000156459021051549/beard-ex41_16.htm"><font style="text-decoration:underline;">Specimen Unit Certificate (incorporated by reference to Exhibit 4.1 filed with the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254049), filed with the Securities and Exchange Commission on October 22, 2021).</font></a></p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5.26%;">
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">4.2</p></td>
+<td valign="bottom"  style="width:1%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:47.36%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/1847351/000156459021051549/beard-ex42_17.htm"><font style="text-decoration:underline;">Specimen Class A Common Stock Certificate (incorporated by reference to Exhibit 4.2 filed with the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254049), filed with the Securities and Exchange Commission on October 22, 2021).</font></a></p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5.26%;">
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">4.3</p></td>
+<td valign="bottom"  style="width:1%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:47.36%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/1847351/000156459021051549/beard-ex43_11.htm"><font style="text-decoration:underline;">Specimen Public Warrant Certificate (incorporated by reference to Exhibit 4.3 filed with the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254049), filed with the Securities and Exchange Commission on October 22, 2021).</font></a></p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5.26%;">
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">4.4</p></td>
+<td valign="bottom"  style="width:1%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:47.36%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/1847351/000156459021051549/beard-ex44_6.htm"><font style="text-decoration:underline;">Specimen Private Warrant Certificate (incorporated by reference to Exhibit 4.4 filed with the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254049), filed with the Securities and Exchange Commission on September October 22, 2021).</font></a></p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5.26%;">
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">4.5</p></td>
+<td valign="bottom"  style="width:1%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:47.36%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/1847351/000156459021051549/beard-ex45_24.htm"><font style="text-decoration:underline;">Form of Public Warrant Agreement between Continental Stock Transfer &amp; Trust Company and the Registrant (incorporated by reference to Exhibit 4.5 filed with the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254049), filed with the Securities and Exchange Commission on October 22, 2021).</font></a></p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5.26%;">
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">4.6</p></td>
+<td valign="bottom"  style="width:1%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:47.36%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/1847351/000156459021056738/beard-ex46_21.htm"><font style="text-decoration:underline;">Form of Private Warrant Agreement between Continental Stock Transfer &amp; Trust Company and the Registrant (incorporated by reference to Exhibit 4.6 filed with the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254049), filed with the Securities and Exchange Commission on November 12, 2021).</font></a></p></td>
+</tr></table></div>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">2</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="bottom"  style="width:5.26%; border-bottom:solid 0.75pt #000000;">
+<p style="border-bottom:none 0pt;padding-bottom:0pt;text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-weight:bold;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Exhibit <br />Number</p></td>
+<td valign="bottom"  style="width:1%;">
+<p style="border-bottom:none 0pt;padding-bottom:0pt;text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-weight:bold;">&nbsp;</p></td>
+<td valign="bottom"  style="width:47.36%; border-bottom:solid 0.75pt #000000;">
+<p style="border-bottom:none 0pt;padding-bottom:0pt;text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-weight:bold;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Description</p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5.26%;">
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">10.</font><font style="font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">1</font></p></td>
+<td valign="bottom"  style="width:1%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:47.36%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/1847351/000156459021051549/beard-ex103_21.htm"><font style="text-decoration:underline;">Form of Investment Management Trust Agreement between Continental Stock Transfer &amp; Trust Company and the Registrant and Opco (incorporated by reference to Exhibit 10.3 filed with the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254049), filed with the Securities and Exchange Commission on October 22, 2021).</font></a></p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5.26%;">
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">10.2</p></td>
+<td valign="bottom"  style="width:1%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:47.36%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/1847351/000156459021033088/beard-ex104_137.htm"><font style="text-decoration:underline;">Form of Registration Rights Agreement among the Registrant, Beard Energy Transition Acquisition Sponsor LLC and the other parties thereto (incorporated by reference to Exhibit 10.4 filed with the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254049), filed with the Securities and Exchange Commission on June 15, 2021).</font></a></p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="width:5.26%;">
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">10.3</p></td>
+<td valign="bottom"  style="width:1%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:47.36%;">
+<p style="margin-bottom:5pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/1847351/000156459021051549/beard-ex1011_9.htm"><font style="text-decoration:underline;">Form of Second Amended and Restated Limited Liability Company Agreement of Opco (incorporated by reference to Exhibit 10.11 filed with the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254049), filed with the Securities and Exchange Commission on October 22, 2021).</font></a></p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">3</a></p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:10pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">SIGNATURE</p>
+<p style="margin-top:10pt;margin-bottom:10pt;text-indent:3.85%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the Registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</p>
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:46.15%;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td style="width:46.72%;"></td>
+<td style="width:5.71%;"></td>
+<td style="width:1.42%;"></td>
+<td style="width:46.15%;"></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td colspan="3" valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">BEARD ENERGY TRANSITION ACQUISITION CORP.</p></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="bottom"  style=" border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Date: November 22, 2021</p></td>
+<td valign="bottom"  style=" border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">By:</p></td>
+<td valign="bottom"  style=" border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style=" border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">/s/ Gregory A. Beard</p></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Name:</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style=" border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Gregory A. Beard</p></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Title:</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Chief Executive Officer and Director</p></td>
+</tr>
+<tr>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom" >
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:1pt;margin-top:0pt;margin-left:46.15%;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">[Signature Page to Form 8-A]</p></body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

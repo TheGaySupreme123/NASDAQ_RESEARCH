@@ -1,0 +1,1486 @@
+<SEC-DOCUMENT>0001193125-21-279172.txt : 20210922
+<SEC-HEADER>0001193125-21-279172.hdr.sgml : 20210922
+<ACCEPTANCE-DATETIME>20210922121900
+ACCESSION NUMBER:		0001193125-21-279172
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20210922
+DATE AS OF CHANGE:		20210922
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			InPoint Commercial Real Estate Income, Inc.
+		CENTRAL INDEX KEY:			0001690012
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				320506267
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40833
+		FILM NUMBER:		211268836
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2901 BUTTERFIELD ROAD
+		CITY:			OAK BROOK
+		STATE:			IL
+		ZIP:			60523
+		BUSINESS PHONE:		630-218-8000
+
+	MAIL ADDRESS:	
+		STREET 1:		2901 BUTTERFIELD ROAD
+		CITY:			OAK BROOK
+		STATE:			IL
+		ZIP:			60523
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>d200223d8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<HTML><HEAD>
+<TITLE>8-A12B</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">8-A</FONT> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>FOR
+REGISTRATION OF CERTAIN CLASSES OF SECURITIES </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>PURSUANT TO SECTION 12(b) OR 12(g) OF THE </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES EXCHANGE ACT OF 1934 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>INPOINT
+COMMERCIAL REAL ESTATE INCOME, INC. </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Maryland</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">32-0506267</FONT></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(State or other jurisdiction<BR>of incorporation)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(I.R.S. Employer<BR>Identification No.)</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>2901 Butterfield Road</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Oak Brook, Illinois</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>60523</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Securities to be registered pursuant to Section&nbsp;12(b) of the Act: </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Times New Roman; " ALIGN="center"><B>Title of each class</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Times New Roman; " ALIGN="center"><B>Name of each exchange on which
+registered</B></P></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>6.75% Series A Cumulative Redeemable</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>New York Stock Exchange</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Preferred Stock, par value $0.001 per share</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If this form relates to the registration of a class of securities pursuant to Section&nbsp;12(b) of the Exchange Act and is effective pursuant to General
+Instruction A.(c), check the following box.&nbsp;&nbsp;&#9745; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If this form relates to the registration of a class of securities pursuant to
+Section&nbsp;12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d), check the following box.&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If this form
+relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box.&nbsp;&nbsp;&#9744; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Securities Act registration statement file number to which this form relates: </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>File <FONT STYLE="white-space:nowrap">No.&nbsp;333-258802</FONT> </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Securities to be registered pursuant to Section&nbsp;12(g) of the Act: </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>None </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Title of class)
+</B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>INFORMATION REQUIRED </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>IN REGISTRATION STATEMENT </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;1.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><B>Description of Registrant&#146;s Securities to be Registered. </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">A description of the 6.75% Series A Cumulative Redeemable Preferred Stock, par value $0.001 per share (the &#147;Series A Preferred
+Stock&#148;) of InPoint Commercial Real Estate Income, Inc., a Maryland corporation (the &#147;Company&#148;), is set forth under the heading &#147;Description of Series A Preferred Stock&#148; in the Preliminary Prospectus, dated September&nbsp;14,
+2021, included in the Company&#146;s Registration Statement on Form <FONT STYLE="white-space:nowrap">S-11</FONT> (Registration <FONT STYLE="white-space:nowrap">No.&nbsp;333-258802),</FONT> which was declared effective on September&nbsp;15, 2021, as
+supplemented by the description set forth under the heading &#147;Description of Series A Preferred Stock&#148; in the Company&#146;s Final Prospectus, dated September&nbsp;15, 2021, filed with the Securities and Exchange Commission on
+September&nbsp;16, 2021, under Rule 424(b)(1) under the Securities Act of 1933, as amended. Such description, as so supplemented, is incorporated herein by reference. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;2.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><B>Exhibits. </B></P></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="8%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Times New Roman; "><B>Exhibit&nbsp;No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"><B>Exhibit Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>3.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1690012/000119312517152276/d385771dex31.htm">Articles of Amendment and Restatement of InPoint Commercial Real Estate Income, Inc. (filed as Exhibit 3.1 to the Registrant&#146;s Registration
+ Statement on Form 10 filed May&nbsp;2, 2017 and incorporated by reference) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>3.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1690012/000119312519128820/d736804dex31.htm">Articles of Amendment of InPoint Commercial Real Estate Income, Inc. (filed as Exhibit 3.1 to the Registrant&#146;s Current Report on Form <FONT
+STYLE="white-space:nowrap">8-K</FONT> filed April&nbsp;30, 2019 and incorporated by reference) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>3.3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1690012/000119312519128820/d736804dex32.htm">Articles Supplementary of InPoint Commercial Real Estate Income, Inc. (filed as Exhibit 3.2 to the Registrant&#146;s Current Report on Form
+<FONT STYLE="white-space:nowrap">8-K</FONT> filed April&nbsp;30, 2019 and incorporated by reference) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>3.4</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1690012/000156459019032018/ck0001690012-ex34_440.htm">Certificate of Correction of InPoint Commercial Real Estate Income, Inc. (filed as Exhibit 3.4 to the Registrant&#146;s Quarterly Report
+ on Form <FONT STYLE="white-space:nowrap">10-Q</FONT> filed August&nbsp;14, 2019 and incorporated by reference) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>3.5</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d200223dex35.htm">Articles Supplementary relating to the Series A Preferred Stock </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>3.6</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1690012/000119312517152276/d385771dex32.htm">Bylaws of InPoint Commercial Real Estate Income, Inc. (filed as Exhibit 3.2 to the Registrant&#146;s Registration Statement on Form 10 filed May&nbsp;2,
+ 2017 and incorporated by reference) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d200223dex41.htm">Form of certificate representing the 6.75% Series A Cumulative Redeemable Preferred Stock, par value $0.001 per share </A></TD></TR>
+</TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of Section&nbsp;12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration
+statement to be signed on its behalf by the undersigned, thereto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="45%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="3%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="45%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"><B>INPOINT COMMERCIAL REAL ESTATE INCOME,&nbsp;INC.</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date: September&nbsp;22, 2021</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">/s/ Catherine L. Lynch</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Catherine&nbsp;L. Lynch</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Chief Financial Officer and Treasurer</TD></TR>
+</TABLE>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.5
+<SEQUENCE>2
+<FILENAME>d200223dex35.htm
+<DESCRIPTION>EX-3.5
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-3.5</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 3.5 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>INPOINT COMMERCIAL REAL ESTATE INCOME, INC. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ARTICLES SUPPLEMENTARY </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>6.75% SERIES A CUMULATIVE REDEEMABLE PREFERRED STOCK </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">InPoint Commercial Real Estate Income, Inc., a Maryland corporation (the &#147;<U>Corporation</U>&#148;), hereby certifies to the State Department of
+Assessments and Taxation of Maryland (the &#147;<U>SDAT</U>&#148;) that: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>FIRST:</B> Pursuant to authority expressly vested in the Board of Directors of
+the Corporation (the &#147;<U>Board</U>&#148;) by Article V of the Articles of Amendment and Restatement of the Corporation (which, as amended and supplemented from time to time, together with these Articles Supplementary, is referred to herein as
+the &#147;<U>Charter</U>&#148;) and <FONT STYLE="white-space:nowrap">Section&nbsp;2-208</FONT> of the Maryland General Corporation Law, the Board, or a duly authorized committee thereof, has duly classified and designated, and authorized the
+issuance of, 4,025,000 authorized but unissued shares of preferred stock, par value $0.001 per share, of the Corporation (&#147;<U>Preferred Shares</U>&#148;) as &#147;6.75%<B> </B>Series A Cumulative Redeemable Preferred Stock,&#148; with such
+preferences, conversion and other rights, voting powers, restrictions, limitations as to dividends and other distributions, qualifications and terms and conditions of redemption as appear below, which, upon any restatement of the Charter, shall
+become a part of Article V of the Charter, with any appropriate renumbering or relettering of the sections or subsections thereof. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>SECOND:</B>
+Capitalized terms used herein and not otherwise defined shall have the meanings given to them in the Charter. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>6.75% Series A
+Cumulative Redeemable Preferred Stock </U></B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">1.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Designation and Number</U>. A series of Preferred Stock, designated the &#147;6.75% Series A Cumulative
+Redeemable Preferred Stock&#148; (the &#147;<U>Series A Preferred Stock</U>&#148;) is hereby established. The par value of the Series A Preferred Stock shall be $0.001 per share. The initial number of authorized shares of Series A Preferred Stock
+shall be 4,025,000. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">2.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Rank</U>. The Series A Preferred Stock will, with respect to dividend rights and rights upon liquidation,
+dissolution or winding up of the Corporation, rank: (a)&nbsp;senior to all classes or series of common stock, par value $0.001 per share, of the Corporation (&#147;<U>Common Shares</U>&#148;) and any class or series of capital stock of the
+Corporation expressly designated as ranking junior to the Series A Preferred Stock as to dividend rights and rights upon liquidation, dissolution or winding up of the Corporation (collectively, &#147;<U>Junior Stock</U>&#148;); (b) on parity with
+any other class or series of capital stock of the Corporation expressly designated as ranking on parity with the Series A Preferred Stock as to dividend rights and rights upon liquidation, dissolution or winding up of the Corporation (collectively,
+&#147;<U>Parity Stock</U>&#148;); and (c)&nbsp;junior to any class or series of capital stock of the Corporation expressly designated as ranking senior to the Series A Preferred Stock as to dividend rights and rights upon liquidation, dissolution or
+winding up of the Corporation. For purposes of the terms of the Series A Preferred Stock, the term &#147;<U>capital stock</U>&#148; does not include convertible or exchangeable debt securities of the Corporation, including convertible or
+exchangeable debt securities that rank senior to the Series A Preferred Stock prior to conversion or exchange. The Series A Preferred Stock will also rank junior in right of payment to the Corporation&#146;s other existing and future indebtedness.
+</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">1 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">3.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Dividends</U>. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">From and including September&nbsp;22, 2021 to, but excluding, September&nbsp;22, 2026, subject to the
+preferential rights of holders of any class or series of capital stock of the Corporation expressly designated as ranking senior to the Series A Preferred Stock as to dividend rights, the holders of Series A Preferred Stock shall be entitled to
+receive, when, as and if authorized by the Board and declared by the Corporation, out of assets legally available for the payment of dividends, cumulative cash dividends at the rate of 6.75% per annum of the $25.00 liquidation preference per share
+of Series A Preferred Stock (equivalent to a fixed annual amount of $1.6875 per share of Series A Preferred Stock) (the &#147;<U>Initial Rate</U>&#148;). </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">If a Change of Control (as defined in Section&nbsp;6(b) below) occurs on or prior to September&nbsp;22, 2022, the Corporation shall thereafter
+accrue cumulative cash dividends on each then-outstanding share of Series A Preferred Stock at a rate equal to (a)&nbsp;the dividend rate in effect immediately prior to the Change of Control, plus (b)&nbsp;an additional 1.00% of the liquidation
+preference per annum. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">If either (i)&nbsp;the Applicable Ratings Agency (as defined below) downgrades the credit rating assigned to the
+Series A Preferred Stock to below Investment Grade (as defined below), or (ii)&nbsp;in the case where there is only one Ratings Agency (as defined below) rating the Series A Preferred Stock, such Ratings Agency ceases to rate the Series A Preferred
+Stock or fails to make a rating of the Series A Preferred Stock publicly available (each of the events described in clauses (i)&nbsp;and (ii) being a &#147;<U>Downgrade Event</U>&#148;), the Corporation shall thereafter accrue cumulative cash
+dividends on each then-outstanding share of Series A Preferred Stock at a rate equal to (a)&nbsp;the dividend rate in effect immediately prior to the Downgrade Event, plus (b) 0.25% of the liquidation preference per annum, subject to a maximum
+annual dividend rate of 10.00% while the Series A Preferred Stock remains outstanding (the &#147;<U>Maximum Rate</U>&#148;). If, subsequent to the occurrence of a Downgrade Event that results in an increase in the dividend rate in effect immediately
+prior to such Downgrade Event, the Applicable Rating Agency subsequently increases its rating of the Series A Preferred Stock to Investment Grade or an Applicable Rating Agency subsequently issues an initial rating of the Series A Preferred Stock at
+Investment Grade (each such event, an &#147;<U>Upgrade Event</U>&#148;), the Corporation shall thereafter accrue cumulative cash dividends on each then-outstanding share of Series A Preferred Stock at a rate equal to (a)&nbsp;the dividend rate in
+effect immediately prior to the Upgrade Event, minus (b) 0.25% of the liquidation preference per annum; provided, however, that in no event shall the Corporation accrue cash dividends at a rate lower than the Initial Rate. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">If any shares of Series A Preferred Stock are outstanding after September&nbsp;22, 2026,
+beginning on September&nbsp;30, 2026, the Corporation shall thereafter accrue cumulative cash dividends on each then-outstanding share of Series A Preferred Stock at a rate equal to (a)&nbsp;the dividend rate in effect on September&nbsp;22, 2026,
+plus (b)&nbsp;an additional 1.00% of the liquidation preference per annum, which will increase by an additional 1.00% of the liquidation preference per annum on September&nbsp;30 each year thereafter, subject to a maximum annual dividend rate equal
+to the Maximum Rate while the Series A Preferred Stock remains outstanding. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">Dividends on each share of Series A Preferred Stock shall
+accrue and be cumulative from and including the original date of issuance of such share of Series A Preferred Stock and shall be payable quarterly in equal amounts in arrears on or about March&nbsp;30, June&nbsp;30, September&nbsp;30 and
+December&nbsp;30 of each year, beginning on December&nbsp;30, 2021 (each such day being hereinafter called, a &#147;<U>Payment Date</U>&#148;); <I>provided, however</I>, if any Payment Date is not a Business Day (as defined below), then the dividend
+which would otherwise have been payable on such Payment Date may be paid on the next succeeding Business Day with the same force and effect as if paid on such Payment Date, and no interest or additional dividends or other sums shall accrue on the
+amount so payable from such Payment Date to such next succeeding Business Day; provided, further, that no holder of any shares of Series A Preferred Stock shall be entitled to receive any dividends paid or payable on the Series A Preferred Stock
+with a Payment Date before the date such shares of Series A Preferred Stock are issued. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">The amount of any dividend payable on the Series A
+Preferred Stock for any partial dividend period shall be prorated and computed on the basis of a <FONT STYLE="white-space:nowrap">360-day</FONT> year consisting of twelve <FONT STYLE="white-space:nowrap">30-day</FONT> months. Dividends shall be
+payable to holders of record as they appear in the stock records of the Corporation at the close of business on the applicable record date, which shall be such date designated by the Board for the payment of dividends that is not more than 90 nor
+less than 10 days prior to such Payment Date (each, a &#147;<U>Record Date</U>&#148;). </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">No dividends on the Series A Preferred Stock shall be authorized by the Board or declared, paid or set apart
+for payment by the Corporation at such time as the terms and provisions of any agreement of the Corporation, including any agreement relating to its indebtedness, prohibits such authorization, declaration, payment or setting apart for payment or
+provides that such authorization, declaration, payment or setting apart for payment would constitute a breach thereof, or a default thereunder, or if such authorization, declaration, payment or setting apart shall be restricted or prohibited by law.
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Notwithstanding anything to the contrary contained herein, dividends on the Series A Preferred Stock shall
+accrue whether or not the restrictions referred to in Section&nbsp;3(b) exist, whether or not the Corporation has earnings, whether or not there are assets legally available for the payment of such dividends and whether or not such dividends are
+authorized or declared. </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Except as provided in Section&nbsp;3(e) below, no dividends shall be declared and paid or set apart for
+payment, and no other distributions of cash or other property may be declared and made, directly or indirectly, on or with respect to, shares of Parity Stock or Junior Stock (other than a distribution paid in shares of, or options, warrants or
+rights to subscribe for or purchase shares of, Junior Stock) for any period, nor shall shares of Parity Stock or Junior Stock be redeemed, purchased or otherwise acquired for any consideration (other than a redemption, purchase or acquisition of
+Common Shares made for purposes of and in compliance with requirements of any incentive, benefit or stock purchase plan of the Corporation or any subsidiary thereof, or a redemption, purchase or acquisition of Parity Stock or Junior Stock as
+permitted under Article VI of the Charter), nor shall any assets be paid or made available for a sinking fund for the redemption of any such shares by the Corporation, directly or indirectly (except by conversion into or exchange for shares of, or
+options, warrants or rights to purchase or subscribe for shares of, Junior Stock, and except for purchases or exchanges pursuant to a purchase or exchange offer made on the same terms to all holders of Series A Preferred Stock and all holders of
+shares of Parity Stock), unless full cumulative dividends on the Series A Preferred Stock for all past dividend periods shall have been or contemporaneously are declared and paid or declared and a sum sufficient for the payment thereof is set apart
+for such payment. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(e)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">When cumulative dividends are not paid in full (or a sum sufficient for such full payment is not so set apart)
+on the Series A Preferred Stock and any shares of Parity Stock, all dividends declared on the Series A Preferred Stock and any other shares of Parity Stock shall be declared <I>pro rata</I> so that the amount of dividends declared per share of
+Series A Preferred Stock and per share of Parity Stock shall in all cases bear to each other the same ratio that accrued dividends per share of Series A Preferred Stock and per share of Parity Stock (which shall not include any accrual in respect of
+unpaid dividends on any shares of Parity Stock for prior dividends periods if such Parity Stock does not have a cumulative dividend) bear to each other. No interest, or sum of money in lieu of interest, shall be payable in respect of any dividend
+payment or payments on the Series A Preferred Stock which may be in arrears. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(f)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">If, for any taxable year, the Corporation elects to designate as &#147;capital gain dividends&#148; (as defined
+in Section&nbsp;857 of the Internal Revenue Code of 1986, as amended) any portion (the &#147;<U>Capital Gains Amount</U>&#148;) of the dividends (as determined for federal income tax purposes) paid or made available for the year to holders of all
+classes and series of shares (the &#147;<U>Total Dividends</U>&#148;), then the portion of the Capital Gains Amount that shall be allocable to the holders of Series A Preferred Stock shall be the amount that the total dividends (as determined for
+federal income tax purposes) paid or made available to the holders of the Series A Preferred Stock for the year bears to the Total Dividends. The Corporation may elect to retain and pay income tax on its net long-term capital gains. In such a case,
+the holders of Series A Preferred Stock would include in income their appropriate share of the Corporation&#146;s undistributed long-term capital gains, as designated by the Corporation. </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(g)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Holders of Series A Preferred Stock shall not be entitled to any dividend, whether payable in cash, property or
+shares of capital stock of the Corporation, in excess of full cumulative dividends on the Series A Preferred Stock as described above. Any dividend payment made on the Series A Preferred Stock shall first be credited against the earliest accrued but
+unpaid dividends due with respect to such shares which remain payable. Accrued but unpaid dividends on the Series A Preferred Stock will accumulate as of the Payment Date on which they first become payable or on the date of redemption, as the case
+may be. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(h)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">For the avoidance of doubt, in determining whether a distribution (other than upon voluntary or involuntary
+liquidation), by dividend or other distribution, redemption or other acquisition of the Corporation&#146;s equity securities is permitted under Maryland law, no effect shall be given to amounts that would be needed, if the Corporation were to be
+dissolved at the time of the distribution, to satisfy the preferential rights upon dissolution of stockholders whose preferential rights on dissolution are superior to those receiving the distribution. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(i)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">&#147;<U>Business Day</U>&#148; shall mean any day, other than a Saturday or Sunday, that is neither a legal
+holiday nor a day on which banking institutions in New York City are authorized or required by law, regulation or executive order to close. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(j)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">&#147;<U>Set apart for payment</U>&#148; shall be deemed to include (without limitation): the recording by the
+Corporation in its accounting ledgers of any accounting or bookkeeping entry which indicates, pursuant to an authorization by the Board and a declaration of dividends or other distribution by the Corporation, the allocation of funds to be so paid on
+any series or class of shares of stock of the Corporation; provided, however, that if any funds for any class or series of Junior Stock or Parity Stock are placed in a separate account of the Corporation or delivered to a disbursing, paying or other
+similar agent, then &#147;set apart for payment&#148; with respect to the Series A Preferred Stock shall mean placing such funds in a separate account or delivering such funds to a disbursing, paying or other similar agent. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(k)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">&#147;<U>Investment Grade</U>&#148; means a rating superior or equal to
+<FONT STYLE="white-space:nowrap">&#147;BBB-,&#148;</FONT> &#147;Baa3,&#148; or an alternative rating of like import. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(l)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">&#147;<U>Ratings Agency</U>&#148; means a &#147;nationally recognized statistical ratings organization&#148;
+(as defined in Section&nbsp;3(a)(62) of the Securities Exchange Act of 1934, as amended (the &#147;<U>Exchange Act</U>&#148;)). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(m)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">&#147;<U>Applicable Ratings Agency</U>&#148; means one of the following Rating Agencies at any given time:
+(i)&nbsp;in the case that there is only one Rating Agency rating the Series A Preferred Stock, such Rating Agency, (ii)&nbsp;in the case that there are two Rating Agencies rating the Series A Preferred Stock, such Rating Agency providing the lower
+rating, or (iii)&nbsp;in the case that there are three or more Rating Agencies rating the Series A Preferred Stock, such Rating Agency providing the second lowest rating. </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">4.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Liquidation Preference</U>. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">In the event of any voluntary or involuntary liquidation, dissolution or winding up of the Corporation, before
+any distribution or payment shall be made to the holders of shares of any Junior Stock, the holders of shares of Series A Preferred Stock then outstanding shall be entitled to be paid, or have the Corporation declare and set apart for payment, out
+of the assets of the Corporation legally available for distribution to its stockholders, after payment or provision for payment of all debts and other liabilities of the Corporation, a liquidation preference in cash or property at fair market value,
+as determined by the Board, of $25.00 per share, plus an amount equal to any accrued and unpaid distributions (whether or not declared) to, but not including, the date of payment or the date the amount for payment is set apart (the
+&#147;<U>Liquidating Distributions</U>&#148;). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">If, upon any such voluntary or involuntary liquidation, dissolution or winding up of the Corporation, the
+available assets of the Corporation are insufficient to pay the full amount of the Liquidating Distributions on all outstanding shares of Series A Preferred Stock and the corresponding amounts payable on all outstanding shares of Parity Stock, then
+the holders of shares of Series A Preferred Stock and the holders of such shares of Parity Stock shall share ratably in any such distribution of assets in proportion to the full Liquidating Distributions to which they would otherwise be respectively
+entitled. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Written notice of the effective date of any such voluntary or involuntary liquidation, dissolution or winding
+up of the Corporation, stating the payment date or dates when, and the place or places where, the amounts distributable in such circumstances shall be payable, shall be given by first class mail, postage prepaid, not fewer than 30 nor more than 60
+days prior to the payment date stated therein, to each record holder of shares of Series A Preferred Stock at the address of such holder as the same shall appear on the stock transfer records of the Corporation. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">After payment of the full amount of the Liquidating Distributions to which they are entitled, the holders of
+shares of Series A Preferred Stock will have no right or claim to any of the remaining assets of the Corporation. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(e)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">For the avoidance of doubt, the consolidation, merger or conversion of the Corporation with or into another
+entity, the merger of another entity with or into the Corporation, a statutory share exchange by the Corporation or the sale, lease, transfer or conveyance of all or substantially all of the assets or business of the Corporation shall not be
+considered a liquidation, dissolution or winding up of the Corporation. </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">6 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">5.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Optional Redemption</U> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The Series A Preferred Stock is not redeemable prior to September&nbsp;22, 2026, except as permitted by Article
+VI of the Charter and as otherwise provided in this Section&nbsp;5 and Section&nbsp;6 below. On and after September&nbsp;22, 2026, upon no fewer than 30 days&#146; nor more than 60 days&#146; written notice, the Corporation may, at its option,
+redeem the Series A Preferred Stock, in whole or from time to time in part, by paying $25.00 per share, plus any accrued and unpaid dividends (whether or not declared) to, but not including, the date of redemption (other than any dividend with a
+Record Date before the applicable redemption date and a Payment Date after the applicable redemption date, which will be paid on the Payment Date notwithstanding prior redemption of such shares) (the &#147;<U>Regular Redemption Right</U>&#148;).
+</P></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">If fewer than all of the outstanding shares of Series A Preferred Stock are to be redeemed pursuant to the Regular
+Redemption Right, the shares to be redeemed may be selected <I>pro rata</I> (as nearly as practicable without creating fractional shares) or by lot. If such redemption is to be by lot and, as a result of such redemption, any holder of shares of
+Series A Preferred Stock would become a holder of a number of shares of Series A Preferred Stock in excess of the Aggregate Stock Ownership Limit because such holder&#146;s shares of Series A Preferred Stock were not redeemed, or were only redeemed
+in part, then, except as otherwise provided in Article VI of the Charter, the Corporation shall redeem the requisite number of shares of Series A Preferred Stock of such holder such that no holder will hold a number of shares in excess of the
+Aggregate Share Ownership Limit subsequent to such redemption. </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">To ensure that the Corporation remains qualified as a REIT for federal income tax purposes, the Series A
+Preferred Stock shall be subject to the provisions of Article VI of the Charter, pursuant to which shares of Series A Preferred Stock owned by a stockholder in excess of the Aggregate Share Ownership Limit shall automatically be transferred to a
+Charitable Trust and the Corporation shall have the right to purchase such shares, as provided in Article VI of the Charter. If the Corporation calls for redemption any shares of Series A Preferred Stock pursuant to and in accordance with Article VI
+of the Charter and this Section&nbsp;5(b), then the redemption price will be an amount equal to $25.00 per share, plus an amount equal to any accrued and unpaid dividends (whether or not declared) on the Series A Preferred Stock to, but not
+including, the redemption date, subject to any restrictions or limitations contained in Article VI of the Charter. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Unless full cumulative dividends on all shares of Series A Preferred Stock shall have been or contemporaneously
+are declared and paid or declared and a sum sufficient for the payment thereof set apart for payment for all past dividend periods, (i)&nbsp;no shares of Series A Preferred Stock shall be redeemed unless all outstanding shares of Series A Preferred
+Stock are simultaneously redeemed, and (ii)&nbsp;the Corporation shall not purchase or otherwise acquire directly or indirectly for any consideration, nor shall any monies be paid to or be made available for a sinking fund for the redemption of, any
+shares of Series A Preferred Stock (except by conversion into or exchange for shares of, or options, warrants or rights to purchase or subscribe for shares of, Junior Stock); <I>provided, however</I>, that the foregoing shall not prevent the
+redemption or purchase by the Corporation of shares of Series A Preferred Stock pursuant to Article VI of the Charter or otherwise in order to ensure that the Corporation remains qualified as a REIT for federal income tax purposes or the purchase or
+acquisition of shares of Series A Preferred Stock pursuant to a purchase or exchange offer made on the same terms to all holders of Series A Preferred Stock. </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">7 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">In connection with any redemption of shares of Series A Preferred Stock pursuant to the Regular Redemption
+Right, if the redemption date falls after a Record Date and prior to the corresponding Payment Date, then each holder of record of Series A Preferred Stock at the close of business on such Record Date shall be entitled to the dividend payable on
+such shares on the corresponding Payment Date (including any accrued and unpaid dividends for prior dividend periods) notwithstanding the redemption of such shares before such Payment Date. Except as provided above and in Section&nbsp;6(e), the
+Corporation shall make no payment or allowance for unpaid dividends, whether or not in arrears, on shares of Series A Preferred Stock for which a notice of redemption has been given. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(e)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The following procedures apply to the redemption of the Series A Preferred Stock pursuant to the Regular
+Redemption Right: </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(i)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Notice of redemption pursuant to the Regular Redemption Right will be mailed by the Corporation, postage
+prepaid, not fewer than 30 nor more than 60 days prior to the redemption date, addressed to the respective holders of record of the Series A Preferred Stock to be redeemed at their respective addresses as they appear on the stock transfer records of
+the Corporation. A failure to give such notice or any defect thereto or in the mailing thereof shall not affect the validity of the proceedings for the redemption of any shares of Series A Preferred Stock except as to the holder to whom notice was
+defective or not given. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(ii)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">In addition to any information required by law or by the applicable rules of any exchange upon which the Series
+A Preferred Stock may be listed or admitted to trading, such notice shall state: (A)&nbsp;the redemption date; (B)&nbsp;the redemption price; (C)&nbsp;the number of shares of Series A Preferred Stock to be redeemed; (D)&nbsp;the place or places
+where the certificates, if any, representing the shares of Series A Preferred Stock to be redeemed are to be surrendered for payment of the redemption price; (E)&nbsp;the procedures for surrendering
+<FONT STYLE="white-space:nowrap">non-certificated</FONT> shares of Series A Preferred Stock for payment of the redemption price; (F)&nbsp;that dividends on shares of Series A Preferred Stock to be redeemed will cease to accrue on such redemption
+date; and (G)&nbsp;if applicable, that the holders of shares of Series A Preferred Stock to which such notice relates will not be able to tender such shares of Series A Preferred Stock for conversion in connection with a Change of Control (as
+defined in Section&nbsp;6(b) below) and each share of Series A Preferred Stock tendered for conversion that is selected, prior to the Change of Control Conversion Date (as defined in Section&nbsp;9(a) below), for redemption will be redeemed on the
+related redemption date instead of converted on the Change of Control Conversion Date. If fewer than all of the shares of Series A Preferred Stock held by any holder are to be redeemed pursuant to the Regular Redemption Right, the notice mailed to
+such holder shall also specify the number of shares of Series A Preferred Stock held by such holder to be so redeemed. </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">8 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(iii)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">If notice of redemption pursuant to the Regular Redemption Right of any shares of Series A Preferred Stock has
+been given and if the assets necessary for such redemption have been set apart for payment by the Corporation for the benefit of the holders of any shares of Series A Preferred Stock so called for redemption, then from and after the redemption date
+dividends will cease to accrue on such shares of Series A Preferred Stock, such shares of Series A Preferred Stock shall no longer be deemed outstanding and all rights of the holders of such shares of Series A Preferred Stock will terminate, except
+the right to receive the redemption price and an amount equal to any accrued and unpaid dividends to, but not including, the redemption date; provided, however, if the redemption date falls after a Record Date and prior to the corresponding Payment
+Date, each holder of shares of Series A Preferred Stock so called for redemption at the close of business on such Record Date shall be entitled to the dividend payable on such shares on the corresponding Payment Date notwithstanding the redemption
+of such shares before such Payment Date. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(iv)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Holders of shares of Series A Preferred Stock to be redeemed pursuant to the Regular Redemption Right shall
+surrender such shares at the place or places designated in such notice and, upon surrender of the certificates, if any, for such shares of Series A Preferred Stock (properly endorsed or assigned for transfer, if the Corporation shall so require and
+the notice shall so state), such shares of Series A Preferred Stock shall be redeemed by the Corporation at the redemption price plus an amount equal to any accrued and unpaid dividends (whether or not declared) payable upon such redemption. In case
+less than all shares of Series A Preferred Stock represented by any such certificate are redeemed, a new certificate or certificates shall be issued representing the unredeemed shares of Series A Preferred Stock without cost to the holder thereof.
+Notwithstanding the foregoing, if the shares of Series A Preferred Stock to be redeemed are held in book-entry form through the facilities of The Depository Trust Company (&#147;<U>DTC</U>&#148;), holders of shares of Series A Preferred Stock to be
+redeemed shall comply with applicable procedures of DTC in connection with surrendering their shares for payment of the redemption price. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(f)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Subject to applicable law and the limitation on purchases when dividends on the Series A Preferred Stock are in
+arrears, the Corporation may, at any time and from time to time, purchase any shares of Series A Preferred Stock in the open market, by tender or by private agreement. </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">9 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(g)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Any shares of Series A Preferred Stock that shall at any time have been redeemed pursuant to the Regular
+Redemption Right or otherwise acquired shall, after such redemption or acquisition, have the status of authorized but unissued shares of Preferred Shares, without designation as to class or series until such shares are once more classified and
+designated as part of a particular class or series by the Board. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">6.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Special Optional Redemption</U>. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Upon the occurrence of a Change of Control, the Corporation or the acquiring or surviving entity, as
+applicable, at its option, upon not fewer than 30 nor more than 60 days&#146; written notice, may redeem the shares of Series A Preferred Stock, in whole or in part, within 120 days after the first date on which such Change of Control occurred, for
+cash at a redemption price equal to $25.00 per share, plus an amount equal to any accrued and unpaid dividends (whether or not declared) to, but not including, the redemption date (&#147;<U>Special Optional Redemption Right</U>&#148;).
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">A &#147;<U>Change of Control</U>&#148; is when, after the original issuance of the Series A Preferred Stock,
+the following have occurred and are continuing: </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(i)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">the acquisition by any person, including any syndicate or group deemed to be a &#147;person&#148; under
+Section&nbsp;13(d)(3) of the Exchange Act, of beneficial ownership, directly or indirectly, through a purchase, merger or other acquisition transaction or series of purchases, mergers or other acquisition transactions of capital stock of the
+Corporation entitling that person to exercise more than 50% of the total voting power of all capital stock of the Corporation entitled to vote generally in elections of directors (except that such person will be deemed to have beneficial ownership
+of all capital stock of the Corporation that such person has the right to acquire, whether such right is currently exercisable or is exercisable only upon the occurrence of a subsequent condition); and </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(ii)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">following the closing of any transaction referred to in (i)&nbsp;above, neither the Corporation nor the
+acquiring or surviving entity has a class of common securities (or American Depositary Receipts representing such securities) listed on the New York Stock Exchange (the &#147;<U>NYSE</U>&#148;), the NYSE American LLC (the &#147;<U>NYSE
+AMER</U>&#148;) or the Nasdaq Stock Market (the &#147;<U>Nasdaq</U>&#148;), or listed or quoted on an exchange or quotation system that is a successor to the NYSE, the NYSE AMER or the Nasdaq. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">If fewer than all of the outstanding shares of Series A Preferred Stock are to be redeemed pursuant to the
+Special Optional Redemption Right, the shares to be redeemed may be selected <I>pro rata</I> (as nearly as practicable without creating fractional shares) or by lot. If such redemption is to be by lot and, as a result of such redemption, any holder
+of shares of Series A Preferred Stock would become a holder of a number of shares of Series A Preferred Stock in excess of the Aggregate Stock Ownership Limit because such holder&#146;s shares of Series A Preferred Stock were not redeemed, or were
+only redeemed in part, then, except as otherwise provided in Article VI of the Charter, the Corporation shall redeem the requisite number of shares of Series A Preferred Stock of such holder such that no holder will hold a number of shares in excess
+of the Aggregate Stock Ownership Limit subsequent to such redemption. </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">10 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Unless full cumulative dividends on all shares of Series A Preferred Stock shall have been or contemporaneously
+are declared and paid or declared and a sum sufficient for the payment thereof set apart for payment for all past dividend periods, (i)&nbsp;no shares of Series A Preferred Stock shall be redeemed pursuant to the Special Optional Redemption Right
+unless all outstanding shares of Series A Preferred Stock are simultaneously redeemed, and (ii)&nbsp;the Corporation shall not purchase or otherwise acquire directly or indirectly for any consideration, nor shall any monies be paid to or be made
+available for a sinking fund for the redemption of, any shares of Series A Preferred Stock (except by conversion into or exchange for shares of, or options, warrants or rights to purchase or subscribe for shares of, Junior Stock); <I>provided,
+however</I>, that the foregoing shall not prevent the redemption or purchase by the Corporation of shares of Series A Preferred Stock pursuant to Article VI of the Charter or otherwise in order to ensure that the Corporation remains qualified as a
+REIT for federal income tax purposes or the purchase or acquisition of shares of Series A Preferred Stock pursuant to a purchase or exchange offer made on the same terms to all holders of Series A Preferred Stock. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(e)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">In connection with any redemption of shares of Series A Preferred Stock pursuant to the Special Optional
+Redemption Right, if a redemption date falls after a Record Date and prior to the corresponding Payment Date, then each holder of Series A Preferred Stock at the close of business on such Record Date shall be entitled to the dividend payable on such
+shares on the corresponding Payment Date (including any accrued and unpaid dividends for prior dividend periods) notwithstanding the redemption of such shares before such Payment Date. Except as provided above, the Corporation shall make no payment
+or allowance for unpaid dividends, whether or not in arrears, on shares of Series A Preferred Stock for which a notice of redemption has been given. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(f)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The following procedures apply to the redemption of the Series A Preferred Stock pursuant to the Special
+Optional Redemption Right: </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(i)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Notice of redemption pursuant to the Special Optional Redemption Right will be mailed by the Corporation,
+postage prepaid, not fewer than 30 nor more than 60 days prior to the redemption date, addressed to the respective holders of record of the Series A Preferred Stock to be redeemed at their respective addresses as they appear on the stock transfer
+records of the Corporation. A failure to give such notice or any defect thereto or in the mailing thereof shall not affect the validity of the proceedings for the redemption of any shares of Series A Preferred Stock except as to the holder to whom
+notice was defective or not given. </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">11 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(ii)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">In addition to any information required by law or by the applicable rules of any exchange upon which the Series
+A Preferred Stock may be listed or admitted to trading, such notice shall state: (A)&nbsp;the redemption date; (B)&nbsp;the redemption price; (C)&nbsp;the number of shares of Series A Preferred Stock to be redeemed; (D)&nbsp;the place or places
+where the certificates, if any, representing the shares of Series A Preferred Stock to be redeemed are to be surrendered for payment of the redemption price; (E)&nbsp;the procedures for surrendering
+<FONT STYLE="white-space:nowrap">non-certificated</FONT> shares of Series A Preferred Stock for payment of the redemption price; (F)&nbsp;that the shares of Series A Preferred Stock are being redeemed pursuant to the Special Optional Redemption
+Right in connection with the occurrence of a Change of Control and a brief description of the transaction or transactions constituting such Change of Control; (G)&nbsp;that the holders of shares of Series A Preferred Stock to which such notice
+relates will not be able to tender such shares of Series A Preferred Stock for conversion in connection with the Change of Control and each share of Series A Preferred Stock tendered for conversion that is selected, prior to the Change of Control
+Conversion Date, for redemption will be redeemed on the related redemption date instead of converted on the Change of Control Conversion Date; and (H)&nbsp;that dividends on shares of Series A Preferred Stock to be redeemed will cease to accrue on
+such redemption date. If fewer than all of the shares of Series A Preferred Stock held by any holder are to be redeemed pursuant to the Special Optional Redemption Right, the notice mailed to such holder shall also specify the number of shares of
+Series A Preferred Stock held by such holder to be redeemed. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(iii)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">If notice of redemption pursuant to the Special Optional Redemption Right of any shares of Series A Preferred
+Stock has been given and if the assets necessary for such redemption have been set apart for payment by the Corporation for the benefit of the holders of any shares of Series A Preferred Stock so called for redemption, then from and after the
+redemption date dividends will cease to accrue on such shares of Series A Preferred Stock, such shares of Series A Preferred Stock shall no longer be deemed outstanding and all rights of the holders of such shares of Series A Preferred Stock will
+terminate, except the right to receive the redemption price and an amount equal to any accrued and unpaid dividends to, but not including, the redemption date; <I>provided, however</I>, if the redemption date falls after a Record Date and prior to
+the corresponding Payment Date, each holder of shares of Series A Preferred Stock so called for redemption at the close of business on such Record Date shall be entitled to the dividend payable on such shares on the corresponding Payment Date
+notwithstanding the redemption of such shares before such Payment Date. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(iv)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Holders of shares of Series A Preferred Stock to be redeemed pursuant to the Special Optional Redemption Right
+shall surrender such shares at the place or places designated in such notice and, upon surrender of the certificates, if any, for such shares of Series A Preferred Stock (properly endorsed or assigned for transfer, if the Corporation shall so
+require and the notice shall so state), such shares of Series A Preferred Stock shall be redeemed by the Corporation at the redemption price plus an amount equal </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">12 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="13%">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">
+to any accrued and unpaid dividends (whether or not declared) payable upon such redemption. In case fewer than all shares of Series A Preferred Stock represented by any such certificate are
+redeemed, a new certificate or certificates shall be issued representing the unredeemed shares of Series A Preferred Stock without cost to the holder thereof. Notwithstanding the foregoing, if the shares of Series A Preferred Stock to be redeemed
+are held in book-entry form through the facilities of DTC, holders of shares of Series A Preferred Stock to be redeemed shall comply with applicable procedures of DTC in connection with surrendering their shares for payment of the redemption price.
+</TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(g)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Any shares of Series A Preferred Stock that shall at any time have been redeemed pursuant to the Special
+Optional Redemption Right or otherwise acquired shall, after such redemption or acquisition, have the status of authorized but unissued shares of Preferred Shares, without designation as to class or series until such shares are once more classified
+and designated as part of a particular class or series by the Board. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">7.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Voting Rights</U>. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Holders of Series A Preferred Stock will not have any voting rights, except as set forth below.
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Whenever dividends on the Series A Preferred Stock shall be in arrears for six quarterly periods, whether or
+not consecutive (a &#147;<U>Preferred Dividend Default</U>&#148;), the number of directors then constituting the Board shall be automatically increased by two (if not already increased by reason of similar arrearage with respect to any Parity Stock
+upon which like voting rights have been conferred and are exercisable (&#147;<U>Voting Parity Stock</U>&#148;)) and holders of Series A Preferred Stock, voting together as a single class with the holders of any Voting Parity Stock shall be entitled
+to vote for the election of two additional directors to serve on the Board (each, a &#147;<U>Preferred Stock Director</U>&#148;) at a special meeting of stockholders called by the holders of at least 33% of the outstanding shares of Series A
+Preferred Stock or the holders of at least 33% of the outstanding shares of Voting Parity Stock if such request is received 90 or more days before the date fixed for the next annual meeting of stockholders, or, if the request is received less than
+90 days prior to the next annual meeting of stockholders, at the next annual meeting of stockholders or, at the Corporation&#146;s sole discretion, a separate special meeting of stockholders to be held no later than 90 days after the
+Corporation&#146;s receipt of such request, and thereafter at each subsequent annual meeting of stockholders until all accumulated dividends on the Series A Preferred Stock for the past dividend periods and the then-current dividend period shall
+have been paid in full. The Preferred Stock Directors shall be elected by a plurality of the votes cast collectively by the holders of the outstanding shares of Series A Preferred Stock and the outstanding shares of Voting Parity Stock when they
+have the voting rights set forth in this Section&nbsp;7(b) (voting together as a single class) in the election to serve until the next annual meeting of stockholders and until their successors are duly elected and qualify or until such
+directors&#146; right to hold the office terminates as described below, whichever occurs earlier. </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">13 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">If and when all accumulated dividends in arrears for all past dividend periods and the dividend for the
+then-current dividend period on the Series A Preferred Stock shall have been paid in full, the holders of shares of Series A Preferred Stock shall immediately be divested of the voting rights set forth in Section&nbsp;7(b) (subject to revesting in
+the event of each and every Preferred Dividend Default) and, if all accumulated dividends in arrears for past dividend periods and the dividend for the then-current dividend period have been paid in full on all outstanding shares of Voting Parity
+Stock, the term of office of each Preferred Stock Director so elected shall immediately terminate and the number of directors shall be reduced accordingly. Any Preferred Stock Director may be removed at any time, by the affirmative vote of, and
+shall not be removed otherwise than by the affirmative vote of, a majority of the votes entitled to be cast collectively by the holders of record of the outstanding shares of Series A Preferred Stock and the holders of record of any outstanding
+shares of Voting Parity Stock when they have the voting rights set forth in Section&nbsp;7(b) (voting together as a single class). So long as a Preferred Dividend Default shall continue, any vacancy in the office of a Preferred Stock Director may be
+filled by written consent of the Preferred Stock Director remaining in office, or if none remains in office, by a plurality of the votes cast collectively by the holders of the outstanding shares of Series A Preferred Stock and the holders of record
+of any outstanding shares of Voting Parity Stock when they have the voting rights set forth in Section&nbsp;7(b) (voting together as a single class). The Preferred Stock Directors shall each be entitled to one vote per director on any matter.
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">So long as any shares of Series A Preferred Stock remain outstanding, the Corporation shall not:
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(i)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">authorize or create, or increase the number of authorized or issued shares of, any class or series of capital
+stock of the Corporation expressly designated as ranking senior to the Series A Preferred Stock as to dividend rights and rights upon liquidation, dissolution or winding up of the Corporation, or reclassify any authorized shares of capital stock of
+the Corporation into any such senior shares, or create, authorize or issue any obligation or security convertible into or evidencing the right to purchase any such senior equity securities, without the affirmative vote of at least <FONT
+STYLE="white-space:nowrap">two-thirds</FONT> of the votes entitled to be cast collectively by the holders of the then outstanding shares of Series A Preferred Stock and the holders of any of the then outstanding shares of Voting Parity Stock (voting
+together as a single class); or </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(ii)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">amend, alter or repeal the provisions of the Charter (including the terms of the Series A Preferred Stock),
+whether by merger, consolidation, conversion or otherwise, in each case in such a way that would materially and adversely affect any right, preference, privilege or voting power of the Series A
+</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">14 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="13%">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">
+Preferred Stock (in any case, an &#147;<U>Event</U>&#148;), without the affirmative vote of the holders of at least <FONT STYLE="white-space:nowrap">two-thirds</FONT> of the outstanding shares of
+Series A Preferred Stock at the time (voting as a separate class); <I>provided, however</I>, that with respect to the occurrence of any Event set forth above, so long as shares of Series A Preferred Stock remain outstanding with the terms thereof
+materially unchanged or the holders of shares of Series A Preferred Stock receive shares of, or options, warrants or rights to purchase or subscribe for shares of, capital stock or other securities with rights, preferences, privileges and voting
+powers substantially similar, taken as a whole, as those of the Series A Preferred Stock, the occurrence of any such Event shall not be deemed to materially and adversely affect such rights, preferences, privileges or voting powers of the Series A
+Preferred Stock or the holders thereof; and <I>provided further</I> that any increase in the number of authorized shares of Series A Preferred Stock or the creation or issuance, or increase in the number of authorized shares, of any other class or
+series of Parity Stock or Junior Stock shall not be deemed to materially and adversely affect the rights, preferences, privileges or voting powers of the Series A Preferred Stock. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(e)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">In any matter in which the holders of shares of Series A Preferred Stock are entitled to vote separately as a
+single class, each such holder shall have the right to one vote for each share of Series A Preferred Stock held by such holder. If the holders of shares of Series A Preferred Stock and the holders of outstanding shares of Voting Parity Stock are
+entitled to vote together as a single class on any matter, such holders shall each have one vote for each $25.00 of liquidation preference. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(f)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The foregoing voting provisions shall not apply if, at or prior to the time when the act with respect to which
+such vote would otherwise be required shall be effected, all outstanding shares of Series A Preferred Stock shall have been redeemed. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">8.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Information Rights</U>. During any period in which the Corporation is not subject to the reporting
+requirements of Section&nbsp;13 or Section&nbsp;15(d) of the Exchange Act and any shares of Series A Preferred Stock are outstanding, the Corporation will (i)&nbsp;transmit by mail or other permissible means under the Exchange Act to all holders of
+Series A Preferred Stock, as their names and addresses appear in the Corporation&#146;s record books and without cost to such holders, copies of the annual reports on Form <FONT STYLE="white-space:nowrap">10-K</FONT> and quarterly reports on Form <FONT
+STYLE="white-space:nowrap">10-Q</FONT> that the Corporation would have been required to file with the Securities and Exchange Commission (the &#147;<U>SEC</U>&#148;), pursuant to Section&nbsp;13 or Section&nbsp;15(d) of the Exchange Act if the
+Corporation were subject thereto (other than any exhibits that would have been required); and (ii)&nbsp;within 15 days following written request, supply copies of such reports to any prospective holder of the Series A Preferred Stock. The
+Corporation will mail (or otherwise provide) the reports to the holders of Series A Preferred Stock within 15 days after the respective dates by which the Corporation would have been required to file such reports with the SEC if it were subject to
+Section&nbsp;13 or Section&nbsp;15(d) of the Exchange Act. </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">15 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">9.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Conversion</U>. Shares of Series A Preferred Stock are not convertible into or exchangeable for any other
+property or securities of the Corporation, except as provided in this Section&nbsp;9. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Beginning on the first anniversary of the first date on which any shares of Series A Preferred Stock are
+issued, upon the occurrence of a Change of Control, each holder of Series A Preferred Stock shall have the right, unless, prior to the Change of Control Conversion Date, the Corporation has provided or provides notice of its election to redeem the
+shares of Series A Preferred Stock pursuant to the Regular Redemption Right or Special Optional Redemption Right, to convert some or all of the shares of Series A Preferred Stock held by such holder (the &#147;<U>Change of Control Conversion
+Right</U>&#148;) on the Change of Control Conversion Date into a number of shares of Class&nbsp;I Common Stock, par value $0.01 per share, of the Corporation (&#147;<U>Class</U><U></U><U>&nbsp;I Common Shares</U>&#148;), per share of Series A
+Preferred Stock to be converted (the &#147;<U>Common Stock Conversion Consideration</U>&#148;) equal to the lesser of (A)&nbsp;the quotient obtained by dividing (i)&nbsp;the sum of (x)&nbsp;the $25.00 liquidation preference plus (y)&nbsp;the amount
+of any accrued and unpaid dividends (whether or not declared) to, but not including, the Change of Control Conversion Date (unless the Change of Control Conversion Date is after a Record Date and prior to the corresponding Payment Date, in which
+case no additional amount for such accrued and unpaid dividends will be included in such sum) by (ii)&nbsp;the Common Stock Price (as defined below) and (B) 2.4665 (the &#147;<U>Share Cap</U>&#148;), subject to the immediately succeeding paragraph.
+</P></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">The Share Cap is subject to pro rata adjustments for any stock splits (including those effected pursuant to a dividend
+of Class&nbsp;I Common Shares to existing holders of Class&nbsp;I Common Shares), subdivisions or combinations (in each case, a &#147;<U>Stock Split</U>&#148;) with respect to Class&nbsp;I Common Shares as follows: the adjusted Share Cap as the
+result of a Stock Split shall be the number of Class&nbsp;I Common Shares that is equivalent to the product obtained by multiplying (i)&nbsp;the Share Cap in effect immediately prior to such Stock Split by (ii)&nbsp;a fraction, the numerator of
+which is the number of Class&nbsp;I Common Shares outstanding after giving effect to such Stock Split and the denominator of which is the number of Class&nbsp;I Common Shares outstanding immediately prior to such Stock Split. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">For the avoidance of doubt, subject to the immediately succeeding sentence, the aggregate number of Class&nbsp;I Common Shares (or equivalent
+Alternative Conversion Consideration (as defined below), as applicable) issuable in connection with the exercise of the Change of Control Conversion Right shall not exceed 8,632,750 Class&nbsp;I Common Shares (or equivalent Alternative Conversion
+Consideration, as applicable) or 9,927,662 Class&nbsp;I Common Shares (or equivalent Alternative Conversion Consideration, as applicable) if the underwriters&#146; over-allotment option is exercised in full, subject to increase on a <I>pro rata</I>
+basis if the Corporation issues additional shares of Series A Preferred Stock (the &#147;<U>Exchange Cap</U>&#148;). The Exchange Cap is subject to <I>pro rata</I> adjustments for any Stock Splits on the same basis as the corresponding adjustment to
+the Share Cap. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">16 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">In the case of a Change of Control pursuant to which Common Shares shall be converted into
+cash, securities or other property or assets (including any combination thereof) (the &#147;<U>Alternative Form Consideration</U>&#148;), a holder of shares of Series A Preferred Stock shall receive upon conversion of such shares of Series A
+Preferred Stock the kind and amount of Alternative Form Consideration which such holder of shares of Series A Preferred Stock would have owned or been entitled to receive upon the Change of Control had such holder of shares of Series A Preferred
+Stock held a number of Class&nbsp;I Common Shares equal to the Common Stock Conversion Consideration immediately prior to the effective time of the Change of Control (the &#147;<U>Alternative Conversion Consideration</U>&#148;; and the Common Stock
+Conversion Consideration or the Alternative Conversion Consideration, as may be applicable to a Change of Control, shall be referred to herein as the &#147;<U>Conversion Consideration</U>&#148;). </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">In the event that holders of Common Shares have the opportunity to elect the form of consideration to be received in the Change of Control, the
+consideration that the holders of Series A Preferred Stock shall receive shall be the form and proportion of the aggregate consideration elected by the holders of Common Shares who participate in the determination (based on the weighted average of
+elections) and shall be subject to any limitations to which all holders of Common Shares are subject, including, without limitation, pro rata reductions applicable to any portion of the consideration payable in the Change of Control. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">The &#147;<U>Change of Control Conversion Date</U>&#148; is the date the shares of Series A Preferred Stock are to be converted, which shall be
+a Business Day selected by the Corporation set forth in the notice of Change of Control provided in accordance with Section&nbsp;9(c) below that is not fewer than 20 days nor more than 35 days after the date on which the Corporation provides such
+notice pursuant to Section&nbsp;9(c). </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">The &#147;<U>Common Stock Price</U>&#148; shall be (i)&nbsp;if the consideration to be received in
+the Change of Control by the holders of the Common Shares is solely cash, the amount of cash consideration per Common Share or (ii)&nbsp;if the consideration to be received in the Change of Control by holders of Common Shares is other than solely
+cash (x)&nbsp;the average of the closing sale prices per Class&nbsp;I Common Share (or, if no closing sale price is reported, the average of the closing bid and ask prices or, if more than one in either case, the average of the average closing bid
+and the average closing ask prices) for the ten consecutive trading days immediately preceding, but not including, the effective date of the Change of Control as reported on the principal U.S. securities exchange on which the Common Shares are then
+traded, or (y)&nbsp;where no closing sale prices are available, the average of the last quoted bid prices for the Common Shares in the <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">over-the-counter</FONT></FONT> market as
+reported by OTC Markets Group Inc. or similar organization for the ten consecutive trading days immediately preceding, but not including, the effective date of the Change of Control, if the Common Shares are not then listed for trading on a U.S.
+securities exchange, or (z)&nbsp;where no closing sales prices or quoted bid prices are available, the most recently determined Net Asset Value per Class&nbsp;I Common Share immediately preceding, but not including, the effective date of the Change
+of Control, as determined by the Board. If no Common Stock Price is available, each holder will receive a number of Class&nbsp;I Common Shares equal to the Share Cap in exchange for each share of Series A Preferred Stock. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">17 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">No fractional Class&nbsp;I Common Shares shall be issued upon the conversion of Series A Preferred Stock. In
+lieu of fractional shares, holders shall be entitled to receive the cash value of such fractional shares based on the Common Stock Price used in determining the Common Stock Conversion Consideration for such Change of Control. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Within 15 days following the occurrence of a Change of Control, provided the Corporation has not then exercised
+its right to redeem all shares of Series A Preferred Stock pursuant to the redemption provisions described above, a notice of occurrence of the Change of Control, describing the resulting Change of Control Conversion Right, shall be delivered to the
+holders of record of Series A Preferred Stock at their addresses as they appear on the Corporation&#146;s stock transfer records and notice shall be provided to the Corporation&#146;s transfer agent. No failure to give such notice or any defect
+thereto or in the mailing thereof shall affect the validity of the proceedings for the conversion of any shares of Series A Preferred Stock except as to the holder to whom notice was defective or not given. </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">Each notice shall state: (i)&nbsp;the events constituting the Change of Control; (ii)&nbsp;the date of the Change of Control; (iii)&nbsp;the
+last date on which the holders of Series A Preferred Stock may exercise their Change of Control Conversion Right; (iv)&nbsp;the method and period for calculating the Common Stock Price; (v)&nbsp;the Change of Control Conversion Date, which shall be
+a Business Day occurring within 20 to 35 days following the date of such notice; (vi)&nbsp;that if, prior to the Change of Control Conversion Date, the Corporation has provided or provides notice of its election to redeem all or any portion of the
+Series A Preferred Stock pursuant to the Regular Redemption Right or Special Optional Redemption Right, the holder will not be able to convert shares of Series A Preferred Stock and such shares of Series A Preferred Stock shall be redeemed on the
+related redemption date, even if they have already been tendered for conversion pursuant to the Change of Control Conversion Right; (vii)&nbsp;if applicable, the type and amount of Alternative Conversion Consideration entitled to be received per
+share of Series A Preferred Stock; (viii)&nbsp;the name and address of the paying agent and the conversion agent; and (ix)&nbsp;the procedures that the holders of Series A Preferred Stock must follow to exercise the Change of Control Conversion
+Right. </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The Corporation shall issue a press release for publication on or in the Wall Street Journal, Business Wire, PR
+Newswire or Bloomberg Business News (or, if such organizations are not in existence at the time of issuance of such press release, such other news or press organization as is reasonably calculated to broadly disseminate the relevant information to
+the public), or post notice on the Corporation&#146;s website, in any event prior to the opening of business on the first Business Day following any date on which the Corporation provides notice pursuant to Section&nbsp;9(c) above to the holders of
+Series A Preferred Stock. </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">18 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(e)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">In order to exercise the Change of Control Conversion Right, a holder of Series A Preferred Stock shall be
+required to deliver, on or before the close of business on the Change of Control Conversion Date, the certificates representing the shares of Series A Preferred Stock, to the extent such shares are certificated, to be converted, duly endorsed for
+transfer, together with a written conversion notice completed, to the Corporation&#146;s transfer agent. Such notice shall state: (i)&nbsp;the relevant Change of Control Conversion Date; (ii)&nbsp;the number or percentage of shares of Series A
+Preferred Stock to be converted; and (iii)&nbsp;that the shares of Series A Preferred Stock are to be converted pursuant to the applicable provisions of the shares of Series A Preferred Stock. Notwithstanding the foregoing, if the shares of Series A
+Preferred Stock are held in book-entry form through the facilities of DTC, the notice of conversion shall comply with applicable procedures of DTC. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(f)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Holders of Series A Preferred Stock may withdraw any notice of exercise of a Change of Control Conversion Right
+(in whole or in part) by a written notice of withdrawal delivered to the Corporation&#146;s transfer agent prior to the close of business on the Business Day prior to the Change of Control Conversion Date. The notice of withdrawal must state:
+(i)&nbsp;the number of withdrawn shares of Series A Preferred Stock; (ii)&nbsp;if certificated shares of Series A Preferred Stock have been issued, the certificate numbers of the withdrawn shares of Series A Preferred Stock; and (iii)&nbsp;the
+number of shares of Series A Preferred Stock, if any, which remain subject to the conversion notice. Notwithstanding the foregoing, if the shares of Series A Preferred Stock are held in book-entry form through the facilities of DTC, the notice of
+withdrawal shall comply with applicable procedures of DTC. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(g)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Shares of Series A Preferred Stock as to which the Change of Control Conversion Right has been properly
+exercised and for which the conversion notice has not been properly withdrawn shall be converted into the applicable Conversion Consideration in accordance with the Change of Control Conversion Right on the Change of Control Conversion Date, unless,
+prior to the Change of Control Conversion Date, the Corporation has provided or provides notice of its election to redeem such shares of Series A Preferred Stock, whether pursuant to its Regular Redemption Right or Special Optional Redemption Right.
+Holders of Series A Preferred Stock shall not have the right to convert any shares that the Corporation has elected to redeem prior to the Change of Control Conversion Date. Accordingly, if the Corporation has provided a redemption notice with
+respect to some or all of the Series A Preferred Stock, holders of any Series A Preferred Stock that the Corporation has called for redemption shall not be permitted to exercise their Change of Control Conversion Right in respect of any of the
+shares that have been called for redemption, and such shares of Series A Preferred Stock shall not be so converted and the holders of such shares shall be entitled to receive on the applicable redemption date $25.00 per share, plus an amount equal
+to any accrued and unpaid dividends thereon (whether or not declared) to, but not including, the redemption date. </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">19 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(h)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The Corporation shall deliver the applicable Conversion Consideration no later than the third Business Day
+following the Change of Control Conversion Date. In connection with the exercise of any Change of Control Conversion Right, the Corporation shall comply with all federal and state securities laws and stock exchange rules in connection with any
+conversion of shares of Series A Preferred Stock into Class&nbsp;I Common Shares. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(i)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Notwithstanding anything to the contrary contained herein, no holder of shares of Series A Preferred Stock will
+be entitled to convert such shares of Series A Preferred Stock into Class&nbsp;I Common Shares to the extent that receipt of such Class&nbsp;I Common Shares would cause the holder of such Class&nbsp;I Common Shares (or any other person) to
+Beneficially Own or Constructively Own Class&nbsp;I Common Shares in excess of the Aggregate Share Ownership Limit or the Common Share Ownership Limit, as applicable. </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">10. <U>Application of Article VI</U>. The Series A Preferred Stock constitutes Shares and, as such, is subject to the provisions of Article VI of the Charter
+applicable to Shares. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>THIRD:</B> The Series A Preferred Stock has been classified and designated by the Board, or a duly authorized committee thereof,
+under the authority contained in the Charter. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>FOURTH:</B> These Articles Supplementary have been approved by the Board, or a duly authorized committee
+thereof, in the manner and by the vote required by law. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>FIFTH:</B> These Articles Supplementary shall become effective at 9:00 a.m. (Eastern Time) on
+September&nbsp;22, 2021. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>SIXTH:</B> The undersigned acknowledges these Articles Supplementary to be the act of the Corporation and, as to all matters
+or facts required to be verified under oath, the undersigned acknowledges that to the best of his knowledge, information and belief, these matters and facts are true in all material respects and that this statement is made under the penalties for
+perjury. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><I>[Signature page follows.] </I></P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">20 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"><B>IN WITNESS WHEREOF</B>, the Corporation has caused these Articles Supplementary to be
+signed in its name and on its behalf by its President and attested to by its Vice President and Secretary on this 21st day of September, 2021. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="41%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="3%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="41%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="6%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">ATTEST:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">INPOINT COMMERCIAL REAL ESTATE INCOME, INC.</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">/s/ Roderick S. Curtis</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">/s/ Donald MacKinnon</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(SEAL)</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Name: Roderick S. Curtis</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Name: Donald MacKinnon</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Title: Vice President and Secretary</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Title: President</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">[Signature Page to
+Articles Supplementary] </P>
+
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.1
+<SEQUENCE>3
+<FILENAME>d200223dex41.htm
+<DESCRIPTION>EX-4.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-4.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 4.1 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">INCORPORATED UNDER THE LAWS OF THE </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">STATE OF MARYLAND </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="51%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">NUMBER</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">SHARES</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">45781T&nbsp; 205 </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">SEE REVERSE FOR IMPORTANT NOTICE ON TRANSFER </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">RESTRICTIONS AND OTHER INFORMATION </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>INPOINT COMMERCIAL REAL ESTATE INCOME, INC. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">a Corporation </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Incorporated Under
+the Laws of the State of Maryland </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">THIS CERTIFIES THAT
+**<U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U>** is the registered owner of
+**<U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U>(<U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;
+</U>)** fully paid and <FONT STYLE="white-space:nowrap">non-assessable</FONT> shares of 6.75% Series A Cumulative Redeemable Preferred Stock, par value $0.001 per share (&#147;Series A Preferred Stock&#148;), of </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>InPoint Commercial Real Estate Income, Inc. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(the &#147;Corporation&#148;), transferable on the books of the Corporation by the holder hereof in person or by its duly authorized attorney upon surrender
+of this Certificate properly endorsed. This Certificate and the shares represented hereby are issued and shall be held subject to all of the provisions of the Charter and Bylaws of the Corporation and any amendments or supplements thereto. This
+Certificate is not valid unless countersigned and registered by the Transfer Agent and Registrar. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">IN WITNESS WHEREOF, the Corporation has caused this
+Certificate to be executed on its behalf by its duly authorized officers and its seal to be hereunder affixed this <U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U> day of
+<U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U>, 20<U>&nbsp;&nbsp;&nbsp;&nbsp;</U>. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="47%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">Countersigned and Registered:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right" STYLE="BORDER-BOTTOM:1px solid #000000">(Seal)</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Transfer Agent and Registrar</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">President</TD></TR>
+<TR STYLE="font-size:1px; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Authorized Signature</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Secretary</TD></TR>
+</TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>IMPORTANT NOTICE </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>CLASSES OF STOCK </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Corporation is
+authorized to issue stock of more than one class or series, consisting of one or more classes or series of common stock and preferred stock. The Board of Directors is authorized to determine the preferences, conversion and other rights, voting
+powers, restrictions, limitations as to dividends and other distributions, qualifications, and terms and conditions of redemption of any class or series of preferred stock before the issuance of such class or series of preferred stock. The
+Corporation will furnish to any stockholder, on request and without charge, a full statement of the information required by <FONT STYLE="white-space:nowrap">Section&nbsp;2-211(b)</FONT> of the Corporations and Associations Article of the Annotated
+Code of Maryland with respect to the designations and any preferences, conversion and other rights, voting powers, restrictions, limitations as to dividends and other distributions, qualifications, and terms and conditions of redemption of the stock
+of each class which the Corporation is authorized to issue and, if the Corporation is authorized to issue any preferred or special class in series, (i)&nbsp;the differences in the relative rights and preferences between the shares of each series to
+the extent they have been set, and (ii)&nbsp;the authority of the Board of Directors to set relative rights and preferences of subsequent series. Such request must be made to the Secretary of the Corporation at its principal office or to the
+Transfer Agent. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>RESTRICTIONS ON OWNERSHIP AND TRANSFER </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The shares represented by this certificate are subject to restrictions on Beneficial Ownership and Constructive Ownership and Transfer for the purpose, among
+others, of the Corporation&#146;s maintenance of its status as a real estate investment trust under the Internal Revenue Code of 1986, as amended (the &#147;Code&#148;). Subject to certain further restrictions and except as expressly provided in the
+Corporation&#146;s charter, (i)&nbsp;no Person may Beneficially Own or Constructively Own Shares in excess of the Common Share Ownership Limit, unless such Person is an Excepted Holder (in which case the Excepted Holder Limit shall be applicable);
+(ii) no Person may Beneficially Own or Constructively Own Shares in excess of the Aggregate Share Ownership Limit, unless such Person is an Excepted Holder (in which case the Excepted Holder Limit shall be applicable); (iii) no Person may
+Beneficially Own or Constructively Own Shares that would result in the Corporation being &#147;closely held&#148; under Section&nbsp;856(h) of the Code or otherwise cause the Corporation to fail to qualify as a REIT; and (iv)&nbsp;any Transfer of
+Shares that, if effective, would result in the Shares being beneficially owned by fewer than 100 Persons (as determined under the principles of Section&nbsp;856(a)(5) of the Code) shall be void ab initio, and the intended transferee shall acquire no
+rights in such Shares. Any Person who Beneficially Owns or Constructively Owns or attempts or intends to Beneficially Own or Constructively Own Shares which cause or will cause a Person to Beneficially Own or Constructively Own Shares in excess or
+in violation of the above limitations must immediately notify the Corporation in writing (or, in the case of any attempted transaction, give at least 15 days prior written notice). If any of the restrictions on transfer or ownership provided in (i),
+(ii) or (iii)&nbsp;above are violated, the Shares in excess or in violation of the above limitations will be automatically transferred to a Charitable Trust for the benefit of a Charitable Beneficiary. In addition, the Corporation may redeem Shares
+upon the terms and conditions specified by the Board of Directors in its sole discretion if the Board of Directors determines that ownership or a Transfer or other event may violate the restrictions described above. Furthermore, upon the occurrence
+of certain events, attempted Transfers in violation of the restrictions described in (i), (ii) or (iii)&nbsp;above may be void ab initio. All capitalized terms in this legend have the meanings given to them in the charter of the Corporation, as the
+same may be amended from time to time, a copy of which, including the restrictions on transfer and ownership, will be furnished to each holder of Shares on request and without charge. Requests for such a copy may be directed to the Secretary of the
+Corporation at its principal office. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">KEEP THIS CERTIFICATE IN A SAFE PLACE. IF IT IS LOST, STOLEN </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">OR DESTROYED, THE CORPORATION WILL REQUIRE A BOND OF INDEMNITY AS A </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">CONDITION TO THE ISSUANCE OF A REPLACEMENT CERTIFICATE. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The following abbreviations, when used in the inscription on the face of this Certificate, shall be construed as though they were written out in full
+according to applicable laws or regulations: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="10%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">TEN&nbsp;COM&nbsp;&#150;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">as tenants in common</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">UNIF GIFT MIN ACT - Custodian</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">TEN ENT -</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">as tenants by the entireties</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Minor) under Uniform Gifts to Minors Act of (State)</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">JT TEN -</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">as joint tenants with right of survivorship and not as tenants in common</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Additional abbreviations may also be used though not in the above list.</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">FOR VALUE RECEIVED,
+<U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U>HEREBY SELLS, ASSIGNS AND TRANSFERS UNTO </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">(PLEASE INSERT NAME AND ADDRESS OF ASSIGNEE, INCLUDING ZIP CODE)</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">(PLEASE INSERT SOCIAL SECURITY OR OTHER IDENTIFYING NUMBER OF ASSIGNEE)</TD></TR>
+</TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>&nbsp;(<U>&nbsp;&nbsp;&nbsp;
+&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U><U> </U>) Shares of Series A Preferred Stock of the Corporation represented by this Certificate, and does hereby
+irrevocably constitute and appoint attorney <U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U> to transfer the said shares on the books of the
+Corporation, with full power of substitution in the premises. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="33%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="33%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP>Signature</TD></TR>
+</TABLE> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>NOTICE:</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><B>THE SIGNATURE TO THIS ASSIGNMENT MUST CORRESPOND WITH THE NAME AS WRITTEN UPON THE FACE OF THIS CERTIFICATE
+IN EVERY PARTICULAR, WITHOUT ALTERATION OR ENLARGEMENT OR ANY CHANGE WHATSOEVER. </B></P></TD></TR></TABLE>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

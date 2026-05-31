@@ -1,0 +1,308 @@
+<SEC-DOCUMENT>0001140361-23-031617.txt : 20230627
+<SEC-HEADER>0001140361-23-031617.hdr.sgml : 20230627
+<ACCEPTANCE-DATETIME>20230627093011
+ACCESSION NUMBER:		0001140361-23-031617
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20230627
+DATE AS OF CHANGE:		20230627
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vesta Real Estate Corporation, S.A.B. de C.V.
+		CENTRAL INDEX KEY:			0001969373
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			O5
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41730
+		FILM NUMBER:		231044440
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PASEO DE TAMARINDOS # 90 TORRE 2 PISO 28
+		STREET 2:		COL. BOSQUES DE LAS LOMAS, CUAJIMALPA CP
+		CITY:			MEXICO CITY
+		STATE:			O5
+		ZIP:			05210
+		BUSINESS PHONE:		52 (55) 5950-0070
+
+	MAIL ADDRESS:	
+		STREET 1:		PASEO DE TAMARINDOS # 90 TORRE 2 PISO 28
+		STREET 2:		COL. BOSQUES DE LAS LOMAS, CUAJIMALPA CP
+		CITY:			MEXICO CITY
+		STATE:			O5
+		ZIP:			05210
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ny20009345x8_8a12b.htm
+<DESCRIPTION>FORM 8-A12B
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using Broadridge PROfile 23.5.1.5152
+         Copyright 1995 - 2023 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <div style="text-align: center; font-weight: bold;">
+      <hr style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; margin-left: auto; margin-right: auto;" align="center"><font style="font-size: 14pt;">UNITED STATES</font></div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 14pt; font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 12pt; font-weight: bold;">Washington, D.C. 20549</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 18pt; font-weight: bold;">FORM 8-A</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+    <div style="text-align: center; font-weight: bold;">PURSUANT TO SECTION 12(b) OR (g) OF</div>
+    <div style="text-align: center; font-weight: bold;">THE SECURITIES EXCHANGE ACT OF 1934</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 24pt; font-weight: bold;">Corporaci&#243;n Inmobiliaria Vesta, S.A.B de C.V.</div>
+    <div style="text-align: center;">(Exact name of registrant as specified in its charter)</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z74ed9e0458014cf59934e3b1df292290" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">United Mexican States</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center;">(State or other jurisdiction of incorporation or organization)</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center;">(I.R.S. Employer Identification No.)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: middle;">&#160;</td>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Paseo de los Tamarindos No. 90, Torre II, Piso 28, Col. Bosques de las Lomas</div>
+            <div style="text-align: center; font-weight: bold;">Cuajimalpa,</div>
+            <div style="text-align: center; font-weight: bold;">Mexico City</div>
+            <div style="text-align: center; font-weight: bold;">United Mexican States</div>
+            <div style="text-align: center; font-weight: bold;">+52 (55) 5950-0070</div>
+          </td>
+          <td style="width: 50%; vertical-align: bottom;">
+            <div style="text-align: center; font-weight: bold;">05201</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center;">(Address of principal executive offices)</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center;">(Zip Code)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section 12(b) of the Act:</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z87d7d11fa36a410dbfdc43a7ed3c96f7" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: bottom;" nowrap="nowrap">
+            <div style="text-align: center;">Title of each class</div>
+            <div style="text-align: center;">to be so registered</div>
+          </td>
+          <td style="width: 50%; vertical-align: bottom;" nowrap="nowrap">
+            <div style="text-align: center;">Name of each exchange on which</div>
+            <div style="text-align: center;">each class is to be registered</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">American Depositary Shares (&#8220;ADSs&#8221;), each</div>
+            <div style="text-align: center; font-weight: bold;">representing ten common shares</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">New York Stock Exchange</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: middle;">&#160;</td>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Common shares, no par value*</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">New York Stock Exchange</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z6e8f00eb46014ad5a22b787302aed0f1" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 2%; vertical-align: top;">
+            <div>*</div>
+          </td>
+          <td style="width: 98%; vertical-align: top;">
+            <div>Not for trading, but only in connection with the listing of the ADSs on the New York Stock Exchange. Each ADS represents the right to receive ten common shares and are being registered under the Securities Act of 1933, as amended, pursuant
+              to a separate Registration Statement on Form F-6. Accordingly, the ADSs are exempt from the operation of Section 12(a) of the Securities Exchange Act of 1934, as amended, pursuant to Rule 12a-8.</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div>If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A. (c) or (e), check the following box. <font style="font-family: 'Times New Roman',Times,serif;">&#9746;</font></div>
+    <div><br>
+    </div>
+    <div>If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A. (d) or (e), check the following box. <font style="font-family: 'Times New Roman',Times,serif;">&#9744;</font></div>
+    <div><br>
+    </div>
+    <div>If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. <font style="font-family: 'Times New Roman',Times,serif;">&#9744;</font></div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">Securities Act registration or Regulation A offering statement file number to which this form relates: 333-272532</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section 12(g) of the Act: none
+      <hr style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; margin-left: auto; margin-right: auto;" align="center"></div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z1843d2d5737b418da49b20c5d68e905e" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 8%; vertical-align: top;">
+            <div style="font-weight: bold;">Item 1.</div>
+          </td>
+          <td style="width: 92%; vertical-align: top;">
+            <div style="font-weight: bold;">Description of Registrant&#8217;s Securities to be Registered.</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div>The class of securities to be registered hereby are the common shares, with no par value, represented by American depositary shares (the &#8220;ADSs&#8221;), of Corporaci&#243;n Inmobiliaria Vesta, S.A.B. de C.V., a s<font style="font-style: italic;">ociedad
+        an&#243;nima burs&#225;til de capital variable</font> organized under the laws of Mexico (the &#8220;Registrant&#8221;). The description of the securities to be registered set forth under the captions &#8220;Description of Capital Stock and Bylaws&#8221; and &#8220;Description of
+      American Depositary Shares&#8221; included in the Registrant&#8217;s Registration Statement on Form F-1 (File No. 333-272532), originally filed with the Securities and Exchange Commission on June 8, 2023, as amended by any amendments to such Registration
+      Statement, and by any prospectus subsequently filed pursuant to Rule 424(b) under the Securities Act of 1933, as amended, shall be deemed to be incorporated by reference herein.</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z0561dca617aa40d99dbd9c117ac86e6e" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 8%; vertical-align: top;">
+            <div style="font-weight: bold;">Item 2.</div>
+          </td>
+          <td style="width: 92%; vertical-align: top;">
+            <div style="font-weight: bold;">Exhibits.</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div>Pursuant to the Instructions as to Exhibits with respect to Form 8-A, no exhibits are required to be filed because no other securities of the Registrant are registered on the New York Stock Exchange and the securities registered hereby are not
+      being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</div>
+    <div> <br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">SIGNATURE</div>
+    <div><br>
+    </div>
+    <div>Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned hereunto duly authorized.</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z74862a2ff46c47b7958376127acc99c3" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td rowspan="1" style="width: 50%; vertical-align: top;">
+            <div>Corporaci&#243;n Inmobiliaria Vesta, S.A.B. de C.V.</div>
+          </td>
+          <td rowspan="1" style="vertical-align: top;"><br>
+          </td>
+          <td rowspan="1" style="vertical-align: top;">&#160;</td>
+          <td rowspan="1" style="vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="vertical-align: top; width: 4%;">&#160;</td>
+          <td style="width: 4%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 42%; vertical-align: bottom;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Date: June 27, 2023</div>
+          </td>
+          <td style="vertical-align: top; width: 4%;"><br>
+          </td>
+          <td style="width: 4%; vertical-align: bottom;">
+            <div>By:</div>
+          </td>
+          <td style="width: 42%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);">
+            <div>
+              <div>/s/Juan Felipe Sottil Achutegui</div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="vertical-align: top; width: 4%;">&#160;</td>
+          <td style="width: 4%; vertical-align: bottom;">
+            <div>Name:</div>
+          </td>
+          <td style="width: 42%; vertical-align: bottom;">
+            <div>Juan Felipe Sottil Achutegui</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="vertical-align: top; width: 4%;">&#160;</td>
+          <td style="width: 4%; vertical-align: bottom;">
+            <div>Title:</div>
+          </td>
+          <td style="width: 42%; vertical-align: bottom;">
+            <div>Chief Financial Officer</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

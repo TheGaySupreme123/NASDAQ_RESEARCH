@@ -1,0 +1,291 @@
+<SEC-DOCUMENT>0001140361-21-036993.txt : 20211108
+<SEC-HEADER>0001140361-21-036993.hdr.sgml : 20211108
+<ACCEPTANCE-DATETIME>20211108163713
+ACCESSION NUMBER:		0001140361-21-036993
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211108
+DATE AS OF CHANGE:		20211108
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DP Cap Acquisition Corp I
+		CENTRAL INDEX KEY:			0001857803
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41041
+		FILM NUMBER:		211388528
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MARINA PARK DRIVE
+		STREET 2:		10TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02210
+		BUSINESS PHONE:		(617) 874-5152
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MARINA PARK DRIVE
+		STREET 2:		10TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02210
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>nt10025450x10_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using EDGARfilings PROfile 7.7.0.0
+         Copyright 1995 - 2021 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <div style="text-align: center; font-size: 14pt; font-weight: bold;">
+      <hr style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; margin-left: auto; margin-right: auto;" align="center">UNITED STATES</div>
+    <div style="text-align: center; font-size: 14pt; font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+    <div style="text-align: center; font-weight: bold;">Washington, D.C. 20549</div>
+    <div style="text-align: center; font-weight: bold;"> <br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">
+      <hr style="height: 2px; color: #000000; background-color: #000000; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+    <div style="text-align: center; font-weight: bold;"> <br>
+    </div>
+    <div style="text-align: center; font-size: 14pt; font-weight: bold;">FORM 8-A</div>
+    <div>
+      <div style="text-align: center;">
+        <div style="font-weight: bold;"> <br>
+        </div>
+        <div style="font-weight: bold;">
+          <hr style="height: 2px; color: #000000; background-color: #000000; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+        <div style="font-weight: bold;"> <br>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: center; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+    <div style="text-align: center; font-weight: bold;">PURSUANT TO SECTION 12(b) OR (g)&#160;OF</div>
+    <div style="text-align: center; font-weight: bold;">THE SECURITIES EXCHANGE ACT OF 1934</div>
+    <div>
+      <div>
+        <div style="text-align: center; font-weight: bold;"> <br>
+        </div>
+        <div style="text-align: center; font-weight: bold;">
+          <hr style="height: 2px; color: #000000; background-color: #000000; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+        <div style="text-align: center; font-weight: bold;">&#160; <br>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: center; font-size: 18pt; font-weight: bold;">DP Cap Acquisition Corp I</div>
+    <div style="text-align: center; font-weight: bold;">(Exact name of registrant as specified in its charter)</div>
+    <div>
+      <div style="text-align: center;">&#160;
+        <div style="font-weight: bold;">
+          <hr style="height: 2px; color: #000000; background-color: #000000; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+        <div style="font-weight: bold;"> <br>
+        </div>
+      </div>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zc27091eb73b14cb3a12a76302e0cf67e" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">Cayman Islands</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-size: 8pt; font-weight: bold;">(State or incorporation or organization)</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-size: 8pt; font-weight: bold;">(IRS Employer Identification No.)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div>&#160;</div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z409ba2675f564fe3858ac8f702ebe1bf" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-weight: bold;">One Marina Park Drive, 10<sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">th</sup> Floor</div>
+            <div style="text-align: center; font-weight: bold;">Boston, Massachusetts</div>
+          </td>
+          <td style="width: 50%; vertical-align: bottom;">
+            <div style="text-align: center; font-weight: bold;">02210</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-size: 8pt; font-weight: bold;">(Address of Principal Executive Offices)</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: center; font-size: 8pt; font-weight: bold;">(Zip Code)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div>&#160;</div>
+    <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section 12(b) of the Act:</div>
+    <div>&#160;</div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z647c5f7c61514d3e8fac97b8c701eede" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 49%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);" nowrap="nowrap">
+            <div style="text-align: center; font-size: 8pt; font-weight: bold;">Title of each class</div>
+            <div>
+              <div style="text-align: center; font-size: 8pt; font-weight: bold;">to be so registered</div>
+            </div>
+          </td>
+          <td style="width: 2%; vertical-align: bottom;">
+            <div style="font-size: 8pt;">&#160;</div>
+          </td>
+          <td style="width: 49%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);" nowrap="nowrap">
+            <div style="text-align: center; font-size: 8pt; font-weight: bold;">Name of each exchange on which</div>
+            <div>
+              <div style="text-align: center; font-size: 8pt; font-weight: bold;">each class is to be registered</div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 49%; vertical-align: top; text-align: center;">
+            <div style="font-family: 'Times New Roman',Times,serif; font-weight: bold;">Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-half of one redeemable public warrant</div>
+          </td>
+          <td style="width: 2%; vertical-align: bottom;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 49%; vertical-align: top; text-align: center;">
+            <div style="font-family: 'Times New Roman',Times,serif; font-weight: bold;">The Nasdaq Stock Market LLC</div>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1" style="width: 49%; vertical-align: top;">&#160;</td>
+          <td rowspan="1" style="width: 2%; vertical-align: bottom;">&#160;</td>
+          <td rowspan="1" style="width: 49%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td rowspan="1" style="width: 49%; vertical-align: bottom; font-weight: bold; text-align: center;">Class A ordinary shares, par value $0.0001 per share</td>
+          <td rowspan="1" style="width: 2%; vertical-align: bottom;">&#160;</td>
+          <td rowspan="1" style="width: 49%; vertical-align: bottom; font-weight: bold; text-align: center;">The Nasdaq Stock Market LLC</td>
+        </tr>
+        <tr>
+          <td rowspan="1" style="width: 49%; vertical-align: top;">&#160;</td>
+          <td rowspan="1" style="width: 2%; vertical-align: bottom;">&#160;</td>
+          <td rowspan="1" style="width: 49%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td rowspan="1" style="width: 49%; vertical-align: top; font-weight: bold; text-align: center;">Redeemable public warrants, each whole public warrant exercisable for one Class A ordinary share at an exercise price of $11.50</td>
+          <td rowspan="1" style="width: 2%; vertical-align: bottom;">&#160;</td>
+          <td rowspan="1" style="width: 49%; vertical-align: top; font-weight: bold; text-align: center;">The Nasdaq Stock Market LLC</td>
+        </tr>
+
+    </table>
+    <div>
+      <div>&#160;</div>
+    </div>
+    <div>If this form relates to the registration of a class of securities pursuant to Section&#160;12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box.&#160;&#160;&#9746;</div>
+    <div>&#160;</div>
+    <div>If this form relates to the registration of a class of securities pursuant to Section&#160;12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box.&#160;&#160;&#9744;</div>
+    <div>&#160;</div>
+    <div>If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box.&#160;&#160;&#9744;</div>
+    <div>&#160;</div>
+    <div style="text-align: center; font-weight: bold;">Securities Act registration statement file number to which this form relates: 333-260456.</div>
+    <div>&#160;</div>
+    <div style="text-align: center; font-weight: bold;">Securities to be registered pursuant to Section 12(g) of the Act: None.</div>
+    <div style="text-align: center; font-weight: bold;"> <br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">
+      <hr style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; margin-left: auto; margin-right: auto;" align="center"> </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+      <div style="page-break-after:always;" id="DSPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div style="font-weight: bold;">Item&#160;1. Description of Registrant&#8217;s Securities to be Registered.</div>
+    <div>&#160;</div>
+    <div>The description of the units, each consisting of one Class A ordinary share, $0.0001 par value, and one-half of one redeemable warrant, the Class A ordinary shares and warrants, each whole warrant exercisable for one Class A ordinary share at an
+      exercise price of $11.50, of DP Cap Acquisition Corp I (the &#8220;Registrant&#8221;). The description of the units, Class A ordinary shares and redeemable public warrants set forth under the heading &#8220;Description of Securities&#8221; in the Registrant&#8217;s prospectus
+      forming part of its Registration Statement on Form S-1 (File No. 333-260456) originally filed with the U.S. Securities and Exchange Commission on October 22, 2021, as thereafter amended and supplemented from time to time (the &#8220;Registration
+      Statement&#8221;), to which this Form 8-A relates is incorporated by reference herein. Any form of prospectus or prospectus supplement to the Registration Statement that includes such descriptions and that are subsequently filed are hereby also
+      incorporated by reference herein.</div>
+    <div>&#160;</div>
+    <div style="font-weight: bold;">Item&#160;2. Exhibits.</div>
+    <div>&#160;</div>
+    <div>Under the Instructions as to Exhibits with respect to Form 8-A, no exhibits are required to be filed because no other securities of the Company are registered on The New York Stock Exchange, and the securities registered hereby are not being
+      registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+      <div style="page-break-after:always;" id="DSPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div style="text-align: center; font-weight: bold;">SIGNATURES</div>
+    <div>&#160;</div>
+    <div style="text-indent: 36pt;">Pursuant to the requirements of Section&#160;12 of the Securities Exchange Act of 1934, as amended, the Company has duly caused this Registration Statement to be signed on its behalf by the undersigned, thereunto duly
+      authorized, in the city of Beverly Hills, California on the 8th day of November, 2021.</div>
+    <div style="font-size: 12pt;">&#160;</div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z73676a535d0d4f73bb7cb0eeeb63f3a3" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Date: November 8, 2021</div>
+          </td>
+          <td colspan="2" style="vertical-align: top;">
+            <div style="font-weight: bold;">DP Cap Acquisition Corp I</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: middle;">&#160;</td>
+          <td style="width: 5%; vertical-align: middle;">&#160;</td>
+          <td style="width: 45%; vertical-align: middle;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">
+            <div>By:</div>
+          </td>
+          <td style="width: 45%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+            <div>
+              <div>/s/ Martin Zinny</div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">
+            <div>Name:</div>
+          </td>
+          <td style="width: 45%; vertical-align: top;">
+            <div>Martin Zinny</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="width: 5%; vertical-align: top;">
+            <div>Title:</div>
+          </td>
+          <td style="width: 45%; vertical-align: top;">
+            <div>Chief Financial Officer</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div>
+      <hr style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;" align="center" noshade="noshade"></div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

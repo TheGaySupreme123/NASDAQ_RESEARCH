@@ -1,0 +1,296 @@
+<SEC-DOCUMENT>0001104659-22-057364.txt : 20220509
+<SEC-HEADER>0001104659-22-057364.hdr.sgml : 20220509
+<ACCEPTANCE-DATETIME>20220509125037
+ACCESSION NUMBER:		0001104659-22-057364
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20220509
+DATE AS OF CHANGE:		20220509
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hanover Bancorp, Inc. /NY
+		CENTRAL INDEX KEY:			0001828588
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				813324480
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41384
+		FILM NUMBER:		22904133
+
+	BUSINESS ADDRESS:	
+		STREET 1:		80 EAST JERICHO TURNPIKE
+		CITY:			MINEOLA
+		STATE:			NY
+		ZIP:			11501
+		BUSINESS PHONE:		516.548.8500
+
+	MAIL ADDRESS:	
+		STREET 1:		80 EAST JERICHO TURNPIKE
+		CITY:			MINEOLA
+		STATE:			NY
+		ZIP:			11501
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>tm2213257-1_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 12pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>WASHINGTON, DC 20549&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM 8-A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>PURSUANT TO SECTION 12(B) OR 12(G) OF THE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B><U>HANOVER BANCORP, INC.</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Exact name of registrant as specified in its charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center; padding: 0; width: 50%; layout-grid-mode: line"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New
+York&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></B></FONT></TD>
+    <TD STYLE="text-align: center; padding: 0; width: 50%; layout-grid-mode: line"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;81-3324480&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center; padding: 0; layout-grid-mode: line"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(State or other jurisdiction</FONT></TD>
+    <TD STYLE="text-align: center; padding: 0; layout-grid-mode: line"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(IRS Employer</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center; padding: 0; layout-grid-mode: line"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">of incorporation)</FONT></TD>
+    <TD STYLE="text-align: center; padding: 0; layout-grid-mode: line"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Identification No.)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center; padding: 0; width: 50%; layout-grid-mode: line"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>80 East Jericho Turnpike</B></FONT></TD>
+    <TD STYLE="text-align: center; padding: 0; width: 50%; layout-grid-mode: line">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center; padding: 0; layout-grid-mode: line"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mineola,
+    New York&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></B></FONT></TD>
+    <TD STYLE="text-align: center; padding: 0; layout-grid-mode: line"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11501&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center; padding: 0; layout-grid-mode: line"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Address of principal executive offices)</FONT></TD>
+    <TD STYLE="text-align: center; padding: 0; layout-grid-mode: line"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Zip Code)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; width: 10%; layout-grid-mode: line; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; width: 35%; layout-grid-mode: line; text-align: justify; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title of each class</FONT></TD>
+    <TD STYLE="padding: 0; width: 15%; layout-grid-mode: line; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; width: 40%; layout-grid-mode: line; text-align: justify; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name of each exchange on which</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; layout-grid-mode: line; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; layout-grid-mode: line; text-align: justify; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">to be so registered</FONT></TD>
+    <TD STYLE="padding: 0; layout-grid-mode: line; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; layout-grid-mode: line; text-align: justify; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">each class is to be registered</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; layout-grid-mode: line; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; layout-grid-mode: line; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; layout-grid-mode: line; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; layout-grid-mode: line; text-align: justify; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: Black 1pt solid; padding: 0; layout-grid-mode: line; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; border-bottom: Black 1pt solid; padding: 0; layout-grid-mode: line; text-align: justify; text-indent: 0">Common Stock, $0.01 par value per share</TD>
+    <TD STYLE="padding: 0; layout-grid-mode: line; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding: 0; layout-grid-mode: line; text-align: justify; text-indent: 0">The Nasdaq Stock Market LLC</TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">If
+this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant
+to General Instruction A.(c), check the following box. </FONT><FONT STYLE="font-family: Wingdings">&#120;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif">If
+this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant
+to General Instruction A.(d), check the following box. </FONT><FONT STYLE="font-family: Wingdings">&#168;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities Act registration statement file number to which this form
+relates: 333-262920 (if applicable)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities to be registered pursuant to Section 12(g) of the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">None</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">(Title of class)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 12pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Item 1. &nbsp;Description of Registrant's Securities to be Registered.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The description of the common
+stock, $0.01 par value per share (the &ldquo;Shares&rdquo;), of Hanover Bancorp, Inc. (the &ldquo;Company&rdquo;) as included under the
+caption &ldquo;Description of Our Capital Stock&rdquo; in the prospectus forming a part of the Registration Statement on Form S-1, as
+originally filed with the U.S. Securities and Exchange Commission (the &ldquo;Commission&rdquo;) on February&nbsp;23, 2022 (Registration
+No.&nbsp;<A HREF="https://www.sec.gov/Archives/edgar/data/1828588/000110465922026019/tm227216-1_s1.htm">333-262920</A>), including exhibits, and as may be subsequently amended from time to time (the &ldquo;Registration Statement&rdquo;),
+shall be deemed to be incorporated by reference herein.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>Item 2. &nbsp;Exhibits</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0"><U>Exhibit No.</U></TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0"><U>Name of Document</U></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; width: 15%; text-indent: 0">Exhibit 3(i)</TD>
+    <TD STYLE="padding: 0; width: 5%; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; width: 80%; text-indent: 0"><A HREF="https://www.sec.gov/Archives/edgar/data/1828588/000110465921005873/tm2037794d1_ex3-1.htm" STYLE="-sec-extract: exhibit">Restated Certificate of Incorporation (incorporated by reference to Exhibit 3.1(i) to Registration Statement on Form S-4 filed on January 20, 2021)</A></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">Exhibit 3(ii)</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0"><A HREF="https://www.sec.gov/Archives/edgar/data/1828588/000110465921005873/tm2037794d1_ex3-1ii.htm" STYLE="-sec-extract: exhibit">Bylaws (incorporated by reference to Exhibit 3.1(ii) to Registration Statement on Form S-4 filed on January 20, 2021)</A></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">Exhibit 4.1</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">Instruments defining the rights of security holders, including indentures (see Exhibits <A HREF="https://www.sec.gov/Archives/edgar/data/1828588/000110465921005873/tm2037794d1_ex3-1.htm" STYLE="-sec-extract: exhibit">3.1(i)</A> and <A HREF="https://www.sec.gov/Archives/edgar/data/1828588/000110465921005873/tm2037794d1_ex3-1ii.htm" STYLE="-sec-extract: exhibit">3.1(ii)</A>)</TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1.5in; text-indent: -1.5in">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1.5in; text-indent: -1.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>SIGNATURE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Pursuant to the requirements
+of Section 12 of the Securities Exchange Act of 1934, Hanover Bancorp, Inc. has duly caused this registration statement to be signed on
+its behalf by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>HANOVER
+    BANCORP, INC.</U></B></FONT></TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0 0 0 0.125in; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Registrant)</FONT></TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0; width: 40%">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0; width: 10%">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0; width: 3%">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0; width: 32%">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0; width: 15%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Dated: May 9,
+    2022</FONT></TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ Michael P. Puorro</FONT></TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Michael P. Puorro</B></FONT></TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chairman and Chief Executive Officer</FONT></TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 3.5in">&nbsp;&nbsp;</P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

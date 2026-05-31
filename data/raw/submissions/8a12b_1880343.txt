@@ -1,0 +1,293 @@
+<SEC-DOCUMENT>0001213900-21-064361.txt : 20211209
+<SEC-HEADER>0001213900-21-064361.hdr.sgml : 20211209
+<ACCEPTANCE-DATETIME>20211209121054
+ACCESSION NUMBER:		0001213900-21-064361
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211209
+DATE AS OF CHANGE:		20211209
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Fresh Vine Wine, Inc.
+		CENTRAL INDEX KEY:			0001880343
+		STANDARD INDUSTRIAL CLASSIFICATION:	BEVERAGES [2080]
+		IRS NUMBER:				834709895
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41147
+		FILM NUMBER:		211481291
+
+	BUSINESS ADDRESS:	
+		STREET 1:		505 HIGHWAY 169 NORTH, SUITE 255
+		CITY:			PLYMOUTH
+		STATE:			MN
+		ZIP:			55441
+		BUSINESS PHONE:		855-766-9463
+
+	MAIL ADDRESS:	
+		STREET 1:		505 HIGHWAY 169 NORTH, SUITE 255
+		CITY:			PLYMOUTH
+		STATE:			MN
+		ZIP:			55441
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FRESH GRAPES, LLC
+		DATE OF NAME CHANGE:	20210826
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ea151961-8a12b_freshgrapes.htm
+<DESCRIPTION>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 4pt; margin-bottom: 0; text-align: center"></P>
+
+
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 4pt; margin-bottom: 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 4pt; margin-bottom: 0; text-align: center"></P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 4pt; margin-bottom: 0; text-align: center"><B>UNITED STATES </B></P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>Washington, D.C. 20549 </B></P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin-top: 12pt; margin-bottom: 0; text-align: center"><B>FORM 8-A </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 12pt; margin-bottom: 0; text-align: center"><B>For Registration of Certain Classes of Securities
+</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>Pursuant to Section 12(b) or 12(g) of</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>the Securities Exchange Act of 1934 </B></P>
+
+<P STYLE="font: 24pt Times New Roman, Times, Serif; margin-top: 12pt; margin-bottom: 0; text-align: center"><B>Fresh Vine Wine, Inc. </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>(Exact name of registrant as specified in its charter)
+</B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="text-align: center; width: 49%">&nbsp;</TD>
+    <TD STYLE="text-align: center; vertical-align: bottom; width: 2%">&nbsp;</TD>
+    <TD STYLE="text-align: center; width: 49%">&nbsp;</TD>
+    <TD STYLE="text-align: center; width: 0%; font-size: 10pt"></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Nevada</B></FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>87-3905007</B></FONT></TD>
+    <TD STYLE="text-align: center; font-size: 10pt"></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>(State of Incorporation)</B></FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>(I.R.S. Employer Identification No.)</B></FONT></TD>
+    <TD STYLE="text-align: center; font-size: 10pt"></TD></TR>
+  <TR>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center"></TD></TR>
+  <TR>
+    <TD ROWSPAN="2" STYLE="text-align: center; vertical-align: bottom">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>505 Highway 169 North, Suite 255</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 1pt; text-align: center"><B>Plymouth, MN</B></P></TD>
+    <TD ROWSPAN="2" STYLE="text-align: center; vertical-align: bottom">&nbsp;</TD>
+    <TD ROWSPAN="2" STYLE="vertical-align: bottom; font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>55441</B></FONT></TD>
+    <TD STYLE="text-align: center">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="text-align: center">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>(Address of principal executive offices)</B></FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>(Zip Code)</B></FONT></TD>
+    <TD STYLE="text-align: center; font-size: 10pt">&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 12pt; margin-bottom: 12pt; text-align: center"><B>Securities to be registered pursuant to Section
+12(b) of the Act: </B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="text-align: center; width: 49%">&nbsp;</TD>
+    <TD STYLE="text-align: center; vertical-align: bottom; width: 2%">&nbsp;</TD>
+    <TD STYLE="text-align: center; width: 49%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: center; white-space: nowrap">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>Title of each class</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>to be so registered</B></P></TD>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center; white-space: nowrap">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>Name of each exchange on which</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>each class is to be registered</B></P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Common Stock, $0.001 par value per share</B></FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>NYSE American</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0">If this form relates to the registration of a class of securities
+pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c), check the following box. <FONT STYLE="font-family: Times New Roman, Times, Serif">&#9746;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0">If this form relates to the registration of a class of securities
+pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d), check the following box. <FONT STYLE="font-family: Times New Roman, Times, Serif">&#9744;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-align: center"><B>Securities Act registration statement or
+Regulation A offering statement file number to which this form relates: </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>333-261037</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0; text-align: center"><B>Securities to be registered pursuant to Section
+12(g) of the Act: </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>None </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>(Title of Class)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B></B></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B></B></P>
+
+
+
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 9%; font-size: 10pt"><FONT STYLE="font-size: 10pt"><B>Item 1.</B></FONT></TD>
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt"><B>Description of Registrant&rsquo;s Securities to be Registered. </B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0">Fresh Vine Wine, Inc. (the &ldquo;Registrant&rdquo;) hereby incorporates
+by reference the description of its Common Stock, $0.001 par value per share (the &ldquo;Common Stock&rdquo;), to be registered hereunder,
+contained under the heading &ldquo;Description of Capital Stock&rdquo; in the Registrant&rsquo;s Registration Statement on Form S-1 (File
+No. 333-261037), as originally filed with the Securities and Exchange Commission (the &ldquo;Commission&rdquo;) on November 12, 2021,
+as amended (the &ldquo;Registration Statement&rdquo;), and in the prospectus included in the Registration Statement to be filed separately
+by the Registrant with the Commission pursuant to Rule 424(b) under the Securities Act of 1933, as amended, which prospectus shall be
+deemed to be incorporated herein by reference.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 6pt 0 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 9%; font-size: 10pt"><FONT STYLE="font-size: 10pt"><B>Item 2.</B></FONT></TD>
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt"><B>Exhibits. </B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0">Pursuant to the Instructions as to Exhibits with respect to Form
+8-A, no exhibits are required to be filed because no other securities of the Registrant are registered on the NYSE American and the securities
+to be registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SIGNATURE </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0">Pursuant to the requirements of Section 12 of the Securities Exchange
+Act of 1934, the Registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 3%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 39%">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; font-size: 10pt"><FONT STYLE="font-size: 10pt">Dated: December 9, 2021</FONT></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; font-size: 10pt"><FONT STYLE="font-size: 10pt"><B>FRESH VINE WINE, INC.</B></FONT></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">
+    <P STYLE="border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; margin: 0 0 1pt">/s/ Elliot Savoie</P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt"><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt"><FONT STYLE="font-size: 10pt">Elliot Savoie</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt"><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; font-size: 10pt"><FONT STYLE="font-size: 10pt">Chief Financial Officer</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

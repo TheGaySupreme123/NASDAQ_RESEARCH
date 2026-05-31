@@ -1,0 +1,361 @@
+<SEC-DOCUMENT>0001104659-21-101927.txt : 20210809
+<SEC-HEADER>0001104659-21-101927.hdr.sgml : 20210809
+<ACCEPTANCE-DATETIME>20210809114341
+ACCESSION NUMBER:		0001104659-21-101927
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20210809
+DATE AS OF CHANGE:		20210809
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Avista Public Acquisition Corp. II
+		CENTRAL INDEX KEY:			0001846253
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40720
+		FILM NUMBER:		211155489
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AVISTA CAPITAL HOLDINGS, LP
+		STREET 2:		65 EAST 55TH STREET, 18TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-593-6900
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AVISTA CAPITAL HOLDINGS, LP
+		STREET 2:		65 EAST 55TH STREET, 18TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>tm2124549d1_8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 12pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 13.5pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>UNITED STATES </B></P>
+
+<P STYLE="font: 13.5pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Washington, D.C. 20549 </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 13.5pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM 8-A</B></P>
+
+<P STYLE="font: 13.5pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES<BR>
+PURSUANT TO SECTION 12(b) OR 12(g) OF THE<BR>
+SECURITIES EXCHANGE ACT OF 1934</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Avista Public Acquisition Corp. II</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>(Exact name of registrant as specified in its
+charter) </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; width: 48%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Cayman Islands</B></FONT></TD>
+    <TD STYLE="padding-bottom: 1pt; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; width: 4%">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; width: 48%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>98-1584818</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(State or other jurisdiction of Incorporation or Organization)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(I.R.S. Employer Identification No.)</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>65 East 55th Street, 18th Floor<BR>
+ New York, NY</B></FONT></TD>
+    <TD STYLE="padding-bottom: 1pt; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>10022</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Address of Principal Executive Offices)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Zip Code)</FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><B>Securities to be registered pursuant to Section 12(b) of the Act:</B></P>
+
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center; padding-right: 5.4pt; padding-left: 5.4pt; width: 55%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title of Each Class<BR>
+to be Registered</FONT></TD>
+    <TD STYLE="padding-bottom: 1pt; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; width: 2%">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center; padding-right: 5.4pt; padding-left: 5.4pt; width: 43%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name of Each Exchange on Which Each Class is to be Registered</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Units,
+    each consisting of one Class A ordinary share and one-third of one Warrant</B></FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><B>&nbsp;</B></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>The
+    Nasdaq Stock Market LLC</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Class
+    A ordinary shares, par value $0.0001 per share</B></FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><B>&nbsp;</B></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>The
+    Nasdaq Stock Market LLC</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Warrants,
+    each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share</B></FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><B>&nbsp;</B></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>The
+    Nasdaq Stock Market LLC</B></FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If this form relates to the registration of a class of securities pursuant
+to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. <FONT STYLE="font-family: Times New Roman, Times, Serif"><FONT STYLE="font-family: Wingdings">&#120;</FONT></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If this form relates to the registration of a class of securities pursuant
+to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. <FONT STYLE="font-family: Times New Roman, Times, Serif"><FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If this form relates to the registration of a class of securities concurrently
+with a Regulation A offering, check the following box. <FONT STYLE="font-family: Times New Roman, Times, Serif"><FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 2in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD STYLE="text-align: left"><B>Securities Act registration statement file number to which this form relates: 333-257177</B></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Securities to be registered pursuant to Section
+12(g) of the Act: </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>N/A </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>(Title of Class) </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 12pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><B>Item 1.</B></TD><TD><B>Description of Registrant&rsquo;s Securities to be Registered.</B></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The securities to be registered hereby are units, Class A ordinary
+shares, par value $0.0001 per share, and redeemable warrants to purchase Class A ordinary shares, of Avista Public Acquisition Corp. II
+(the &ldquo;<U>Registrant</U>&rdquo;). The description of the units, Class A ordinary shares and warrants set forth under the heading
+ &ldquo;Description of Securities&rdquo; in the Registrant&rsquo;s prospectus forming part of its Registration Statement on<A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921082716/tm2110146-6_s1.htm" STYLE="-sec-extract: exhibit"> Form S-1 (File No. 333-257177</A>), originally filed with the Securities and Exchange Commission on June 17, 2021, as thereafter amended and supplemented
+from time to time (the &ldquo;<U>Registration Statement</U>&rdquo;) to which this Form 8-A relates is incorporated by reference herein.
+Any form of prospectus or prospectus supplement to the Registration Statement that includes such descriptions and that are subsequently
+filed are hereby also incorporated by reference herein.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><B>Item 2.</B></TD><TD><B>Exhibits.</B></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The following exhibits have been filed as exhibits to the Registration
+Statement, as amended, and are incorporated herein by reference:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center; width: 10%"><B>Exhibit<BR> No.</B></TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; width: 88%"><B>Description</B></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921082716/tm2110146d7_ex3-1.htm" STYLE="-sec-extract: exhibit">3.1</A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921082716/tm2110146d7_ex3-1.htm" STYLE="-sec-extract: exhibit">Memorandum and Articles of Association (incorporated by reference to Exhibit 3.1 filed with the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-257177), filed with the Securities and Exchange Commission on June 17, 2021).</A></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921097011/tm2110146d9_ex3-2.htm" STYLE="-sec-extract: exhibit">3.2</A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921097011/tm2110146d9_ex3-2.htm" STYLE="-sec-extract: exhibit">Form of Amended and Restated Memorandum and Articles of Association (incorporated by reference to Exhibit 3.2 filed with the Amendment No. 1 to the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-257177), filed with the Securities and Exchange Commission on July 28, 2021).</A></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921082716/tm2110146d7_ex4-1.htm" STYLE="-sec-extract: exhibit">4.1</A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921082716/tm2110146d7_ex4-1.htm" STYLE="-sec-extract: exhibit">Specimen Unit Certificate (incorporated by reference to Exhibit 4.1 filed with the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-257177), filed with the Securities and Exchange Commission on June 17, 2021).</A></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921082716/tm2110146d7_ex4-2.htm" STYLE="-sec-extract: exhibit">4.2</A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921082716/tm2110146d7_ex4-2.htm" STYLE="-sec-extract: exhibit">Specimen Class A Ordinary Share Certificate (incorporated by reference to Exhibit 4.2 filed with the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-257177), filed with the Securities and Exchange Commission on June 17, 2021).</A></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921097011/tm2110146d9_ex4-4.htm" STYLE="-sec-extract: exhibit">4.3</A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921097011/tm2110146d9_ex4-4.htm" STYLE="-sec-extract: exhibit">Specimen Warrant Certificate (incorporated by reference to Exhibit 4.3 filed with Amendment No. 1 to the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-257177), filed with the Securities and Exchange Commission on July 28, 2021).</A></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921097011/tm2110146d9_ex4-4.htm" STYLE="-sec-extract: exhibit">4.4</A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921097011/tm2110146d9_ex4-4.htm" STYLE="-sec-extract: exhibit">Form of Warrant Agreement between Continental Stock Transfer &amp; Trust Company and the Registrant (incorporated by reference to Exhibit 4.4 filed with Amendment No. 1 to the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-257177), filed with the Securities and Exchange Commission on July 28, 2021).</A></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921097011/tm2110146d9_ex10-1.htm" STYLE="-sec-extract: exhibit">10.1</A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921097011/tm2110146d9_ex10-1.htm" STYLE="-sec-extract: exhibit">Form of Investment Management Trust Agreement between Continental Stock Transfer &amp; Trust Company and the Registrant (incorporated by reference to Exhibit 10.1 filed with Amendment No. 1 to the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-257177), filed with the Securities and Exchange Commission on July 28, 2021).</A></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921097011/tm2110146d9_ex10-2.htm" STYLE="-sec-extract: exhibit">10.2</A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1846253/000110465921097011/tm2110146d9_ex10-2.htm" STYLE="-sec-extract: exhibit">Form of Registration and Shareholder Rights Agreement among the Registrant, the Sponsor and the Holders signatory thereto (incorporated by reference to Exhibit 10.2 filed with Amendment No. 1 to the Registrant&rsquo;s Registration Statement on Form S-1 (File No. 333-257177), filed with the Securities and Exchange Commission on July 28, 2021).</A></TD></TR>
+  </TABLE>
+
+
+
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">SIGNATURE</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Pursuant to the requirements of Section 12 of the Securities Exchange
+Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; font: 10pt Times New Roman, Times, Serif; width: 100%">
+<TR STYLE="vertical-align: top; text-align: left">
+  <TD>&nbsp;</TD>
+  <TD COLSPAN="3"><FONT STYLE="text-transform: uppercase"><B>AVISTA PUBLIC ACQUISITION
+CORP. II</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+  <TD>&nbsp;</TD>
+  <TD COLSPAN="3">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+  <TD>Date: August 9, 2021</TD>
+  <TD>By:</TD>
+  <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid">/s/ John Cafasso</TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+  <TD STYLE="width: 50%">&nbsp;</TD>
+  <TD STYLE="width: 3%">&nbsp;</TD>
+  <TD STYLE="width: 5%">Name:</TD>
+  <TD STYLE="width: 42%">John Cafasso</TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+  <TD>&nbsp;</TD>
+  <TD>&nbsp;</TD>
+  <TD>Title:</TD>
+  <TD>Chief Financial Officer</TD></TR>
+</TABLE>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase">[Signature
+Page to the Form 8A]</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

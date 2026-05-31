@@ -1,0 +1,305 @@
+<SEC-DOCUMENT>0001021771-21-000082.txt : 20211104
+<SEC-HEADER>0001021771-21-000082.hdr.sgml : 20211104
+<ACCEPTANCE-DATETIME>20211104155323
+ACCESSION NUMBER:		0001021771-21-000082
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211104
+DATE AS OF CHANGE:		20211104
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BioRestorative Therapies, Inc.
+		CENTRAL INDEX KEY:			0001505497
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISC HEALTH & ALLIED SERVICES, NEC [8090]
+		IRS NUMBER:				911835664
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37603
+		FILM NUMBER:		211379736
+
+	BUSINESS ADDRESS:	
+		STREET 1:		40 MARCUS DRIVE
+		CITY:			MELVILLE
+		STATE:			NY
+		ZIP:			11747
+		BUSINESS PHONE:		(631) 760-8100
+
+	MAIL ADDRESS:	
+		STREET 1:		40 MARCUS DRIVE
+		CITY:			MELVILLE
+		STATE:			NY
+		ZIP:			11747
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Stem Cell Assurance, Inc.
+		DATE OF NAME CHANGE:	20101110
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>form8a12b.htm
+<DESCRIPTION>REGISTRATION OF COMMON STOCK
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Certilman Balin
+         Document created using EDGARfilings PROfile 7.6.0.0
+         Copyright 1995 - 2021 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <div>&#160;</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">UNITED STATES<br>
+      SECURITIES AND EXCHANGE COMMISSION<br>
+      Washington, D.C. 20549</div>
+    <div style="text-align: center;">&#160;</div>
+    <div style="text-align: center;">FORM 8-A</div>
+    <div style="text-align: center;">&#160;</div>
+    <div style="text-align: center; font-weight: bold;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES</div>
+    <div style="text-align: center; font-weight: bold;">PURSUANT TO SECTION&#160;12(b) OR (g) OF THE</div>
+    <div style="text-align: center; font-weight: bold;">SECURITIES EXCHANGE ACT OF 1934</div>
+    <div style="text-align: center;">&#160;</div>
+    <div style="text-align: center; margin-top: 1pt; font-weight: bold;">BIORESTORATIVE THERAPIES, INC.</div>
+    <div style="text-align: center; margin-top: 1pt;">(Exact name of registrant as specified in its charter)</div>
+    <div style="text-align: justify;">&#160;</div>
+    <div><br>
+    </div>
+    <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" id="zdd95b8d18dcc4e10b0adf57f5bc326c8">
+
+        <tr>
+          <td style="width: 47.93%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; margin-right: 0.8pt; font-weight: bold;">Delaware</div>
+          </td>
+          <td style="width: 4.16%; vertical-align: top;">
+            <div style="margin-right: 0.8pt;">&#160;</div>
+          </td>
+          <td style="width: 47.92%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; margin-right: 0.8pt; font-weight: bold;">91-1835664</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 47.93%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 0.8pt;">(State of incorporation or organization)</div>
+          </td>
+          <td style="width: 4.16%; vertical-align: top;">
+            <div style="margin-right: 0.8pt;">&#160;</div>
+          </td>
+          <td style="width: 47.92%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 0.8pt;">(I.R.S. Employer Identification No.)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">&#160;</div>
+    <div><br>
+    </div>
+    <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" id="z7dadd665246b4a4b975156ab2400fd89">
+
+        <tr>
+          <td style="width: 47.93%; vertical-align: top;">&#160;</td>
+          <td style="width: 4.16%; vertical-align: top;">
+            <div style="margin-right: 0.8pt;">&#160;</div>
+          </td>
+          <td style="width: 47.92%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 47.93%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>
+              <div>&#160;</div>
+              <div style="text-align: center; font-weight: bold;">40 Marcus Drive,&#160;Suite One, Melville,&#160;New York&#160;</div>
+            </div>
+          </td>
+          <td style="width: 4.16%; vertical-align: top;">
+            <div style="margin-right: 0.8pt;">&#160;</div>
+          </td>
+          <td style="width: 47.92%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>&#160;</div>
+            <div style="text-align: center; margin-right: 0.8pt; font-weight: bold;">11747</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 47.93%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 0.8pt;">(Address of principal executive offices)</div>
+          </td>
+          <td style="width: 4.16%; vertical-align: top;">
+            <div style="margin-right: 0.8pt;">&#160;</div>
+          </td>
+          <td style="width: 47.92%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 0.8pt;">(Zip Code)</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">&#160;</div>
+    <div style="text-align: justify;">&#160;</div>
+    <div style="text-align: justify;">If this Form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c), check the following box. &#8999;</div>
+    <div style="text-align: justify;">&#160;</div>
+    <div style="text-align: justify;">If this Form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d), check the following box. &#9744;</div>
+    <div style="text-align: justify;">&#160;</div>
+    <div style="text-align: justify;">Securities Act registration statement file number to which this form relates: <font style="font-weight: bold;">No. </font><font style="font-weight: bold;">333-258611</font></div>
+    <div style="text-align: justify;">&#160;</div>
+    <div style="text-align: justify;">Securities to be registered pursuant to Section&#160;12(b) of the Act:</div>
+    <div style="text-align: justify;">&#160;</div>
+    <div style="text-align: justify;"><br>
+    </div>
+    <table cellspacing="0" cellpadding="0" border="0" align="center" style="width: 80%; color: #000000; font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left;" id="z53400ff51ea74670a8d8483758d4b6ee">
+
+        <tr>
+          <td style="width: 53.21%; vertical-align: top; border-bottom: 2px solid #000000;">
+            <div>
+              <div style="text-align: center; font-weight: bold;">Title of each class </div>
+              <div style="text-align: center;"><font style="font-weight: bold;">to be so registered</font><br>
+              </div>
+            </div>
+          </td>
+          <td style="width: 10.48%; vertical-align: top;">&#160;</td>
+          <td style="width: 36.31%; vertical-align: top; border-bottom: 2px solid #000000;">
+            <div style="text-align: center;"><font style="font-weight: bold;">Name of each exchange on which</font></div>
+            <div style="text-align: center;"><font style="font-weight: bold;">each class is to be registered</font> <br>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 53.21%; vertical-align: bottom;">
+            <div style="text-align: center; margin-right: 0.8pt; font-family: 'Times New Roman',Times,serif;"> <br>
+            </div>
+            <div style="text-align: center; margin-right: 0.8pt; font-family: 'Times New Roman',Times,serif;">Common Stock (par value $0.0001 per share)</div>
+          </td>
+          <td style="width: 10.48%; vertical-align: bottom;">
+            <div style="text-align: center; margin-right: 0.8pt;">&#160;</div>
+          </td>
+          <td style="width: 36.31%; vertical-align: bottom;">
+            <div style="text-indent: 58pt; margin-right: 0.8pt; font-family: 'Times New Roman',Times,serif;">The Nasdaq Stock Market LLC</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="text-align: justify;">&#160;</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">Securities to be registered pursuant to Section&#160;12(g) of the Act: <font style="font-weight: bold;">None.</font></div>
+    <div style="text-align: justify; font-weight: bold;">&#160;</div>
+  </div>
+  <div id="DSPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+    <div id="DSPFPageBreak" style="page-break-after: always;">
+      <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+  </div>
+  <div><br>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">INFORMATION REQUIRED IN REGISTRATION STATEMENT</div>
+    <div style="text-align: center;">&#160;</div>
+    <div style="text-align: justify; margin-left: 31.5pt;">Item 1. Description of the Registrant&#8217;s Securities to be Registered.</div>
+    <div style="text-align: justify; margin-left: 31.5pt;">&#160;</div>
+    <div style="text-align: justify; margin-left: 31.5pt;"><font style="font-weight: bold;">Incorporated by reference to Registrant&#8217;s registration statement on Form S-1/A, as filed on October 29, 2021</font>&#160;<font style="font-weight: bold;">(File
+        No.&#160;333-258611).</font></div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; margin-left: 31.5pt;">Item 2. Exhibits.</div>
+    <div style="text-align: justify; margin-left: 31.5pt;">&#160;</div>
+    <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" id="zdf1fcd726ee54d89a026fe8c5e39553d">
+
+        <tr>
+          <td style="width: 10.07%; vertical-align: top;">
+            <div style="margin-right: 0.8pt; margin-left: 31.5pt; font-family: 'Times New Roman',Times,serif; font-weight: bold;">None.</div>
+          </td>
+          <td style="width: 3.15%; vertical-align: top;">&#160;</td>
+          <td style="width: 86.78%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td colspan="3" style="width: 100%; vertical-align: middle;">
+            <div style="text-align: center; margin-right: 0.8pt; margin-left: 31.5pt;">&#160;</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="margin-right: 36pt;"><br>
+    </div>
+  </div>
+  <div id="DSPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+    <div id="DSPFPageBreak" style="page-break-after: always;">
+      <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+  </div>
+  <div>&#160;
+    <div style="text-align: center;">SIGNATURE</div>
+    <div style="text-align: center;">&#160;</div>
+    <div style="text-align: justify; text-indent: 72pt;">Pursuant to the requirements of Section&#160;12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto
+      duly authorized.</div>
+    <div style="text-align: justify; text-indent: 72pt;">&#160;</div>
+    <div><br>
+    </div>
+    <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" id="z48289d2b19024ae6a602435c529273ba">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: justify; margin-right: 0.8pt;">BIORESTORATIVE THERAPIES. INC.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: justify; margin-right: 0.8pt;">&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: justify; margin-right: 0.8pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: justify; margin-right: 0.8pt;">&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: justify; margin-right: 0.8pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: justify; margin-right: 0.8pt;">Date: November 3, 2021</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: 2px solid black;">
+            <div style="text-align: justify; margin-right: 0.8pt;">By:&#160;&#160; /s/&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: justify; margin-right: 0.8pt;">&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: justify; margin-right: 0.8pt;">Name: Lance Alstodt</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: justify; margin-right: 0.8pt;">&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: justify; margin-right: 0.8pt;">Title: Chief Executive Officer</div>
+          </td>
+        </tr>
+
+    </table>
+    <div>&#160;</div>
+    <br>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

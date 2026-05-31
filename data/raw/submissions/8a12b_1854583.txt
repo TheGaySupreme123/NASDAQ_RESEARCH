@@ -1,0 +1,231 @@
+<SEC-DOCUMENT>0001213900-21-041021.txt : 20210809
+<SEC-HEADER>0001213900-21-041021.hdr.sgml : 20210809
+<ACCEPTANCE-DATETIME>20210809151119
+ACCESSION NUMBER:		0001213900-21-041021
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20210809
+DATE AS OF CHANGE:		20210809
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Abri SPAC I, Inc.
+		CENTRAL INDEX KEY:			0001854583
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40723
+		FILM NUMBER:		211156139
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9663 SANTA MONICA BLVD NO 1091
+		CITY:			BEVERLY HILLS
+		STATE:			CA
+		ZIP:			90210
+		BUSINESS PHONE:		3108013881
+
+	MAIL ADDRESS:	
+		STREET 1:		9663 SANTA MONICA BLVD NO 1091
+		CITY:			BEVERLY HILLS
+		STATE:			CA
+		ZIP:			90210
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>ea145447-8a12b_abrispac1.htm
+<DESCRIPTION>FORM 8-A12B
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>
+WASHINGTON, DC 20549</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-align: center">FORM 8-A</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-align: center">FOR REGISTRATION OF CERTAIN CLASSES OF
+SECURITIES<BR>
+PURSUANT TO SECTION 12(b) OR 12(g) OF THE<BR>
+SECURITIES EXCHANGE ACT OF 1934</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><B>ABRI SPAC I, INC.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">(Exact Name of Registrant as Specified in its Charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>_____________________</B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 32%; border-top: Black 1pt solid; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Delaware</B></FONT></TD>
+    <TD STYLE="white-space: nowrap; width: 2%; border-top: Black 1pt solid; border-bottom: Black 1pt solid">&nbsp;</TD>
+    <TD STYLE="width: 32%; border-top: Black 1pt solid; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>6770</B></FONT></TD>
+    <TD STYLE="white-space: nowrap; width: 2%; border-top: Black 1pt solid; border-bottom: Black 1pt solid">&nbsp;</TD>
+    <TD STYLE="width: 32%; border-top: Black 1pt solid; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 10pt"><B>86-2861807</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><I>(State or other jurisdiction of <BR>
+incorporation or organization)</I></FONT></TD>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><I>(Primary Standard Industrial Classification Code Number)</I></FONT></TD>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><I>(I.R.S. Employer <BR>
+Identification Number)</I></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Abri SPAC I, Inc.<BR>
+9663 Santa Monica Blvd., No. 1091</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Beverly
+Hills, CA 90210<BR>
+Telephone: (424) 732-1021<BR>
+</B></FONT> (Address of Principal Executive Offices)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0">Securities to be registered pursuant to Section 12(b) of the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: center; border-bottom: Black 1.5pt solid; width: 49%; vertical-align: bottom"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt"><B>Title of Each Class to be so Registered</B></P></TD>
+    <TD STYLE="width: 2%"><B>&nbsp;</B></TD>
+    <TD STYLE="text-align: center; border-bottom: Black 1.5pt solid; width: 49%; vertical-align: bottom"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt"><B>Name of Each Exchange on Which Each Class is to be Registered</B></P></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="text-align: center; vertical-align: top">Class A Common Stock, $0.0001 par value</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center; vertical-align: top">The NASDAQ Capital Market</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="text-align: center; vertical-align: top">Warrants</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center; vertical-align: top">The NASDAQ Capital Market</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="text-align: center; vertical-align: top">Units</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center; vertical-align: top">The NASDAQ Capital Market</TD></TR>
+</TABLE>
+
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center; vertical-align: top; width: 50%">&nbsp;</TD>
+    <TD STYLE="text-align: center; vertical-align: top; width: 50%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and
+is effective pursuant to General Instruction A.(c) or (e), check the following box. &#9746;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. &#9744;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2">If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check
+the following box.&nbsp;&#9744;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0">Securities Act registration statement file number to which this
+form relates: <U>333-257916</U>.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0">Securities to be registered pursuant to Section 12(g) of the Act:
+<U>None</U>.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.75in"><B>Item 1.</B></TD><TD><B>Description of Registrant's Securities to be Registered.</B></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><BR>
+A description of the Class A common stock, warrants and units to be registered hereunder is contained in the section entitled &ldquo;Description
+of Securities&rdquo; in the Prospectus included in Abri SPAC I, Inc.&rsquo;s (the &ldquo;Registrant&rdquo;) Registration Statement on
+Form S-1 (Registration No. 333-<U>257916</U>) initially filed with the Securities and Exchange Commission on July 15, 2021, as amended
+from time to time (the &ldquo;Registration Statement&rdquo;). This information is incorporated herein by reference. Any form of prospectus
+or prospectus supplement to the Registration Statement that includes such descriptions and that are filed subsequently to the Registration
+Statement are hereby also incorporated by reference herein.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.75in"><B>Item 2.</B></TD><TD><B>Exhibits.</B></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Under the Instructions as to Exhibits with respect
+to Form 8-A, no exhibits are required to be filed because no other securities of the Registrant are registered on The NASDAQ Capital Market
+and the securities registered hereby are not being registered pursuant to Section&nbsp;12(g) of the Securities Exchange Act of 1934, as
+amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center">SIGNATURE</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0 0; text-align: justify; text-indent: 0.5in">Pursuant to the requirements
+of Section 12 of the Securities Exchange Act of 1934, the Registrant has duly caused this registration statement to be signed on its behalf
+by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-indent: 0pt">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; font: 10pt Times New Roman, Times, Serif; width: 100%">
+<TR STYLE="vertical-align: top; text-align: left">
+  <TD>Date:August 9, 2021</TD>
+  <TD COLSPAN="2">Abri SPAC I, Inc.</TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+  <TD>&nbsp;</TD>
+  <TD COLSPAN="2">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+  <TD>&nbsp;</TD>
+  <TD STYLE="width: 5%">By:</TD>
+  <TD STYLE="border-bottom: Black 1.5pt solid; width: 35%">/s/ Jeffrey Timan</TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+  <TD>&nbsp;</TD>
+  <TD>Name:</TD>
+  <TD>Jeffrey Tirman</TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+  <TD>&nbsp;</TD>
+  <TD>Title:</TD>
+  <TD>Chief Executive Officer</TD></TR>
+</TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-indent: 0pt">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

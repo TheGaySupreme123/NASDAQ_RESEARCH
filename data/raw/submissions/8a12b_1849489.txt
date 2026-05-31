@@ -1,0 +1,197 @@
+<SEC-DOCUMENT>0000950123-21-014274.txt : 20211109
+<SEC-HEADER>0000950123-21-014274.hdr.sgml : 20211109
+<ACCEPTANCE-DATETIME>20211109090723
+ACCESSION NUMBER:		0000950123-21-014274
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211109
+DATE AS OF CHANGE:		20211109
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Arena Fortify Acquisition Corp.
+		CENTRAL INDEX KEY:			0001849489
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41046
+		FILM NUMBER:		211390102
+
+	BUSINESS ADDRESS:	
+		STREET 1:		405 LEXINGTON AVENUE, 59TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10174
+		BUSINESS PHONE:		917-689-3628
+
+	MAIL ADDRESS:	
+		STREET 1:		405 LEXINGTON AVENUE, 59TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10174
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>afac-812b_20211109.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>
+afac-8k_20211109.DOCX.htm
+</title>
+</head>
+<!-- NG Converter v5.0.2.50 -->
+<body>
+
+<p style="margin-top:2pt;border-top:Double 2.25pt #000000;padding-top:0pt;text-align:center;line-height:1pt;margin-bottom:0pt;text-indent:0%;font-size:7pt;">&nbsp;</p>
+<p style="text-align:center;margin-top:6pt;margin-bottom:12pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">UNITED STATES<br />SECURITIES AND EXCHANGE COMMISSION<br /><font style="font-size:7pt;">WASHINGTON, DC 20549</font></p>
+<p style="margin-bottom:12pt;margin-top:12pt;text-align:center;border-bottom:Solid 1pt;padding-bottom:1pt;margin-left:38.46%;margin-right:38.46%;text-indent:0%;font-size:2pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-bottom:12pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">FORM 8-A</p>
+<p style="text-align:center;margin-bottom:12pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES<br />PURSUANT TO SECTION 12(b) OR 12(g) OF<br />THE SECURITIES EXCHANGE ACT OF 1934</p>
+<p style="margin-bottom:12pt;margin-top:12pt;text-align:center;border-bottom:Solid 1pt;padding-bottom:1pt;margin-left:38.46%;margin-right:38.46%;text-indent:0%;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">ARENA FORTIFY ACQUISITION CORP.<br /><font style="font-size:9pt;">(Exact Name Of Registrant As Specified In Its Charter)</font><font style="font-size:9pt;font-weight:normal;">&#160;</font></p>
+<p style="text-align:center;border-bottom:Solid 1pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:38.46%;margin-right:38.46%;text-indent:0%;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:9pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;border-bottom:Solid 1.5pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Delaware</p></td>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;border-bottom:Solid 1.5pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:TimesNewRomanPS-BoldMT;font-style:normal;text-transform:none;font-variant: normal;">86-2228751</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(State of incorporation</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">or organization)</p></td>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(I.R.S. Employer<br />Identification No.)</p></td>
+</tr>
+</table></div>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:9pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="bottom"  style="width:50%;">
+<p style="text-align:center;border-bottom:Solid 1.5pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">405 Lexington Avenue, 59th Floor</p>
+<p style="text-align:center;border-bottom:Solid 1.5pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">New York, New York</p></td>
+<td valign="bottom"  style="width:50%;">
+<p style="text-align:center;border-bottom:Solid 1.5pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:TimesNewRomanPS-BoldMT;font-style:normal;text-transform:none;font-variant: normal;">10174</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Address of principal executive offices)</p></td>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Zip Code)</p></td>
+</tr>
+</table></div>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:9pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:12pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Securities to be registered pursuant to Section 12(b) of the Act:</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;border-bottom:Solid 1.5pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Title of each class <br />to be so registered</p></td>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;border-bottom:Solid 1.5pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:TimesNewRomanPS-BoldMT;font-style:normal;text-transform:none;font-variant: normal;">Name of each exchange on which<br />each class is to be registered</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:6pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Units, each consisting of one share of Class A common stock, $0.0001 par value per share, and one-half of one redeemable warrant</p></td>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:6pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:TimesNewRomanPS-BoldMT;font-style:normal;text-transform:none;font-variant: normal;">The Nasdaq Stock Market LLC</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:6pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Class A common stock included as part of the units </p></td>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:6pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:TimesNewRomanPS-BoldMT;font-style:normal;text-transform:none;font-variant: normal;">The Nasdaq Stock Market LLC</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:6pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Redeemable warrants included as part of the units, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50</p>
+<p style="text-align:center;margin-bottom:6pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Shares of Class A common stock underlying redeemable warrants included as part of the units</p></td>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:6pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:TimesNewRomanPS-BoldMT;font-style:normal;text-transform:none;font-variant: normal;">The Nasdaq Stock Market LLC<font style="font-family:Times New Roman;"> </font></p>
+<p style="text-align:center;margin-bottom:6pt;margin-top:0pt;margin-left:5.75pt;;margin-right:1.07%;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:TimesNewRomanPS-BoldMT;font-style:normal;text-transform:none;font-variant: normal;"><br /><br />The Nasdaq Stock Market LLC</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:12pt;margin-top:12pt;text-align:center;border-bottom:Solid 1pt;padding-bottom:1pt;margin-left:38.46%;margin-right:38.46%;text-indent:0%;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-bottom:6pt;margin-top:0pt;text-indent:0%;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a name="Check1"></a>If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. <font style="font-family:'Times New Roman';"><a name="Check1"></a>&#9746;</font></p>
+<p style="margin-bottom:6pt;margin-top:0pt;text-indent:0%;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a name="Check2"></a>If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. <font style="font-family:'Times New Roman';"><a name="Check2"></a>&#9744;</font></p>
+<p style="margin-bottom:6pt;margin-top:0pt;text-indent:0%;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check this following box. <font style="font-family:'Times New Roman';">&#9744;</font></a></p>
+<p style="text-align:center;margin-bottom:6pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Securities Act registration statement file number to which this form relates: 333-254532<br /></p>
+<p style="text-align:center;margin-bottom:6pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Securities to be registered pursuant to Section 12(g) of the Act: None</p>
+<p style="margin-top:2pt;border-top:Double 2.25pt #000000;padding-top:0pt;text-align:center;line-height:1pt;margin-bottom:0pt;text-indent:0%;font-size:8pt;">&nbsp;</p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"></p>
+<p style="margin-top:3pt;margin-bottom:0pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;">&nbsp;</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:11pt;">&nbsp;</p>
+<p style="margin-bottom:12pt;margin-top:0pt;text-indent:0%;font-size:9pt;font-weight:bold;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item 1. Description of Registrant&#8217;s Securities to be Registered</p>
+<p style="margin-bottom:12pt;margin-top:0pt;text-indent:7.69%;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">The securities to be registered hereby are the units, <font style="color:#000000;">each consisting of one share of Class A common stock, $0.0001 par value per share, and one-half of one redeemable warrant, the shares of </font>Class&#160;A common stock and warrants,<font style="color:#000000;"> each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50,</font> of Arena Fortify Acquisition Corp., <font style="color:#000000;">a Delaware corporation</font> (the &#8220;Company&#8221;).&#160;<font style="color:#000000;">The description of the units, the shares of Class A common stock and warrants as set forth under the caption &#8220;Description of Securities&#8221; in the prospectus forming a part of the Registration Statement on Form S-1, as originally filed with the Securities and Exchange Commission (the &#8220;Commission&#8221;) on March 19, 2021 (Registration No. 333-254532), including exhibits, and as amended from time to time (the &#8220;Registration Statement&#8221;), to which this Form 8-A relates, is hereby incorporated by reference. In addition, all of the above-referenced descriptions included in any prospectus or prospectus supplement relating to the Registration Statement subsequently filed with the Commission pursuant to Rule 424(b) under the Securities Act of 1933, as amended, shall be deemed to be incorporated by reference herein.</font></p>
+<p style="margin-bottom:12pt;margin-top:0pt;text-indent:0%;font-size:9pt;font-weight:bold;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item 2. Exhibits</p>
+<p style="margin-bottom:12pt;margin-top:0pt;text-indent:7.69%;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Pursuant to the Instructions as to Exhibits for Form 8-A, no exhibits are required to be filed, because no other securities of the Registrant are registered on The Nasdaq Global Market, and the securities registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.<br /></p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:11pt;">
+<p style="margin-bottom:0pt;line-height:10pt;margin-top:0pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;">&nbsp;</p>&nbsp;</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:12pt;margin-top:0pt;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"></p>
+<p style="text-align:center;margin-bottom:12pt;margin-top:0pt;text-indent:0%;font-size:9pt;font-weight:bold;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">SIGNATURES</p>
+<p style="margin-bottom:12pt;margin-top:0pt;text-indent:7.69%;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</p>
+<p style="margin-top:18pt;margin-bottom:0pt;text-indent:0%;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Dated: November 9, 2021 </p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:9pt;">&nbsp;</p>
+<div align="right">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; width:50%;">
+<tr>
+<td colspan="3" valign="top"  style="padding-left:0.25pt;padding-Right:0.25pt;padding-Top:0.25pt;padding-Bottom:0.25pt;width:100%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">ARENA FORTIFY ACQUISITION CORP.</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="padding-left:0.25pt;padding-Right:0.25pt;padding-Top:0.25pt;padding-Bottom:0.25pt;width:13.12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;text-align:left;">&nbsp;</p></td>
+<td colspan="2" valign="middle"  style="padding-left:0.25pt;padding-Right:0.25pt;padding-Top:0.25pt;padding-Bottom:0.25pt;width:86.88%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;text-align:left;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-left:0.25pt;padding-Right:0.25pt;padding-Top:0.25pt;width:13.12%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:10pt;;text-indent:-10pt;;text-align:left;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">By:</p></td>
+<td valign="bottom"  style="padding-left:0.25pt;padding-Right:0.25pt;padding-Top:0.25pt;width:4.14%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;text-align:left;">&nbsp;</p></td>
+<td valign="top"  style="padding-left:0.25pt;padding-Right:0.25pt;padding-Top:0.25pt;padding-Bottom:0.4pt;width:82.74%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">/s/ Kieran Goodwin</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-left:0.25pt;padding-Right:0.25pt;padding-Top:0.25pt;padding-Bottom:0.25pt;width:13.12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:10pt;;text-indent:-10pt;;text-align:left;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Name:</p></td>
+<td valign="bottom"  style="padding-left:0.25pt;padding-Right:0.25pt;padding-Top:0.25pt;padding-Bottom:0.25pt;width:4.14%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;text-align:left;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-left:0.25pt;padding-Right:0.25pt;padding-Top:0.25pt;padding-Bottom:0.25pt;width:82.74%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Kieran Goodwin</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-left:0.25pt;padding-Right:0.25pt;padding-Top:0.25pt;padding-Bottom:0.25pt;width:13.12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:10pt;;text-indent:-10pt;;text-align:left;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Title:</p></td>
+<td valign="bottom"  style="padding-left:0.25pt;padding-Right:0.25pt;padding-Top:0.25pt;padding-Bottom:0.25pt;width:4.14%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;text-align:left;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-left:0.25pt;padding-Right:0.25pt;padding-Top:0.25pt;padding-Bottom:0.25pt;width:82.74%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;text-align:left;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Chief Executive Officer</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:12pt;margin-top:0pt;text-indent:0%;font-size:9pt;">&nbsp;</p>
+<p style="margin-bottom:12pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:11pt;">&nbsp;</p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:11pt;">
+<p style="margin-bottom:0pt;line-height:10pt;margin-top:0pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;">&nbsp;</p>&nbsp;</p></body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

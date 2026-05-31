@@ -1,0 +1,229 @@
+<SEC-DOCUMENT>0000950123-22-003280.txt : 20220301
+<SEC-HEADER>0000950123-22-003280.hdr.sgml : 20220301
+<ACCEPTANCE-DATETIME>20220301114339
+ACCESSION NUMBER:		0000950123-22-003280
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20220301
+DATE AS OF CHANGE:		20220301
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SHUAA Partners Acquisition Corp I
+		CENTRAL INDEX KEY:			0001886268
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41311
+		FILM NUMBER:		22695335
+
+	BUSINESS ADDRESS:	
+		STREET 1:		190 ELGIN AVENUE
+		STREET 2:		GEORGE TOWN
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-9001
+		BUSINESS PHONE:		971 4 365 1600
+
+	MAIL ADDRESS:	
+		STREET 1:		190 ELGIN AVENUE
+		STREET 2:		GEORGE TOWN
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-9001
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>shuaa-8a12b_20220301.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>
+shuaa-8k_20220301.DOCX.htm
+</title>
+</head>
+<!-- NG Converter v5.0.2.71 -->
+<body>
+
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">UNITED STATES</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">SECURITIES AND EXCHANGE COMMISSION </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">WASHINGTON, DC 20549 </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">FORM 8-A </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">PURSUANT TO SECTION 12(b) OR 12(g) OF </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">THE SECURITIES EXCHANGE ACT OF 1934</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">SHUAA PARTNERS ACQUISITION CORP I</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Exact Name of Registrant as specified in its Charter)</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;"><font style="text-decoration:underline;">Cayman Islands</font></p></td>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;"><font style="text-decoration:underline;">98-1627500</font></p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(State or other jurisdiction of</p></td>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(I.R.S. Employer</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">incorporation or organization)</p></td>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Identification No.)</p></td>
+</tr>
+</table></div>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top"  style="width:49.88%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">190 Elgin Avenue</p></td>
+<td valign="top"  style="width:50.12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:49.88%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">George Town, Grand Cayman, Cayman Islands</p></td>
+<td valign="top"  style="width:50.12%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">KY1-9008</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:49.88%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Address of principal executive offices)</p></td>
+<td valign="top"  style="width:50.12%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Zip Code)</p></td>
+</tr>
+</table></div>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Securities to be registered pursuant to Section 12(b) of the Act</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Title of each class to be so registered</p></td>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Name of each exchange on which each class is to be registered<font style="color:#000000;">:</font></p></td>
+</tr>
+<tr>
+<td valign="top"  BGCOLOR="#DBEEF3" style="width:50%;">
+<p style="text-align:center;margin-bottom:2pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Units, each consisting of one Class A ordinary share,<br />$0.0001 par value per share, and one-half of one<br />redeemable warrant</p></td>
+<td valign="top"  BGCOLOR="#DBEEF3" style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">The Nasdaq Stock Market LLC<br /></p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:2pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Class A ordinary shares included as part of the units</p></td>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">The Nasdaq Stock Market LLC</p></td>
+</tr>
+<tr>
+<td valign="top"  BGCOLOR="#DBEEF3" style="width:50%;">
+<p style="text-align:center;margin-bottom:2pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Redeemable warrants included as part of the units,<br />each whole warrant exercisable for one Class A<br />ordinary share at an exercise price of $11.50</p></td>
+<td valign="top"  BGCOLOR="#DBEEF3" style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">The Nasdaq Stock Market LLC</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">If this form relates to the registration of a class of securities pursuant to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. <font style="font-family:Segoe UI Symbol;">&#9746;</font></p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">If this form relates to the registration of a class of securities pursuant to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. <font style="font-family:Segoe UI Symbol;">&#9744;</font></p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">If this form relates to the registration of a class of securities concurrently with a Regulation A offering, check the following box. <font style="font-family:Segoe UI Symbol;">&#9744;</font></p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Securities Act registration statement file number to which this form relates: </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">333-261889</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Securities to be registered pursuant to Section 12(g) of the Act: </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">None</p><a name="_AEIOULastRenderedPageBreakAEIOU1"></a>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Item 1. Description of Registrant&#8217;s Securities to be Registered</font></p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">The description of the units, each consisting of one Class A ordinary share, $0.0001 par value per share (the &#8220;Class A Ordinary Shares&#8221;), and one-half of one redeemable warrant (the &#8220;Warrants&#8221;), the Class A Ordinary Shares and the redeemable Warrants, each whole Warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 (subject to adjustment), of SHUAA Partners Acquisition Corp I, a Cayman Islands exempted company, as set forth under the caption &#8220;Description of Securities&#8221; in the prospectus forming a part of the Registration Statement on Form S-1, as originally filed with the Securities and Exchange Commission (the &#8220;Commission&#8221;) on December 23, 2021 (Registration No. 333-261889), including exhibits, and as subsequently amended from time to time (the &#8220;Registration Statement&#8221;), is hereby incorporated by reference. In addition, all of the above-referenced descriptions included in any prospectus relating to the Registration Statement filed with the Commission pursuant to Rule 424(b) under the Securities Act of 1933, as amended, shall be deemed to be incorporated by reference herein.</p>
+<p style="text-align:justify;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:10pt;font-style:normal;text-transform:none;font-variant: normal;">Item 2. Exhibits</p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Pursuant to the Instructions as to Exhibits for Form 8-A, no exhibits are required to be filed, because no other securities of the Registrant are registered on The Nasdaq Stock Market LLC, and the securities registered hereby are not being registered pursuant to Section 12(g) of the Securities Exchange Act of 1934, as amended.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;text-transform:uppercase;font-family:Times New Roman;font-size:10pt;font-style:normal;font-variant: normal;">SIGNATURES</p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereto duly authorized.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:99.42%;">
+<tr>
+<td valign="top"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;padding-Bottom:0pt;width:50.3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Date: March 1, 2022</p></td>
+<td valign="bottom"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;padding-Bottom:0pt;width:5.96%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Calibri;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&nbsp;</p></td>
+<td colspan="2" valign="bottom"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;padding-Bottom:0pt;width:43.72%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;text-transform:uppercase;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;font-variant: normal;">SHUAA PARTNERS ACQUISITION CORP I</p></td>
+</tr>
+<tr>
+<td valign="middle"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;padding-Bottom:0pt;width:50.3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Calibri;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&nbsp;</p></td>
+<td valign="bottom"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;padding-Bottom:0pt;width:5.96%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Calibri;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&nbsp;</p></td>
+<td valign="bottom"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;padding-Bottom:0pt;width:6.76%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Calibri;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&nbsp;</p></td>
+<td valign="bottom"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;padding-Bottom:0pt;width:36.98%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Calibri;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="bottom"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;width:50.3%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;width:5.96%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Calibri;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&nbsp;</p></td>
+<td valign="top"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;width:6.76%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Calibri;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">By:</p></td>
+<td valign="bottom"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;padding-Bottom:0pt;width:36.98%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">/s/ Fawad Tariq Khan</p></td>
+</tr>
+<tr>
+<td valign="bottom"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;padding-Bottom:0pt;width:50.3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Calibri;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&nbsp;</p></td>
+<td valign="bottom"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;padding-Bottom:0pt;width:5.96%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Calibri;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&nbsp;</p></td>
+<td valign="middle"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;padding-Bottom:0pt;width:6.76%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Calibri;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Name:</p></td>
+<td valign="bottom"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;padding-Bottom:0pt;width:36.98%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Fawad Tariq Khan</p></td>
+</tr>
+<tr>
+<td valign="bottom"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;padding-Bottom:0pt;width:50.3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Calibri;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&nbsp;</p></td>
+<td valign="bottom"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;padding-Bottom:0pt;width:5.96%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Calibri;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&nbsp;</p></td>
+<td valign="bottom"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;padding-Bottom:0pt;width:6.76%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Calibri;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Title:</p></td>
+<td valign="bottom"  BGCOLOR="#FFFFFF" style="padding-left:0pt;padding-Right:0.75pt;padding-Top:0.75pt;padding-Bottom:0pt;width:36.98%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Director and Chief Executive Officer</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

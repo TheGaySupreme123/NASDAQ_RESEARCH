@@ -1,0 +1,339 @@
+<SEC-DOCUMENT>0001104659-21-130046.txt : 20211026
+<SEC-HEADER>0001104659-21-130046.hdr.sgml : 20211026
+<ACCEPTANCE-DATETIME>20211026171243
+ACCESSION NUMBER:		0001104659-21-130046
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20211026
+DATE AS OF CHANGE:		20211026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Project Energy Reimagined Acquisition Corp.
+		CENTRAL INDEX KEY:			0001847241
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				981582574
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40972
+		FILM NUMBER:		211349595
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3 LAGOON DRIVE SUITE 170
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+		BUSINESS PHONE:		415 205 7937
+
+	MAIL ADDRESS:	
+		STREET 1:		3 LAGOON DRIVE SUITE 170
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>tm219358d10_8a12b.htm
+<DESCRIPTION>FORM 8-A12B
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0; margin-bottom: 0; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 1pt; margin-bottom: 1pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM 8-A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FOR REGISTRATION OF CERTAIN CLASSES OF SECURITIES<BR>
+PURSUANT TO SECTION 12(b) OR 12(g) OF THE<BR>
+SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 1pt; margin-bottom: 1pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Project Energy Reimagined Acquisition Corp.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Exact name of registrant as specified in its charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 50%; padding: 0.25pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Cayman Islands</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(State of incorporation or organization)</P></TD>
+    <TD STYLE="width: 1%; padding: 0.25pt; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="width: 49%; padding: 0.25pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>98-1582574</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(I.R.S. Employer Identification No.)</P></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 0.25pt; font-size: 10pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; font-size: 10pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 0.25pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>3 Lagoon Drive, Suite 170</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Redwood City, California</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B>(Address of Principal Executive Offices)</P></TD>
+    <TD STYLE="padding: 0.25pt; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>94065</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Zip Code)</P></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities to be registered pursuant to Section 12(b) of the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 50%; border-bottom: black 1pt solid; padding: 0.25pt 0.25pt 0.5pt; text-align: center"><FONT STYLE="font-size: 10pt">Title of each class<BR>
+to be so registered&nbsp;</FONT></TD>
+    <TD STYLE="width: 1%; padding: 0.25pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P></TD>
+    <TD STYLE="width: 49%; border-bottom: black 1pt solid; padding: 0.25pt 0.25pt 0.5pt; text-align: center"><FONT STYLE="font-size: 10pt">Name of each exchange on which<BR>
+each class is to be registered&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0.25pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant</B></FONT></TD>
+    <TD STYLE="padding: 0.25pt">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>The Nasdaq Stock Market LLC</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0.25pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; text-align: center">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0.25pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Class A ordinary shares, par value $0.0001 per share</B></FONT></TD>
+    <TD STYLE="padding: 0.25pt">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>The Nasdaq Stock Market LLC</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0.25pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; text-align: center">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0.25pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share</B></FONT></TD>
+    <TD STYLE="padding: 0.25pt">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>The Nasdaq Stock Market LLC</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If this form relates to the registration of a class of securities pursuant
+to Section 12(b) of the Exchange Act and is effective pursuant to General Instruction A.(c) or (e), check the following box. <FONT STYLE="font-family: Wingdings">x</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If this form relates to the registration of a class of securities pursuant
+to Section 12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), check the following box. <FONT STYLE="font-family: Wingdings">&uml;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If this form relates to the registration of a class of securities concurrently
+with a Regulation A offering, check the following box. <FONT STYLE="font-family: Wingdings">&uml;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities Act registration statement or Regulation A offering statement
+file number to which this form relates: <B>333-254695</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities to be registered pursuant to Section 12(g) of the Act: <B>N/A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B></B></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0; margin-bottom: 0; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B></B></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+
+
+
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Item 1.</B>&nbsp;<B>Description of Registrant&#8217;s Securities
+to be Registered.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The securities to be registered hereby are the
+units, Class A ordinary shares, par value $0.0001 per share, and redeemable warrants to purchase Class A ordinary shares of Project Energy
+Reimagined Acquisition Corp. (the &#8220;Registrant&#8221;). The description of the units, Class A ordinary shares and warrants set forth
+under the heading &#8220;Description of Securities&#8221; in the Registrant&#8217;s prospectus forming a part of its Registration Statement
+on Form S-1 (File No. 333-254695), originally filed with the U.S. Securities and Exchange Commission on March 25, 2021, as thereafter
+amended and supplemented from time to time (the &#8220;Registration Statement&#8221;), to which this Form 8-A relates is incorporated
+by reference herein. Any form of prospectus or prospectus supplement to the Registration Statement that includes such descriptions and
+that are subsequently filed are hereby also incorporated by reference herein.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.75in; text-indent: -0.75in"><B>Item 2.</B>&nbsp;<B>Exhibits.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The following exhibits have been filed as exhibits
+to the Registration Statement and are incorporated herein by reference:&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 0.5in; text-align: center"><A HREF="https://www.sec.gov/Archives/edgar/data/1847241/000110465921120828/tm219358d4_ex3-1.htm"><FONT STYLE="font-size: 10pt">3.1</FONT></A></TD>
+    <TD STYLE="text-align: justify"><A HREF="https://www.sec.gov/Archives/edgar/data/1847241/000110465921120828/tm219358d4_ex3-1.htm"><FONT STYLE="font-size: 10pt">Memorandum and Articles of Association (Incorporated by reference to Exhibit 3.1 to the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254695), filed with the U.S. Securities and Exchange Commission on September 29, 2021).</FONT></A></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><A HREF="https://www.sec.gov/Archives/edgar/data/1847241/000110465921120828/tm219358d4_ex3-2.htm"><FONT STYLE="font-size: 10pt">3.2</FONT></A></TD>
+    <TD STYLE="text-align: justify"><A HREF="https://www.sec.gov/Archives/edgar/data/1847241/000110465921120828/tm219358d4_ex3-2.htm"><FONT STYLE="font-size: 10pt">Amended and Restated Memorandum and Articles of Association (Incorporated by reference to Exhibit 3.2 to the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254695), filed with the U.S. Securities and Exchange Commission on September 29, 2021).</FONT></A></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><A HREF="https://www.sec.gov/Archives/edgar/data/1847241/000110465921120828/tm219358d4_ex4-1.htm"><FONT STYLE="font-size: 10pt">4.1</FONT></A></TD>
+    <TD STYLE="text-align: justify"><A HREF="https://www.sec.gov/Archives/edgar/data/1847241/000110465921120828/tm219358d4_ex4-1.htm"><FONT STYLE="font-size: 10pt">Specimen Unit Certificate (Incorporated by reference to Exhibit 4.1 to the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254695), filed with the U.S. Securities and Exchange Commission on September 29, 2021).</FONT></A></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><A HREF="https://www.sec.gov/Archives/edgar/data/1847241/000110465921120828/tm219358d4_ex4-2.htm"><FONT STYLE="font-size: 10pt">4.2</FONT></A></TD>
+    <TD STYLE="text-align: justify"><A HREF="https://www.sec.gov/Archives/edgar/data/1847241/000110465921120828/tm219358d4_ex4-2.htm"><FONT STYLE="font-size: 10pt">Specimen Ordinary Share Certificate (Incorporated by reference to Exhibit 4.2 to the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254695), filed with the U.S. Securities and Exchange Commission on September 29, 2021).</FONT></A></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><A HREF="https://www.sec.gov/Archives/edgar/data/1847241/000110465921120828/tm219358d4_ex4-3.htm"><FONT STYLE="font-size: 10pt">4.3</FONT></A></TD>
+    <TD STYLE="text-align: justify"><A HREF="https://www.sec.gov/Archives/edgar/data/1847241/000110465921120828/tm219358d4_ex4-3.htm"><FONT STYLE="font-size: 10pt">Specimen Warrant Certificate (Incorporated by reference to Exhibit 4.3 to the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254695), filed with the U.S. Securities and Exchange Commission on September 29, 2021).</FONT></A></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><A HREF="https://www.sec.gov/Archives/edgar/data/1847241/000110465921125529/tm219358d6_ex4-4.htm"><FONT STYLE="font-size: 10pt">4.4</FONT></A></TD>
+    <TD STYLE="text-align: justify"><A HREF="https://www.sec.gov/Archives/edgar/data/1847241/000110465921125529/tm219358d6_ex4-4.htm"><FONT STYLE="font-size: 10pt">Form of Warrant Agreement between Continental Stock Transfer &amp; Trust Company and the Registrant (Incorporated by reference to Exhibit 4.4 to the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254695), filed with the U.S. Securities and Exchange Commission on October 12, 2021).</FONT></A></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><A HREF="https://www.sec.gov/Archives/edgar/data/1847241/000110465921120828/tm219358d4_ex10-2.htm"><FONT STYLE="font-size: 10pt">10.1</FONT></A></TD>
+    <TD STYLE="text-align: justify"><A HREF="https://www.sec.gov/Archives/edgar/data/1847241/000110465921120828/tm219358d4_ex10-2.htm"><FONT STYLE="font-size: 10pt">Form of Investment Management Trust Agreement between Continental Stock Transfer &amp; Trust Company and the Registrant (Incorporated by reference to Exhibit 10.2 to the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254695), filed with the U.S. Securities and Exchange Commission on September 29, 2021).</FONT></A></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><A HREF="https://www.sec.gov/Archives/edgar/data/1847241/000110465921120828/tm219358d4_ex10-3.htm"><FONT STYLE="font-size: 10pt">&nbsp;10.2</FONT></A></TD>
+    <TD STYLE="text-align: justify"><A HREF="https://www.sec.gov/Archives/edgar/data/1847241/000110465921120828/tm219358d4_ex10-3.htm"><FONT STYLE="font-size: 10pt">Form of Registration Rights Agreement among the Registrant, Smilodon Capital, LLC and the Holders signatory thereto (Incorporated by reference to Exhibit 10.3 to the Registrant&#8217;s Registration Statement on Form S-1 (File No. 333-254695), filed with the U.S. Securities and Exchange Commission on September 29, 2021).</FONT></A></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SIGNATURE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.75in">Pursuant to the requirements of Section 12 of
+the Securities Exchange Act of 1934, as amended, the registrant has duly caused this registration statement to be signed on its behalf
+by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.75in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 0.25pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding: 0.25pt"><FONT STYLE="font-size: 10pt"><B>PROJECT ENERGY REIMAGINED ACQUISITION CORP.</B></FONT></TD>
+    </TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 50%; padding: 0.25pt">&nbsp;</TD>
+    <TD STYLE="width: 3%; padding: 0.25pt">&nbsp;</TD>
+    <TD STYLE="width: 5%; padding: 0.25pt">&nbsp;</TD>
+    <TD STYLE="width: 42%; padding: 0.25pt">&nbsp;</TD>
+    </TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 0.25pt 0.25pt 1.25pt"><FONT STYLE="font-size: 10pt">Date: October 26, 2021</FONT></TD>
+    <TD STYLE="padding: 0.25pt 0.25pt 1.25pt"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid; padding: 0.25pt 0.25pt 0.5pt"><FONT STYLE="font-size: 10pt">/s/ Srinath Narayanan</FONT></TD>
+    </TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 0.25pt">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; padding: 0.25pt"><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="padding: 0.25pt"><FONT STYLE="font-size: 10pt">Srinath Narayanan</FONT></TD>
+    </TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 0.25pt">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt">&nbsp;</TD>
+    <TD STYLE="padding: 0.25pt"><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD STYLE="padding: 0.25pt"><FONT STYLE="font-size: 10pt">Chief Executive Officer</FONT></TD>
+    </TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
