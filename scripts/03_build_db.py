@@ -120,8 +120,19 @@ def main():
         else:
             exchange, exch_conf, exch_src = "unknown", 0.45, "none"
 
-        # ---- market tier (current Nasdaq directory) ----
-        tier = TIER.get(nlrow["tier_code"]) if nlrow else None
+        # ---- market tier: current Nasdaq directory, else IPO-time 8-A12B ----
+        # The nasdaqlisted.txt snapshot only covers CURRENTLY listed symbols, so
+        # issuers that have since delisted/transferred are absent. For those we
+        # fall back to the IPO-time tier parsed from the 8-A12B body (authoritative
+        # but only stated in some filings). If neither has it, tier stays NULL and
+        # an explicit "source checked / unavailable" provenance row is emitted.
+        ipo_tier = rec.get("ipo_market_tier")
+        if nlrow and TIER.get(nlrow["tier_code"]):
+            tier, tier_src = TIER.get(nlrow["tier_code"]), "nasdaqlisted"
+        elif ipo_tier:
+            tier, tier_src = ipo_tier, "8a12b"
+        else:
+            tier, tier_src = None, None
 
         # ---- security type (prefer IPO-time 8-A12B title) ----
         ipo_sec = rec.get("ipo_security_type")
@@ -210,12 +221,28 @@ def main():
             strong_excl = (exchange != "unknown" and exch_src != "none")
         is_excluded = 1 if excl else 0
 
-        # ---- listing date (prospectus 424B4/424B1 date as pricing/first-trade proxy) ----
+        # ---- nasdaq_listing_date resolution (required priority order) ----
+        # (1) first trading date on Nasdaq and (2) official Nasdaq listing date
+        # are not published by EDGAR for these issuers (no first-trade tape, no
+        # Nasdaq listing-date feed in our sources), so they resolve to None here.
+        # (3) The 424B4/424B1 final (priced) prospectus filing date is the
+        # FALLBACK pricing proxy: date_basis='pricing_proxy', confidence < 0.8,
+        # and the row is routed to edge_case_review.
         pros_date = x.get("prospectus_date")
-        listing_date = pros_date
-        date_basis = "prospectus_424b_proxy"
-        date_conf = 0.85
+        first_trading_date = None      # source unavailable in EDGAR
+        official_listing_date = None   # source unavailable in EDGAR
+        if first_trading_date:
+            listing_date, date_basis, date_conf = (
+                first_trading_date, C.DATE_BASIS_FIRST_TRADING, 0.97)
+        elif official_listing_date:
+            listing_date, date_basis, date_conf = (
+                official_listing_date, C.DATE_BASIS_OFFICIAL, 0.95)
+        else:
+            listing_date, date_basis, date_conf = (
+                pros_date, C.DATE_BASIS_PRICING_PROXY, C.PRICING_PROXY_CONFIDENCE)
         listing_d = C.parse_date(listing_date) if listing_date else None
+        is_pricing_proxy = (date_basis == C.DATE_BASIS_PRICING_PROXY)
+        near_bound = C.near_boundary(listing_d)
 
         # ---- derived: due date, cohorts, edge ----
         due_date = C.add_one_year(listing_d) if listing_d else None
@@ -237,15 +264,22 @@ def main():
                 excl = "listed_after_vacatur"
 
         # ---- overall confidence ----
-        # Confidence measures certainty of the in-scope/out-of-scope decision.
+        # Confidence measures certainty of the in-scope/out-of-scope (and cohort)
+        # decision. It is DECOUPLED from listing_confidence (the exact-date
+        # confidence): a mid-window operating-company Nasdaq IPO is a confident
+        # in-scope call even though its listing date is a pricing proxy. Only when
+        # the proxy date sits within +/- DATE_UNCERTAINTY_DAYS of a cohort boundary
+        # does date uncertainty actually threaten the cohort decision.
+        class_conf = 0.95 if (is_operating and "unverified" not in (security_type or "")) else 0.8
         if is_excluded:
             # certain exclusions are high-confidence even if other fields are fuzzy
             overall = 0.9 if strong_excl else 0.6
         else:
-            class_conf = 0.95 if (is_operating and "unverified" not in (security_type or "")) else 0.8
-            overall = round(min(exch_conf, class_conf, date_conf), 3)
+            overall = round(min(exch_conf, class_conf), 3)
             if exchange == "unknown":
                 overall = min(overall, 0.5)
+            if near_bound:
+                overall = min(overall, 0.7)
 
         notes = []
         if "unverified" in (security_type or ""):
@@ -256,6 +290,26 @@ def main():
             notes.append("IPO-time security was Units (SPAC); CIK may now show a merged operating company")
         if exchange == "unknown":
             notes.append("exchange unresolved; routed to edge_case_review")
+
+        # ---- edge_case_review routing ----
+        # A row enters the review queue when its inclusion/cohort hinges on the
+        # uncertain fallback listing date or another ambiguity. In particular,
+        # every in-scope pricing_proxy row is routed (spec requirement).
+        review_reasons = []
+        if in_scope and is_pricing_proxy:
+            review_reasons.append("pricing_proxy_listing_date")
+        if near_bound:
+            review_reasons.append("boundary_date_uncertainty")
+        if edge:
+            review_reasons.append("edge_date_2024-12-11")
+        if overall < C.CONFIDENCE_REVIEW_THRESHOLD:
+            review_reasons.append("confidence_below_0.8")
+        if in_scope and "unverified" in (security_type or ""):
+            review_reasons.append("in_scope_security_type_unverified")
+        if exchange == "unknown":
+            review_reasons.append("exchange_unresolved")
+        edge_review = 1 if review_reasons else 0
+        review_reason = ";".join(review_reasons) or None
 
         rows.append(dict(
             cik=cik, cik10=cik10, sub_url=sub_url, legal_name=name,
@@ -284,133 +338,285 @@ def main():
             in_scope_nasdaq=in_scope,
             initial_matrix_due_date=C.yyyymmdd(due_date) if due_date else None,
             broad_cohort=broad, narrow_matured_cohort=narrow, edge_case=edge,
+            edge_review=edge_review, review_reason=review_reason,
             confidence=overall, notes="; ".join(notes) or None,
-            exch_src=exch_src, sec_src=sec_src, reg_file=x.get("reg_file"),
+            exch_src=exch_src, sec_src=sec_src, tier_src=tier_src,
+            reg_file=x.get("reg_file"),
         ))
 
-        # ---------- provenance ----------
-        sp = "data.sec.gov submissions JSON"
-        add_prov(cik, "companies", "legal_name", derived=False,
-                 source_id="SRC_EDGAR_SUBMISSIONS", url=sub_url, location="$.name",
-                 observed=name, raw=name, norm=name,
-                 method="edgar_submissions_api", conf=0.99)
-        add_prov(cik, "companies", "sic", derived=False,
-                 source_id="SRC_EDGAR_SUBMISSIONS", url=sub_url, location="$.sic",
-                 observed=f"{sic} {sic_desc}", raw=sic, norm=sic,
-                 method="edgar_submissions_api", conf=0.99)
-        add_prov(cik, "companies", "entity_type", derived=False,
-                 source_id="SRC_EDGAR_SUBMISSIONS", url=sub_url,
-                 location="$.entityType", observed=x.get("entity_type"),
-                 raw=x.get("entity_type"), norm=x.get("entity_type"),
-                 method="edgar_submissions_api", conf=0.95)
-        add_prov(cik, "companies", "country", derived=False,
-                 source_id="SRC_EDGAR_SUBMISSIONS", url=sub_url,
-                 location="$.addresses.business / $.stateOfIncorporationDescription",
-                 observed=country, raw=country, norm=country,
-                 method="edgar_submissions_api", conf=0.9)
-        add_prov(cik, "companies", "is_fpi", derived=True,
-                 formula="is_fpi = 1 if files 20-F/F-1 and not 10-K/8-K else 0",
-                 rule_src="SRC_EDGAR_SUBMISSIONS", url=sub_url,
-                 location="$.filings.recent.form",
-                 observed="forms=" + ",".join(sorted(forms)),
-                 raw=is_fpi, norm=issuer_type, method="derived", conf=0.85)
+        # ====================================================================
+        # PROVENANCE: emit exactly one field_provenance row for EVERY exported
+        # CSV column (config.EXPORT_COLUMNS), keyed by (row_key=cik, column_name
+        # = the exported column name), including cells whose value is NULL.
+        # Observed cells carry source_id/url/location/observed_text/raw/norm/
+        # method/confidence; derived cells carry formula + rule_source. NULL
+        # cells carry the source that was checked and why the value is absent.
+        # 05_validate.py and 07_provenance_coverage.py enforce 100% coverage.
+        # ====================================================================
+        pidx_url = "https://www.sec.gov/Archives/" + (x.get("prospectus_file") or "")
+        reg_url = "https://www.sec.gov/Archives/" + (x.get("reg_file") or "")
+        symdir_url = "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+        a8_url = rec.get("source_url") or reg_url
+        former_names_json = json.dumps(x.get("former_names") or [])
+        soi_desc = x.get("state_of_incorp_desc")
+        s1f1 = forms.get("S-1") or forms.get("F-1")
+        notes_str = "; ".join(notes) or None
 
-        # exchange
+        def obs(table, col, **kw):
+            add_prov(cik, table, col, derived=False, **kw)
+
+        def der(table, col, **kw):
+            add_prov(cik, table, col, derived=True, method="derived", **kw)
+
+        # ---------------- companies (observed identity / profile) ----------
+        obs("companies", "cik",
+            source_id="SRC_EDGAR_FULLINDEX", url=pidx_url,
+            location="EDGAR full-index master.idx: CIK field",
+            observed=str(cik), raw=cik, norm=cik10, method="edgar_full_index", conf=0.99)
+        if ticker:
+            obs("ipo_events", "ticker", source_id="SRC_EDGAR_SUBMISSIONS",
+                url=sub_url, location="$.tickers[0]", observed=ticker,
+                raw=ticker, norm=ticker, method="edgar_submissions_api", conf=0.9)
+        else:
+            obs("ipo_events", "ticker", source_id="SRC_EDGAR_SUBMISSIONS",
+                url=sub_url, location="$.tickers (empty)",
+                observed="(no ticker in submissions $.tickers)",
+                raw=None, norm=None, method="edgar_submissions_api", conf=0.6)
+        obs("companies", "legal_name", source_id="SRC_EDGAR_SUBMISSIONS",
+            url=sub_url, location="$.name", observed=name, raw=name, norm=name,
+            method="edgar_submissions_api", conf=0.99)
+        obs("companies", "index_name", source_id="SRC_EDGAR_FULLINDEX",
+            url=pidx_url, location="EDGAR quarterly form index: Company Name field",
+            observed=x.get("index_name"), raw=x.get("index_name"),
+            norm=x.get("index_name"), method="edgar_full_index", conf=0.95)
+        obs("companies", "former_names", source_id="SRC_EDGAR_SUBMISSIONS",
+            url=sub_url, location="$.formerNames", observed=former_names_json,
+            raw=former_names_json, norm=former_names_json,
+            method="edgar_submissions_api", conf=0.95)
+        obs("companies", "country", source_id="SRC_EDGAR_SUBMISSIONS", url=sub_url,
+            location="$.addresses.business.stateOrCountryDescription / $.stateOfIncorporationDescription",
+            observed=country if country else "(no business country/state in submissions)",
+            raw=country, norm=country, method="edgar_submissions_api",
+            conf=0.9 if country else 0.5)
+        obs("companies", "state_of_incorporation", source_id="SRC_EDGAR_SUBMISSIONS",
+            url=sub_url, location="$.stateOfIncorporationDescription",
+            observed=soi_desc if soi_desc else "(no state of incorporation in submissions)",
+            raw=soi_desc, norm=soi_desc, method="edgar_submissions_api",
+            conf=0.9 if soi_desc else 0.5)
+        obs("companies", "sic", source_id="SRC_EDGAR_SUBMISSIONS", url=sub_url,
+            location="$.sic", observed=f"{sic} {sic_desc}".strip() or "(no SIC)",
+            raw=sic, norm=sic, method="edgar_submissions_api",
+            conf=0.99 if sic else 0.5)
+        obs("companies", "sic_description", source_id="SRC_EDGAR_SUBMISSIONS",
+            url=sub_url, location="$.sicDescription",
+            observed=sic_desc if sic_desc else "(no SIC description)",
+            raw=sic_desc, norm=sic_desc, method="edgar_submissions_api",
+            conf=0.99 if sic_desc else 0.5)
+        obs("companies", "sec_entity_type", source_id="SRC_EDGAR_SUBMISSIONS",
+            url=sub_url, location="$.entityType",
+            observed=x.get("entity_type") if x.get("entity_type") else "(no entityType)",
+            raw=x.get("entity_type"), norm=x.get("entity_type"),
+            method="edgar_submissions_api", conf=0.95 if x.get("entity_type") else 0.5)
+        der("companies", "is_fpi",
+            formula="is_fpi = 1 if files 20-F/F-1 and not 10-K/8-K else 0",
+            rule_src="SRC_EDGAR_SUBMISSIONS", url=sub_url,
+            location="$.filings.recent.form",
+            observed="forms=" + ",".join(sorted(forms)),
+            raw=is_fpi, norm=issuer_type, conf=0.85)
+        der("companies", "issuer_type",
+            formula="issuer_type = 'foreign_private_issuer' if is_fpi else 'domestic'",
+            rule_src="SRC_EDGAR_SUBMISSIONS", url=sub_url,
+            observed=f"is_fpi={is_fpi}", raw=issuer_type, norm=issuer_type, conf=0.85)
+
+        # ---------------- ipo_events: exchange (3-way) ----------------------
         if exch_src.startswith("8a12b"):
-            add_prov(cik, "ipo_events", "exchange", derived=False,
-                     source_id="SRC_EDGAR_FULLINDEX", url=rec.get("source_url"),
-                     location="Form 8-A12B: name of each exchange on which registered"
-                              + (" (corroborated by $.exchanges)" if "submissions" in exch_src else ""),
-                     observed=rec.get("evidence_quote"), raw=exchange, norm=exchange,
-                     method="8a12b_document_parse", conf=exch_conf)
+            obs("ipo_events", "exchange", source_id="SRC_EDGAR_FULLINDEX",
+                url=a8_url,
+                location="Form 8-A12B: name of each exchange on which registered"
+                         + (" (corroborated by $.exchanges)" if "submissions" in exch_src else ""),
+                observed=rec.get("evidence_quote"), raw=exchange, norm=exchange,
+                method="8a12b_document_parse", conf=exch_conf)
         elif exch_src == "submissions":
-            add_prov(cik, "ipo_events", "exchange", derived=False,
-                     source_id="SRC_EDGAR_SUBMISSIONS", url=sub_url,
-                     location="$.exchanges", observed=json.dumps(sub_exs),
-                     raw=json.dumps(sub_exs), norm=exchange,
-                     method="edgar_submissions_api", conf=exch_conf)
+            obs("ipo_events", "exchange", source_id="SRC_EDGAR_SUBMISSIONS",
+                url=sub_url, location="$.exchanges", observed=json.dumps(sub_exs),
+                raw=json.dumps(sub_exs), norm=exchange,
+                method="edgar_submissions_api", conf=exch_conf)
         else:
-            add_prov(cik, "ipo_events", "exchange", derived=False,
-                     source_id="SRC_EDGAR_SUBMISSIONS", url=sub_url,
-                     location="$.exchanges (empty)", observed="(empty)",
-                     raw="[]", norm="unknown", method="edgar_submissions_api",
-                     conf=exch_conf)
-        # market tier
-        if tier:
-            add_prov(cik, "ipo_events", "market_tier", derived=False,
-                     source_id="SRC_NASDAQ_SYMDIR",
-                     url="https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
-                     location=f"row symbol={ticker}, Market Category column",
-                     observed=f"{nlrow['tier_code']} -> {tier}",
-                     raw=nlrow["tier_code"], norm=tier, method="nasdaq_symbol_directory",
-                     conf=0.9)
-        # security type
-        if sec_src == "nasdaqlisted":
-            add_prov(cik, "ipo_events", "security_type", derived=False,
-                     source_id="SRC_NASDAQ_SYMDIR",
-                     url="https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
-                     location=f"row symbol={ticker}, Security Name",
-                     observed=nlrow["security_name"], raw=nlrow["security_name"],
-                     norm=security_type, method="nasdaq_symbol_directory", conf=0.9)
-        elif sec_src == "8a12b":
-            add_prov(cik, "ipo_events", "security_type", derived=False,
-                     source_id="SRC_EDGAR_FULLINDEX", url=rec.get("source_url"),
-                     location="Form 8-A12B: title of each class registered",
-                     observed=rec.get("evidence_quote"), raw=security_type,
-                     norm=security_type, method="8a12b_document_parse", conf=0.8)
-        else:
-            add_prov(cik, "ipo_events", "security_type", derived=True,
-                     formula="default by issuer_type when no listing/8-A record parsed",
-                     rule_src="SRC_EDGAR_SUBMISSIONS", url=sub_url,
-                     observed=issuer_type, raw=security_type, norm=security_type,
-                     method="derived", conf=0.55)
-        # prospectus / listing date
-        pidx_url = ("https://www.sec.gov/Archives/" + (x.get("prospectus_file") or ""))
-        add_prov(cik, "ipo_events", "pricing_date", derived=False,
-                 source_id="SRC_EDGAR_FULLINDEX", url=pidx_url,
-                 location=f"EDGAR full-index: {x.get('prospectus_form')} filing",
-                 observed=f"{x.get('prospectus_form')} filed {pros_date}",
-                 raw=pros_date, norm=pros_date, method="edgar_full_index", conf=0.95)
-        add_prov(cik, "ipo_events", "nasdaq_listing_date", derived=True,
-                 formula="nasdaq_listing_date := 424B4/424B1 filing date (pricing/first-trade proxy)",
-                 rule_src="SRC_EDGAR_FULLINDEX", url=pidx_url,
-                 observed=f"{x.get('prospectus_form')} filed {pros_date}",
-                 raw=pros_date, norm=listing_date, method="derived", conf=date_conf)
-        add_prov(cik, "ipo_events", "reg_8a12b_date", derived=False,
-                 source_id="SRC_EDGAR_FULLINDEX",
-                 url="https://www.sec.gov/Archives/" + (x.get("reg_file") or ""),
-                 location="EDGAR full-index: 8-A12B filing",
-                 observed=f"8-A12B filed {x.get('reg_date_8a12b')}",
-                 raw=x.get("reg_date_8a12b"), norm=x.get("reg_date_8a12b"),
-                 method="edgar_full_index", conf=0.95)
+            obs("ipo_events", "exchange", source_id="SRC_EDGAR_SUBMISSIONS",
+                url=sub_url, location="$.exchanges (empty) and 8-A12B not parsed",
+                observed="(exchange unresolved: submissions $.exchanges empty; 8-A12B exchange not parsed)",
+                raw="[]", norm="unknown", method="edgar_submissions_api", conf=exch_conf)
 
-        # applicability derived fields
-        add_prov(cik, "rule_applicability", "is_spac", derived=True,
-                 formula="is_spac = SIC==6770 OR name~acquisition/blank-check OR security==unit",
-                 rule_src="SRC_NASDAQ_MATRIX", observed=f"sic={sic}; name={name}",
-                 raw=is_spac, norm=is_spac, method="derived", conf=0.9)
-        add_prov(cik, "rule_applicability", "exclusion_reason", derived=True,
-                 formula="exclusion precedence: exchange>spac>fund/etf>abs>debt>preferred>unit/warrant/right>LP",
-                 rule_src="SRC_NASDAQ_MATRIX", observed=excl or "(included)",
-                 raw=excl, norm=excl, method="derived", conf=class_conf)
-        add_prov(cik, "rule_applicability", "initial_matrix_due_date", derived=True,
-                 formula="initial_matrix_due_date = nasdaq_listing_date + 1 calendar year",
-                 rule_src="SRC_NASDAQ_NEWLIST",
-                 observed=f"{listing_date} + 1yr",
-                 raw=listing_date, norm=C.yyyymmdd(due_date) if due_date else None,
-                 method="derived", conf=date_conf)
-        add_prov(cik, "rule_applicability", "broad_cohort", derived=True,
-                 formula=f"in_scope_nasdaq AND {C.yyyymmdd(C.BROAD_START)} <= listing <= {C.yyyymmdd(C.BROAD_END)}",
-                 rule_src="SRC_SEC_APPROVAL", observed=f"listing={listing_date}",
-                 raw=broad, norm=broad, method="derived", conf=overall)
-        add_prov(cik, "rule_applicability", "narrow_matured_cohort", derived=True,
-                 formula=f"broad_cohort AND listing <= {C.yyyymmdd(C.NARROW_LISTING_END)} (due <= {C.yyyymmdd(C.BROAD_END)})",
-                 rule_src="SRC_NASDAQ_NEWLIST", observed=f"listing={listing_date}",
-                 raw=narrow, norm=narrow, method="derived", conf=overall)
-        add_prov(cik, "rule_applicability", "edge_case", derived=True,
-                 formula=f"listing == {C.yyyymmdd(C.EDGE_DATE)} OR due == {C.yyyymmdd(C.EDGE_DATE)}",
-                 rule_src="SRC_CA5_VACATUR", observed=f"listing={listing_date}; due={C.yyyymmdd(due_date) if due_date else None}",
-                 raw=edge, norm=edge, method="derived", conf=overall)
+        # ---------------- ipo_events: market_tier (3-way incl. unavailable) -
+        if tier_src == "nasdaqlisted":
+            obs("ipo_events", "market_tier", source_id="SRC_NASDAQ_SYMDIR",
+                url=symdir_url,
+                location=f"row symbol={ticker}, Market Category column",
+                observed=f"{nlrow['tier_code']} -> {tier}", raw=nlrow["tier_code"],
+                norm=tier, method="nasdaq_symbol_directory", conf=0.9)
+        elif tier_src == "8a12b":
+            obs("ipo_events", "market_tier", source_id="SRC_EDGAR_FULLINDEX",
+                url=a8_url, location="Form 8-A12B body: Nasdaq market tier",
+                observed=rec.get("tier_evidence"), raw=tier, norm=tier,
+                method="8a12b_document_parse", conf=0.8)
+        else:
+            obs("ipo_events", "market_tier", source_id="SRC_NASDAQ_SYMDIR",
+                url=symdir_url,
+                location=f"symbol={ticker or '(none)'} absent from nasdaqlisted.txt snapshot; 8-A12B body states no tier",
+                observed="(market tier unavailable: checked current Nasdaq symbol "
+                         "directory + IPO-time 8-A12B; issuer likely delisted/transferred)",
+                raw=None, norm=None,
+                method="nasdaq_symbol_directory+8a12b_document_parse", conf=0.5)
+
+        # ---------------- ipo_events: security_type (3-way) -----------------
+        if sec_src == "nasdaqlisted":
+            obs("ipo_events", "security_type", source_id="SRC_NASDAQ_SYMDIR",
+                url=symdir_url, location=f"row symbol={ticker}, Security Name",
+                observed=nlrow["security_name"], raw=nlrow["security_name"],
+                norm=security_type, method="nasdaq_symbol_directory", conf=0.9)
+        elif sec_src == "8a12b":
+            obs("ipo_events", "security_type", source_id="SRC_EDGAR_FULLINDEX",
+                url=a8_url, location="Form 8-A12B: title of each class registered",
+                observed=rec.get("evidence_quote"), raw=security_type,
+                norm=security_type, method="8a12b_document_parse", conf=0.8)
+        else:
+            der("ipo_events", "security_type",
+                formula="default by issuer_type when no listing/8-A record parsed",
+                rule_src="SRC_EDGAR_SUBMISSIONS", url=sub_url,
+                observed=issuer_type, raw=security_type, norm=security_type, conf=0.55)
+
+        # ---------------- ipo_events: dates ---------------------------------
+        obs("ipo_events", "pricing_date", source_id="SRC_EDGAR_FULLINDEX",
+            url=pidx_url,
+            location=f"EDGAR full-index: {x.get('prospectus_form')} (final priced prospectus) filing date",
+            observed=f"{x.get('prospectus_form')} filed {pros_date}",
+            raw=pros_date, norm=pros_date, method="edgar_full_index", conf=0.95)
+        obs("ipo_events", "prospectus_form", source_id="SRC_EDGAR_FULLINDEX",
+            url=pidx_url, location="EDGAR full-index: form type",
+            observed=x.get("prospectus_form"), raw=x.get("prospectus_form"),
+            norm=x.get("prospectus_form"), method="edgar_full_index", conf=0.99)
+        obs("ipo_events", "prospectus_filing_date", source_id="SRC_EDGAR_FULLINDEX",
+            url=pidx_url, location="EDGAR full-index: date filed",
+            observed=f"{x.get('prospectus_form')} filed {pros_date}",
+            raw=pros_date, norm=pros_date, method="edgar_full_index", conf=0.95)
+        if x.get("reg_date_8a12b"):
+            obs("ipo_events", "reg_8a12b_date", source_id="SRC_EDGAR_FULLINDEX",
+                url=reg_url, location="EDGAR full-index: 8-A12B filing date",
+                observed=f"8-A12B filed {x.get('reg_date_8a12b')}",
+                raw=x.get("reg_date_8a12b"), norm=x.get("reg_date_8a12b"),
+                method="edgar_full_index", conf=0.95)
+        else:
+            obs("ipo_events", "reg_8a12b_date", source_id="SRC_EDGAR_FULLINDEX",
+                url=reg_url, location="EDGAR full-index: no 8-A12B located for issuer",
+                observed="(no 8-A12B filing date)", raw=None, norm=None,
+                method="edgar_full_index", conf=0.5)
+        if s1f1:
+            obs("ipo_events", "s1_f1_first_date", source_id="SRC_EDGAR_SUBMISSIONS",
+                url=sub_url, location="$.filings.recent: earliest S-1/F-1 filingDate",
+                observed=f"first S-1/F-1 {s1f1}", raw=s1f1, norm=s1f1,
+                method="edgar_submissions_api", conf=0.9)
+        else:
+            obs("ipo_events", "s1_f1_first_date", source_id="SRC_EDGAR_SUBMISSIONS",
+                url=sub_url, location="$.filings.recent: no S-1/F-1 in recent history",
+                observed="(no S-1/F-1 in submissions recent filings)", raw=None,
+                norm=None, method="edgar_submissions_api", conf=0.5)
+        # sec_effectiveness_date is intentionally NULL (not parsed) -> document why.
+        obs("ipo_events", "sec_effectiveness_date", source_id="SRC_EDGAR_FULLINDEX",
+            url=sub_url,
+            location="EFFECT / registration-statement effectiveness not parsed in this build",
+            observed="(SEC effectiveness date unavailable: EFFECT notices not harvested; "
+                     "kept NULL by design, pricing proxy used for listing date)",
+            raw=None, norm=None, method="not_collected", conf=0.5)
+        der("ipo_events", "nasdaq_listing_date",
+            formula="nasdaq_listing_date := first_trading_date ?? official_listing_date "
+                    "?? pricing_date (424B4/424B1 filing date). first_trading/official "
+                    "unavailable in EDGAR -> pricing_proxy fallback.",
+            rule_src="SRC_EDGAR_FULLINDEX", url=pidx_url,
+            observed=f"basis={date_basis}; value={listing_date}",
+            raw=pros_date, norm=listing_date, conf=date_conf)
+        der("ipo_events", "listing_date_basis",
+            formula="label of the resolution tier used for nasdaq_listing_date "
+                    "(first_trading|official_listing|pricing_proxy)",
+            rule_src="SRC_EDGAR_FULLINDEX", url=pidx_url,
+            observed=f"resolved to {date_basis}", raw=date_basis, norm=date_basis,
+            conf=date_conf)
+        der("ipo_events", "listing_confidence",
+            formula="confidence in the EXACT listing date by basis "
+                    f"(pricing_proxy={C.PRICING_PROXY_CONFIDENCE} (<0.8), official=0.95, first_trading=0.97)",
+            rule_src="SRC_EDGAR_FULLINDEX", url=pidx_url,
+            observed=f"basis={date_basis}", raw=date_conf, norm=date_conf, conf=date_conf)
+
+        # ---------------- rule_applicability: derived flags -----------------
+        flag_obs = f"sic={sic}; entity={entity}; sec={security_type}; name={name}"
+        for col, val, formula, rsrc in [
+            ("is_operating_company", is_operating,
+             "is_operating = entityType=='operating' AND NOT (spac OR fund OR asset_backed)",
+             "SRC_NASDAQ_MATRIX"),
+            ("is_spac", is_spac,
+             "is_spac = SIC 6770 OR name~acquisition/blank-check OR IPO security==unit",
+             "SRC_NASDAQ_MATRIX"),
+            ("is_fund", is_fund,
+             "is_fund = SIC fund-code OR ETF flag OR fund name token OR investment entityType",
+             "SRC_NASDAQ_MATRIX"),
+            ("is_etf_etp", is_etf_etp,
+             "is_etf_etp = nasdaqlisted ETF flag == 'Y'", "SRC_NASDAQ_SYMDIR"),
+            ("is_asset_backed", is_abs,
+             "is_asset_backed = SIC ABS-code AND security_type=='debt'", "SRC_NASDAQ_MATRIX"),
+            ("is_limited_partnership", is_lp,
+             "is_limited_partnership = name ends with L.P./LP or contains 'limited partnership'",
+             "SRC_NASDAQ_MATRIX"),
+            ("is_excluded", is_excluded,
+             "is_excluded = 1 if any issuer/security/exchange/temporal disqualifier else 0",
+             "SRC_NASDAQ_MATRIX"),
+            ("in_scope_nasdaq", in_scope,
+             f"in_scope = exchange=='Nasdaq' AND NOT is_excluded AND "
+             f"{C.yyyymmdd(C.BROAD_START)}<=listing<={C.yyyymmdd(C.EDGE_DATE)}",
+             "SRC_SEC_APPROVAL"),
+        ]:
+            der("rule_applicability", col, formula=formula, rule_src=rsrc,
+                observed=flag_obs, raw=val, norm=val, conf=overall)
+
+        der("rule_applicability", "exclusion_reason",
+            formula="exclusion precedence: spac>fund/etf>abs>debt>preferred>unit/warrant/"
+                    "right>LP>exchange; then temporal (before-start / vacatur-date / after)",
+            rule_src="SRC_NASDAQ_MATRIX", observed=excl or "(included)",
+            raw=excl, norm=excl, conf=class_conf)
+        der("rule_applicability", "initial_matrix_due_date",
+            formula="initial_matrix_due_date = nasdaq_listing_date + 1 calendar year",
+            rule_src="SRC_NASDAQ_NEWLIST", observed=f"{listing_date} + 1yr",
+            raw=listing_date, norm=C.yyyymmdd(due_date) if due_date else None,
+            conf=date_conf)
+        der("rule_applicability", "broad_cohort",
+            formula=f"in_scope_nasdaq AND {C.yyyymmdd(C.BROAD_START)} <= listing <= {C.yyyymmdd(C.BROAD_END)}",
+            rule_src="SRC_SEC_APPROVAL", observed=f"listing={listing_date}",
+            raw=broad, norm=broad, conf=overall)
+        der("rule_applicability", "narrow_matured_cohort",
+            formula=f"broad_cohort AND listing <= {C.yyyymmdd(C.NARROW_LISTING_END)} (due <= {C.yyyymmdd(C.BROAD_END)})",
+            rule_src="SRC_NASDAQ_NEWLIST", observed=f"listing={listing_date}",
+            raw=narrow, norm=narrow, conf=overall)
+        der("rule_applicability", "edge_case",
+            formula=f"listing == {C.yyyymmdd(C.EDGE_DATE)} OR due == {C.yyyymmdd(C.EDGE_DATE)}",
+            rule_src="SRC_CA5_VACATUR",
+            observed=f"listing={listing_date}; due={C.yyyymmdd(due_date) if due_date else None}",
+            raw=edge, norm=edge, conf=overall)
+        der("rule_applicability", "confidence",
+            formula="overall classification/cohort confidence = "
+                    "0.9/0.6 if excluded (strong/weak) else min(exch_conf,class_conf), "
+                    "capped 0.5 if exchange unknown and 0.7 if listing near a cohort boundary",
+            rule_src="SRC_NASDAQ_MATRIX",
+            observed=f"exch_conf={exch_conf}; class_conf={class_conf}; near_boundary={near_bound}",
+            raw=overall, norm=overall, conf=overall)
+        if notes_str:
+            der("rule_applicability", "notes",
+                formula="human-readable annotations on caveats (unverified security, "
+                        "delisted issuer, SPAC-unit IPO, unresolved exchange)",
+                rule_src="SRC_NASDAQ_MATRIX", observed=notes_str, raw=notes_str,
+                norm=notes_str, conf=overall)
+        else:
+            der("rule_applicability", "notes",
+                formula="notes is NULL when no caveat applies",
+                rule_src="SRC_NASDAQ_MATRIX", observed="(no caveat)", raw=None,
+                norm=None, conf=overall)
 
         # ---- validation issues ----
         if overall < C.CONFIDENCE_REVIEW_THRESHOLD:
@@ -419,6 +625,13 @@ def main():
         if edge:
             issues.append((cik, "review", "edge_case_vacatur_date",
                            f"listing={listing_date}, due={C.yyyymmdd(due_date) if due_date else None} touches 2024-12-11"))
+        if near_bound:
+            issues.append((cik, "review", "boundary_date_uncertainty",
+                           f"listing {listing_date} within {C.DATE_UNCERTAINTY_DAYS}d of a cohort "
+                           f"boundary; pricing-proxy +/- lag could shift cohort membership"))
+        if in_scope and is_pricing_proxy and edge_review == 0:
+            issues.append((cik, "error", "pricing_proxy_not_in_review",
+                           "in-scope pricing_proxy row not routed to edge_case_review"))
         if in_scope and listing_d and not (C.BROAD_START <= listing_d <= C.BROAD_END):
             issues.append((cik, "error", "included_out_of_window",
                            f"included row listing {listing_date} outside broad window"))
@@ -467,14 +680,14 @@ def main():
             (applicability_id,ipo_event_id,cik,is_operating_company,is_spac,is_fund,
              is_etf_etp,is_asset_backed,is_limited_partnership,is_excluded,
              exclusion_reason,in_scope_nasdaq,initial_matrix_due_date,broad_cohort,
-             narrow_matured_cohort,edge_case,confidence,notes)
-            VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
+             narrow_matured_cohort,edge_case,edge_review,review_reason,confidence,notes)
+            VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
             (i, i, r["cik"], r["is_operating"], r["is_spac"], r["is_fund"],
              r["is_etf_etp"], r["is_asset_backed"], r["is_lp"], r["is_excluded"],
              r["exclusion_reason"], r["in_scope_nasdaq"],
              r["initial_matrix_due_date"], r["broad_cohort"],
-             r["narrow_matured_cohort"], r["edge_case"], r["confidence"],
-             r["notes"]))
+             r["narrow_matured_cohort"], r["edge_case"], r["edge_review"],
+             r["review_reason"], r["confidence"], r["notes"]))
 
     for p in prov:
         cur.execute("""INSERT INTO field_provenance
@@ -501,6 +714,15 @@ def main():
     print(f"broad_cohort      : {q('SELECT COUNT(*) FROM rule_applicability WHERE broad_cohort=1')}")
     print(f"narrow_matured    : {q('SELECT COUNT(*) FROM rule_applicability WHERE narrow_matured_cohort=1')}")
     print(f"edge_case         : {q('SELECT COUNT(*) FROM rule_applicability WHERE edge_case=1')}")
+    print(f"edge_review       : {q('SELECT COUNT(*) FROM rule_applicability WHERE edge_review=1')}")
+    proxy_n = q("SELECT COUNT(*) FROM ipo_events WHERE date_basis='pricing_proxy'")
+    proxy_in = q("SELECT COUNT(*) FROM ipo_events e JOIN rule_applicability a ON a.cik=e.cik "
+                 "WHERE a.in_scope_nasdaq=1 AND e.date_basis='pricing_proxy'")
+    print(f"pricing_proxy rows: {proxy_n}")
+    print(f"in-scope pricing_proxy: {proxy_in}")
+    print("--- date_basis distribution ---")
+    for basis, n in cur.execute("SELECT date_basis,COUNT(*) FROM ipo_events GROUP BY date_basis ORDER BY 2 DESC"):
+        print(f"  {n:4d}  {basis}")
     print("--- exclusion reasons ---")
     for reason, n in cur.execute("SELECT exclusion_reason,COUNT(*) FROM rule_applicability GROUP BY exclusion_reason ORDER BY 2 DESC"):
         print(f"  {n:4d}  {reason}")

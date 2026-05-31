@@ -162,3 +162,4 @@ after the first pass.
 - Candidate construction requires a priced 424B4/424B1; a **bona-fide direct listing
   documented as an IPO** without such a prospectus would not be captured (direct
   listings are out of scope by design).
+l

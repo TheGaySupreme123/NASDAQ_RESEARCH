@@ -99,6 +99,8 @@ CREATE TABLE rule_applicability (
     broad_cohort            INTEGER,         -- 0/1
     narrow_matured_cohort   INTEGER,         -- 0/1
     edge_case               INTEGER,         -- 0/1 (listing/due == 2024-12-11)
+    edge_review             INTEGER,         -- 0/1 routed to edge_case_review
+    review_reason           TEXT,            -- why routed (';'-joined reasons)
     confidence              REAL,            -- overall record confidence
     notes                   TEXT
 );

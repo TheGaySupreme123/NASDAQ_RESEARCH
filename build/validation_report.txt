@@ -1,5 +1,5 @@
-Validation report  (2026-05-31T17:30:01.733246+00:00)
-16/16 checks passed
+Validation report  (2026-05-31T18:43:47.604553+00:00)
+20/20 checks passed
 
   [PASS] no in-scope broad row before rule start  (count=0)
   [PASS] no in-scope broad row after 2024-12-10  (count=0)
@@ -17,6 +17,10 @@ Validation report  (2026-05-31T17:30:01.733246+00:00)
   [PASS] in-scope rows have listing-date provenance  (count=0)
   [PASS] in-scope rows have due-date provenance  (count=0)
   [PASS] all confidence<0.8 flagged for review  (count=0)
+  [PASS] pricing_proxy listing_confidence < 0.8  (count=0)
+  [PASS] in-scope pricing_proxy rows all routed to edge_case_review  (count=0)
+  [PASS] boundary-uncertain rows all routed to edge_case_review  (count=0)
+  [PASS] every exported cell has field_provenance (incl. NULL cells)  (count=0)
   tally: candidate IPO events = 938
   tally: in_scope_nasdaq = 409
   tally: broad_cohort = 409

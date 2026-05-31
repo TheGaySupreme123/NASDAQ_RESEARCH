@@ -86,6 +86,40 @@ def main():
           "SELECT COUNT(*) FROM rule_applicability a WHERE a.confidence<0.8 AND a.cik NOT IN "
           "(SELECT cik FROM validation_issues WHERE rule='low_confidence')")
 
+    # 8. Listing-date basis invariants (spec).
+    check("pricing_proxy listing_confidence < 0.8",
+          "SELECT COUNT(*) FROM ipo_events WHERE date_basis='pricing_proxy' "
+          "AND listing_confidence >= 0.8")
+    check("in-scope pricing_proxy rows all routed to edge_case_review",
+          "SELECT COUNT(*) FROM ipo_events e JOIN rule_applicability a ON a.cik=e.cik "
+          "WHERE a.in_scope_nasdaq=1 AND e.date_basis='pricing_proxy' AND a.edge_review=0")
+    check("boundary-uncertain rows all routed to edge_case_review",
+          "SELECT COUNT(*) FROM rule_applicability a JOIN ipo_events e ON a.cik=e.cik "
+          "WHERE a.edge_review=0 AND e.nasdaq_listing_date IS NOT NULL AND ("
+          + " OR ".join(
+              f"ABS(julianday(e.nasdaq_listing_date)-julianday('{C.yyyymmdd(b)}'))<={C.DATE_UNCERTAINTY_DAYS}"
+              for b in C.BOUNDARY_DATES) + ")")
+
+    # 9. Full cell-level provenance coverage: EVERY exported cell (every column
+    #    of EXPORT_COLUMNS for every exported row) must have a field_provenance
+    #    row keyed by (row_key=cik, column_name). NULL cells included.
+    all_ciks = {str(r[0]) for r in cur.execute("SELECT cik FROM companies")}
+    missing_total = 0
+    worst = []
+    for col in C.EXPORT_COLUMNS:
+        present = {str(r[0]) for r in cur.execute(
+            "SELECT DISTINCT row_key FROM field_provenance WHERE column_name=?", (col,))}
+        missing = all_ciks - present
+        if missing:
+            missing_total += len(missing)
+            worst.append((col, len(missing)))
+    out.append((("PASS" if missing_total == 0 else "FAIL"),
+                "every exported cell has field_provenance (incl. NULL cells)",
+                missing_total))
+    if worst:
+        for col, k in sorted(worst, key=lambda t: -t[1])[:10]:
+            out.append(("FAIL", f"  -> missing provenance for column '{col}'", k))
+
     npass = sum(1 for s, _, _ in out if s == "PASS")
     report = [f"Validation report  ({dt.datetime.now(dt.timezone.utc).isoformat()})",
               f"{npass}/{len(out)} checks passed", ""]

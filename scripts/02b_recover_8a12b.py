@@ -102,6 +102,20 @@ def classify_security(low: str) -> tuple[str | None, bool, str]:
     return None, False, "8-A12B security title not parsed"
 
 
+def classify_tier(low: str) -> tuple[str | None, str]:
+    """Recover the IPO-time Nasdaq market tier from the 8-A12B body, when the
+    document names it. Authoritative IPO-time signal; used as a fallback for
+    issuers absent from the current nasdaqlisted.txt snapshot. Most specific
+    tier wins (Global Select > Global Market > Capital Market)."""
+    if "nasdaq global select market" in low:
+        return "Global Select", "8-A12B body names 'Nasdaq Global Select Market'"
+    if "nasdaq global market" in low or "global market" in low:
+        return "Global Market", "8-A12B body names 'Nasdaq Global Market'"
+    if "nasdaq capital market" in low or "capital market" in low:
+        return "Capital Market", "8-A12B body names 'Nasdaq Capital Market'"
+    return None, "8-A12B does not state a Nasdaq market tier"
+
+
 def main():
     candidates = json.load(open(os.path.join(C.DATA, "candidates.json")))
     out = {}
@@ -118,10 +132,13 @@ def main():
         low = clean(text).lower()
         exch, ev_e = classify_exchange(low)
         sec, is_unit, ev_s = classify_security(low)
+        tier, ev_t = classify_tier(low)
         out[cik] = {
             "exchange_guess": exch,
             "ipo_security_type": sec,
             "is_unit": is_unit,
+            "ipo_market_tier": tier,
+            "tier_evidence": ev_t,
             "evidence_quote": f"{ev_e} | {ev_s}",
             "source_url": url,
         }
@@ -132,6 +149,7 @@ def main():
     import collections
     print("exchange:", collections.Counter(v["exchange_guess"] for v in out.values()))
     print("ipo_security_type:", collections.Counter(v["ipo_security_type"] for v in out.values()))
+    print("ipo_market_tier:", collections.Counter(v["ipo_market_tier"] for v in out.values()))
     print("is_unit (SPAC):", sum(1 for v in out.values() if v["is_unit"]))
     print(f"Wrote {dest} ({len(out)} records)")
 

@@ -58,6 +58,60 @@ EDGE_DATE = dt.date(2024, 12, 11)
 CONFIDENCE_REVIEW_THRESHOLD = 0.8
 
 # --------------------------------------------------------------------------
+# nasdaq_listing_date resolution.
+# Preference order (spec): (1) first trading date on Nasdaq, (2) official
+# Nasdaq listing date, (3) IPO pricing date as a FALLBACK only.
+# EDGAR does not publish a first-trade tape or an official Nasdaq listing-date
+# feed, so for these issuers the best available signal is the 424B4/424B1 final
+# (priced) prospectus filing date -> the pricing date. Because that is the
+# fallback tier, every such row is labeled date_basis='pricing_proxy', given a
+# listing_confidence < 0.8, and routed to edge_case_review.
+DATE_BASIS_FIRST_TRADING = "first_trading"
+DATE_BASIS_OFFICIAL = "official_listing"
+DATE_BASIS_PRICING_PROXY = "pricing_proxy"
+PRICING_PROXY_CONFIDENCE = 0.75            # < 0.8 by spec for the fallback tier
+
+# Calendar-day window around any cohort boundary within which the +/- pricing-
+# to-first-trade lag could move a row across the boundary. Such rows are routed
+# to edge_case_review (never silently included/excluded on an uncertain date).
+DATE_UNCERTAINTY_DAYS = 3
+BOUNDARY_DATES = (
+    dt.date(2021, 8, 6),    # rule start
+    dt.date(2023, 12, 10),  # narrow listing-end
+    dt.date(2024, 12, 10),  # broad end (day before vacatur)
+    dt.date(2024, 12, 11),  # vacatur / edge date
+)
+
+# --------------------------------------------------------------------------
+# Exported columns of nasdaq_ipo_board_diversity_applicability.csv, in order.
+# Every column here (i.e. every exported cell except the trailing 'source_ids'
+# convenience column) MUST carry a field_provenance row for every exported row,
+# including cells whose value is NULL. The build emits exactly one provenance
+# row per (cik, column); 05_validate.py and 07_provenance_coverage.py enforce
+# 100% coverage against this list.
+# --------------------------------------------------------------------------
+EXPORT_COLUMNS = [
+    "cik", "ticker", "legal_name", "index_name", "former_names", "exchange",
+    "market_tier", "security_type", "issuer_type", "is_fpi", "country",
+    "state_of_incorporation", "sic", "sic_description", "sec_entity_type",
+    "nasdaq_listing_date", "listing_date_basis", "pricing_date",
+    "prospectus_form", "prospectus_filing_date", "reg_8a12b_date",
+    "s1_f1_first_date", "sec_effectiveness_date", "is_operating_company",
+    "is_spac", "is_fund", "is_etf_etp", "is_asset_backed",
+    "is_limited_partnership", "is_excluded", "exclusion_reason",
+    "in_scope_nasdaq", "initial_matrix_due_date", "broad_cohort",
+    "narrow_matured_cohort", "edge_case", "confidence", "listing_confidence",
+    "notes",
+]
+EXPORT_SOURCE_IDS_COLUMN = "source_ids"   # excluded from provenance requirement
+
+
+def near_boundary(d) -> bool:
+    """True if date d is within DATE_UNCERTAINTY_DAYS of any cohort boundary."""
+    return d is not None and any(
+        abs((d - b).days) <= DATE_UNCERTAINTY_DAYS for b in BOUNDARY_DATES)
+
+# --------------------------------------------------------------------------
 # EDGAR full-index quarters covering the broad window (Q3-2021 .. Q4-2024).
 # We harvest one quarter before/after as buffer is unnecessary; the window is
 # fully covered by 2021Q3 (Aug 6 onward) through 2024Q4 (through Dec 10).

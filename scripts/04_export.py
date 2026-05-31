@@ -80,6 +80,13 @@ def main():
     con = sqlite3.connect(C.SQLITE_PATH)
     cur = con.cursor()
 
+    # Guard: the exported column order must match config.EXPORT_COLUMNS exactly
+    # (the provenance coverage contract is defined against that list).
+    cur.execute(MAIN_SQL + " LIMIT 1")
+    main_cols = [d[0] for d in cur.description]
+    assert main_cols == C.EXPORT_COLUMNS, (
+        f"export columns drift:\n  sql={main_cols}\n  cfg={C.EXPORT_COLUMNS}")
+
     n = dump(cur, MAIN_SQL, os.path.join(C.BUILD, "nasdaq_ipo_board_diversity_applicability.csv"))
     print(f"applicability.csv: {n} rows")
 
@@ -91,24 +98,23 @@ def main():
              os.path.join(C.BUILD, "source_manifest.csv"), source_ids=None)
     print(f"source_manifest.csv: {n} rows")
 
-    # edge_case_review: low confidence OR edge OR unresolved exchange OR unverified
+    # edge_case_review: every row flagged edge_review=1 by the build. This
+    # includes (a) every in-scope pricing_proxy row (its cohort hinges on the
+    # uncertain fallback listing date), (b) rows whose listing date sits within
+    # +/- DATE_UNCERTAINTY_DAYS of a cohort boundary, (c) the vacatur-date edge
+    # case, (d) confidence<0.8, (e) in-scope unverified security type, and
+    # (f) unresolved exchange. review_reason records which apply.
     edge_sql = """
     SELECT c.cik,e.ticker,c.legal_name,e.exchange,e.market_tier,e.security_type,
-           e.nasdaq_listing_date,a.initial_matrix_due_date,a.in_scope_nasdaq,
+           e.nasdaq_listing_date,e.date_basis AS listing_date_basis,
+           e.listing_confidence,a.initial_matrix_due_date,a.in_scope_nasdaq,
            a.broad_cohort,a.narrow_matured_cohort,a.edge_case,a.exclusion_reason,
-           a.confidence,a.notes,
-           CASE
-             WHEN a.edge_case=1 THEN 'edge_date_2024-12-11'
-             WHEN a.confidence < 0.8 THEN 'confidence_below_0.8'
-             WHEN a.in_scope_nasdaq=1 AND e.security_type LIKE '%unverified%'
-                  THEN 'in_scope_security_type_unverified'
-             ELSE 'other' END AS review_reason
+           a.confidence,a.review_reason,a.notes
     FROM companies c
     JOIN ipo_events e ON e.cik=c.cik
     JOIN rule_applicability a ON a.cik=c.cik
-    WHERE a.confidence < 0.8 OR a.edge_case=1
-          OR (a.in_scope_nasdaq=1 AND e.security_type LIKE '%unverified%')
-    ORDER BY a.confidence, e.nasdaq_listing_date
+    WHERE a.edge_review=1
+    ORDER BY a.in_scope_nasdaq DESC, a.confidence, e.nasdaq_listing_date
     """
     n = dump(cur, edge_sql, os.path.join(C.BUILD, "edge_case_review.csv"), source_ids=None)
     print(f"edge_case_review.csv: {n} rows")
