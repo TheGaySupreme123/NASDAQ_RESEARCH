@@ -1,11 +1,13 @@
 """
 Stage 6 - Independent verification of 20 records against original sources.
 
-For a deterministic sample of 20 in-scope records, re-fetch primary EDGAR
+For a deterministic sample of at least 20 in-scope records, re-check primary
 artifacts and confirm:
   * the cited 424B4/424B1 prospectus accession exists in the issuer's EDGAR
     submission history on the recorded date;
   * the cited 8-A12B exchange-registration accession exists;
+  * the Nasdaq listing date has Nasdaq IPO Calendar provenance when date_basis
+    is first_trading, or is clearly routed as a pricing_proxy fallback;
   * the recorded exchange is consistent with the issuer's SEC `exchanges`
     field or the parsed 8-A12B.
 Writes build/verification_sample.csv with PASS/FAIL per record.
@@ -44,31 +46,54 @@ def main():
     cur = con.cursor()
     rows = cur.execute("""
         SELECT c.cik,e.ticker,c.legal_name,e.exchange,e.security_type,
-               e.nasdaq_listing_date,e.prospectus_form,e.prospectus_accession,
+               e.nasdaq_listing_date,e.date_basis,e.pricing_date,
+               e.prospectus_form,e.prospectus_accession,
                e.reg_8a12b_accession,a.initial_matrix_due_date,a.broad_cohort,
-               a.narrow_matured_cohort
+               a.narrow_matured_cohort,a.edge_review
         FROM companies c JOIN ipo_events e ON e.cik=c.cik
         JOIN rule_applicability a ON a.cik=c.cik
         WHERE a.in_scope_nasdaq=1
         ORDER BY e.nasdaq_listing_date""").fetchall()
 
-    # deterministic spread: every Nth across the sorted in-scope list -> 20
+    # Deterministic sample: force coverage of boundary-sensitive rows and rows
+    # where Nasdaq date differs from EDGAR 424B date, then fill by spread.
+    def boundary_distance(r, boundary):
+        d = C.parse_date(r[5])
+        return abs((d - boundary).days) if d else 10**9
+
+    boundary_priority = []
+    for boundary in C.BOUNDARY_DATES:
+        boundary_priority.extend(
+            sorted(rows, key=lambda r: (boundary_distance(r, boundary), r[5]))[:3])
+    diff_priority = [r for r in rows if r[5] and r[7] and r[5] != r[7]]
     step = max(1, len(rows) // 20)
-    sample = rows[::step][:20]
+    sample = []
+    seen = set()
+    for pool in (boundary_priority, diff_priority, rows[::step], rows):
+        for r in pool:
+            if r[0] in seen:
+                continue
+            sample.append(r)
+            seen.add(r[0])
+            if len(sample) >= 20:
+                break
+        if len(sample) >= 20:
+            break
 
     out = []
     npass = 0
     for r in sample:
-        (cik, tkr, name, exch, sec, ld, pform, pacc, racc, due, broad, narrow) = r
+        (cik, tkr, name, exch, sec, ld, basis, pricing_date, pform, pacc, racc,
+         due, broad, narrow, edge_review) = r
         sub = load_sub(cik)
         checks = {}
         if sub is None:
             checks["submissions_present"] = False
         else:
             checks["submissions_present"] = True
-            pd = acc_on_date(sub, C.PROSPECTUS_FORMS, pacc, ld)
+            pd = acc_on_date(sub, C.PROSPECTUS_FORMS, pacc, pricing_date)
             checks["prospectus_accession_found"] = pd is not None
-            checks["prospectus_date_matches"] = (pd == ld)
+            checks["prospectus_date_matches_pricing_date"] = (pd == pricing_date)
             rd = acc_on_date(sub, C.EXCHANGE_REG_FORMS, racc, None)
             checks["reg_8a12b_found"] = rd is not None
             # Exchange verified INDEPENDENTLY against the primary 8-A12B document
@@ -86,11 +111,24 @@ def main():
             d = C.parse_date(ld)
             checks["due_date_correct"] = (d is not None and
                                           C.yyyymmdd(C.add_one_year(d)) == due)
+            prov = cur.execute("""
+                SELECT source_id,extraction_method,normalized_value
+                FROM field_provenance
+                WHERE row_key=? AND column_name='nasdaq_listing_date'
+            """, (cik,)).fetchone()
+            if basis == C.DATE_BASIS_FIRST_TRADING:
+                checks["nasdaq_calendar_date_provenance"] = (
+                    prov is not None and prov[0] == "SRC_NASDAQ_IPO_CALENDAR"
+                    and prov[2] == ld)
+            else:
+                checks["pricing_proxy_routed"] = (
+                    basis == C.DATE_BASIS_PRICING_PROXY and edge_review == 1)
         ok = all(checks.values())
         npass += int(ok)
         out.append({
             "cik": cik, "ticker": tkr, "legal_name": name, "exchange": exch,
             "security_type": sec, "listing_date": ld, "due_date": due,
+            "listing_date_basis": basis, "pricing_date": pricing_date,
             "broad_cohort": broad, "narrow_matured_cohort": narrow,
             "result": "PASS" if ok else "FAIL",
             "failed_checks": ";".join(k for k, v in checks.items() if not v) or "(none)",

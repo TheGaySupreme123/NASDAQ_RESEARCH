@@ -61,10 +61,17 @@ the universe from authoritative SEC filings and Nasdaq data:
    **Units** in 2021 and later merged now looks like an operating company on the same
    CIK. The 8-A12B captures the **IPO-time** security (Units ⇒ SPAC) and the listing
    exchange even after the issuer delisted.
-4. **Market tier & ETF flag (Nasdaq Trader symbol directory).** `nasdaqlisted.txt`
+4. **Nasdaq listing / first-trading date (Nasdaq IPO Calendar).** The pipeline
+   downloads monthly Nasdaq IPO Calendar JSON from
+   `https://api.nasdaq.com/api/ipo/calendar?date=YYYY-MM`, caches the raw files in
+   `data/raw/nasdaq_ipo_calendar/`, and normalizes Nasdaq `priced` rows to
+   `data/nasdaq_ipo_calendar_priced.json`. For candidates whose IPO-time exchange is
+   Nasdaq, the builder matches by ticker/name/date and uses the Nasdaq calendar date
+   as `nasdaq_listing_date` with `date_basis = first_trading`.
+5. **Market tier & ETF flag (Nasdaq Trader symbol directory).** `nasdaqlisted.txt`
    provides the current Market Category (Q = Global Select, G = Global Market,
    S = Capital Market) and an ETF flag, joined by ticker.
-5. **Classification, cohorts, provenance, validation, export** (stages 3–6 below).
+6. **Classification, cohorts, provenance, validation, export** (stages 3–7 below).
 
 ### Field-source preference (as required by the brief)
 - **SEC first** for CIK, legal name, issuer/security type, SPAC/fund/ETF status,
@@ -73,14 +80,31 @@ the universe from authoritative SEC filings and Nasdaq data:
 - Press releases / third-party IPO datasets are *not* used as primary provenance.
 
 ### Listing date
-`nasdaq_listing_date` is taken from the **424B4/424B1 filing date** as a
-**pricing / first-trade proxy** (`date_basis = prospectus_424b_proxy`). A true
-first-trading-date feed was not available through these primary APIs; the 424B4 is
-filed at pricing and is typically within **±1–2 business days** of the first trade.
-`pricing_date` stores the same prospectus date explicitly; `reg_8a12b_date` and
-`s1_f1_first_date` are stored separately. `listing_confidence = 0.85` reflects the
-proxy. Anything whose listing/due date lands exactly on the 2024-12-11 boundary is
-flagged for review so the ±1–2 day uncertainty cannot silently change a cohort.
+`nasdaq_listing_date` is resolved in this priority order:
+
+1. **First trading / Nasdaq IPO Calendar date** (`date_basis = first_trading`).
+   This is sourced from Nasdaq's IPO Calendar `priced` rows and matched to the
+   issuer by ticker, company name, and proximity to the SEC prospectus date.
+2. **Official Nasdaq listing date** (`date_basis = official_listing`). The schema and
+   allowed basis support this tier, but no separate official listing-date feed is
+   currently cached in this package.
+3. **SEC pricing/prospectus fallback** (`date_basis = pricing_proxy`). If no Nasdaq
+   calendar row matches, the builder falls back to the 424B4/424B1 filing date.
+   Every such row has `listing_confidence < 0.8` and every in-scope fallback is
+   routed to `edge_case_review`.
+
+The separate date fields are preserved:
+`nasdaq_listing_date` is the resolved listing/first-trading date, `pricing_date` and
+`prospectus_filing_date` are the 424B4/424B1 date, `reg_8a12b_date` is the Exchange
+Act registration date, and `sec_effectiveness_date` remains NULL unless collected by
+a future stage. Cohort flags and `initial_matrix_due_date` are computed from
+`nasdaq_listing_date`, not from `pricing_date` unless the row is explicitly a
+`pricing_proxy` fallback.
+
+Rows whose date uncertainty could affect inclusion or cohort status at 2021-08-06,
+2023-12-10, 2024-12-10, or 2024-12-11 are routed to `edge_case_review`. The same is
+true for every in-scope `pricing_proxy` fallback, so boundary-sensitive fallbacks are
+not silently included.
 
 ### Exclusions (precedence order)
 Issuer/security nature is evaluated first (a SPAC is out of scope on any exchange),
@@ -104,6 +128,7 @@ master inclusion flag** (Nasdaq + not excluded + listed in window).
 | `build/edge_case_review.csv` | Rows with confidence < 0.8, the vacatur-date edge case, or in-scope rows with an unverified security type. |
 | `build/validation_issues.csv` | Every validation check that fired. |
 | `build/verification_sample.csv` | 20 in-scope records re-verified against live EDGAR. |
+| `build/date_source_audit.txt` | Date-basis distribution, listing-date provenance coverage, fallback counts, and examples where Nasdaq date differs from EDGAR pricing date. |
 | `build/validation_report.txt` | PASS/FAIL of all structural invariants. |
 | `schema.sql` | Full SQLite schema with comments. |
 
@@ -124,10 +149,13 @@ cd scripts
 python3 01_harvest_index.py     # EDGAR quarterly indices -> candidates.json
 python3 02_enrich_submissions.py# Submissions API per CIK -> enriched.json
 python3 02b_recover_8a12b.py     # IPO-time exchange & security -> ipo_8a12b.json
+python3 02c_harvest_nasdaq_ipo_calendar.py # Nasdaq IPO Calendar -> listing dates
 python3 03_build_db.py           # classify + derive + build SQLite (+ provenance)
 python3 04_export.py             # CSV deliverables
 python3 05_validate.py           # structural invariants -> validation_report.txt
 python3 06_verify_sample.py      # re-verify 20 records vs live EDGAR
+python3 07_provenance_coverage.py# exported-cell provenance coverage
+python3 08_date_source_audit.py  # date-source distribution and fallback audit
 # or simply:
 ./rebuild.sh
 ```
@@ -150,8 +178,9 @@ after the first pass.
 
 ## 6. Known limitations
 
-- **Listing date is a 424B4 pricing proxy** (±1–2 business days); see §2. Cohort
-  boundaries that could be affected are surfaced in `edge_case_review`.
+- **Nasdaq IPO Calendar coverage is strong but not universal.** Unmatched Nasdaq
+  rows fall back to the 424B4/424B1 pricing/prospectus date with
+  `listing_confidence < 0.8` and are routed to `edge_case_review` if in scope.
 - **Market tier** comes from the *current* Nasdaq directory, so issuers that have
   since delisted have `market_tier = NULL` (their inclusion does not depend on tier).
 - **`sec_effectiveness_date`** is not reliably available from the Submissions API and
@@ -162,4 +191,8 @@ after the first pass.
 - Candidate construction requires a priced 424B4/424B1; a **bona-fide direct listing
   documented as an IPO** without such a prospectus would not be captured (direct
   listings are out of scope by design).
+- The exported list identifies companies subject to the **initial Board Diversity
+  Matrix disclosure obligation**. It does **not** claim that an actual diversity
+  matrix disclosure was located for each company; actual disclosure collection is not
+  implemented in this package.
 l

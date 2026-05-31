@@ -12,6 +12,7 @@ import json
 import os
 import re
 import sqlite3
+import string
 
 import config as C
 
@@ -41,6 +42,134 @@ def load_nasdaqlisted():
 
 TIER = {"Q": "Global Select", "G": "Global Market", "S": "Capital Market"}
 
+CORP_WORDS = {
+    "INC", "INCORPORATED", "CORP", "CORPORATION", "CO", "COMPANY", "LTD",
+    "LIMITED", "PLC", "SA", "AG", "NV", "BV", "HOLDING", "HOLDINGS", "GROUP",
+    "THE", "DE", "FL", "CL", "A", "CLASS",
+}
+
+
+def norm_symbol(s: str | None) -> str:
+    return re.sub(r"[^A-Z0-9]", "", (s or "").upper())
+
+
+def norm_name(s: str | None) -> str:
+    s = (s or "").upper().translate(str.maketrans("", "", string.punctuation))
+    toks = [t for t in s.split() if t and t not in CORP_WORDS]
+    return " ".join(toks)
+
+
+def name_score(a: str | None, b: str | None) -> float:
+    na, nb = norm_name(a), norm_name(b)
+    if not na or not nb:
+        return 0.0
+    if na == nb:
+        return 1.0
+    if na in nb or nb in na:
+        return 0.92
+    ta, tb = set(na.split()), set(nb.split())
+    if not ta or not tb:
+        return 0.0
+    return len(ta & tb) / len(ta | tb)
+
+
+def load_nasdaq_ipo_calendar():
+    path = os.path.join(C.DATA, "nasdaq_ipo_calendar_priced.json")
+    if not os.path.exists(path):
+        return []
+    return json.load(open(path))
+
+
+def resolve_nasdaq_listing_date(x: dict, calendar_rows: list[dict], exchange: str):
+    """Resolve listing date by priority: Nasdaq first-trading/priced date,
+    official listing date if later added, then EDGAR pricing/prospectus date.
+
+    The harvested Nasdaq IPO Calendar has the primary Nasdaq source currently
+    available in this package. It labels the field `pricedDate`; for IPOs this
+    is the Nasdaq IPO calendar date used here as first-trading/pricing day.
+    """
+    pros_date = x.get("prospectus_date")
+    if exchange != "Nasdaq":
+        return {
+            "listing_date": pros_date,
+            "date_basis": C.DATE_BASIS_PRICING_PROXY,
+            "confidence": C.PRICING_PROXY_CONFIDENCE,
+            "source_id": "SRC_EDGAR_FULLINDEX",
+            "source_url": None,
+            "source_location": f"EDGAR full-index: {x.get('prospectus_form')} filing date",
+            "observed": (
+                f"Resolved exchange is {exchange}; no Nasdaq first-trading date applies. "
+                f"Fallback to {x.get('prospectus_form')} filed {pros_date}"
+            ),
+            "raw": pros_date,
+            "method": "pricing_proxy_fallback",
+            "match_detail": f"exchange={exchange}; Nasdaq calendar not applied",
+        }
+    pros_d = C.parse_date(pros_date)
+    reg_d = C.parse_date(x.get("reg_date_8a12b"))
+    tickers = {norm_symbol(t) for t in (x.get("tickers") or []) if t}
+    names = [x.get("legal_name"), x.get("index_name")] + (x.get("former_names") or [])
+
+    best = None
+    for row in calendar_rows:
+        rd = C.parse_date(row.get("priced_date"))
+        if rd is None:
+            continue
+        if pros_d and abs((rd - pros_d).days) > 7:
+            continue
+        if reg_d and abs((rd - reg_d).days) > C.IPO_JOIN_WINDOW_DAYS:
+            continue
+        sym = norm_symbol(row.get("ticker"))
+        sym_match = bool(sym and (sym in tickers or sym.rstrip("U") in tickers))
+        ns = max(name_score(n, row.get("company_name")) for n in names if n)
+        if not sym_match and ns < 0.72:
+            continue
+        date_bonus = 0
+        if pros_d:
+            date_bonus = max(0, 10 - abs((rd - pros_d).days))
+        score = (100 if sym_match else 0) + int(ns * 80) + date_bonus
+        cand = {"score": score, "name_score": ns, "row": row}
+        if best is None or cand["score"] > best["score"]:
+            best = cand
+
+    if best:
+        ns, row = best["name_score"], best["row"]
+        sym = norm_symbol(row.get("ticker"))
+        sym_match = bool(sym and (sym in tickers or sym.rstrip("U") in tickers))
+        conf = 0.94 if sym_match and ns >= 0.72 else 0.88
+        return {
+            "listing_date": row["priced_date"],
+            "date_basis": C.DATE_BASIS_FIRST_TRADING,
+            "confidence": conf,
+            "source_id": "SRC_NASDAQ_IPO_CALENDAR",
+            "source_url": row["source_url"],
+            "source_location": row["source_location"],
+            "observed": (
+                f"Nasdaq IPO Calendar priced row: symbol={row.get('ticker')}; "
+                f"company={row.get('company_name')}; exchange={row.get('exchange_market')}; "
+                f"date={row.get('priced_date')}"
+            ),
+            "raw": row.get("priced_date"),
+            "method": "nasdaq_ipo_calendar_match",
+            "match_detail": (
+                f"ticker_match={sym_match}; name_score={ns:.2f}; "
+                f"nasdaq_company={row.get('company_name')}; nasdaq_symbol={row.get('ticker')}"
+            ),
+        }
+
+    return {
+        "listing_date": pros_date,
+        "date_basis": C.DATE_BASIS_PRICING_PROXY,
+        "confidence": C.PRICING_PROXY_CONFIDENCE,
+        "source_id": "SRC_EDGAR_FULLINDEX",
+        "source_url": None,
+        "source_location": f"EDGAR full-index: {x.get('prospectus_form')} filing date",
+        "observed": f"No matching Nasdaq IPO Calendar priced row; fallback to {x.get('prospectus_form')} filed {pros_date}",
+        "raw": pros_date,
+        "method": "pricing_proxy_fallback",
+        "match_detail": "no Nasdaq IPO Calendar match within name/ticker/date thresholds",
+    }
+
 
 def sec_type_from_name(name: str) -> str | None:
     n = (name or "").lower()
@@ -69,6 +198,7 @@ def main():
     # title at listing; reveals deSPACs that now look operating on the same CIK).
     ipo8a = json.load(open(os.path.join(C.DATA, "ipo_8a12b.json")))
     ndq = load_nasdaqlisted()
+    nasdaq_calendar = load_nasdaq_ipo_calendar()
 
     SUB_URL = "https://data.sec.gov/submissions/CIK{cik10}.json"
     rows = []           # final per-event dicts
@@ -222,24 +352,14 @@ def main():
         is_excluded = 1 if excl else 0
 
         # ---- nasdaq_listing_date resolution (required priority order) ----
-        # (1) first trading date on Nasdaq and (2) official Nasdaq listing date
-        # are not published by EDGAR for these issuers (no first-trade tape, no
-        # Nasdaq listing-date feed in our sources), so they resolve to None here.
-        # (3) The 424B4/424B1 final (priced) prospectus filing date is the
-        # FALLBACK pricing proxy: date_basis='pricing_proxy', confidence < 0.8,
-        # and the row is routed to edge_case_review.
+        # (1) Nasdaq IPO Calendar priced/listing date (treated as first-trading
+        # day for IPOs), (2) official Nasdaq listing date if a future source adds
+        # it, (3) 424B4/424B1 filing date as fallback only.
         pros_date = x.get("prospectus_date")
-        first_trading_date = None      # source unavailable in EDGAR
-        official_listing_date = None   # source unavailable in EDGAR
-        if first_trading_date:
-            listing_date, date_basis, date_conf = (
-                first_trading_date, C.DATE_BASIS_FIRST_TRADING, 0.97)
-        elif official_listing_date:
-            listing_date, date_basis, date_conf = (
-                official_listing_date, C.DATE_BASIS_OFFICIAL, 0.95)
-        else:
-            listing_date, date_basis, date_conf = (
-                pros_date, C.DATE_BASIS_PRICING_PROXY, C.PRICING_PROXY_CONFIDENCE)
+        date_resolution = resolve_nasdaq_listing_date(x, nasdaq_calendar, exchange)
+        listing_date = date_resolution["listing_date"]
+        date_basis = date_resolution["date_basis"]
+        date_conf = date_resolution["confidence"]
         listing_d = C.parse_date(listing_date) if listing_date else None
         is_pricing_proxy = (date_basis == C.DATE_BASIS_PRICING_PROXY)
         near_bound = C.near_boundary(listing_d)
@@ -290,6 +410,10 @@ def main():
             notes.append("IPO-time security was Units (SPAC); CIK may now show a merged operating company")
         if exchange == "unknown":
             notes.append("exchange unresolved; routed to edge_case_review")
+        if date_basis == C.DATE_BASIS_FIRST_TRADING and pros_date and pros_date != listing_date:
+            notes.append(f"Nasdaq IPO Calendar date differs from 424B filing date ({pros_date})")
+        if date_basis == C.DATE_BASIS_PRICING_PROXY:
+            notes.append("Nasdaq listing date unresolved; using low-confidence pricing/prospectus fallback")
 
         # ---- edge_case_review routing ----
         # A row enters the review queue when its inclusion/cohort hinges on the
@@ -304,6 +428,8 @@ def main():
             review_reasons.append("edge_date_2024-12-11")
         if overall < C.CONFIDENCE_REVIEW_THRESHOLD:
             review_reasons.append("confidence_below_0.8")
+        if date_conf < C.CONFIDENCE_REVIEW_THRESHOLD:
+            review_reasons.append("listing_date_confidence_below_0.8")
         if in_scope and "unverified" in (security_type or ""):
             review_reasons.append("in_scope_security_type_unverified")
         if exchange == "unknown":
@@ -527,24 +653,34 @@ def main():
             observed="(SEC effectiveness date unavailable: EFFECT notices not harvested; "
                      "kept NULL by design, pricing proxy used for listing date)",
             raw=None, norm=None, method="not_collected", conf=0.5)
-        der("ipo_events", "nasdaq_listing_date",
-            formula="nasdaq_listing_date := first_trading_date ?? official_listing_date "
-                    "?? pricing_date (424B4/424B1 filing date). first_trading/official "
-                    "unavailable in EDGAR -> pricing_proxy fallback.",
-            rule_src="SRC_EDGAR_FULLINDEX", url=pidx_url,
-            observed=f"basis={date_basis}; value={listing_date}",
-            raw=pros_date, norm=listing_date, conf=date_conf)
+        if date_basis == C.DATE_BASIS_FIRST_TRADING:
+            obs("ipo_events", "nasdaq_listing_date",
+                source_id=date_resolution["source_id"], url=date_resolution["source_url"],
+                location=date_resolution["source_location"],
+                observed=date_resolution["observed"], raw=date_resolution["raw"],
+                norm=listing_date, method=date_resolution["method"], conf=date_conf)
+        else:
+            obs("ipo_events", "nasdaq_listing_date",
+                source_id="SRC_EDGAR_FULLINDEX", url=pidx_url,
+                location=date_resolution["source_location"],
+                observed=date_resolution["observed"], raw=pros_date,
+                norm=listing_date, method=date_resolution["method"], conf=date_conf)
         der("ipo_events", "listing_date_basis",
             formula="label of the resolution tier used for nasdaq_listing_date "
                     "(first_trading|official_listing|pricing_proxy)",
-            rule_src="SRC_EDGAR_FULLINDEX", url=pidx_url,
-            observed=f"resolved to {date_basis}", raw=date_basis, norm=date_basis,
+            rule_src=date_resolution["source_id"],
+            url=date_resolution["source_url"] or pidx_url,
+            observed=f"resolved to {date_basis}; {date_resolution['match_detail']}",
+            raw=date_basis, norm=date_basis,
             conf=date_conf)
         der("ipo_events", "listing_confidence",
             formula="confidence in the EXACT listing date by basis "
-                    f"(pricing_proxy={C.PRICING_PROXY_CONFIDENCE} (<0.8), official=0.95, first_trading=0.97)",
-            rule_src="SRC_EDGAR_FULLINDEX", url=pidx_url,
-            observed=f"basis={date_basis}", raw=date_conf, norm=date_conf, conf=date_conf)
+                    f"(pricing_proxy={C.PRICING_PROXY_CONFIDENCE} (<0.8), official=0.95, "
+                    "Nasdaq IPO Calendar first_trading=0.88-0.94 by match strength)",
+            rule_src=date_resolution["source_id"],
+            url=date_resolution["source_url"] or pidx_url,
+            observed=f"basis={date_basis}; {date_resolution['match_detail']}",
+            raw=date_conf, norm=date_conf, conf=date_conf)
 
         # ---------------- rule_applicability: derived flags -----------------
         flag_obs = f"sic={sic}; entity={entity}; sec={security_type}; name={name}"

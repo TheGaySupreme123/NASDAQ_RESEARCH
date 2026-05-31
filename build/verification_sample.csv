@@ -1,21 +1,21 @@
-cik,ticker,legal_name,exchange,security_type,listing_date,due_date,broad_cohort,narrow_matured_cohort,result,failed_checks,verify_url
-1689731,,"Southern States Bancshares, Inc.",Nasdaq,common stock,2021-08-12,2022-08-12,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1689731&type=424B4
-1866757,BRLT,"Brilliant Earth Group, Inc.",Nasdaq,common stock,2021-09-24,2022-09-24,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1866757&type=424B4
-1840229,INKT,"MiNK Therapeutics, Inc.",Nasdaq,common stock,2021-10-15,2022-10-15,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1840229&type=424B4
-1831283,LIANY,LianBio,Nasdaq,ADS,2021-11-02,2022-11-02,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831283&type=424B4
-1779372,BEAT,"HeartBeam, Inc.",Nasdaq,common stock,2021-11-12,2022-11-12,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1779372&type=424B4
-1191070,NEUP,Neuphoria Therapeutics Inc.,Nasdaq,ADS,2021-12-17,2022-12-17,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1191070&type=424B4
-1074871,MODD,"Modular Medical, Inc.",Nasdaq,common stock,2022-02-11,2023-02-11,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1074871&type=424B4
-1888012,,"HilleVax, Inc.",Nasdaq,common stock,2022-04-29,2023-04-29,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1888012&type=424B4
-1414767,NCPL,Netcapital Inc.,Nasdaq,common stock,2022-07-14,2023-07-14,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1414767&type=424B4
-1650101,ATXG,ADDENTAX GROUP CORP.,Nasdaq,common stock,2022-09-01,2023-09-01,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1650101&type=424B4
-1519449,SKWD,"Skyward Specialty Insurance Group, Inc.",Nasdaq,common stock,2023-01-13,2024-01-13,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1519449&type=424B4
-1944902,OMH,Ohmyhome Ltd,Nasdaq,ordinary shares,2023-03-22,2024-03-22,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1944902&type=424B4
-1939780,UCAR,U Power Ltd,Nasdaq,ordinary shares,2023-04-21,2024-04-21,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1939780&type=424B4
-1951667,CTNT,CHEETAH NET SUPPLY CHAIN SERVICE INC.,Nasdaq,common stock,2023-08-02,2024-08-02,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1951667&type=424B4
-1948884,,Gamer Pakistan Inc,Nasdaq,common stock,2023-10-02,2024-10-02,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948884&type=424B4
-1948436,JL,J-Long Group Ltd,Nasdaq,ordinary shares,2024-01-23,2025-01-23,1,0,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948436&type=424B4
-1966750,ZBAO,Zhibao Technology Inc.,Nasdaq,ordinary shares,2024-04-02,2025-04-02,1,0,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1966750&type=424B4
-1948443,RAY,Raytech Holding Ltd,Nasdaq,ordinary shares,2024-05-15,2025-05-15,1,0,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948443&type=424B4
-1984014,BLMZF,Harrison Global Holdings Inc.,Nasdaq,ordinary shares,2024-07-23,2025-07-23,1,0,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1984014&type=424B4
-2023153,HTLM,HomesToLife Ltd,Nasdaq,ordinary shares,2024-10-01,2025-10-01,1,0,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2023153&type=424B4
+cik,ticker,legal_name,exchange,security_type,listing_date,due_date,listing_date_basis,pricing_date,broad_cohort,narrow_matured_cohort,result,failed_checks,verify_url
+1689731,,"Southern States Bancshares, Inc.",Nasdaq,common stock,2021-08-12,2022-08-12,first_trading,2021-08-12,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1689731&type=424B4
+1853816,DRMA,"Dermata Therapeutics, Inc.",Nasdaq,common stock,2021-08-13,2022-08-13,first_trading,2021-08-16,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1853816&type=424B4
+1534154,AUID,authID Inc.,Nasdaq,common stock,2021-08-25,2022-08-25,pricing_proxy,2021-08-25,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1534154&type=424B4
+1961847,INHD,INNO HOLDINGS INC.,Nasdaq,common stock,2023-12-04,2024-12-04,pricing_proxy,2023-12-04,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1961847&type=424B4
+1954269,GSIW,Garden Stage Ltd,Nasdaq,ordinary shares,2023-12-01,2024-12-01,first_trading,2023-12-04,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1954269&type=424B4
+1969401,UZX,Linkage Global Inc,Nasdaq,ordinary shares,2023-12-19,2024-12-19,first_trading,2023-12-20,1,0,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1969401&type=424B4
+1972074,LNKS,Linkers Industries Ltd,Nasdaq,ordinary shares,2024-12-05,2025-12-05,first_trading,2024-12-05,1,0,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1972074&type=424B4
+1969302,PONY,Pony AI Inc.,Nasdaq,ADS,2024-11-27,2025-11-27,first_trading,2024-11-27,1,0,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1969302&type=424B4
+1967822,CGTL,Creative Global Technology Holdings Ltd,Nasdaq,ordinary shares,2024-11-26,2025-11-26,first_trading,2024-11-26,1,0,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1967822&type=424B4
+1574094,RNXT,"RenovoRx, Inc.",Nasdaq,common stock,2021-08-26,2022-08-26,first_trading,2021-08-27,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1574094&type=424B4
+1605888,ATLN,ATLANTIC INTERNATIONAL CORP.,Nasdaq,common stock,2021-08-27,2022-08-27,first_trading,2021-08-30,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1605888&type=424B4
+1836470,SRAD,Sportradar Group AG,Nasdaq,ordinary shares,2021-09-14,2022-09-14,first_trading,2021-09-15,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1836470&type=424B4
+1588978,PRCT,PROCEPT BioRobotics Corp,Nasdaq,common stock,2021-09-15,2022-09-15,first_trading,2021-09-16,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1588978&type=424B4
+1645569,,"DICE Therapeutics, Inc.",Nasdaq,common stock,2021-09-15,2022-09-15,first_trading,2021-09-16,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1645569&type=424B4
+1817004,NXXT,"NEXTNRG, INC.",Nasdaq,common stock,2021-09-15,2022-09-15,first_trading,2021-09-16,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1817004&type=424B4
+1841330,KTTA,Pasithea Therapeutics Corp.,Nasdaq,common stock,2021-09-15,2022-09-15,first_trading,2021-09-16,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1841330&type=424B4
+1861795,DH,Definitive Healthcare Corp.,Nasdaq,common stock,2021-09-15,2022-09-15,first_trading,2021-09-16,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1861795&type=424B4
+1866550,,"Thoughtworks Holding, Inc.",Nasdaq,common stock,2021-09-15,2022-09-15,first_trading,2021-09-16,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1866550&type=424B4
+1645070,,Sterling Check Corp.,Nasdaq,common stock,2021-09-23,2022-09-23,first_trading,2021-09-24,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1645070&type=424B4
+1782170,RELY,"Remitly Global, Inc.",Nasdaq,common stock,2021-09-23,2022-09-23,first_trading,2021-09-24,1,1,PASS,(none),https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1782170&type=424B4

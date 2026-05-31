@@ -18,10 +18,11 @@ RAW = os.path.join(DATA, "raw")
 RAW_INDEX = os.path.join(RAW, "index")
 RAW_SUBMISSIONS = os.path.join(RAW, "submissions")
 RAW_RULES = os.path.join(RAW, "rules")
+RAW_NASDAQ_IPO = os.path.join(RAW, "nasdaq_ipo_calendar")
 BUILD = os.path.join(ROOT, "build")
 SQLITE_PATH = os.path.join(BUILD, "nasdaq_board_diversity_ipo_applicability.sqlite")
 
-for _d in (RAW_INDEX, RAW_SUBMISSIONS, RAW_RULES, BUILD):
+for _d in (RAW_INDEX, RAW_SUBMISSIONS, RAW_RULES, RAW_NASDAQ_IPO, BUILD):
     os.makedirs(_d, exist_ok=True)
 
 # --------------------------------------------------------------------------
@@ -61,11 +62,9 @@ CONFIDENCE_REVIEW_THRESHOLD = 0.8
 # nasdaq_listing_date resolution.
 # Preference order (spec): (1) first trading date on Nasdaq, (2) official
 # Nasdaq listing date, (3) IPO pricing date as a FALLBACK only.
-# EDGAR does not publish a first-trade tape or an official Nasdaq listing-date
-# feed, so for these issuers the best available signal is the 424B4/424B1 final
-# (priced) prospectus filing date -> the pricing date. Because that is the
-# fallback tier, every such row is labeled date_basis='pricing_proxy', given a
-# listing_confidence < 0.8, and routed to edge_case_review.
+# The Nasdaq IPO Calendar is harvested as the primary first-trading/pricing-day
+# source where it has a Nasdaq priced row matching the issuer. EDGAR 424B4/424B1
+# remains a fallback only and is always confidence < 0.8.
 DATE_BASIS_FIRST_TRADING = "first_trading"
 DATE_BASIS_OFFICIAL = "official_listing"
 DATE_BASIS_PRICING_PROXY = "pricing_proxy"
@@ -218,4 +217,10 @@ SOURCE_MANIFEST = [
      "Nasdaq, Inc. / NasdaqTrader",
      "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
      "Current Nasdaq listings with market tier category (Q/G/S)."),
+    ("SRC_NASDAQ_IPO_CALENDAR", "data", "Nasdaq IPO Calendar API - priced IPO rows",
+     "Nasdaq, Inc.",
+     "https://api.nasdaq.com/api/ipo/calendar?date=YYYY-MM",
+     "Monthly cached Nasdaq IPO Calendar JSON. Priced rows provide the Nasdaq "
+     "IPO calendar date, used as first-trading/pricing-day source when matched "
+     "to the issuer by ticker/name/date."),
 ]

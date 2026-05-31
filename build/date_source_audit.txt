@@ -1,0 +1,45 @@
+Date Source Audit
+=================
+total rows: 938
+in_scope_nasdaq: 409
+
+date_basis distribution:
+  first_trading: 663
+  pricing_proxy: 275
+
+nasdaq_listing_date provenance source coverage:
+  SRC_NASDAQ_IPO_CALENDAR: 663
+  SRC_EDGAR_FULLINDEX: 275
+
+pricing_proxy rows: 275
+in-scope pricing_proxy rows: 49
+listing_confidence < 0.8 rows: 275
+in-scope listing_confidence < 0.8 rows: 49
+
+Nasdaq date differs from EDGAR pricing/prospectus date:
+  count shown/total: 25 / 250
+  1853816 DRMA Dermata Therapeutics, Inc.: Nasdaq=2021-08-13 EDGAR_pricing=2021-08-16
+  1574094 RNXT RenovoRx, Inc.: Nasdaq=2021-08-26 EDGAR_pricing=2021-08-27
+  1605888 ATLN ATLANTIC INTERNATIONAL CORP.: Nasdaq=2021-08-27 EDGAR_pricing=2021-08-30
+  1836470 SRAD Sportradar Group AG: Nasdaq=2021-09-14 EDGAR_pricing=2021-09-15
+  1588978 PRCT PROCEPT BioRobotics Corp: Nasdaq=2021-09-15 EDGAR_pricing=2021-09-16
+  1645569  DICE Therapeutics, Inc.: Nasdaq=2021-09-15 EDGAR_pricing=2021-09-16
+  1817004 NXXT NEXTNRG, INC.: Nasdaq=2021-09-15 EDGAR_pricing=2021-09-16
+  1841330 KTTA Pasithea Therapeutics Corp.: Nasdaq=2021-09-15 EDGAR_pricing=2021-09-16
+  1861795 DH Definitive Healthcare Corp.: Nasdaq=2021-09-15 EDGAR_pricing=2021-09-16
+  1866550  Thoughtworks Holding, Inc.: Nasdaq=2021-09-15 EDGAR_pricing=2021-09-16
+  1645070  Sterling Check Corp.: Nasdaq=2021-09-23 EDGAR_pricing=2021-09-24
+  1782170 RELY Remitly Global, Inc.: Nasdaq=2021-09-23 EDGAR_pricing=2021-09-24
+  1856608  Sovos Brands, Inc.: Nasdaq=2021-09-23 EDGAR_pricing=2021-09-24
+  1866757 BRLT Brilliant Earth Group, Inc.: Nasdaq=2021-09-23 EDGAR_pricing=2021-09-24
+  1628945  Cue Health Inc.: Nasdaq=2021-09-24 EDGAR_pricing=2021-09-27
+  1868726 OLPX OLAPLEX HOLDINGS, INC.: Nasdaq=2021-09-30 EDGAR_pricing=2021-10-01
+  1676047 NTRB NutriBand Inc.: Nasdaq=2021-10-01 EDGAR_pricing=2021-10-05
+  1865408  Exscientia plc: Nasdaq=2021-10-01 EDGAR_pricing=2021-10-04
+  1789940 FWRG First Watch Restaurant Group, Inc.: Nasdaq=2021-10-01 EDGAR_pricing=2021-10-04
+  1829794 EMPD Empery Digital Inc.: Nasdaq=2021-10-06 EDGAR_pricing=2021-10-07
+  1455365 CGTX COGNITION THERAPEUTICS INC: Nasdaq=2021-10-08 EDGAR_pricing=2021-10-12
+  1615055  IsoPlexis Corp: Nasdaq=2021-10-08 EDGAR_pricing=2021-10-12
+  1419554 BBLG Bone Biologics Corp: Nasdaq=2021-10-13 EDGAR_pricing=2021-10-15
+  1839285 HCTI Healthcare Triangle, Inc.: Nasdaq=2021-10-13 EDGAR_pricing=2021-10-14
+  1858257  AvidXchange Holdings, Inc.: Nasdaq=2021-10-13 EDGAR_pricing=2021-10-14

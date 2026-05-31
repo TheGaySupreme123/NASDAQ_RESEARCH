@@ -1,4 +1,4 @@
-Validation report  (2026-05-31T18:43:47.604553+00:00)
+Validation report  (2026-05-31T19:00:09.228455+00:00)
 20/20 checks passed
 
   [PASS] no in-scope broad row before rule start  (count=0)

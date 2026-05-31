@@ -63,7 +63,7 @@ ORDER BY a.in_scope_nasdaq DESC, e.nasdaq_listing_date
 """
 
 
-def dump(cur, sql, path, source_ids="SRC_EDGAR_FULLINDEX;SRC_EDGAR_SUBMISSIONS;SRC_NASDAQ_SYMDIR"):
+def dump(cur, sql, path, source_ids="SRC_EDGAR_FULLINDEX;SRC_EDGAR_SUBMISSIONS;SRC_NASDAQ_IPO_CALENDAR;SRC_NASDAQ_SYMDIR"):
     cur.execute(sql)
     cols = [d[0] for d in cur.description]
     rows = cur.fetchall()
