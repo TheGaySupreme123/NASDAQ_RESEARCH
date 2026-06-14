@@ -1,0 +1,26 @@
+{
+  "rows": 177,
+  "continued": 120,
+  "not_continued": 57,
+  "feature_count": 50,
+  "best_model": {
+    "model": "knn_k_11",
+    "auc": 0.6524122807017544,
+    "accuracy_at_0_50": 0.6779661016949152,
+    "log_loss": 0.6605628932861788
+  },
+  "report": "build/analysis/post_vacatur_differentiators/report.html",
+  "charts": {
+    "status": "build/analysis/post_vacatur_differentiators/charts/continuation_outcomes.png",
+    "diff": "build/analysis/post_vacatur_differentiators/charts/categorical_differentiators.png",
+    "coef": "build/analysis/post_vacatur_differentiators/charts/logistic_coefficients.png",
+    "clusters": "build/analysis/post_vacatur_differentiators/charts/clusters.png",
+    "geo": "build/analysis/post_vacatur_differentiators/charts/geography_us_vs_non_us.png",
+    "state": "build/analysis/post_vacatur_differentiators/charts/us_state_continuation.png",
+    "subtype_issuer": "build/analysis/post_vacatur_differentiators/charts/continuation_subtype_by_issuer.png"
+  },
+  "source_files": [
+    "build/post_vacatur_company_profile_enrichment.csv",
+    "build/definitive_required_matured_verified_matrix_sources.csv"
+  ]
+}

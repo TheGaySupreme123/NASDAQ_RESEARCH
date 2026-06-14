@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Post-Vacatur Continuation Differentiators</title>
+  <style>
+    body { margin: 0; background: #FCFCFD; color: #1F2430; font-family: Inter, Aptos, Segoe UI, Arial, sans-serif; }
+    main { max-width: 1080px; margin: 0 auto; padding: 48px 28px 72px; }
+    h1 { font-size: 34px; line-height: 1.1; margin: 0 0 26px; letter-spacing: 0; }
+    h2 { font-size: 22px; margin: 34px 0 12px; }
+    h3 { font-size: 16px; margin: 22px 0 8px; }
+    p, li { font-size: 15px; line-height: 1.58; }
+    .summary { border-left: 4px solid #5477C4; padding-left: 18px; }
+    .metric-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 20px 0 24px; }
+    .metric { background: #FFFFFF; border: 1px solid #E6E8F0; border-radius: 8px; padding: 14px 16px; }
+    .metric strong { display: block; font-size: 24px; }
+    .metric span { color: #6F768A; font-size: 12px; }
+    .callout { background: #FFFFFF; border: 1px solid #E6E8F0; border-left: 4px solid #B8A037; border-radius: 8px; padding: 14px 16px; margin: 18px 0; }
+    .callout strong { display: block; margin-bottom: 4px; }
+    figure { margin: 24px 0 28px; }
+    figure img { width: 100%; max-width: 100%; border: 1px solid #E6E8F0; border-radius: 8px; background: #FFFFFF; }
+    figcaption { color: #6F768A; font-size: 13px; line-height: 1.45; margin-top: 8px; }
+    table { width: 100%; border-collapse: collapse; background: #FFFFFF; border: 1px solid #E6E8F0; margin: 12px 0 20px; }
+    th, td { text-align: left; border-bottom: 1px solid #E6E8F0; padding: 9px 10px; font-size: 13px; vertical-align: top; }
+    th { background: #F4F5F7; color: #464C55; font-weight: 650; }
+    code { background: #F4F5F7; padding: 2px 5px; border-radius: 4px; }
+    @media (max-width: 760px) { .metric-row { grid-template-columns: 1fr 1fr; } main { padding: 32px 18px; } }
+    </style>
+</head>
+<body>
+<main>
+  <h1>Post-Vacatur Continuation Differentiators</h1>
+
+  <h2>Executive Summary</h2>
+  <div class="summary">
+    <p><strong>Most validated companies continued some board-diversity disclosure.</strong> In the strict required/matured verified cohort, 120 of 177 companies continued after the December 11, 2024 vacatur (67.8%): 42 kept a matrix and 78 kept other board/diversity narrative.</p>
+    <p><strong>The cleanest structural signal is domestic, US-centered operating-company profile.</strong> Domestic issuers continued at a higher rate than foreign private issuers, and US-headquartered companies were materially more likely to continue than several non-US clusters.</p>
+    <p><strong>The models find weak-to-moderate rank-order signal, but not a hard separator.</strong> The best non-baseline cross-validated model was knn_k_11 with AUC 0.652; the base-rate benchmark has AUC 0.500. K-means clusters stayed mixed, so these are useful differentiators, not a deterministic classifier.</p>
+    <p><strong>Do not use post-vacatur filing availability as a company trait.</strong> Candidate filing count separates outcomes strongly, but it is partly definitional because companies with no relevant post-vacatur filing cannot show continuation evidence in this pipeline.</p>
+  </div>
+
+  <div class="metric-row">
+    <div class="metric"><strong>177</strong><span>Modeled companies</span></div>
+    <div class="metric"><strong>67.8%</strong><span>Continued disclosure</span></div>
+    <div class="metric"><strong>42</strong><span>Continued same matrix</span></div>
+    <div class="metric"><strong>57</strong><span>Not continued in reviewed evidence</span></div>
+  </div>
+
+  <h2>Outcome shape</h2>
+  <p><strong>The continuation label has two positive modes.</strong> A company is counted as continued when a post-vacatur filing either contains a high-confidence Board Diversity Matrix or contains board/diversity narrative. Narrative continuation is the larger positive bucket, so the answer should not be read as “most companies kept the exact Nasdaq matrix.”</p>
+  <figure>
+    <img src="charts/continuation_outcomes.png" alt="Continuation outcome counts">
+    <figcaption>Source: <code>build/post_vacatur_continuation_by_company.csv</code>. The review form set includes proxy, annual, and selected foreign issuer forms after December 11, 2024.</figcaption>
+  </figure>
+
+  <h2>What we found so far</h2>
+  <p><strong>The main behavioral split is not simply company size or industry.</strong> The evidence points first to issuer/reporting structure: US or domestic companies, proxy-style evidence, and higher market-tier companies continued at higher rates. Foreign private issuer and 20-F-linked groups continued less often.</p>
+  <p><strong>Continuation often became softer rather than disappearing.</strong> The largest positive bucket is not same-matrix continuation; it is other board/diversity narrative. That means the post-vacatur behavior is partly a shift from explicit Nasdaq matrix form toward more general governance/diversity language.</p>
+
+  <h2>Continuation subtype differs by issuer type</h2>
+  <p><strong>Domestic issuers carry more of the same-matrix signal.</strong> Foreign private issuers are lower overall and the evidence mix is more dependent on narrative or missing/review-negative outcomes. This is one reason the model repeatedly surfaces issuer type, 20-F source, and geography together.</p>
+  <figure>
+    <img src="charts/continuation_subtype_by_issuer.png" alt="Continuation subtype by issuer type">
+    <figcaption>Source: stage 11 continuation classification joined to stage 12 profile enrichment. This view keeps matrix continuation separate from narrative-only continuation.</figcaption>
+  </figure>
+
+  <h2>Geography deep dive</h2>
+  <p><strong>Strict US-state headquarters remain higher than the rest of the cohort.</strong> Actual US-state HQ companies continued at 85/119 (71.4%), compared with 35/58 (60.3%) for non-US or non-state HQ records. The broader domestic/US signal is therefore not only a labeling artifact.</p>
+  <figure>
+    <img src="charts/geography_us_vs_non_us.png" alt="US versus non-US continuation rate">
+    <figcaption>The strict geography cut uses actual US state abbreviations in the headquarters field, not only issuer type.</figcaption>
+  </figure>
+
+  <p><strong>Inside the US, CA, NY, and TX look high; MA is the clearest lower-rate state with a useful denominator.</strong> Pennsylvania is 100%, but only three companies. Colorado is low, also only three companies. Massachusetts has enough rows to take seriously as an early review signal.</p>
+  <figure>
+    <img src="charts/us_state_continuation.png" alt="US state continuation rates">
+    <figcaption>US-state cuts with at least three companies. These are descriptive; they are not enough to claim state causality.</figcaption>
+  </figure>
+
+  <h3>US states with at least 3 companies</h3>
+  <table><thead><tr><th>value</th><th>n</th><th>continued</th><th>not_continued</th><th>continued_share</th><th>continued_share_ci_low</th><th>continued_share_ci_high</th><th>signal_confidence</th></tr></thead><tbody>
+<tr><td>PA</td><td>3</td><td>3</td><td>0</td><td>100.0%</td><td>43.8%</td><td>100.0%</td><td>too small</td></tr>
+<tr><td>TX</td><td>7</td><td>6</td><td>1</td><td>85.7%</td><td>48.7%</td><td>97.4%</td><td>early signal</td></tr>
+<tr><td>NY</td><td>11</td><td>9</td><td>2</td><td>81.8%</td><td>52.3%</td><td>94.9%</td><td>directional</td></tr>
+<tr><td>CA</td><td>40</td><td>32</td><td>8</td><td>80.0%</td><td>65.2%</td><td>89.5%</td><td>stronger descriptive signal</td></tr>
+<tr><td>OH</td><td>4</td><td>3</td><td>1</td><td>75.0%</td><td>30.1%</td><td>95.4%</td><td>too small</td></tr>
+<tr><td>FL</td><td>15</td><td>11</td><td>4</td><td>73.3%</td><td>48.0%</td><td>89.1%</td><td>directional</td></tr>
+<tr><td>MA</td><td>18</td><td>10</td><td>8</td><td>55.6%</td><td>33.7%</td><td>75.4%</td><td>directional</td></tr>
+<tr><td>CO</td><td>3</td><td>1</td><td>2</td><td>33.3%</td><td>6.1%</td><td>79.2%</td><td>too small</td></tr>
+</tbody></table>
+
+  <h3>US cities with at least 2 companies</h3>
+  <p><strong>City-level results are useful for choosing manual examples, not for broad inference.</strong> San Francisco, San Diego, and New York have enough rows to inspect as examples. Boston and Cambridge are the most interesting low-continuation city signals, but they should be checked issuer-by-issuer before drawing a geographic conclusion.</p>
+  <table><thead><tr><th>value</th><th>n</th><th>continued</th><th>not_continued</th><th>continued_share</th><th>continued_share_ci_low</th><th>continued_share_ci_high</th><th>signal_confidence</th></tr></thead><tbody>
+<tr><td>Irvine, CA</td><td>4</td><td>4</td><td>0</td><td>100.0%</td><td>51.0%</td><td>100.0%</td><td>too small</td></tr>
+<tr><td>San Mateo, CA</td><td>3</td><td>3</td><td>0</td><td>100.0%</td><td>43.8%</td><td>100.0%</td><td>too small</td></tr>
+<tr><td>Watertown, MA</td><td>3</td><td>3</td><td>0</td><td>100.0%</td><td>43.8%</td><td>100.0%</td><td>too small</td></tr>
+<tr><td>Houston, TX</td><td>2</td><td>2</td><td>0</td><td>100.0%</td><td>34.2%</td><td>100.0%</td><td>too small</td></tr>
+<tr><td>Miami Beach, FL</td><td>2</td><td>2</td><td>0</td><td>100.0%</td><td>34.2%</td><td>100.0%</td><td>too small</td></tr>
+<tr><td>Mountain View, CA</td><td>2</td><td>2</td><td>0</td><td>100.0%</td><td>34.2%</td><td>100.0%</td><td>too small</td></tr>
+<tr><td>New York, NY</td><td>5</td><td>4</td><td>1</td><td>80.0%</td><td>37.6%</td><td>96.4%</td><td>early signal</td></tr>
+<tr><td>San Diego, CA</td><td>5</td><td>4</td><td>1</td><td>80.0%</td><td>37.6%</td><td>96.4%</td><td>early signal</td></tr>
+<tr><td>San Francisco, CA</td><td>10</td><td>7</td><td>3</td><td>70.0%</td><td>39.7%</td><td>89.2%</td><td>early signal</td></tr>
+<tr><td>Dallas, TX</td><td>2</td><td>1</td><td>1</td><td>50.0%</td><td>9.5%</td><td>90.5%</td><td>too small</td></tr>
+<tr><td>Santa Clara, CA</td><td>2</td><td>1</td><td>1</td><td>50.0%</td><td>9.5%</td><td>90.5%</td><td>too small</td></tr>
+<tr><td>Waltham, MA</td><td>2</td><td>1</td><td>1</td><td>50.0%</td><td>9.5%</td><td>90.5%</td><td>too small</td></tr>
+<tr><td>Boston, MA</td><td>6</td><td>2</td><td>4</td><td>33.3%</td><td>9.7%</td><td>70.0%</td><td>early signal</td></tr>
+<tr><td>Cambridge, MA</td><td>2</td><td>0</td><td>2</td><td>0.0%</td><td>0.0%</td><td>65.8%</td><td>too small</td></tr>
+</tbody></table>
+
+  <h2>What the differentiators have in common</h2>
+  <p><strong>Higher-continuation segments skew toward domestic, US, smaller-reporting or operating-company profiles.</strong> The strongest descriptive gaps appear in country/issuer structure and selected filing categories. Several negative gaps are foreign-jurisdiction groups with smaller samples, so they should be treated as prioritization leads for review, not final causal explanations.</p>
+  <figure>
+    <img src="charts/categorical_differentiators.png" alt="Categorical differentiator rates">
+    <figcaption>Shown cuts have at least five companies. Positive values mean a segment continued above the cohort average of 67.8%.</figcaption>
+  </figure>
+
+  <h3>Highest positive descriptive cuts</h3>
+  <table><thead><tr><th>field</th><th>value</th><th>n</th><th>continued_share</th><th>diff_vs_overall_pp</th></tr></thead><tbody>
+<tr><td>filer_category_simplified</td><td>accelerated, smaller reporting</td><td>15</td><td>86.7%</td><td>+18.9</td></tr>
+<tr><td>filer_category_simplified</td><td>accelerated</td><td>6</td><td>83.3%</td><td>+15.5</td></tr>
+<tr><td>market_tier_clean</td><td>Global Select</td><td>34</td><td>82.4%</td><td>+14.6</td></tr>
+<tr><td>company_size_bucket</td><td>mid-size (250-999 employees)</td><td>19</td><td>78.9%</td><td>+11.2</td></tr>
+<tr><td>company_size_bucket</td><td>small (50-249 employees)</td><td>33</td><td>78.8%</td><td>+11.0</td></tr>
+</tbody></table>
+
+  <h3>Lowest descriptive cuts</h3>
+  <table><thead><tr><th>field</th><th>value</th><th>n</th><th>continued_share</th><th>diff_vs_overall_pp</th></tr></thead><tbody>
+<tr><td>hq_group</td><td>Europe</td><td>5</td><td>40.0%</td><td>-27.8</td></tr>
+<tr><td>market_tier_clean</td><td>Unknown market tier</td><td>35</td><td>42.9%</td><td>-24.9</td></tr>
+<tr><td>hq_group</td><td>Asia-Pacific / Israel</td><td>20</td><td>45.0%</td><td>-22.8</td></tr>
+<tr><td>sic_division</td><td>Transport/utilities</td><td>6</td><td>50.0%</td><td>-17.8</td></tr>
+<tr><td>filer_category_simplified</td><td>accelerated, egc</td><td>47</td><td>55.3%</td><td>-12.5</td></tr>
+</tbody></table>
+
+  <h2>Early signals to investigate</h2>
+  <p><strong>The early signals are the high-gap segments whose intervals are still wide or whose sample sizes are modest.</strong> They should guide review sampling, not final claims. The most useful next pass is to inspect representative companies in each segment and separate true non-continuation from disclosure-source timing or filing-form effects.</p>
+  <table><thead><tr><th>field</th><th>value</th><th>n</th><th>continued_share</th><th>diff_vs_overall_pp</th><th>continued_share_ci_low</th><th>continued_share_ci_high</th><th>signal_confidence</th></tr></thead><tbody>
+<tr><td>hq_group</td><td>Europe</td><td>5</td><td>40.0%</td><td>-27.8</td><td>11.8%</td><td>76.9%</td><td>early signal</td></tr>
+<tr><td>market_tier_clean</td><td>Unknown market tier</td><td>35</td><td>42.9%</td><td>-24.9</td><td>28.0%</td><td>59.1%</td><td>directional</td></tr>
+<tr><td>hq_group</td><td>Asia-Pacific / Israel</td><td>20</td><td>45.0%</td><td>-22.8</td><td>25.8%</td><td>65.8%</td><td>directional</td></tr>
+<tr><td>filer_category_simplified</td><td>accelerated, smaller reporting</td><td>15</td><td>86.7%</td><td>+18.9</td><td>62.1%</td><td>96.3%</td><td>directional</td></tr>
+<tr><td>sic_division</td><td>Transport/utilities</td><td>6</td><td>50.0%</td><td>-17.8</td><td>18.8%</td><td>81.2%</td><td>early signal</td></tr>
+<tr><td>filer_category_simplified</td><td>accelerated</td><td>6</td><td>83.3%</td><td>+15.5</td><td>43.6%</td><td>97.0%</td><td>early signal</td></tr>
+<tr><td>company_size_bucket</td><td>mid-size (250-999 employees)</td><td>19</td><td>78.9%</td><td>+11.2</td><td>56.7%</td><td>91.5%</td><td>directional</td></tr>
+<tr><td>filer_category_simplified</td><td>large accelerated</td><td>28</td><td>71.4%</td><td>+3.6</td><td>52.9%</td><td>84.7%</td><td>directional</td></tr>
+</tbody></table>
+
+  <h2>Regression view</h2>
+  <p><strong>The multivariate regression agrees that jurisdiction and issuer profile matter, but the coefficients are not clean enough to call this causal or strongly predictive.</strong> A regularized logistic model avoids overfitting the small categorical feature set and ranks fields by their conditional association with continuation. Positive coefficients increase predicted continuation probability after the model controls for the other included structural fields.</p>
+  <figure>
+    <img src="charts/logistic_coefficients.png" alt="Logistic regression coefficient ranking">
+    <figcaption>Model features exclude post-vacatur filing counts to avoid target leakage. Coefficients are standardized, so magnitudes are comparable inside this model.</figcaption>
+  </figure>
+
+  <h3>Cross-validated model performance</h3>
+  <table><thead><tr><th>model</th><th>auc</th><th>accuracy_at_0_50</th><th>log_loss</th></tr></thead><tbody>
+<tr><td>base_rate</td><td>0.500</td><td>0.678</td><td>0.628</td></tr>
+<tr><td>ridge_logistic_regression</td><td>0.640</td><td>0.684</td><td>0.812</td></tr>
+<tr><td>knn_k_3</td><td>0.579</td><td>0.616</td><td>1.915</td></tr>
+<tr><td>knn_k_5</td><td>0.586</td><td>0.644</td><td>1.166</td></tr>
+<tr><td>knn_k_7</td><td>0.617</td><td>0.667</td><td>0.872</td></tr>
+<tr><td>knn_k_11</td><td>0.652</td><td>0.678</td><td>0.661</td></tr>
+</tbody></table>
+
+  <h2>Clustering view</h2>
+  <p><strong>K-means does not reveal a clean hidden population that fully explains continuation.</strong> The three clusters differ in continuation rate and composition, but continued and not-continued companies overlap in feature space. That supports a review strategy based on risk ranking and segment sampling rather than a hard rule.</p>
+  <figure>
+    <img src="charts/clusters.png" alt="K-means cluster projection">
+    <figcaption>Projection uses the same standardized structural feature matrix as the regression and KNN models.</figcaption>
+  </figure>
+  <table><thead><tr><th>cluster</th><th>n</th><th>continued</th><th>continued_share</th><th>top_issuer_type</th><th>top_industry_theme</th><th>top_hq_group</th></tr></thead><tbody>
+<tr><td>2</td><td>15</td><td>11</td><td>73.3%</td><td>domestic</td><td>Finance / real estate</td><td>US</td></tr>
+<tr><td>1</td><td>110</td><td>80</td><td>72.7%</td><td>domestic</td><td>Life sciences / medical</td><td>US</td></tr>
+<tr><td>0</td><td>52</td><td>29</td><td>55.8%</td><td>foreign_private_issuer</td><td>Other industries</td><td>China / Hong Kong</td></tr>
+</tbody></table>
+
+  <h2>What is still unclear</h2>
+  <div class="callout">
+    <strong>Some negative signal may be filing-calendar mechanics, not company intent.</strong>
+    Foreign private issuers and 20-F companies may have different filing timing and form structure, so lower continuation could partly reflect where the pipeline looked and when annual filings appeared.
+  </div>
+  <div class="callout">
+    <strong>Employee-size signal is incomplete.</strong>
+    Employee count is missing for 100 of 177 companies. Missing employee count itself is negative in the regression, but that may indicate weaker profile extraction or different filing style rather than true company size.
+  </div>
+  <div class="callout">
+    <strong>Location inside the US is not yet a causal explanation.</strong>
+    CA, NY, and TX look high and MA looks low, but city/state buckets can be proxies for industry mix, issuer age, filer category, or local sector concentration.
+  </div>
+  <div class="callout">
+    <strong>The binary target hides an important distinction.</strong>
+    Same-matrix continuation and narrative-only continuation are both positive in the current model, but they likely represent different post-vacatur choices.
+  </div>
+
+  <h2>Recommended next steps</h2>
+  <ol>
+    <li><strong>Review the negative foreign-jurisdiction cuts manually.</strong> Japan, Israel, and selected foreign private issuer groups show low continuation rates but small denominators, so manual inspection can distinguish real behavior from source-form or filing-calendar artifacts.</li>
+    <li><strong>Split continuation into “same matrix” and “other narrative” for the next model.</strong> The current binary target is useful for “any continuation,” but matrix retention and narrative-only retention likely have different drivers.</li>
+    <li><strong>Refresh after disclosure collection is complete.</strong> The current analysis uses the definitive strict required/matured verified set available in the build outputs. If the upstream disclosure collection advances, rerun stages 10, 4, 5, 6, 11, 12, and then this analysis.</li>
+  </ol>
+
+  <h2>Caveats and assumptions</h2>
+  <ul>
+    <li>The modeled cohort is <code>build/definitive_required_matured_verified_matrix_sources.csv</code> joined to <code>build/post_vacatur_company_profile_enrichment.csv</code>, not all 938 Nasdaq IPO candidates.</li>
+    <li>Continuation is evidence-located continuation in reviewed SEC filing forms. It is not proof that a company had no board-diversity language anywhere else.</li>
+    <li>Employee count is missing for 100 of 177 companies. The model includes a missingness flag and median-filled log employee count.</li>
+    <li>Post-vacatur filing counts are reported as a process diagnostic only. They are excluded from the structural regression/KNN/k-means feature matrix because they are too close to the label definition.</li>
+  </ul>
+</main>
+</body>
+</html>

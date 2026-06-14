@@ -1,0 +1,3 @@
+field,value,n,continued,not_continued,continued_share,continued_share_ci_low,continued_share_ci_high,ci_width,diff_vs_overall_pp,signal_confidence
+geo_scope,Actual US state HQ,119,85,34,0.7142857142857143,0.627415140642771,0.7877536621080887,0.16033852146531768,3.6319612590799077,stronger descriptive signal
+geo_scope,Non-US / non-state HQ,58,35,23,0.603448275862069,0.4749298280744989,0.7191143104988886,0.24418448242438973,-7.451782583284627,stronger descriptive signal
