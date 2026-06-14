@@ -9,6 +9,7 @@ issuer IR/governance pages, only when no EDGAR observation is located.
 from __future__ import annotations
 
 import datetime as dt
+import hashlib
 import json
 import os
 import sqlite3
@@ -17,8 +18,10 @@ import urllib.parse
 import config as C
 from disclosure_utils import (
     NOW,
+    cached_disclosure_website_candidates,
     find_matrix_observation,
     iter_recent_filings,
+    is_weak_row_only_hit,
     load_submissions,
     read_or_fetch,
     sec_doc_url,
@@ -27,6 +30,7 @@ from disclosure_utils import (
 
 FETCH_TIMEOUT = int(os.environ.get("DISCLOSURE_FETCH_TIMEOUT", "12"))
 MAX_DOCS_PER_CIK = int(os.environ.get("DISCLOSURE_MAX_DOCS_PER_CIK", "24"))
+MAX_WEBSITE_CANDIDATES_PER_CIK = int(os.environ.get("DISCLOSURE_MAX_WEBSITE_CANDIDATES_PER_CIK", "24"))
 PRIORITY_FORMS = {
     "DEF 14A": 0, "DEFA14A": 1, "DEFR14A": 1, "PRE 14A": 2, "PRER14A": 2,
     "10-K": 3, "10-K/A": 4, "20-F": 3, "20-F/A": 4,
@@ -40,6 +44,10 @@ NEW_OBS_COLUMNS = (
     "accession_or_url", "source_type", "form_type", "publication_date",
     "observed_text", "matched_query", "fetch_timestamp", "confidence",
 )
+
+
+def cache_key(value: str) -> str:
+    return hashlib.sha1(value.encode("utf-8", errors="ignore")).hexdigest()
 
 
 def add_obs_provenance(cur, obs_id, cik, source_type, source_id, url, form_type,
@@ -85,7 +93,7 @@ def insert_observation(cur, *, cik, accession_or_url, source_type, form_type,
     return obs_id
 
 
-def candidate_filings(cik: str, listing_date: str, due_date: str):
+def candidate_filings(cik: str, listing_date: str, due_date: str, *, late_days: int = 0):
     sub = load_submissions(cik)
     if not sub:
         return [], None
@@ -93,7 +101,7 @@ def candidate_filings(cik: str, listing_date: str, due_date: str):
     due = C.parse_date(due_date)
     if not start or not due:
         return [], sub
-    end = due + dt.timedelta(days=C.DISCLOSURE_GRACE_DAYS)
+    end = due + dt.timedelta(days=C.DISCLOSURE_GRACE_DAYS + max(0, late_days))
     out = []
     for f in iter_recent_filings(cik, sub):
         form = f.get("form")
@@ -111,9 +119,9 @@ def candidate_filings(cik: str, listing_date: str, due_date: str):
     return out, sub
 
 
-def collect_edgar(cur, cik, listing_date, due_date) -> tuple[int, int, int]:
+def collect_edgar(cur, cik, listing_date, due_date, *, late_days: int = 0) -> tuple[int, int, int]:
     found = 0
-    filings, _ = candidate_filings(cik, listing_date, due_date)
+    filings, _ = candidate_filings(cik, listing_date, due_date, late_days=late_days)
     fetched = 0
     cdir = os.path.join(C.RAW_DISCLOSURES, cik)
     for f in filings[:MAX_DOCS_PER_CIK]:
@@ -128,6 +136,8 @@ def collect_edgar(cur, cik, listing_date, due_date) -> tuple[int, int, int]:
             continue
         observed, matched, conf = find_matrix_observation(body)
         if not observed:
+            continue
+        if is_weak_row_only_hit(conf, matched):
             continue
         insert_observation(
             cur, cik=cik, accession_or_url=f["accession"],
@@ -145,8 +155,13 @@ def cdx_snapshots(url: str, listing_date: str, due_date: str) -> list[dict]:
     start = (C.parse_date(listing_date) or C.BROAD_START).strftime("%Y%m%d")
     end_date = (C.parse_date(due_date) or C.RULE_END_VACATUR) + dt.timedelta(days=C.DISCLOSURE_GRACE_DAYS)
     end = end_date.strftime("%Y%m%d")
+    parsed = urllib.parse.urlparse(url)
+    cdx_target = (parsed.netloc + parsed.path).strip("/")
+    if not cdx_target:
+        cdx_target = url
+    cdx_target = cdx_target + "*"
     qs = urllib.parse.urlencode({
-        "url": url,
+        "url": cdx_target,
         "output": "json",
         "fl": "timestamp,original,statuscode,mimetype,digest",
         "filter": "statuscode:200",
@@ -155,8 +170,7 @@ def cdx_snapshots(url: str, listing_date: str, due_date: str) -> list[dict]:
         "to": end,
     })
     cdx_url = f"https://web.archive.org/cdx?{qs}"
-    safe = urllib.parse.quote(url, safe="").replace("%", "_")
-    path = os.path.join(C.RAW_WAYBACK, f"{safe}_{start}_{end}.json")
+    path = os.path.join(C.RAW_WAYBACK, f"{cache_key(cdx_url)}_{start}_{end}.json")
     body = read_or_fetch(path, cdx_url, timeout=FETCH_TIMEOUT, accept_json=True)
     if not body:
         return []
@@ -182,25 +196,30 @@ def cdx_snapshots(url: str, listing_date: str, due_date: str) -> list[dict]:
 
 
 def collect_wayback(cur, cik, sub, listing_date, due_date) -> tuple[int, int]:
-    if not sub:
-        return 0, 0
     found = 0
     fetched = 0
-    for base_url in website_candidates(sub):
+    candidates = []
+    seen = set()
+    for base_url in (website_candidates(sub or {}) + cached_disclosure_website_candidates(cik)):
+        if base_url not in seen:
+            candidates.append(base_url)
+            seen.add(base_url)
+    for base_url in candidates[:MAX_WEBSITE_CANDIDATES_PER_CIK]:
         for snap in cdx_snapshots(base_url, listing_date, due_date):
             ts = snap.get("timestamp")
             original = snap.get("original") or base_url
             if not ts:
                 continue
             snap_url = f"https://web.archive.org/web/{ts}id_/{original}"
-            safe = urllib.parse.quote(snap_url, safe="").replace("%", "_")
-            path = os.path.join(C.RAW_WAYBACK, "snapshots", f"{safe}.html")
+            path = os.path.join(C.RAW_WAYBACK, "snapshots", f"{cache_key(snap_url)}.html")
             body = read_or_fetch(path, snap_url, timeout=FETCH_TIMEOUT)
             fetched += 1
             if not body:
                 continue
             observed, matched, conf = find_matrix_observation(body)
             if not observed:
+                continue
+            if is_weak_row_only_hit(conf, matched):
                 continue
             pub_date = f"{ts[:4]}-{ts[4:6]}-{ts[6:8]}"
             insert_observation(
@@ -230,10 +249,7 @@ def cik_already_processed(cur, cik: str) -> bool:
         return False
     if os.path.exists(os.path.join(cdir, ".processed")):
         return True
-    return any(
-        f for f in os.listdir(cdir)
-        if not f.startswith(".") and os.path.isfile(os.path.join(cdir, f))
-    )
+    return False
 
 
 def outcome_for_cik(cur, cik: str, due_date: str) -> str:
@@ -283,6 +299,10 @@ def main():
     con = sqlite3.connect(C.SQLITE_PATH)
     cur = con.cursor()
     fresh = os.environ.get("DISCLOSURE_FRESH", "").lower() in ("1", "true", "yes")
+    reprocess = os.environ.get("DISCLOSURE_REPROCESS", "").lower() in ("1", "true", "yes")
+    target_status = os.environ.get("DISCLOSURE_TARGET_STATUS", "").strip()
+    late_days = int(os.environ.get("DISCLOSURE_LATE_DAYS", "0") or "0")
+    skip_edgar = os.environ.get("DISCLOSURE_SKIP_EDGAR", "").lower() in ("1", "true", "yes")
     log_path = os.path.join(C.BUILD, "disclosure_collection_log.json")
     if fresh:
         cur.execute("DELETE FROM disclosure_observations")
@@ -299,8 +319,9 @@ def main():
         JOIN ipo_events e ON e.cik=c.cik
         JOIN rule_applicability a ON a.cik=c.cik
         WHERE a.broad_cohort=1 AND a.in_scope_nasdaq=1
+          AND (?='' OR a.initial_matrix_status=?)
         ORDER BY e.nasdaq_listing_date,c.cik
-    """).fetchall()
+    """, (target_status, target_status)).fetchall()
     limit = int(os.environ.get("DISCLOSURE_LIMIT", "0") or "0")
     if limit:
         rows = rows[:limit]
@@ -310,7 +331,18 @@ def main():
     total = len(rows)
     skipped = 0
     for idx, (cik, ticker, name, listing_date, due_date) in enumerate(rows, 1):
-        if not fresh and cik_already_processed(cur, cik):
+        if reprocess:
+            cur.execute("DELETE FROM disclosure_observations WHERE cik=?", (cik,))
+            cur.execute("""
+                DELETE FROM field_provenance
+                WHERE target_table='disclosure_observations'
+                  AND source_location LIKE ?
+            """, (f"%CIK {cik}",))
+            processed_path = os.path.join(C.RAW_DISCLOSURES, cik, ".processed")
+            if os.path.exists(processed_path):
+                os.remove(processed_path)
+
+        if not fresh and not reprocess and cik_already_processed(cur, cik):
             skipped += 1
             counts[outcome_for_cik(cur, cik, due_date)] += 1
             log.append(log_by_cik.get(cik) or {
@@ -329,7 +361,11 @@ def main():
             continue
 
         before = cur.execute("SELECT COUNT(*) FROM disclosure_observations WHERE cik=?", (cik,)).fetchone()[0]
-        edgar_n, edgar_fetched, edgar_candidates = collect_edgar(cur, cik, listing_date, due_date)
+        if skip_edgar:
+            edgar_n, edgar_fetched, edgar_candidates = 0, 0, 0
+        else:
+            edgar_n, edgar_fetched, edgar_candidates = collect_edgar(
+                cur, cik, listing_date, due_date, late_days=late_days)
         sub = load_submissions(cik)
         web_n = 0
         web_fetched = 0
@@ -353,7 +389,9 @@ def main():
             "edgar_candidate_docs": edgar_candidates,
             "edgar_docs_fetched": edgar_fetched,
             "wayback_snapshots_fetched": web_fetched,
-            "edgar_doc_cap": MAX_DOCS_PER_CIK,
+                "edgar_doc_cap": MAX_DOCS_PER_CIK,
+                "late_days": late_days,
+                "skip_edgar": skip_edgar,
             "total_observations": after - before,
             "queries_exhausted": (
                 edgar_n == 0 and web_n == 0 and edgar_candidates <= MAX_DOCS_PER_CIK),

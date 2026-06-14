@@ -11,6 +11,7 @@ import os
 import re
 import subprocess
 import time
+from functools import lru_cache
 from urllib.parse import urlparse
 
 import config as C
@@ -255,4 +256,102 @@ def website_candidates(sub: dict) -> list[str]:
                 if cand not in seen:
                     out.append(cand)
                     seen.add(cand)
+    return out
+
+
+EXCLUDED_WEBSITE_DOMAINS = (
+    "sec.gov",
+    "xbrl.org",
+    "proxyvote.com",
+    "virtualshareholdermeeting.com",
+    "astfinancial.com",
+    "continentalstock.com",
+    "computershare.com",
+    "equiniti.com",
+    "broadridge.com",
+    "nasdaq.com",
+    "nasdaqtrader.com",
+    "nyse.com",
+    "otcmarkets.com",
+    "w3.org",
+    "fasb.org",
+    "dfinsolutions.com",
+    "issuerdirect.com",
+    "investorvote.com",
+)
+
+
+def _normalize_candidate_url(raw: str) -> str | None:
+    raw = html.unescape(raw or "").strip().strip(".,;:)'\"<>[]{}")
+    raw = re.sub(r"(?i)^https?://https?://", "https://", raw)
+    if raw.startswith("www."):
+        raw = "https://" + raw
+    if not re.match(r"^https?://", raw, re.I):
+        return None
+    parsed = urlparse(raw)
+    host = (parsed.netloc or "").lower()
+    host = host.split("@")[-1].split(":")[0]
+    if host.startswith("www."):
+        host = host[4:]
+    if not host or "." not in host:
+        return None
+    if any(host == d or host.endswith("." + d) for d in EXCLUDED_WEBSITE_DOMAINS):
+        return None
+    if host.endswith((".jpg", ".jpeg", ".png", ".gif", ".pdf")):
+        return None
+    path = re.sub(r"/+$", "", parsed.path or "")
+    if path.lower().endswith((".jpg", ".jpeg", ".png", ".gif", ".pdf", ".xml", ".xsd")):
+        path = ""
+    return f"https://{host}{path}"
+
+
+@lru_cache(maxsize=None)
+def cached_disclosure_website_candidates(cik: str, max_files: int = 24) -> list[str]:
+    """Mine likely issuer websites from cached EDGAR disclosure HTML."""
+    cdir = os.path.join(C.RAW_DISCLOSURES, cik)
+    if not os.path.isdir(cdir):
+        return []
+
+    candidates: dict[str, int] = {}
+    files = [
+        fn for fn in os.listdir(cdir)
+        if not fn.startswith(".") and os.path.isfile(os.path.join(cdir, fn))
+    ][:max_files]
+    for fn in files:
+        path = os.path.join(cdir, fn)
+        try:
+            with open(path, "rb") as f:
+                raw = f.read(2_000_000).decode("utf-8", errors="ignore")
+        except OSError:
+            continue
+        for match in re.findall(r"(?i)(?:https?://|www\.)[^\s\"'<>]+", raw):
+            cand = _normalize_candidate_url(match)
+            if not cand:
+                continue
+            score = 1
+            low = cand.lower()
+            if "investor" in low or "/ir" in low or "ir." in low:
+                score += 4
+            if "governance" in low:
+                score += 3
+            if "annual" in low:
+                score += 1
+            candidates[cand] = max(candidates.get(cand, 0), score)
+
+    suffixes = ("", "/investors", "/investor-relations", "/governance", "/corporate-governance")
+    out = []
+    seen = set()
+    for cand, _score in sorted(candidates.items(), key=lambda kv: (-kv[1], kv[0])):
+        parsed = urlparse(cand)
+        root = f"{parsed.scheme}://{parsed.netloc}".rstrip("/")
+        path = (parsed.path or "").lower()
+        bases = [root]
+        if "investor" in path or "/ir" in path or "governance" in path:
+            bases.insert(0, cand.rstrip("/"))
+        for base in bases:
+            for suffix in suffixes:
+                item = (base + suffix).rstrip("/")
+                if item not in seen:
+                    out.append(item)
+                    seen.add(item)
     return out

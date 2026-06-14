@@ -1,4 +1,4 @@
-Validation report  (2026-06-14T14:24:51.770811+00:00)
+Validation report  (2026-06-14T19:15:17.543177+00:00)
 29/29 checks passed
 
   [PASS] no in-scope broad row before rule start  (count=0)
@@ -35,7 +35,7 @@ Validation report  (2026-06-14T14:24:51.770811+00:00)
   tally: broad_cohort = 409
   tally: narrow_matured_cohort = 297
   tally: edge_case = 1
-  tally: disclosure_observations = 211
-  disclosure_status: published_on_time = 210
-  disclosure_status: not_located = 121
+  tally: disclosure_observations = 212
+  disclosure_status: published_on_time = 211
+  disclosure_status: not_located = 120
   disclosure_status: obligation_voided = 78
