@@ -82,7 +82,7 @@ def dump(cur, sql, path, source_ids="SRC_EDGAR_FULLINDEX;SRC_EDGAR_SUBMISSIONS;S
 
 
 def main():
-    con = sqlite3.connect(C.SQLITE_PATH)
+    con = sqlite3.connect(C.SQLITE_PATH, timeout=60)
     cur = con.cursor()
 
     # Guard: the exported column order must match config.EXPORT_COLUMNS exactly

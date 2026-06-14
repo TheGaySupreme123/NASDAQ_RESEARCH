@@ -10,7 +10,12 @@ import os
 import sqlite3
 
 import config as C
-from disclosure_utils import NOW, sec_doc_url
+from disclosure_utils import (
+    NOW,
+    is_weak_row_only_hit,
+    rescore_observations_from_raw,
+    sec_doc_url,
+)
 
 
 NEW_COLS = [
@@ -70,7 +75,10 @@ def classify_for_row(cur, row):
     (cik, ticker, legal_name, listing_date, due_date, broad, in_scope) = row
     due = C.parse_date(due_date or "")
     due_after_vacatur = 1 if (due and due > C.RULE_END_VACATUR) else 0
-    observations = best_observations(cur, cik)
+    observations = [
+        o for o in best_observations(cur, cik)
+        if not is_weak_row_only_hit(o[9], o[7])
+    ]
     high = [o for o in observations if (o[9] or 0) >= 0.8]
     any_ambiguous = observations and not high
     status = None
@@ -227,8 +235,11 @@ def write_edge_review_rows(cur):
 
 
 def main():
-    con = sqlite3.connect(C.SQLITE_PATH)
+    con = sqlite3.connect(C.SQLITE_PATH, timeout=60)
     cur = con.cursor()
+    rescore_observations_from_raw(cur)
+    cur.execute(
+        "DELETE FROM validation_issues WHERE rule='ambiguous_disclosure_match'")
     cur.execute(
         "DELETE FROM field_provenance WHERE target_table='rule_applicability' "
         f"AND column_name IN ({','.join('?' for _ in NEW_COLS)})",

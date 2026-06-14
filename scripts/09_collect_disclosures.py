@@ -214,6 +214,53 @@ def collect_wayback(cur, cik, sub, listing_date, due_date) -> tuple[int, int]:
     return found, fetched
 
 
+def mark_cik_processed(cik: str) -> None:
+    cdir = os.path.join(C.RAW_DISCLOSURES, cik)
+    os.makedirs(cdir, exist_ok=True)
+    open(os.path.join(cdir, ".processed"), "w", encoding="utf-8").close()
+
+
+def cik_already_processed(cur, cik: str) -> bool:
+    if cur.execute(
+        "SELECT 1 FROM disclosure_observations WHERE cik=? LIMIT 1", (cik,)
+    ).fetchone():
+        return True
+    cdir = os.path.join(C.RAW_DISCLOSURES, cik)
+    if not os.path.isdir(cdir):
+        return False
+    if os.path.exists(os.path.join(cdir, ".processed")):
+        return True
+    return any(
+        f for f in os.listdir(cdir)
+        if not f.startswith(".") and os.path.isfile(os.path.join(cdir, f))
+    )
+
+
+def outcome_for_cik(cur, cik: str, due_date: str) -> str:
+    rows = cur.execute(
+        "SELECT source_type FROM disclosure_observations WHERE cik=?", (cik,)
+    ).fetchall()
+    if any(r[0] == "edgar_filing" for r in rows):
+        return "located_filing"
+    if any(r[0] == "website_archive" for r in rows):
+        return "located_web"
+    due = C.parse_date(due_date)
+    if due and due > C.RULE_END_VACATUR:
+        return "void_candidate"
+    return "not_located"
+
+
+def load_collection_log(path: str) -> dict[str, dict]:
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return {}
+    return {entry["cik"]: entry for entry in data if entry.get("cik")}
+
+
 def write_progress(done, total, counts, next_batch):
     path = os.path.join(C.BUILD, "disclosure_progress.md")
     lines = [
@@ -235,8 +282,16 @@ def write_progress(done, total, counts, next_batch):
 def main():
     con = sqlite3.connect(C.SQLITE_PATH)
     cur = con.cursor()
-    cur.execute("DELETE FROM disclosure_observations")
-    cur.execute("DELETE FROM field_provenance WHERE target_table='disclosure_observations'")
+    fresh = os.environ.get("DISCLOSURE_FRESH", "").lower() in ("1", "true", "yes")
+    log_path = os.path.join(C.BUILD, "disclosure_collection_log.json")
+    if fresh:
+        cur.execute("DELETE FROM disclosure_observations")
+        cur.execute(
+            "DELETE FROM field_provenance WHERE target_table='disclosure_observations'"
+        )
+        log_by_cik = {}
+    else:
+        log_by_cik = load_collection_log(log_path)
 
     rows = cur.execute("""
         SELECT c.cik,e.ticker,c.legal_name,e.nasdaq_listing_date,a.initial_matrix_due_date
@@ -253,7 +308,26 @@ def main():
     counts = {"located_filing": 0, "located_web": 0, "not_located": 0, "void_candidate": 0}
     log = []
     total = len(rows)
+    skipped = 0
     for idx, (cik, ticker, name, listing_date, due_date) in enumerate(rows, 1):
+        if not fresh and cik_already_processed(cur, cik):
+            skipped += 1
+            counts[outcome_for_cik(cur, cik, due_date)] += 1
+            log.append(log_by_cik.get(cik) or {
+                "cik": cik, "ticker": ticker, "legal_name": name,
+                "edgar_observations": 0, "wayback_observations": 0,
+                "edgar_candidate_docs": None, "edgar_docs_fetched": None,
+                "wayback_snapshots_fetched": None, "edgar_doc_cap": MAX_DOCS_PER_CIK,
+                "total_observations": cur.execute(
+                    "SELECT COUNT(*) FROM disclosure_observations WHERE cik=?", (cik,)
+                ).fetchone()[0],
+                "queries_exhausted": None, "skipped_resume": True,
+            })
+            if idx % 25 == 0 or idx == total:
+                write_progress(idx, total, counts, rows[idx:idx+25])
+                print(f"processed {idx}/{total} ({skipped} skipped): {counts}", flush=True)
+            continue
+
         before = cur.execute("SELECT COUNT(*) FROM disclosure_observations WHERE cik=?", (cik,)).fetchone()[0]
         edgar_n, edgar_fetched, edgar_candidates = collect_edgar(cur, cik, listing_date, due_date)
         sub = load_submissions(cik)
@@ -262,6 +336,7 @@ def main():
         if edgar_n == 0:
             web_n, web_fetched = collect_wayback(cur, cik, sub, listing_date, due_date)
         after = cur.execute("SELECT COUNT(*) FROM disclosure_observations WHERE cik=?", (cik,)).fetchone()[0]
+        mark_cik_processed(cik)
         if edgar_n:
             counts["located_filing"] += 1
         elif web_n:
@@ -272,7 +347,7 @@ def main():
                 counts["void_candidate"] += 1
             else:
                 counts["not_located"] += 1
-        log.append({
+        entry = {
             "cik": cik, "ticker": ticker, "legal_name": name,
             "edgar_observations": edgar_n, "wayback_observations": web_n,
             "edgar_candidate_docs": edgar_candidates,
@@ -282,13 +357,15 @@ def main():
             "total_observations": after - before,
             "queries_exhausted": (
                 edgar_n == 0 and web_n == 0 and edgar_candidates <= MAX_DOCS_PER_CIK),
-        })
+        }
+        log.append(entry)
+        log_by_cik[cik] = entry
         if idx % 25 == 0 or idx == total:
             con.commit()
             write_progress(idx, total, counts, rows[idx:idx+25])
-            print(f"processed {idx}/{total}: {counts}", flush=True)
+            print(f"processed {idx}/{total} ({skipped} skipped): {counts}", flush=True)
 
-    open(os.path.join(C.BUILD, "disclosure_collection_log.json"), "w", encoding="utf-8").write(
+    open(log_path, "w", encoding="utf-8").write(
         json.dumps(log, indent=2, sort_keys=True) + "\n")
     con.commit()
     con.close()

@@ -1,0 +1,75 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>form6k_primary_wrapped.txt
+<TEXT>
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM 6-K
+
+REPORT OF FOREIGN PRIVATE ISSUER
+Pursuant to Rule 13a-16 or 15d-16
+Under the Securities Exchange Act of 1934
+
+For the month of April 2025
+
+BLOOMZ INC.
+Cricket Square, Hutchins Drive, P.O. Box 2681
+Grand Cayman, KY1-1111, Cayman Islands
+
+Indicate by check mark whether the registrant files or will file annual reports
+under cover of Form 20-F or Form 40-F.
+[X] Form 20-F   [ ] Form 40-F
+
+Indicate by check mark if the registrant is submitting the Form 6-K in paper as
+permitted by Regulation S-T Rule 101(b)(1).
+[ ] Yes   [X] No
+
+Indicate by check mark if the registrant is submitting the Form 6-K in paper as
+permitted by Regulation S-T Rule 101(b)(7).
+[ ] Yes   [X] No
+
+Indicate by check mark whether the registrant by furnishing the information
+contained in this Form is also thereby furnishing the information to the
+Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934.
+[ ] Yes   [X] No
+
+If "Yes" is marked, indicate below the file number assigned to the registrant in
+connection with Rule 12g3-2(b):  Not Applicable.
+
+--------------------------------------------------------------------------------
+
+PIPE Financing Transaction
+
+BloomZ Inc. (the "Company") is furnishing this Report on Form 6-K to disclose
+that on April 22, 2025, it entered into a Securities Purchase Agreement with
+several non-U.S. investors. Pursuant to the Agreement, the Company successfully
+raised approximately US$14,000,000 through a private placement (PIPE)
+transaction conducted in reliance on Regulation S under the Securities Act of
+1933, as amended.
+
+Attached hereto are the following exhibits:
+
+Exhibit 99.1 - stock_purchase_agreement.pdf
+Exhibit 99.2 - regs_legal_opinion_04292025.pdf
+Exhibit 99.3 - blmz_legal_service_agreement.pdf
+--------------------------------------------------------------------------------
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+BloomZ Inc.
+
+Date: April 29, 2025
+
+By: /s/ Minoru Muranaga
+Name: Minoru Muranaga
+Title: Chief Financial Officer
+</TEXT>
+</DOCUMENT>

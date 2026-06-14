@@ -1,0 +1,57 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>blmz_6k_pipe50m.txt
+<DESCRIPTION>FORM 6K PIPE
+<TEXT>
+FORM 6-K
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+Report of Foreign Private Issuer Pursuant to Rule 13a-16 or 15d-16 of the
+Securities Exchange Act of 1934
+
+For the month of May 2025
+Commission File Number: 001-42186
+
+BloomZ Inc.
+Cricket Square, Hutchins Drive, P.O. Box 2681
+Grand Cayman, KY1-1111, Cayman Islands
+(Address of principal executive offices)
+
+
+PIPE Financing Agreement Update
+BloomZ Inc. hereby reports that its Board of Directors held a meeting on
+May 15, 2025, during which it approved a $50 million capital raise through
+a Private Investment in Public Equity (PIPE) transaction under Regulation
+S of the Securities Act of 1933.
+Pursuant to this transaction, the Company will issue up to 357,142,857
+ordinary shares at a purchase price of $0.14 per share, over a 90-day
+issuance period. This transaction is conducted in accordance with Nasdaq
+ Listing Rule 5635(d), with no warrants, convertible securities, or
+price-adjustment mechanisms involved.
+The securities are being offered outside the United States to non-U.S. persons.
+The Board has delegated the negotiation and execution of the Securities
+Purchase Agreement and all related procedures to Mr. Makoto Nakade.
+The Company undertakes to file updates on the PIPE transaction and related
+share issuances as material developments occur.
+
+A copy of the Board Resolution is attached to this Form 6-K as Exhibit 99.1.
+
+Exhibits
+99.1 board_resolution_pipe_may15
+
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+ registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+BloomZ Inc.
+
+Ryoshin Nakade
+Co-Chairman and Co-CEO
+May 15, 2025
+</TEXT>
+</DOCUMENT>

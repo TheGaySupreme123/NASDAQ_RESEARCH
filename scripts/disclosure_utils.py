@@ -63,19 +63,68 @@ def normalize_for_search(text: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", text.lower()).strip()
 
 
+DISCLOSURE_TITLE_VARIANTS = (
+    "Board Diversity Matrix",
+    "Board of Directors Diversity Matrix",
+    "Directors Diversity Matrix",
+    "Board Matrix",
+    "diversity matrix of our board",
+    "diversity matrix of the board",
+    "Board Diversity (as of",
+)
+
+DISCLOSURE_COLUMN_HEADER_QUERIES = (
+    "Female",
+    "Male",
+    "Gender Identity",
+    "Demographic Background",
+)
+
+
+def _query_hits(norm: str, queries: tuple[str, ...] | list[str]) -> list[str]:
+    return [q for q in queries if normalize_for_search(q) in norm]
+
+
+def matched_query_has_title_variant(matched_query: str | None) -> bool:
+    if not matched_query:
+        return False
+    title_set = set(DISCLOSURE_TITLE_VARIANTS) | {C.DISCLOSURE_TITLE_QUERY}
+    return any(part in title_set for part in matched_query.split(";"))
+
+
+def is_weak_row_only_hit(conf: float | None, matched_query: str | None) -> bool:
+    """Single row-query hit with no matrix title variant (confidence 0.65)."""
+    return (conf or 0) == 0.65 and not matched_query_has_title_variant(matched_query)
+
+
+def matrix_confidence(*, title_hits: list[str], row_hits: list[str],
+                      column_hits: list[str]) -> float:
+    has_title = bool(title_hits)
+    if has_title and len(row_hits) >= 2:
+        return 0.95
+    if has_title and row_hits:
+        return 0.85
+    if has_title and len(column_hits) >= 2:
+        return 0.85
+    if len(row_hits) >= 2 and len(column_hits) >= 2:
+        return 0.85
+    return 0.65
+
+
 def find_matrix_observation(text: str) -> tuple[str | None, str | None, float]:
     """Return observed excerpt, matched query string, and confidence."""
     plain = html_to_text(text)
     norm = normalize_for_search(plain)
-    title = normalize_for_search(C.DISCLOSURE_TITLE_QUERY) in norm
-    row_hits = [
-        q for q in C.DISCLOSURE_ROW_QUERIES
-        if normalize_for_search(q) in norm
-    ]
-    if not title and not row_hits:
+    title_hits = _query_hits(norm, DISCLOSURE_TITLE_VARIANTS)
+    if normalize_for_search(C.DISCLOSURE_TITLE_QUERY) in norm:
+        if C.DISCLOSURE_TITLE_QUERY not in title_hits:
+            title_hits.insert(0, C.DISCLOSURE_TITLE_QUERY)
+    row_hits = _query_hits(norm, C.DISCLOSURE_ROW_QUERIES)
+    column_hits = _query_hits(norm, DISCLOSURE_COLUMN_HEADER_QUERIES)
+    if not title_hits and not row_hits:
         return None, None, 0.0
 
-    anchor_terms = [C.DISCLOSURE_TITLE_QUERY] + list(C.DISCLOSURE_ROW_QUERIES)
+    anchor_terms = title_hits + row_hits + list(C.DISCLOSURE_ROW_QUERIES)
     idx = -1
     low = plain.lower()
     for term in anchor_terms:
@@ -85,17 +134,49 @@ def find_matrix_observation(text: str) -> tuple[str | None, str | None, float]:
     if idx < 0:
         idx = 0
     excerpt = plain[max(0, idx - 250): idx + 900].strip()
-    matched = []
-    if title:
-        matched.append(C.DISCLOSURE_TITLE_QUERY)
-    matched.extend(row_hits)
-    if title and len(row_hits) >= 2:
-        conf = 0.95
-    elif title and row_hits:
-        conf = 0.85
-    else:
-        conf = 0.65
+    matched = title_hits + row_hits
+    conf = matrix_confidence(
+        title_hits=title_hits, row_hits=row_hits, column_hits=column_hits)
     return excerpt, ";".join(matched), conf
+
+
+def rescore_observations_from_raw(cur) -> int:
+    """Re-score cached EDGAR disclosure files after matcher changes."""
+    rows = cur.execute("""
+        SELECT observation_id, cik, accession_or_url
+        FROM disclosure_observations
+        WHERE source_type='edgar_filing'
+    """).fetchall()
+    updated = 0
+    for obs_id, cik, accession in rows:
+        cdir = os.path.join(C.RAW_DISCLOSURES, cik)
+        if not os.path.isdir(cdir):
+            continue
+        acc_norm = accession.replace("-", "")
+        path = next(
+            (os.path.join(cdir, fn) for fn in os.listdir(cdir) if fn.startswith(acc_norm)),
+            None,
+        )
+        if not path:
+            continue
+        with open(path, "rb") as f:
+            body = f.read()
+        observed, matched, conf = find_matrix_observation(body)
+        if not observed:
+            continue
+        if is_weak_row_only_hit(conf, matched):
+            cur.execute(
+                "DELETE FROM disclosure_observations WHERE observation_id=?",
+                (obs_id,),
+            )
+            continue
+        cur.execute("""
+            UPDATE disclosure_observations
+            SET observed_text=?, matched_query=?, confidence=?
+            WHERE observation_id=?
+        """, (observed, matched, conf, obs_id))
+        updated += 1
+    return updated
 
 
 def sec_doc_url(cik: str, accession: str, primary_doc: str) -> str:

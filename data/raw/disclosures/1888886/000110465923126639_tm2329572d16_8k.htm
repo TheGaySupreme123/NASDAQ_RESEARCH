@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2023" xmlns:ref="http://www.xbrl.org/2006/ref" xmlns:us-gaap="http://fasb.org/us-gaap/2023" xmlns:us-roles="http://fasb.org/us-roles/2023" xmlns:dtr-types="http://www.xbrl.org/dtr/type/2022-03-31" xmlns:country="http://xbrl.sec.gov/country/2023" xmlns:srt="http://fasb.org/srt/2023" xmlns:gpcr="http://structuretx.com/20231218">
+<head>
+     <title></title>
+<meta http-equiv="Content-Type" content="text/html" />
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_02C_US%2DGAAP%2D2023 -->
+<!-- Field: Set; Name: xdx; ID: xdx_034_gpcr_structuretx.com_20231218 -->
+<!-- Field: Set; Name: xdx; ID: xdx_048_20231218_20231218 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_05F_edei%2D%2DEntityCentralIndexKey_0001888886 -->
+<!-- Field: Set; Name: xdx; ID: xdx_072_SO_T%2D%2D\DeptFiles%2DiXBRL 8%2DK Covers Templates\+++%2DROOT%2DElement%2D+++\DocumentInformationLineItems.xdxs -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<body style="font: 10pt Times New Roman, Times, Serif">
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="AsOf2023-12-18" name="dei:AmendmentFlag">false</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2023-12-18" name="dei:EntityCentralIndexKey">0001888886</ix:nonNumeric>
+  <ix:nonNumeric contextRef="From2023-12-182023-12-18_custom_OrdinarySharesParValue0.0001PerShareMember" format="ixt:booleantrue" id="xdx2ixbrl0031" name="dei:NoTradingSymbolFlag">True</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="gpcr-20231218.xsd" xlink:type="simple" />
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="AsOf2023-12-18">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001888886</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2023-12-18</xbrli:startDate>
+        <xbrli:endDate>2023-12-18</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2023-12-182023-12-18_custom_AmericanDepositarySharesAdssEachRepresentingThreeOrdinarySharesParValue0.0001PerOrdinaryShareMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001888886</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">gpcr:AmericanDepositarySharesAdssEachRepresentingThreeOrdinarySharesParValue0.0001PerOrdinaryShareMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2023-12-18</xbrli:startDate>
+        <xbrli:endDate>2023-12-18</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2023-12-182023-12-18_custom_OrdinarySharesParValue0.0001PerShareMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001888886</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">gpcr:OrdinarySharesParValue0.0001PerShareMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2023-12-18</xbrli:startDate>
+        <xbrli:endDate>2023-12-18</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<p style="margin: 0pt"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0; margin-bottom: 0; width: 100%"><div style="border-top: Black 2pt solid; border-bottom: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="margin: 0pt">&#160;</p>
+
+
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>UNITED STATES</b></p>
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Washington, D.C. 20549</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin: 0 auto; width: 100%"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>FORM <span id="xdx_905_edei--DocumentType_c20231218__20231218_z4MHKcThtoBe"><ix:nonNumeric contextRef="AsOf2023-12-18" name="dei:DocumentType">8-K</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin: 0 auto; width: 100%"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>CURRENT REPORT</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Pursuant to Section&#160;13 or 15(d)</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>of the Securities Exchange Act of 1934</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 8pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Date of Report (Date of earliest event reported): <span id="xdx_90E_edei--DocumentPeriodEndDate_c20231218__20231218_zsfn4V0uWxh4"><ix:nonNumeric contextRef="AsOf2023-12-18" format="ixt:datemonthdayyearen" name="dei:DocumentPeriodEndDate">December 18, 2023</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin: 0 auto; width: 100%"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_906_edei--EntityRegistrantName_c20231218__20231218_z1yqmAa1DCoj"><ix:nonNumeric contextRef="AsOf2023-12-18" name="dei:EntityRegistrantName">Structure Therapeutics Inc.</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>(Exact name of registrant as specified in its
+charter)</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 8pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin: 0 auto; width: 100%"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="vertical-align: top; font-size: 10pt; text-align: center; width: 32%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_90F_edei--EntityIncorporationStateCountryCode_c20231218__20231218_z3J3fqSLsTvj"><ix:nonNumeric contextRef="AsOf2023-12-18" format="ixt-sec:edgarprovcountryen" name="dei:EntityIncorporationStateCountryCode">Cayman Islands</ix:nonNumeric></span></b></span></td>
+    <td style="vertical-align: bottom; font-size: 10pt; width: 2%">&#160;</td>
+    <td style="vertical-align: top; font-size: 10pt; text-align: center; width: 32%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_90E_edei--EntityFileNumber_c20231218__20231218_zwhm7XzbbE5e"><ix:nonNumeric contextRef="AsOf2023-12-18" name="dei:EntityFileNumber">001-41608</ix:nonNumeric></span></b></span></td>
+    <td style="vertical-align: bottom; font-size: 10pt; width: 2%">&#160;</td>
+    <td style="vertical-align: top; font-size: 10pt; text-align: center; width: 32%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_90E_edei--EntityTaxIdentificationNumber_c20231218__20231218_zE62iS14b42"><ix:nonNumeric contextRef="AsOf2023-12-18" name="dei:EntityTaxIdentificationNumber">98-1480821</ix:nonNumeric></span></b></span></td></tr>
+  <tr>
+    <td style="vertical-align: top">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>(State or other jurisdiction</b></p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>of incorporation)</b></p></td>
+    <td style="vertical-align: bottom; font-size: 10pt">&#160;</td>
+    <td style="vertical-align: top">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>(Commission</b></p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>File Number)</b></p></td>
+    <td style="vertical-align: bottom; font-size: 10pt">&#160;</td>
+    <td style="vertical-align: top">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>(IRS Employer</b></p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Identification No.)</b></p></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="vertical-align: top; width: 49%">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_901_edei--EntityAddressAddressLine1_c20231218__20231218_z8rLsD0vNe76"><ix:nonNumeric contextRef="AsOf2023-12-18" name="dei:EntityAddressAddressLine1">601 Gateway Blvd.</ix:nonNumeric></span>, <span id="xdx_909_edei--EntityAddressAddressLine2_c20231218__20231218_zz2uZnPtj6P7"><ix:nonNumeric contextRef="AsOf2023-12-18" name="dei:EntityAddressAddressLine2">Suite 900</ix:nonNumeric></span></b></p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_906_edei--EntityAddressCityOrTown_c20231218__20231218_z3D2nuxwsq46"><ix:nonNumeric contextRef="AsOf2023-12-18" name="dei:EntityAddressCityOrTown">South San Francisco</ix:nonNumeric></span>, <span id="xdx_905_edei--EntityAddressStateOrProvince_c20231218__20231218_z8dIXom4qem6"><ix:nonNumeric contextRef="AsOf2023-12-18" format="ixt-sec:stateprovnameen" name="dei:EntityAddressStateOrProvince">California</ix:nonNumeric></span></b></p></td>
+    <td style="vertical-align: bottom; font-size: 10pt; width: 2%">&#160;</td>
+    <td style="vertical-align: bottom; font-size: 10pt; text-align: center; width: 49%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_901_edei--EntityAddressPostalZipCode_c20231218__20231218_zH7A70NfUgmj"><ix:nonNumeric contextRef="AsOf2023-12-18" name="dei:EntityAddressPostalZipCode">94080</ix:nonNumeric></span></b></span></td></tr>
+  <tr>
+    <td style="vertical-align: top; font-size: 10pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(Address of principal executive offices)</b></span></td>
+    <td style="vertical-align: bottom; font-size: 10pt">&#160;</td>
+    <td style="vertical-align: top; font-size: 10pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(Zip Code)</b></span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 8pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>(Registrant&#8217;s telephone number, including area code): (<span id="xdx_902_edei--CityAreaCode_c20231218__20231218_zLg2L7dgYZXd"><ix:nonNumeric contextRef="AsOf2023-12-18" name="dei:CityAreaCode">628</ix:nonNumeric></span>) <span id="xdx_90F_edei--LocalPhoneNumber_c20231218__20231218_z351nHXJ50Ah"><ix:nonNumeric contextRef="AsOf2023-12-18" name="dei:LocalPhoneNumber">229-9277</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 8pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Not Applicable</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>(Former name or former address, if changed since
+last report)</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 9pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin: 0 auto; width: 100%"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 9pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">Check the appropriate box below if the Form&#160;8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2.
+below):</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="width: 4%; font-size: 10pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span style="font-family: Wingdings"><span id="xdx_90B_edei--WrittenCommunications_c20231218__20231218_z3a4KViSJmO1"><ix:nonNumeric contextRef="AsOf2023-12-18" format="ixt:booleanfalse" name="dei:WrittenCommunications">&#168;</ix:nonNumeric></span></span></span></td>
+    <td style="font-size: 10pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Written communications pursuant to Rule&#160;425 under the Securities Act (17 CFR 230.425) </span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="width: 4%; font-size: 10pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span style="font-family: Wingdings"><span id="xdx_903_edei--SolicitingMaterial_c20231218__20231218_zEhdicNRUCY7"><ix:nonNumeric contextRef="AsOf2023-12-18" format="ixt:booleanfalse" name="dei:SolicitingMaterial">&#168;</ix:nonNumeric></span></span></span></td>
+    <td style="font-size: 10pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Soliciting material pursuant to Rule&#160;14a-12 under the Exchange Act (17 CFR 240.14a-12)&#160;</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="width: 4%; font-size: 10pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span style="font-family: Wingdings"><span id="xdx_904_edei--PreCommencementTenderOffer_c20231218__20231218_zOGedfcrkXh2"><ix:nonNumeric contextRef="AsOf2023-12-18" format="ixt:booleanfalse" name="dei:PreCommencementTenderOffer">&#168;</ix:nonNumeric></span></span></span></td>
+    <td style="font-size: 10pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pre-commencement communications pursuant to Rule&#160;14d-2(b)&#160;under the Exchange Act (17 CFR 240.14d-2(b))&#160;</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="width: 4%; font-size: 10pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span style="font-family: Wingdings"><span id="xdx_902_edei--PreCommencementIssuerTenderOffer_c20231218__20231218_zw2I7C9iEnN8"><ix:nonNumeric contextRef="AsOf2023-12-18" format="ixt:booleanfalse" name="dei:PreCommencementIssuerTenderOffer">&#168;</ix:nonNumeric></span></span></span></td>
+    <td style="font-size: 10pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pre-commencement communications pursuant to Rule&#160;13e-4(c)&#160;under the Exchange Act (17 CFR 240.13e-4(c))&#160;</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 8pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.25in; text-align: center"><b>Securities registered pursuant to Section&#160;12(b)&#160;of
+the Act:</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 8pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="width: 44%">&#160;</td>
+    <td style="white-space: nowrap; width: 2%">&#160;</td>
+    <td style="width: 20%; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Name&#160;Of&#160;Each&#160;Exchange</b></span></td>
+    <td style="white-space: nowrap; width: 2%">&#160;</td>
+    <td style="white-space: nowrap; width: 32%">&#160;</td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: Black 1pt solid; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Title of Each Class</b></span></td>
+    <td style="white-space: nowrap; text-align: center">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Trading&#160;Symbol(s)</b></span></td>
+    <td style="white-space: nowrap; text-align: center">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>On&#160;Which&#160;Registered</b></span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_90C_edei--Security12bTitle_c20231218__20231218__us-gaap--StatementClassOfStockAxis__custom--AmericanDepositarySharesAdssEachRepresentingThreeOrdinarySharesParValue0.0001PerOrdinaryShareMember_zBBHfrbaAQk6"><ix:nonNumeric contextRef="From2023-12-182023-12-18_custom_AmericanDepositarySharesAdssEachRepresentingThreeOrdinarySharesParValue0.0001PerOrdinaryShareMember" name="dei:Security12bTitle">American Depositary Shares (ADSs), each representing three ordinary shares, par value $0.0001 per ordinary share</ix:nonNumeric></span></span></td>
+    <td style="white-space: nowrap; text-align: center">&#160;</td>
+    <td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_909_edei--TradingSymbol_c20231218__20231218__us-gaap--StatementClassOfStockAxis__custom--AmericanDepositarySharesAdssEachRepresentingThreeOrdinarySharesParValue0.0001PerOrdinaryShareMember_zrBhIMplzITf"><ix:nonNumeric contextRef="From2023-12-182023-12-18_custom_AmericanDepositarySharesAdssEachRepresentingThreeOrdinarySharesParValue0.0001PerOrdinaryShareMember" name="dei:TradingSymbol">GPCR</ix:nonNumeric></span></span></td>
+    <td style="white-space: nowrap; text-align: center">&#160;</td>
+    <td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_90E_edei--SecurityExchangeName_c20231218__20231218__us-gaap--StatementClassOfStockAxis__custom--AmericanDepositarySharesAdssEachRepresentingThreeOrdinarySharesParValue0.0001PerOrdinaryShareMember_zd3w1axJIPz5"><ix:nonNumeric contextRef="From2023-12-182023-12-18_custom_AmericanDepositarySharesAdssEachRepresentingThreeOrdinarySharesParValue0.0001PerOrdinaryShareMember" format="ixt-sec:exchnameen" name="dei:SecurityExchangeName">Nasdaq</ix:nonNumeric></span> Global Market</span></td></tr>
+  <tr style="vertical-align: top">
+    <td><span style="font-size: 8pt">&#160;</span></td>
+    <td style="white-space: nowrap"><span style="font-size: 8pt">&#160;</span></td>
+    <td><span style="font-size: 8pt">&#160;</span></td>
+    <td style="white-space: nowrap"><span style="font-size: 8pt">&#160;</span></td>
+    <td><span style="font-size: 8pt">&#160;</span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_905_edei--Security12bTitle_c20231218__20231218__us-gaap--StatementClassOfStockAxis__custom--OrdinarySharesParValue0.0001PerShareMember_z8izrE2W8Pfa"><ix:nonNumeric contextRef="From2023-12-182023-12-18_custom_OrdinarySharesParValue0.0001PerShareMember" name="dei:Security12bTitle">Ordinary shares, par value $0.0001 per share*</ix:nonNumeric></span></span></td>
+    <td style="white-space: nowrap">&#160;</td>
+    <td style="text-align: center"><span id="xdx_90A_edei--NoTradingSymbolFlag_dxL_c20231218__20231218__us-gaap--StatementClassOfStockAxis__custom--OrdinarySharesParValue0.0001PerShareMember_zyB9ay6zWB25" style="display: none; visibility: hidden"><span style="-sec-ix-hidden: xdx2ixbrl0031">True</span></span></td>
+    <td style="white-space: nowrap">&#160;</td>
+    <td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_907_edei--SecurityExchangeName_c20231218__20231218__us-gaap--StatementClassOfStockAxis__custom--OrdinarySharesParValue0.0001PerShareMember_znalZcgr56Je"><ix:nonNumeric contextRef="From2023-12-182023-12-18_custom_OrdinarySharesParValue0.0001PerShareMember" format="ixt-sec:exchnameen" name="dei:SecurityExchangeName">Nasdaq</ix:nonNumeric></span> Global Market*</span></td></tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">* Not for trading, but only in connection with the registration of
+the American Depositary Shares</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule&#160;405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule&#160;12b-2 of the Securities
+Exchange Act of 1934 (&#167;240.12b-2 of this chapter).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">Emerging growth company </span><span style="font-family: Wingdings"><span id="xdx_90B_edei--EntityEmergingGrowthCompany_c20231218__20231218_z4ob3QDkMGdg"><ix:nonNumeric contextRef="AsOf2023-12-18" format="ixt:booleantrue" name="dei:EntityEmergingGrowthCompany">&#120;</ix:nonNumeric></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><span style="font-size: 10pt">If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section&#160;13(a)&#160;of the Exchange Act. </span><span style="font-family: Wingdings"><span id="xdx_909_edei--EntityExTransitionPeriod_c20231218__20231218_znB045t0Iiv2"><ix:nonNumeric contextRef="AsOf2023-12-18" format="ixt:booleanfalse" name="dei:EntityExTransitionPeriod">&#168;</ix:nonNumeric></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0; margin-bottom: 0; width: 100%"><div style="border-top: Black 1pt solid; border-bottom: Black 2pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Item 7.01 Regulation FD Disclosure. </b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">On December 18, 2023, Structure Therapeutics
+Inc. (the Company) issued a press release and will be hosting a conference call and webcast to discuss the results of its Phase 2a proof-of-concept
+study of its oral GLP-1 agonist, GSBR-1290, in type 2 diabetes mellitus (T2DM) and obesity and provide a comprehensive program update.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">Copies of the press release and investor presentation
+the Company intends to use during the conference call and webcast are attached as Exhibits 99.1 and 99.2 to this Current Report on Form&#160;8-K,
+respectively.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><span style="background-color: white">The
+information set forth in this Item 7.01 and in the press release and investor&#160;presentation&#160;attached hereto as Exhibits 99.1
+and 99.2, respectively, is deemed to be &#8220;furnished&#8221; and shall not be deemed to be &#8220;filed&#8221; for purposes of Section&#160;18
+of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that Section.&#160;&#160;The
+information set forth in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed incorporated by reference into any filing
+under the Exchange Act or the Securities Act of 1933, as amended, except to the extent that the Company specifically incorporates it by
+reference.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Item 8.01 Other Events. </b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>&#160;</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>GSBR-1290 &#8211; Phase 2a Study </i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The randomized, double-blind, 12-week placebo-controlled Phase 2a clinical
+trial has enrolled a total of 94 participants to date, including 60 participants randomized to GSBR-1290. The T2DM cohort enrolled 54
+participants, randomized to GSBR-1290 45 mg (n=10) or 90 mg (n=26), or placebo (n=18), dosed once daily. The obesity cohort initially
+enrolled 40 individuals randomized to GSBR-1290 120 mg (n=24) or placebo (n=16), once-daily. An additional 24 participants are currently
+being enrolled in the obesity arm as previously announced and will also be randomized 3:2 to GSBR-1290 or placebo.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The primary endpoint of the Phase 2a study is safety and tolerability
+of GSBR-1290. Key secondary endpoints include reduction in weight for both cohorts, as well as reduction in HbA1c for the T2DM cohort.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><i>Safety and Tolerability Results </i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">GSBR-1290 demonstrated encouraging safety and tolerability following
+repeated, daily dosing for all doses studied (up to 120 mg) in the obesity and T2DM cohorts.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"></td><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">The majority (88 to 96%, depending on study arm) of adverse events (AEs) reported were mild to moderate.</span></td></tr></table>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"></td><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">There were no serious adverse events (SAEs) related to study drug. </span></td></tr></table>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"></td><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">As expected for this mechanism of action, leading AEs were gastrointestinal-related.
+The two most common AEs were nausea and vomiting. </span></td></tr></table>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"></td><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">There were no cases of elevated liver enzymes in the obesity cohort. One
+participant in the T2DM treatment group <span style="background-color: white">experienced an event of </span>elevated <span style="background-color: white">liver
+enzymes without an increase in bilirubin initially at day 8 while receiving 5 mg of study drug</span>. This participant was diagnosed
+with fatty liver disease while in the study.</span></td></tr></table>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"></td><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">Of the 60 participants dosed with GSBR-1290, only one participant discontinued
+the study due to AEs related to study drug (none in the obesity cohort and one (2.8%) in the T2DM cohort). </span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Table 1: Summary of Treatment Emergent Adverse Events (TEAEs)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="border: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&#160;</td>
+    <td colspan="3" style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Phase 2a TDM Cohort </b></p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>(12-week data)</b></p></td>
+    <td colspan="2" style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Phase 2a Obesity Cohort </b></p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>(12-week interim data)</b></p></td></tr>
+  <tr>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; width: 23%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">Event, N (%)</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 15%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">GSBR-1290</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">45 mg</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(n=10)</p></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 16%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">GSBR-1290</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">90 mg</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(n=26)</p></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 15%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Placebo</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(n=18)</p></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 16%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">GSBR-1290</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">120 mg (n=24)</p></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 15%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">Placebo (n=16)</span></td></tr>
+  <tr>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">Any TEAE</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">10 (100)</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">25 (96.2)</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">8 (44.4)</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">23 (95.8)</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">11 (68.8)</span></td></tr>
+  <tr>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">Any TEAE by maximum severity</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&#160;</td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&#160;</td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&#160;</td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&#160;</td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&#160;</td></tr>
+  <tr>
+    <td style="border-right: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">Mild</span></td>
+    <td style="border-right: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">2 (20)</span></td>
+    <td style="border-right: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">6 (23.1)</span></td>
+    <td style="border-right: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">6 (33.3)</span></td>
+    <td style="border-right: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">6 (25)</span></td>
+    <td style="border-right: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">9 (56.3)</span></td></tr>
+
+<tr>
+    <td style="border: Black 1pt solid; width: 23%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">Moderate</span></td>
+    <td style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 15%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">7 (70)</span></td>
+    <td style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 16%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">17 (65.4)</span></td>
+    <td style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 15%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">2 (11.1)</span></td>
+    <td style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 16%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">17 (70.8)</span></td>
+    <td style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 15%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">2 (12.5)</span></td></tr>
+  <tr>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">Severe</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">0</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">2 (7.7)</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">0</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">0</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">0</span></td></tr>
+  <tr>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">Any SAEs</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">1 (10)</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">1 (3.8)</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">0</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">0</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">0</span></td></tr>
+  <tr>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">Any SAEs related to study drug</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">0</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">0</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">0</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">0</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">0</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 2 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><i>Efficacy Results</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">GSBR-1290 demonstrated clinically meaningful activity in both T2DM
+and obesity cohorts.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"></td><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">In the T2DM cohort, there was a statistically significant HbA1c reduction
+(- 1.01 to -1.02%, placebo-adjusted) at Week 12 (Table 2). The study demonstrated a statistically significant and clinically meaningful
+reduction in weight at Week 12 (-3.26% to -3.51%, placebo-adjusted) (Table 3). Weight loss continued to decrease through Week 12.</span></td></tr></table>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"></td><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">Results of the interim analysis in the obesity cohort, showed a statistically
+significant and clinically meaningful decrease in weight at Week 8 (-4.74%, placebo-adjusted) (Table 4). Weight loss continued to decrease
+throughout the eight weeks of treatment.</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Table 2: Diabetes cohort least square means difference (LSM) change
+in HbA1C from baseline to 12 weeks (%)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="border: Black 1pt solid; width: 30%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&#160;</td>
+    <td style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 22%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">GSBR-1290</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">45 mg</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(n=10)</p></td>
+    <td style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 24%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">GSBR-1290</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">90 mg</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(n=26)</p></td>
+    <td style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 24%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Placebo</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(n=18)</p></td></tr>
+  <tr>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">LSM
+    HbA1C change from baseline (%)</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">-0.79</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">-0.84</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">0.18</span></td></tr>
+  <tr>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">% HbA1C change placebo-adjusted (LSM, 95% confidence interval&#160;&#160;(CI))</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">-1.01</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(-1.73, -0.29)</p></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">-1.02</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(-1.59, -0.44)</p></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&#160;</td></tr>
+  <tr>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">P-value vs. placebo</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">p= 0.008</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">p= 0.001</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&#160;</td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0"><i><sup>*</sup> LSM, CI and p value from Mixed Model for Repeated Measures</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Table 3: Diabetes cohort LSM change in weight from baseline (%)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="border: Black 1pt solid; width: 30%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&#160;</td>
+    <td style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 22%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">GSBR-1290</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">45 mg</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(n=10)</p></td>
+    <td style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 24%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">GSBR-1290</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">90 mg</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(n=26)</p></td>
+    <td style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 24%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Placebo</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(n=18)</p></td></tr>
+  <tr>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">LSM
+    weight change from baseline (%)</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">-3.32</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">-3.22</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">0.04</span></td></tr>
+  <tr>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">% weight change placebo-adjusted (LSM, 95% CI)</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">-3.51</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(-5.58, -1.43)</p></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">-3.26</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(-5.17, -1.36)</p></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">-</span></td></tr>
+  <tr>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">P-value vs. placebo</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">p= 0.0019</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">p= 0.0013</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">-</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0"><i><sup>*</sup> LSM, CI and p value from Mixed Model for Repeated Measures</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Table 4: Obesity Cohort LSM change in weight from baseline (%) 8 week
+interim results</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="border: Black 1pt solid; width: 30%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&#160;</td>
+    <td style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 22%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">GSBR-1290</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">120 mg</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(n=24)</p></td>
+    <td style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 24%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Placebo</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(n=16)</p></td>
+    <td style="width: 24%">&#160;</td></tr>
+  <tr>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">LSM
+    weight change from baseline (%)</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">-5.55</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">-0.82</span></td>
+    <td>&#160;</td></tr>
+  <tr>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">% weight change placebo-adjusted (LSM, 90% CI)</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">-4.74</p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(-6.74, -3.10)</p></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&#160;</td>
+    <td>&#160;</td></tr>
+  <tr>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">P-value vs. placebo</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt">p&lt; 0.0001</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&#160;</td>
+    <td>&#160;</td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0"><i><sup>*</sup> LSM, CI and p value from Mixed Model for Repeated Measures</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 3 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Phase 1 Japanese Bridging Study</b></p>
+
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The 4-week Phase 1 Japanese ethnobridging study included healthy lean
+Japanese participants randomized to GSBR-1290 (n=9) and placebo (n=3), and healthy lean non-Japanese participants receiving GSBR-1290
+(n=6). GSBR-1290 demonstrated a substantial weight reduction in Japanese participants (-3.91% on GSBR-1290 vs -1.67% placebo) and in non-Japanese
+participants (-5.13% not placebo-adjusted), with no discontinuations or dose reductions, and no SAEs. These data will be used for regulatory
+interactions in Japan in preparation for potential future global studies of GSBR-1290.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><b>6- and 9-Month Toxicology Studies</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">In preparation for Phase 2b development with longer durations of treatment, the Company has completed 6-month (rodent) and 9-month (non-human
+primate) toxicology studies to evaluate the safety of GSBR-1290. No major findings were observed in either study, with no test article-related
+changes observed in the liver, including ALT/AST, at all doses, and a &gt;100 fold safety window at the 120 mg therapeutic dose.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><b>GSBR-1290 Next Steps</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">Full 12-week results from the Phase 2a obesity cohort (n=64), including data from the additional 24 participants currently being enrolled,
+are expected in the second quarter of 2024.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">The Company plans to initiate a Phase 2b obesity study of GSBR-1290 in the second half of 2024. The study is planned to include at least
+275 individuals across the United States and Europe and will include multiple modified dose titration regimens to optimize efficacy and
+tolerability. An additional Phase 2 study in T2DM is also planned for the second half of 2024 to optimize the efficacy and tolerability
+of GSBR-1290 in this patient population.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">The ongoing formulation bridging and titration optimization study is evaluating capsule versus tablet pharmacokinetics (PK) and exploring
+different titration regimens. This study has completed enrollment (n=54), and data are expected in the second quarter of 2024. Pending
+supportive data from this bridging study, the tablet formulation would be used in future GSBR-1290 studies starting with the Phase 2b
+studies.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Forward Looking Statements </b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">All statements other than statements of historical fact are
+statements that could be deemed forward-looking statements, including, without limitation, statements concerning the Company&#8217;s
+future plans and prospects; any expectations regarding the safety, efficacy or tolerability of GSBR-1290 and other candidates under
+development based on the topline and interim clinical data from the Phase 2a study of GSBR-1290 in patients with T2DM and obesity,
+including the potential for increased efficacy with longer duration of treatment, the ability of GSBR-1290 to treat T2DM, obesity or
+related indications, the planned initiation and study design of the Company&#8217;s Phase 2b studies for GSBR-1290 in patients with T2DM
+and obesity and the timing thereof, the update from the PK/formulation study of GSBR-1290 and the planned timing thereof, the
+planned timing of the Company&#8217;s data results and continued development of GSBR-1290 and next generation combination GLP-1R
+candidates and expectations regarding a new tablet formulation GLP-1R. In addition, when or if used in this Form 8-K, the words
+&#8220;may,&#8221; &#8220;could,&#8221; &#8220;should,&#8221; &#8220;anticipate,&#8221; &#8220;believe,&#8221;
+&#8220;estimate,&#8221; &#8220;expect,&#8221; &#8220;intend,&#8221; &#8220;plan,&#8221; &#8220;predict&#8221; and similar
+expressions and their variants, as they relate to the Company may identify forward-looking statements. Forward-looking statements
+are neither historical facts nor assurances of future performance. Although the Company believes the expectations reflected in such
+forward-looking statements are reasonable, the Company can give no assurance that such expectations will prove to be correct.
+Readers are cautioned that actual results, levels of activity, safety, performance or events and circumstances could differ
+materially from those expressed or implied in the Company&#8217;s forward-looking statements due to a variety of risks and
+uncertainties, which include, without limitation, risks and uncertainties related to the preliminary nature of the results due to
+length of the study and sample size, the risks that unblinded data is not consistent with blinded data, the risk that interim
+results of a clinical trial do not predict final results and that one or more of the clinical outcomes may materially change as
+patient enrollment continues, following more comprehensive reviews of the data, as follow-up on the outcome of any particular
+patient continues, and as more patient data become available; the Company&#8217;s ability to advance GSBR-1290, LTSE-2578, ANPA-0073
+and its other therapeutic candidates, obtain regulatory approval of and ultimately commercialize the Company&#8217;s therapeutic
+candidates, the timing and results of preclinical and clinical trials, the impact of any data collection omissions at any of
+its&#8217; clinical sites, the Company&#8217;s ability to fund development activities and achieve development goals, the
+Company&#8217;s reliance on third parties, including clinical research organizations, manufacturers, suppliers and collaborators,
+over which it may not always have full control, the impact of any global pandemics, inflation, or supply chain issues on the
+Company&#8217;s business, its ability to protect its intellectual property and other risks and uncertainties described in the
+Company&#8217;s filings with the Securities and Exchange Commission (SEC), including the Company&#8217;s Annual Report on Form 10-K
+filed with the SEC on March 30, 2023, Quarterly Report on Form 10-Q filed with the SEC on November 17, 2023, and future reports the
+Company may file with the SEC from time to time. All forward-looking statements contained in this Form 8-K speak only as of the date
+on which they were made and are based on management&#8217;s assumptions and estimates as of such date. The Company undertakes no
+obligation to update such statements to reflect events that occur or circumstances that exist after the date on which they were
+made, except as required by law.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><b>Item 9.01 Financial Statements and Exhibits.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(d) Exhibits.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: Black 1pt solid; text-align: center; width: 7%"><b>Exhibit<br />
+ No. &#160;</b></td>
+    <td style="padding-bottom: 1pt; width: 2%"><b>&#160;</b></td>
+    <td style="border-bottom: Black 1pt solid; width: 91%"><b>Description</b></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr>
+    <td><a href="tm2329572d16_ex99-1.htm">99.1</a></td>
+    <td>&#160;</td>
+    <td><a href="tm2329572d16_ex99-1.htm">Press Release, dated December 18, 2023.</a></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr>
+    <td><a href="tm2329572d16_ex99-2.htm">99.2</a></td>
+    <td>&#160;</td>
+    <td><a href="tm2329572d16_ex99-2.htm">Investor Presentation, dated December 18, 2023.</a></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr>
+    <td style="vertical-align: top">104</td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: bottom">Cover Page Interactive Data File (embedded within the Inline XBRL document)</td></tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;<i>&#160;</i></p>
+
+<!-- Field: Page; Sequence: 4 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><i></i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SIGNATURES </b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td colspan="2"><span style="font-size: 10pt"><b>Structure Therapeutics Inc.</b></span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="width: 50%">&#160;</td>
+    <td style="width: 4%">&#160;</td>
+    <td style="width: 46%">&#160;</td></tr>
+  <tr style="vertical-align: top">
+    <td><span style="font-size: 10pt">Date: December 18, 2023</span></td>
+    <td><span style="font-size: 10pt">By:</span></td>
+    <td style="border-bottom: Black 1pt solid"><span style="font-size: 10pt">/s/ Raymond Stevens</span></td></tr>
+  <tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">Raymond Stevens, Ph.D.</span></td></tr>
+  <tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">Chief Executive Officer</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 5; Options: Last -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+
+</body>
+</html>
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJyNkNFKwzAUhp9g73AoXqiULekQpXe1m0PcdHRDvI3t2RZsk3KSTfdIvqVpap0DRUMgnPznP9+fBEEYTPSNLJHg6TqbwhKruhQWIcMVEqocXUd6exeDOzNcS2NJKOvLzphq50Hnuejzyzx3iu/dSYNFDGw4iK4G0RBYFHMOySzoNXqq1UoWqKwUJQhVwJx0TRKtoH07YSnetNLV3rMekYzUKgbeZ638DhHjEdzrnXjV9GJgOk2DXuhXL5iQ3tYNZmusrmBcYuVYprUeto+S+574gQqpHH2xEYRmLuhRlFtkfcYYnyP56xlWz0jOw1nk8Mlnls4KxntDqAXBrrHDSTsAavdRXj3/AZ1USDIXaoS1NtJ+hUgKY8Yi32RYu6r5LLVebgjxj6xH8i+ZOyYcoNCOg9NktDBnIaBDA31jg23goP/33OO27tkfnW7ERQ== -->
