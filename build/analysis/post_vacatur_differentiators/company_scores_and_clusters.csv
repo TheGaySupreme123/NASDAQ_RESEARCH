@@ -1,178 +1,178 @@
 cik,ticker,legal_name,continuation_group,continuation_status,cluster,pc1,pc2,predicted_probability
-1868941,FLNC,"Fluence Energy, Inc.",continued,continued_same_matrix,1,1.785174100099674,-3.3605908812580387,0.9309901457668462
-1865408,,Exscientia plc,not_continued,no_post_vacatur_relevant_filing,0,-3.475059278000679,-0.7685901553343965,0.02992710150018525
-1689731,,"Southern States Bancshares, Inc.",continued,continued_other_narrative,2,2.7462441505703916,2.0217513399528535,0.1658192897077256
-1875444,ARHS,"Arhaus, Inc.",continued,continued_other_narrative,1,1.8292969550398581,-3.849908106674699,0.8966001107051167
-1590418,FCUV,FOCUS UNIVERSAL INC.,continued,continued_same_matrix,1,2.118497870104658,-0.7106768849501648,0.9217482829282826
-1649739,BAFN,BayFirst Financial Corp.,continued,continued_other_narrative,2,2.0644617006483674,1.7686715896755056,0.9012888792998821
-1657853,HTZ,"HERTZ GLOBAL HOLDINGS, INC",not_continued,not_continued_in_reviewed_filings,1,1.700430489834304,-4.620406268602738,0.6869923576316971
-1789940,FWRG,"First Watch Restaurant Group, Inc.",continued,continued_other_narrative,1,1.9232986120407054,-4.503802870147212,0.7989979862687714
-1544522,FRSH,Freshworks Inc.,continued,continued_other_narrative,1,1.991868550725624,-4.889904975972233,0.7509767287796527
-1861795,DH,Definitive Healthcare Corp.,continued,continued_other_narrative,1,2.4561714837616417,-3.3384340607192704,0.9381450117438879
-1865494,IOBTQ,"IO Biotech, Inc.",continued,continued_other_narrative,1,1.0246092073738278,1.385629889407423,0.9954743071604737
-1625278,NRDS,"NERDWALLET, INC.",continued,continued_same_matrix,1,2.1928806281243443,-0.17967836244933377,0.7892623876762852
-1689375,TRDA,"Entrada Therapeutics, Inc.",not_continued,not_continued_in_reviewed_filings,1,2.775635355498915,1.0837458085406715,0.9127235986945998
-1868726,OLPX,"OLAPLEX HOLDINGS, INC.",continued,continued_same_matrix,1,1.9512397796271959,-2.458811633609492,0.8531759924293133
-1782170,RELY,"Remitly Global, Inc.",not_continued,not_continued_in_reviewed_filings,1,1.823632279681923,-4.482040906472042,0.6522654244319307
-1598981,SKYX,SKYX Platforms Corp.,continued,continued_other_narrative,1,1.6202397068427856,-0.5628111958180875,0.9780032062592335
-1607939,UDMY,"Udemy, Inc.",continued,continued_other_narrative,1,1.7733234170212615,-3.518606118756403,0.8075756990356631
-1462056,BLZE,"Backblaze, Inc.",continued,continued_other_narrative,1,2.280476850079764,-0.4538542025757663,0.8943127583688408
-1784567,,"Harbor Custom Development, Inc.",not_continued,no_post_vacatur_relevant_filing,1,1.9140355737802026,0.7182363229972689,0.004200656812186274
-1482981,COCO,"Vita Coco Company, Inc.",continued,continued_same_matrix,1,2.063969685885528,-4.286163055579417,0.9184146254376077
-1862150,CING,Cingulate Inc.,continued,continued_other_narrative,1,2.2642141528179427,0.7306224255808347,0.7412932757047329
-1452965,,MINERVA SURGICAL INC,not_continued,no_post_vacatur_relevant_filing,1,2.9464611680381463,1.7046928851534988,0.25336913987159415
-1844280,,"Thorne Healthtech, Inc.",not_continued,no_post_vacatur_relevant_filing,1,3.089794915611749,1.4023001205226266,0.39766572342763196
-1866692,AMPL,"Amplitude, Inc.",not_continued,not_continued_in_reviewed_filings,1,1.7901910547507243,-3.9718238673447024,0.8649470248367883
-1455365,CGTX,COGNITION THERAPEUTICS INC,continued,continued_other_narrative,1,2.6079044870033363,2.100927202660037,0.9778105480839022
-1817004,NXXT,"NEXTNRG, INC.",continued,continued_same_matrix,1,2.016769471140488,0.8087433356295911,0.9269853500120199
-1856608,,"Sovos Brands, Inc.",not_continued,no_post_vacatur_relevant_filing,1,2.3245656069086644,-3.0580949931868333,0.2042972097654534
-1745020,,"Theseus Pharmaceuticals, Inc.",not_continued,no_post_vacatur_relevant_filing,1,2.9846962062667175,1.747633859607853,0.24425828430172775
-1781730,TCBX,"Third Coast Bancshares, Inc.",continued,continued_other_narrative,1,2.233669861981135,0.8559634434573004,0.9774357293480515
-1866757,BRLT,"Brilliant Earth Group, Inc.",continued,continued_other_narrative,1,2.2533492029973115,0.062435453113897595,0.5077012023645903
-1645569,,"DICE Therapeutics, Inc.",not_continued,no_post_vacatur_relevant_filing,1,3.077015447045221,1.71656101028394,0.13022395078177146
-1412558,EVO,Evotec SE,continued,continued_same_matrix,0,-2.8568778519270754,-3.884995029514353,0.5571961315612121
-1840233,XLO,"Xilio Therapeutics, Inc.",not_continued,not_continued_in_reviewed_filings,1,2.479291505007011,0.8961991561300399,0.8767065845717233
-1874178,RIVN,"Rivian Automotive, Inc. / DE",continued,continued_other_narrative,1,1.9824192290076816,-5.180240364494798,0.86191941997599
-1851194,,"Ventyx Biosciences, Inc.",continued,continued_other_narrative,1,3.103512825665153,-0.26806749324787466,0.4151026302640315
-1653909,BIRD,"Allbirds, Inc.",continued,continued_other_narrative,1,2.2954310803164524,-0.02843351726643855,0.9455197117076889
-1667011,AIP,"Arteris, Inc.",continued,continued_other_narrative,1,2.456984964827155,-0.6641699139259,0.8020903235716075
-1501796,AURA,"Aura Biosciences, Inc.",continued,continued_other_narrative,1,2.719640624799391,0.36151648728603103,0.6850839727288617
-1858257,,"AvidXchange Holdings, Inc.",not_continued,not_continued_in_reviewed_filings,1,2.184625463851558,-3.6043435044707,0.07764566521721405
-1588978,PRCT,PROCEPT BioRobotics Corp,continued,continued_same_matrix,1,2.5349258357199917,-3.144630333703872,0.6707986417469924
-1782223,PYXS,"Pyxis Oncology, Inc.",not_continued,not_continued_in_reviewed_filings,1,2.7086321450140325,-0.3519570991734312,0.7028692594579591
-1863127,TYRA,"Tyra Biosciences, Inc.",not_continued,not_continued_in_reviewed_filings,1,2.8624417477741826,-0.28292909872207544,0.8610504041840303
-1827087,,"Vigil Neuroscience, Inc.",continued,continued_other_narrative,1,2.614633514999921,2.051017452836565,0.511330429500815
-1476840,EXFY,"Expensify, Inc.",continued,continued_other_narrative,1,2.3969574689543918,-3.038965888263632,0.9573419969997722
-1780201,LVLU,"Lulu's Fashion Lounge Holdings, Inc.",continued,continued_other_narrative,1,1.9041885252452495,0.6823060219584375,0.9361249088875047
-1574094,RNXT,"RenovoRx, Inc.",continued,continued_other_narrative,1,2.499996888560801,0.9954251013826847,0.6796308805240243
-1645070,,Sterling Check Corp.,not_continued,no_post_vacatur_relevant_filing,1,2.56107748707124,0.4443168399667883,0.21426455348333381
-1866550,,"Thoughtworks Holding, Inc.",not_continued,no_post_vacatur_relevant_filing,1,2.2462263587753677,-3.5351608234053518,0.07220406468052389
-1769804,,"Augmedix, Inc.",not_continued,no_post_vacatur_relevant_filing,1,2.3099986331989673,0.7591421314825455,0.158610951209624
-1779372,BEAT,"HeartBeam, Inc.",continued,continued_other_narrative,1,2.586947700225371,-0.013840156709547635,0.9721244107225809
-1861522,,KIDPIK CORP.,not_continued,no_post_vacatur_relevant_filing,1,2.4139133031387017,0.7421513871911922,0.2843500565965847
-1799011,LUCD,Lucid Diagnostics Inc.,continued,continued_other_narrative,1,2.4813439347446944,1.6949453234508238,0.9220265791114316
-1787740,VBIO,"Valion Bio, Inc.",continued,continued_other_narrative,1,2.4545629855541566,0.9460218481226634,0.8869747694726773
-1851657,,"Vaxxinity, Inc.",not_continued,no_post_vacatur_relevant_filing,1,2.8461606695875856,0.8715785203384802,0.06616261931256723
-1653482,GTLB,Gitlab Inc.,continued,continued_other_narrative,1,1.9961168883065765,-4.8851337565884165,0.7499623769210028
-1850453,,Mynaric AG,not_continued,not_continued_in_reviewed_filings,0,-4.536661139732816,-0.1973157192956334,0.010156263582456748
-1871509,PTLO,Portillo's Inc.,continued,continued_other_narrative,1,1.940291962364515,-4.4847179926119445,0.7954957608353288
-1704287,BJDX,"Bluejay Diagnostics, Inc.",continued,continued_other_narrative,1,2.507205539206523,1.425694526878914,0.9134573631501065
-1841330,KTTA,Pasithea Therapeutics Corp.,continued,continued_other_narrative,1,2.4872518758179436,0.9811114432312333,0.6831586653592562
-1676238,BRZE,"Braze, Inc.",continued,continued_other_narrative,1,1.9515093437065762,-4.9352315601184955,0.7604752271805447
-1468327,RENT,"Rent the Runway, Inc.",continued,continued_other_narrative,1,2.245388310496568,0.3424034958144754,0.8088144426285868
-1853816,DRMA,"Dermata Therapeutics, Inc.",continued,continued_other_narrative,1,2.6767674634685044,1.9144214151064112,0.9021229893724096
-1874097,CYN,Cyngn Inc.,continued,continued_other_narrative,1,2.22451406280146,0.5446611317922581,0.9646605799002412
-1468929,NXGL,"NEXGEL, INC.",continued,continued_same_matrix,1,2.623163398165169,2.0583002617656976,0.9762140128020349
-1782107,ONCO,"Onconetix, Inc.",continued,continued_other_narrative,1,2.086100710739602,2.026221333328268,0.9225043268254413
-1844971,GREE,Greenidge Generation Holdings Inc.,continued,continued_other_narrative,2,2.756264833972585,1.0698787385329758,0.8779648304784293
-1534154,AUID,authID Inc.,not_continued,not_continued_in_reviewed_filings,1,2.3655692045525596,-1.3278680044819706,0.8415165462184646
-1807794,CRDO,Credo Technology Group Holding Ltd,continued,continued_other_narrative,1,0.09192313192306911,-3.975697074826245,0.9514702994119482
-1628945,,Cue Health Inc.,not_continued,no_post_vacatur_relevant_filing,1,2.800440805642387,1.6078125789456539,0.24548642857708014
-1836242,TKLF,"Tokyo Lifestyle Co., Ltd.",not_continued,not_continued_in_reviewed_filings,0,-4.936504118797094,0.5541646407689057,0.3703861751523414
-1848275,TOP,TOP Financial Group Ltd,not_continued,not_continued_in_reviewed_filings,0,-5.17012664655207,1.296814491665535,0.669942802297986
-1567900,ALOY,REALLOYS INC.,continued,continued_same_matrix,1,2.1466161116537057,0.3343333095812113,0.9661835247396438
-1878848,IREN,IREN Ltd,continued,continued_other_narrative,2,-0.5283385638789354,-3.3096238605629678,0.9249958328294097
-1505497,BRTX,"BioRestorative Therapies, Inc.",continued,continued_other_narrative,1,2.1251111946326677,-1.0011146645066704,0.7836089083268126
-1144879,APLD,Applied Digital Corp.,continued,continued_other_narrative,1,1.7241576755275074,-4.695805907798955,0.8759158046317713
-1191070,NEUP,Neuphoria Therapeutics Inc.,not_continued,not_continued_in_reviewed_filings,1,1.6984494272969934,0.765521325479895,0.37754757274776996
-1839285,HCTI,"Healthcare Triangle, Inc.",continued,continued_other_narrative,1,2.3036642299462753,-0.05263168122416389,0.5725710810647617
-1676047,NTRB,NutriBand Inc.,continued,continued_same_matrix,1,2.8164980383417535,1.3508809454770598,0.5862620316010697
-1872525,SWAG,"Stran & Company, Inc.",continued,continued_other_narrative,1,2.2651159752957613,1.000038081994449,0.917133880756997
-1858685,BFRI,Biofrontera Inc.,continued,continued_other_narrative,1,2.878227158572852,1.3050148466112714,0.8051905787926532
-1730773,BSFC,Blue Star Foods Corp.,continued,continued_other_narrative,1,2.7675072544972297,-0.5435484589597634,0.9401928839935265
-1875547,LCFY,Locafy Ltd,continued,continued_same_matrix,0,-4.714503184694522,0.4282019401261889,0.5798870420678094
-1757499,SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",continued,continued_other_narrative,1,1.9416572329872206,1.8639998742784862,0.9346879868414053
-1817511,SOPA,SOCIETY PASS INCORPORATED.,continued,continued_other_narrative,1,0.7557708407048235,0.9394432122966436,0.9594105965112746
-1074871,MODD,"Modular Medical, Inc.",continued,continued_other_narrative,1,2.541473816938329,2.531568932232682,0.958505494140696
-1914818,STBXF,Starbox Group Holdings Ltd.,continued,continued_same_matrix,0,-4.873595719782354,0.1967504109874173,0.4078733034096357
-1889823,DFSC,DEFSEC Technologies Inc.,not_continued,not_continued_in_reviewed_filings,0,-5.154953170579178,-0.36984188543818514,0.23609234548823355
-1828588,HNVR,"Hanover Bancorp, Inc. /MD",continued,continued_same_matrix,2,2.337661685388165,0.2893079725980161,0.744857258143748
-1803407,OST,"Ostin Technology Group Co., Ltd.",not_continued,not_continued_in_reviewed_filings,0,-4.709554195336584,1.2407326161941736,0.5135163612109436
-1743905,RVSN,Rail Vision Ltd.,not_continued,not_continued_in_reviewed_filings,0,-4.547852447502932,1.4222114422152758,0.32451145920944546
-1922641,ENLT,Enlight Renewable Energy Ltd.,continued,continued_same_matrix,0,-4.903190711126227,-4.346969758067743,0.6379282620601388
-1889109,BLTE,"BELITE BIO, INC",continued,continued_same_matrix,1,-0.29861133123656297,-1.402303308884739,0.8111991749156016
-1811623,,"Kuvatris Therapeutics, Inc.",not_continued,no_post_vacatur_relevant_filing,1,2.665458493420589,1.4438011090986889,0.05146266071718922
-1756701,LNKB,"LINKBANCORP, Inc.",continued,continued_other_narrative,2,2.2502544597406087,2.1907365154022767,0.930447117077201
-1893311,,LUXURBAN HOTELS INC.,not_continued,not_continued_in_reviewed_filings,2,2.171432844867967,2.713118665751688,0.07613564404537532
-1946216,,"SYLA Technologies Co., Ltd.",not_continued,not_continued_in_reviewed_filings,0,-5.038726526971391,1.2238327363862262,0.03194074173127251
-1861737,HSAI,Hesai Group,continued,continued_same_matrix,0,-4.3378290183610915,-4.273350493928021,0.9041747617478744
-1857816,GCT,GigaCloud Technology Inc,continued,continued_same_matrix,1,0.5560654944475629,-1.784404746770894,0.7392211900390289
-1923840,,"Third Harmonic Bio, Inc.",continued,continued_other_narrative,1,2.8517728409516905,2.3712552933088795,0.44758686178070517
-1809750,EDBL,Edible Garden AG Inc,not_continued,not_continued_in_reviewed_filings,1,2.200755285587907,2.4744687549119724,0.5437402120839513
-1742341,HKIT,HiTek Global Inc.,not_continued,not_continued_in_reviewed_filings,0,-5.712641200216695,-0.3897635213495588,0.7439904566570595
-1944902,OMH,Ohmyhome Ltd,continued,continued_same_matrix,0,-5.501719591474368,1.2164707843754599,0.5341492998084616
-1894693,SVRE,SaverOne 2014 Ltd.,not_continued,not_continued_in_reviewed_filings,0,-4.634275613159794,0.43047960105382627,0.2488616797051384
-1888012,,"HilleVax, Inc.",not_continued,not_continued_in_reviewed_filings,1,3.1727098244726486,2.9977978324548507,0.4038114694472786
-1814963,ILAG,Intelligent Living Application Group Inc.,continued,continued_same_matrix,0,-4.631668167783236,1.0026561302920902,0.7154851206427242
-1910139,MBLY,Mobileye Global Inc.,continued,continued_other_narrative,1,-0.0841427802308923,-5.378090685884751,0.923735678696335
-1835597,PEPG,PepGen Inc.,continued,continued_same_matrix,1,2.9338032300139343,1.3075201941137755,0.9499224824691517
-1894562,PRME,"Prime Medicine, Inc.",not_continued,not_continued_in_reviewed_filings,1,2.446313380284949,0.7768984571080776,0.6417121227610202
-1425627,SOBR,"SOBR Safe, Inc.",continued,continued_other_narrative,1,2.103480859594805,0.04762325977891158,0.8795539800088432
-1886894,SNAL,"Snail, Inc.",continued,continued_other_narrative,1,1.7609669082409714,0.5967063743283152,0.9617818098425953
-1935172,AIXI,Xiao-I Corp,continued,continued_same_matrix,0,-5.310866362975659,-0.8934033276931924,0.6890216070215992
-1781174,ACRV,"Acrivon Therapeutics, Inc.",continued,continued_same_matrix,1,2.4063058797116805,0.8690146970348234,0.6796739251489792
-1825349,CHSN,Chanson International Holding,not_continued,not_continued_in_reviewed_filings,0,-5.677198085531263,0.5447136872060855,0.8180796534091244
-1881487,ACDC,ProFrac Holding Corp.,continued,continued_other_narrative,1,2.421256851317654,-1.5085145822764576,0.9870807291224035
-1863218,SFWL,SHENGFENG DEVELOPMENT Ltd,not_continued,not_continued_in_reviewed_filings,0,-6.175353080272171,-0.36785538018900704,0.6854413191504092
-1825875,RAYA,Erayak Power Solution Group Inc.,continued,continued_other_narrative,0,-4.926874206483502,0.6061436056122513,0.7759823490050799
-1938186,JYD,Jayud Global Logistics Ltd,not_continued,not_continued_in_reviewed_filings,0,-6.25790247866968,0.2204567474378717,0.555767875861955
-1930510,VCIG,VCI Global Ltd,continued,continued_same_matrix,0,-5.8551225260172215,0.04690035388958623,0.4945344131494431
-1855557,HLP,Hongli Group Inc.,continued,continued_same_matrix,0,-5.643211384883644,0.5828834422766224,0.8115414542740861
-1938865,WAI,Top KingWin Ltd,continued,continued_same_matrix,0,-5.893622484003253,0.003786889999180915,0.647540879848862
-1835022,COYA,"Coya Therapeutics, Inc.",continued,continued_other_narrative,1,2.066983191625316,2.004750846101091,0.9242290517524355
-1825452,ONFO,"Onfolio Holdings, Inc",continued,continued_other_narrative,1,1.8770230393822194,0.963850892569968,0.8842587738253801
-1784970,NXTT,Next Technology Holding Inc.,continued,continued_same_matrix,2,-1.3038564349481834,1.3038790830074682,0.8212534289164337
-1231457,GNLX,GENELUX Corp,continued,continued_other_narrative,1,1.7735317036469582,1.495003146833076,0.9412918788927224
-1414767,NCPL,Netcapital Inc.,not_continued,not_continued_in_reviewed_filings,2,1.9356265511299153,1.5589061102743689,0.7555853901708138
-1852131,NXT,Nextpower Inc.,continued,continued_same_matrix,1,1.5100648750234067,-4.630542339765868,0.963839483679591
-1939780,UCAR,U Power Ltd,continued,continued_same_matrix,0,-5.481774556807452,0.7641897788616728,0.7780301816664507
-1937993,CVKD,"Cadrenal Therapeutics, Inc.",continued,continued_other_narrative,1,1.8268710231702352,2.125800246686972,0.9535991771966945
-1901305,,"Forza X1, Inc.",not_continued,no_post_vacatur_relevant_filing,1,2.6431044861706283,2.2062768743168566,0.19473978139343298
-1944399,PDC,Perpetuals.com Ltd,not_continued,not_continued_in_reviewed_filings,0,-5.629533697630663,-0.2965522539290739,0.5938316028584284
-1527352,NXL,"Nexalin Technology, Inc.",continued,continued_other_narrative,1,2.720816674353384,3.109022355755806,0.9621736004770173
-1347242,LIPO,LIPELLA PHARMACEUTICALS INC.,continued,continued_same_matrix,1,2.7181167448083636,2.174264881783401,0.9419777799029863
-1514183,SILO,"Silo Pharma, Inc.",continued,continued_other_narrative,1,2.633975773066755,0.5762989202222056,0.8234811060410165
-1932770,HERE,Here Group Ltd,not_continued,not_continued_in_reviewed_filings,0,-4.978000730720222,0.17530317641689955,0.3802341138206941
-1903995,MGIH,Millennium Group International Holdings Ltd,continued,continued_other_narrative,0,-5.301220209616976,0.9669666026739,0.7357540071360555
-1854572,IZM,ICZOOM Group Inc.,continued,continued_other_narrative,0,-5.227377258020595,0.49226600794242,0.8552901442567893
-1945711,LVROF,Lavoro Ltd,not_continued,not_continued_in_reviewed_filings,0,-3.997658419779637,-1.3060884572601468,0.5897805888589558
-1888980,LRE,"LEAD REAL ESTATE CO., LTD",not_continued,not_continued_in_reviewed_filings,0,-5.835270202697616,0.6316966145800853,0.17634966054318785
-1962845,,"PIXIE DUST TECHNOLOGIES, INC.",not_continued,not_continued_in_reviewed_filings,0,-4.441097576865785,1.271800146097104,0.09932370441790075
-1978527,GVH,Globavend Holdings Ltd,continued,continued_same_matrix,0,-6.102573237207458,0.3947787443832476,0.3646899821397018
-1967621,ATGL,Alpha Technology Group Ltd,continued,continued_other_narrative,0,-5.574570228835742,-0.23469889137550243,0.7090493928696647
-1913749,GMM,Global Mofy AI Ltd,continued,continued_same_matrix,0,-5.529962684235742,-0.18460108784542278,0.6971782196112244
-1928340,GDHG,GOLDEN HEAVEN GROUP HOLDINGS LTD.,continued,continued_same_matrix,0,-5.2967310538794425,0.6741432134254856,0.4618753889068806
-1907085,ODD,Oddity Tech Ltd,not_continued,not_continued_in_reviewed_filings,0,-4.083709495601176,-2.498990949599642,0.3666230527466386
-1916241,PRZO,ParaZero Technologies Ltd.,not_continued,not_continued_in_reviewed_filings,0,-5.2096160318690385,1.069720308862019,0.5808336357550069
-1934642,MDBH,"MDB Capital Holdings, LLC",not_continued,not_continued_in_reviewed_filings,2,1.0091920441275897,2.0599844452305383,0.4140667598048891
-1956744,TRON,Tron Inc.,continued,continued_same_matrix,2,1.052139985235293,2.828687348364026,0.7845547710746924
-1956827,ABVX,Abivax S.A.,not_continued,not_continued_in_reviewed_filings,0,-4.38790619686415,0.4739497349083717,0.6336532430776375
-1939365,IVPR,"INSPIRE VETERINARY PARTNERS, INC.",continued,continued_other_narrative,2,1.012094573658227,2.5255757565342214,0.48686322316172936
-1947244,USGO,U.S. GoldMining Inc.,continued,continued_other_narrative,1,-0.20243519431075518,0.8370164379325683,0.9921666000095163
-1946703,WBUY,WEBUY GLOBAL LTD,continued,continued_other_narrative,0,-5.237414562748929,0.24131192758514877,0.6116711823799897
-1329606,CETY,"Clean Energy Technologies, Inc.",continued,continued_same_matrix,2,0.854467655219176,0.5696162693210594,0.7770169221565766
-1579091,CART,Maplebear Inc.,not_continued,not_continued_in_reviewed_filings,1,1.1871530548756206,-4.905747388489399,0.8390901307054909
-1914805,BANL,CBL International Ltd,continued,continued_same_matrix,0,-5.311423271743777,1.6581743993476,0.9560980259763158
-1400118,SGMT,Sagimet Biosciences Inc.,continued,continued_other_narrative,1,2.2073640200438636,1.830034489748029,0.8494576448516478
-1944552,ANL,Adlai Nortye Ltd.,continued,continued_other_narrative,0,-1.6184229292059875,0.8931651850529772,0.76469849871657
-1962918,,"ACELYRIN, Inc.",continued,continued_other_narrative,1,2.717249430385788,2.5191089951060475,0.5243085772434711
-1873093,GDTC,CytoMed Therapeutics Ltd,not_continued,not_continued_in_reviewed_filings,0,-4.483697589673277,1.8178720609609003,0.4082822660633383
-1764974,,Turnstone Biologics Corp.,not_continued,not_continued_in_reviewed_filings,1,2.5767954726113054,2.7192605995507595,0.6423881623763874
-1951667,CTNT,CHEETAH NET SUPPLY CHAIN SERVICE INC.,continued,continued_other_narrative,1,1.1881601688429735,2.4719611247679465,0.9995635842438529
-1974640,APGE,"Apogee Therapeutics, Inc.",continued,continued_other_narrative,1,1.9785848604699279,-2.3831389915440306,0.7908317399888315
-1966494,,"CARGO Therapeutics, Inc.",continued,continued_same_matrix,1,2.3107328561540483,1.91856230363499,0.6203788693828477
-1948294,NWGL,CL Workshop Group Ltd,continued,continued_same_matrix,0,-5.067641624986934,0.7963565019938745,0.6160433709458204
-1885522,NMRA,"Neumora Therapeutics, Inc.",continued,continued_other_narrative,1,2.275998435173044,-1.140653469037281,0.9765394609929098
-1837821,ZJYL,Jin Medical International Ltd.,continued,continued_same_matrix,0,-4.379176443006837,1.5987727890915815,0.7377926703378975
-1887944,SHIM,Shimmick Corp,continued,continued_other_narrative,1,1.11836985779496,1.0591375890086416,0.8532904380354024
-1687187,METC,"Ramaco Resources, Inc.",continued,continued_other_narrative,1,1.5784309439699977,-2.6299049218983597,0.9937744359963009
-1951294,VSME,VS MEDIA Holdings Ltd,not_continued,not_continued_in_reviewed_filings,0,-5.496402920184205,0.4498959023860811,0.5254251831525397
-1949478,DTCKF,DAVIS COMMODITIES Ltd,continued,continued_same_matrix,0,-5.310285368446445,1.0976918693058904,0.9851612380379546
-1627282,CWD,CaliberCos Inc.,not_continued,not_continued_in_reviewed_filings,2,1.8316323829819332,2.673073026660214,0.9026278190433054
-1973239,ARM,ARM HOLDINGS PLC /UK,continued,continued_other_narrative,0,-3.628271821631284,-4.115138926901539,0.8010134553052359
-1946563,SXTP,"60 DEGREES PHARMACEUTICALS, INC.",continued,continued_same_matrix,1,2.044594413192545,2.3703282300123107,0.9396500724806414
-1891944,PMEC,Primech Holdings Ltd,continued,continued_other_narrative,0,-5.313459484445791,0.6552308253262683,0.32904914114571143
-1959224,AXG,"Solowin Holdings, Ltd.",continued,continued_other_narrative,0,-5.20996183370091,1.42818694159938,0.5301845625647756
-1948884,,Gamer Pakistan Inc,not_continued,no_post_vacatur_relevant_filing,1,1.4081058738430772,1.8838940857729982,0.015280839894323738
-1954269,GSIW,Garden Stage Ltd,continued,continued_same_matrix,0,-5.253656049499821,1.6050832319915664,0.8348937806291946
-1859199,AIRE,reAlpha Tech Corp.,continued,continued_other_narrative,2,1.9598834954473263,2.811036733010709,0.964661278332709
+1868941,FLNC,"Fluence Energy, Inc.",continued,continued_same_matrix,1,1.5557699457399452,3.3394314519247765,0.9733609620197043
+1865408,,Exscientia plc,not_continued,no_post_vacatur_relevant_filing,0,-3.113303024332372,-0.4621613098114912,0.03787386412270591
+1689731,,"Southern States Bancshares, Inc.",continued,continued_other_narrative,2,2.649650822214639,-1.9145216360137078,0.2062431253499036
+1875444,ARHS,"Arhaus, Inc.",continued,continued_other_narrative,1,1.5912897776908255,3.9040018977016118,0.8994738519787909
+1590418,FCUV,FOCUS UNIVERSAL INC.,continued,continued_same_matrix,1,1.8681046605808183,0.57016112069892,0.9228204961661562
+1649739,BAFN,BayFirst Financial Corp.,continued,continued_other_narrative,2,1.9745798097412375,-1.701171719818214,0.924696709167514
+1657853,HTZ,"HERTZ GLOBAL HOLDINGS, INC",not_continued,not_continued_in_reviewed_filings,1,1.3901405022834523,4.7077637542316,0.6815822659223955
+1789940,FWRG,"First Watch Restaurant Group, Inc.",continued,continued_other_narrative,1,1.6876785631410178,4.499597867681053,0.8022128679174092
+1544522,FRSH,Freshworks Inc.,continued,continued_other_narrative,1,1.8092563748200077,5.51134661576082,0.7434653629728939
+1861795,DH,Definitive Healthcare Corp.,continued,continued_other_narrative,1,2.288377025806736,4.08329810421255,0.9267073643434337
+1865494,IOBTQ,"IO Biotech, Inc.",continued,continued_other_narrative,1,1.3066416817722013,-1.758380248212006,0.9958024156352607
+1625278,NRDS,"NERDWALLET, INC.",continued,continued_same_matrix,1,2.0801304646213694,1.3987766152518177,0.7808442679941482
+1689375,TRDA,"Entrada Therapeutics, Inc.",not_continued,not_continued_in_reviewed_filings,1,3.0333026259666016,-1.434858104826626,0.9101141829332499
+1868726,OLPX,"OLAPLEX HOLDINGS, INC.",continued,continued_same_matrix,1,1.730431648039325,2.6006359720066565,0.9360224611558347
+1782170,RELY,"Remitly Global, Inc.",not_continued,not_continued_in_reviewed_filings,1,1.5127077988944941,4.597849042541514,0.6424883308909846
+1598981,SKYX,SKYX Platforms Corp.,continued,continued_other_narrative,1,1.4522409449813733,0.8238935401082339,0.9911973243038401
+1607939,UDMY,"Udemy, Inc.",continued,continued_other_narrative,1,1.4759614998015975,3.754835920937844,0.8498611453557481
+1462056,BLZE,"Backblaze, Inc.",continued,continued_other_narrative,1,2.166562050892648,1.6051535847617333,0.8871395032101218
+1784567,,"Harbor Custom Development, Inc.",not_continued,no_post_vacatur_relevant_filing,1,1.8531343846489954,-0.9104732176068933,0.003672684791430516
+1482981,COCO,"Vita Coco Company, Inc.",continued,continued_same_matrix,1,1.852449627527479,4.027114853356502,0.7879062837537736
+1862150,CING,Cingulate Inc.,continued,continued_other_narrative,1,2.52686380958907,-1.2718854894067446,0.7701398626653422
+1452965,,MINERVA SURGICAL INC,not_continued,no_post_vacatur_relevant_filing,1,3.1927281507019454,-1.9059558339903997,0.2811328139461621
+1844280,,"Thorne Healthtech, Inc.",not_continued,no_post_vacatur_relevant_filing,1,3.3322948731502535,-1.6681909079560528,0.42818727749513097
+1866692,AMPL,"Amplitude, Inc.",not_continued,not_continued_in_reviewed_filings,1,1.6256097932675329,4.680331573036754,0.877509164477347
+1455365,CGTX,COGNITION THERAPEUTICS INC,continued,continued_other_narrative,1,2.874626882203526,-2.2827107528357655,0.977763243532217
+1817004,NXXT,"NEXTNRG, INC.",continued,continued_same_matrix,1,1.8474561593346555,-0.08359705214401851,0.9344719522574356
+1856608,,"Sovos Brands, Inc.",not_continued,no_post_vacatur_relevant_filing,1,2.124446782806406,2.955796293726259,0.09195929039213578
+1745020,,"Theseus Pharmaceuticals, Inc.",not_continued,no_post_vacatur_relevant_filing,1,3.2307662772364063,-1.9400672962390466,0.27029624334723407
+1781730,TCBX,"Third Coast Bancshares, Inc.",continued,continued_other_narrative,2,2.1241233211397472,-0.8867250665006807,0.9829247341797911
+1866757,BRLT,"Brilliant Earth Group, Inc.",continued,continued_other_narrative,1,2.041523336808358,-0.27041172276907843,0.5000857399787988
+1645569,,"DICE Therapeutics, Inc.",not_continued,no_post_vacatur_relevant_filing,1,3.3422300490555457,-1.993075354090902,0.10338736951117926
+1412558,EVO,Evotec SE,continued,continued_same_matrix,0,-2.5559957961332125,2.390928421687971,0.49670876741207276
+1840233,XLO,"Xilio Therapeutics, Inc.",not_continued,not_continued_in_reviewed_filings,1,2.747681401948906,-1.444143159729863,0.8832597790079731
+1874178,RIVN,"Rivian Automotive, Inc. / DE",continued,continued_other_narrative,1,1.6702659325820688,4.484949294434244,0.8770493703553922
+1851194,,"Ventyx Biosciences, Inc.",continued,continued_other_narrative,1,3.33013257392201,-0.3122147515154539,0.40990606027417537
+1653909,BIRD,"Allbirds, Inc.",continued,continued_other_narrative,1,2.130852288466503,0.3899981235713418,0.8468577510007563
+1667011,AIP,"Arteris, Inc.",continued,continued_other_narrative,1,2.3856257765834914,1.2622399708283583,0.832745991123779
+1501796,AURA,"Aura Biosciences, Inc.",continued,continued_other_narrative,1,2.988823540131606,-1.019193354396702,0.6744176405209137
+1858257,,"AvidXchange Holdings, Inc.",not_continued,not_continued_in_reviewed_filings,1,2.017172149461981,4.381147898416213,0.08707548154399855
+1588978,PRCT,PROCEPT BioRobotics Corp,continued,continued_same_matrix,1,2.737927818891625,2.223247614341973,0.6868732166379189
+1782223,PYXS,"Pyxis Oncology, Inc.",not_continued,not_continued_in_reviewed_filings,1,2.949641233130294,-0.3152399823008754,0.696500754531183
+1863127,TYRA,"Tyra Biosciences, Inc.",not_continued,not_continued_in_reviewed_filings,1,3.108799363995948,-0.4080603608776902,0.8472399138514974
+1827087,,"Vigil Neuroscience, Inc.",continued,continued_other_narrative,1,2.882020142024897,-2.2655529266847565,0.5225172771136707
+1476840,EXFY,"Expensify, Inc.",continued,continued_other_narrative,1,2.2387984627873254,3.809246595942113,0.9465092064585969
+1780201,LVLU,"Lulu's Fashion Lounge Holdings, Inc.",continued,continued_other_narrative,1,1.735455008983186,0.016842253365886215,0.9436035725989644
+1574094,RNXT,"RenovoRx, Inc.",continued,continued_other_narrative,1,2.7614322565515805,-1.4822395066067342,0.7056670650916708
+1645070,,Sterling Check Corp.,not_continued,no_post_vacatur_relevant_filing,1,2.439121746051339,0.898624659635743,0.22411836069401037
+1866550,,"Thoughtworks Holding, Inc.",not_continued,no_post_vacatur_relevant_filing,1,2.078455797767502,4.3261905425711715,0.08037122020378627
+1769804,,"Augmedix, Inc.",not_continued,no_post_vacatur_relevant_filing,1,2.06015722930116,0.059035254621837466,0.16768593471718388
+1779372,BEAT,"HeartBeam, Inc.",continued,continued_other_narrative,1,2.827631230768222,-0.5336507596569598,0.9700667494972486
+1861522,,KIDPIK CORP.,not_continued,no_post_vacatur_relevant_filing,1,2.239354452051513,-0.04300608271069575,0.31127931849171364
+1799011,LUCD,Lucid Diagnostics Inc.,continued,continued_other_narrative,1,2.7332065219238237,-1.8859042038705727,0.9314564596816644
+1787740,VBIO,"Valion Bio, Inc.",continued,continued_other_narrative,1,2.7250585325581436,-1.4913881209804547,0.8920840486992527
+1851657,,"Vaxxinity, Inc.",not_continued,no_post_vacatur_relevant_filing,1,3.1026130472224898,-1.3961665875085485,0.07551848298799384
+1653482,GTLB,Gitlab Inc.,continued,continued_other_narrative,1,1.8134828333238366,5.507556453288748,0.7423135919187945
+1850453,,Mynaric AG,not_continued,not_continued_in_reviewed_filings,0,-4.96198837649967,-0.3427584191814376,0.013006708307228906
+1871509,PTLO,Portillo's Inc.,continued,continued_other_narrative,1,1.704584397156334,4.484437217792765,0.7983578493717308
+1704287,BJDX,"Bluejay Diagnostics, Inc.",continued,continued_other_narrative,1,2.7881520216732274,-1.9139834123268475,0.9110985240372085
+1841330,KTTA,Pasithea Therapeutics Corp.,continued,continued_other_narrative,1,2.7487528810400934,-1.4708690191905187,0.7094103941602925
+1676238,BRZE,"Braze, Inc.",continued,continued_other_narrative,1,1.769105019033632,5.547353159245503,0.7542379650609938
+1468327,RENT,"Rent the Runway, Inc.",continued,continued_other_narrative,1,2.079006720301507,0.2790082367180003,0.8076574580873808
+1853816,DRMA,"Dermata Therapeutics, Inc.",continued,continued_other_narrative,1,2.9276236130999584,-2.0602516775858795,0.9114844958997036
+1874097,CYN,Cyngn Inc.,continued,continued_other_narrative,1,2.1154026087874955,0.7863757111688006,0.9634694882724667
+1468929,NXGL,"NEXGEL, INC.",continued,continued_same_matrix,1,2.888283514407532,-2.2429437440644255,0.9763556524295564
+1782107,ONCO,"Onconetix, Inc.",continued,continued_other_narrative,1,2.3520568329378864,-2.190863882420434,0.9305253989719396
+1844971,GREE,Greenidge Generation Holdings Inc.,continued,continued_other_narrative,2,2.6829918412322358,-1.3313075587590486,0.8595250787571013
+1534154,AUID,authID Inc.,not_continued,not_continued_in_reviewed_filings,1,2.2223367012819595,2.3852831078827665,0.8329468284160138
+1807794,CRDO,Credo Technology Group Holding Ltd,continued,continued_other_narrative,1,-0.013272482428807613,4.289253204594032,0.9538708954907688
+1628945,,Cue Health Inc.,not_continued,no_post_vacatur_relevant_filing,1,2.5688192040386206,-1.350470930600335,0.25776338545416844
+1836242,TKLF,"Tokyo Lifestyle Co., Ltd.",not_continued,not_continued_in_reviewed_filings,0,-4.972051960817221,-0.4024708665738914,0.3746447708931993
+1848275,TOP,TOP Financial Group Ltd,not_continued,not_continued_in_reviewed_filings,0,-5.121231349992362,-1.8402209236548008,0.6535621437061636
+1567900,ALOY,REALLOYS INC.,continued,continued_same_matrix,1,1.9497071960942143,0.22817675126803894,0.978594668297588
+1878848,IREN,IREN Ltd,continued,continued_other_narrative,2,-0.631422498859383,2.473500545609516,0.9197266260387322
+1505497,BRTX,"BioRestorative Therapies, Inc.",continued,continued_other_narrative,1,2.270211645320568,0.8587465020327596,0.7927370616802395
+1144879,APLD,Applied Digital Corp.,continued,continued_other_narrative,1,1.556618048292466,5.294830001082168,0.8638450821219262
+1191070,NEUP,Neuphoria Therapeutics Inc.,not_continued,not_continued_in_reviewed_filings,1,1.9857749839613135,-1.4164963330885711,0.36736805005615014
+1839285,HCTI,"Healthcare Triangle, Inc.",continued,continued_other_narrative,1,2.1959032553213658,1.153678757012209,0.5752044195101372
+1676047,NTRB,NutriBand Inc.,continued,continued_same_matrix,1,3.0763034150868425,-1.7646066107760903,0.6047248491614301
+1872525,SWAG,"Stran & Company, Inc.",continued,continued_other_narrative,1,2.0218483456632246,-0.1463856507036097,0.9144548163042724
+1858685,BFRI,Biofrontera Inc.,continued,continued_other_narrative,1,3.143562584637399,-1.765023054759519,0.8069650420708085
+1730773,BSFC,Blue Star Foods Corp.,continued,continued_other_narrative,1,2.588316854360175,0.7880771530065892,0.8580346524716124
+1875547,LCFY,Locafy Ltd,continued,continued_same_matrix,0,-4.686809404101653,0.34571748672120933,0.5415065929825312
+1757499,SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",continued,continued_other_narrative,1,2.2083572438076997,-2.06199835836999,0.9426655919486295
+1817511,SOPA,SOCIETY PASS INCORPORATED.,continued,continued_other_narrative,1,0.5332219887703685,-0.15038685879011537,0.9597424086804475
+1074871,MODD,"Modular Medical, Inc.",continued,continued_other_narrative,1,2.813714758298153,-2.6399353052363788,0.9575650202652441
+1914818,STBXF,Starbox Group Holdings Ltd.,continued,continued_same_matrix,0,-4.991333589074098,0.015976548516685587,0.44305216022869326
+1889823,DFSC,DEFSEC Technologies Inc.,not_continued,not_continued_in_reviewed_filings,0,-5.140094002419194,1.1015360364902742,0.28199195961798235
+1828588,HNVR,"Hanover Bancorp, Inc. /MD",continued,continued_same_matrix,2,2.250924601457745,-0.6457735933055802,0.746938494016016
+1803407,OST,"Ostin Technology Group Co., Ltd.",not_continued,not_continued_in_reviewed_filings,0,-4.806272400800254,-1.554229733162779,0.5512380822722353
+1743905,RVSN,Rail Vision Ltd.,not_continued,not_continued_in_reviewed_filings,0,-4.640473979578197,-1.7118307956995669,0.31457049273495846
+1922641,ENLT,Enlight Renewable Energy Ltd.,continued,continued_same_matrix,0,-5.056761206717092,3.793551739404607,0.9346857869579391
+1889109,BLTE,"BELITE BIO, INC",continued,continued_same_matrix,1,-0.029256141035378557,0.5745436039693783,0.7753587887655661
+1811623,,"Kuvatris Therapeutics, Inc.",not_continued,no_post_vacatur_relevant_filing,1,2.9348995126799178,-1.8925294708980407,0.05604801771392537
+1756701,LNKB,"LINKBANCORP, Inc.",continued,continued_other_narrative,2,2.165425419372105,-2.059266161637042,0.9524405397849806
+1893311,,LUXURBAN HOTELS INC.,not_continued,not_continued_in_reviewed_filings,2,2.0959061632237397,-2.524516904905398,0.08049408217324698
+1946216,,"SYLA Technologies Co., Ltd.",not_continued,not_continued_in_reviewed_filings,0,-4.994282004828062,-1.8452059035765676,0.03758121225540999
+1861737,HSAI,Hesai Group,continued,continued_same_matrix,0,-4.454346325237993,3.680277321918349,0.928427775528027
+1857816,GCT,GigaCloud Technology Inc,continued,continued_same_matrix,1,0.3897265287949402,1.9615836121920693,0.7186062350619754
+1923840,,"Third Harmonic Bio, Inc.",continued,continued_other_narrative,1,3.119312682006094,-2.525270312768273,0.4478564206234874
+1809750,EDBL,Edible Garden AG Inc,not_continued,not_continued_in_reviewed_filings,1,2.1349625277046833,-2.1217906709844745,0.5802712395390274
+1742341,HKIT,HiTek Global Inc.,not_continued,not_continued_in_reviewed_filings,0,-5.692771229617097,1.0224128043871614,0.7684561918096185
+1944902,OMH,Ohmyhome Ltd,continued,continued_same_matrix,0,-5.451690404354269,-1.8270493546927766,0.5749727152260043
+1894693,SVRE,SaverOne 2014 Ltd.,not_continued,not_continued_in_reviewed_filings,0,-4.618018931427635,0.4008189455419226,0.23503065860057465
+1888012,,"HilleVax, Inc.",not_continued,not_continued_in_reviewed_filings,1,3.445381237691791,-3.0492759895018304,0.3818733063120475
+1814963,ILAG,Intelligent Living Application Group Inc.,continued,continued_same_matrix,0,-4.7283026057866575,-1.3811737026095783,0.7394449804255169
+1910139,MBLY,Mobileye Global Inc.,continued,continued_other_narrative,1,-0.23620315763437383,5.801225060086912,0.9116585831146045
+1835597,PEPG,PepGen Inc.,continued,continued_same_matrix,1,3.1825565304111785,-1.5627115856301803,0.9401839787792999
+1894562,PRME,"Prime Medicine, Inc.",not_continued,not_continued_in_reviewed_filings,1,2.7276154197653564,-1.3857466959801026,0.6234741813254318
+1425627,SOBR,"SOBR Safe, Inc.",continued,continued_other_narrative,1,1.8652230076875782,-0.07401809910137647,0.8729299740372368
+1886894,SNAL,"Snail, Inc.",continued,continued_other_narrative,1,1.661137459718925,0.7232415555681533,0.961408773409731
+1935172,AIXI,Xiao-I Corp,continued,continued_same_matrix,0,-5.286080582809038,1.3893151527338592,0.6778140723625019
+1781174,ACRV,"Acrivon Therapeutics, Inc.",continued,continued_same_matrix,1,2.6913080263063036,-1.4724631112190003,0.658247154970303
+1825349,CHSN,Chanson International Holding,not_continued,not_continued_in_reviewed_filings,0,-5.685350220712321,-0.7130615920596798,0.6419648569752386
+1881487,ACDC,ProFrac Holding Corp.,continued,continued_other_narrative,1,2.1804870290075113,1.9655456755198355,0.9890234445836753
+1863218,SFWL,SHENGFENG DEVELOPMENT Ltd,not_continued,not_continued_in_reviewed_filings,0,-6.765002983511282,-0.1865360125099904,0.5072856328380609
+1825875,RAYA,Erayak Power Solution Group Inc.,continued,continued_other_narrative,0,-5.023644820211251,-1.0597723079286037,0.8049231352411605
+1938186,JYD,Jayud Global Logistics Ltd,not_continued,not_continued_in_reviewed_filings,0,-6.838549264358498,-0.672935042223825,0.3642808024334947
+1930510,VCIG,VCI Global Ltd,continued,continued_same_matrix,0,-5.958768056443082,0.0725993677373671,0.48255389330182447
+1855557,HLP,Hongli Group Inc.,continued,continued_same_matrix,0,-5.67142010783849,-0.6205392251870487,0.9315224552779422
+1938865,WAI,Top KingWin Ltd,continued,continued_same_matrix,0,-6.001999181054097,0.12028571858407018,0.6769579928104051
+1835022,COYA,"Coya Therapeutics, Inc.",continued,continued_other_narrative,1,2.3330377696706557,-2.17380815129611,0.93225927848296
+1825452,ONFO,"Onfolio Holdings, Inc",continued,continued_other_narrative,1,1.773848456196185,0.4564248686147247,0.8850924078741044
+1784970,NXTT,Next Technology Holding Inc.,continued,continued_same_matrix,2,-1.3434538340091593,-0.09088148924543364,0.8286309184019439
+1231457,GNLX,GENELUX Corp,continued,continued_other_narrative,1,2.066353752215477,-2.027335618051652,0.9369876566223941
+1414767,NCPL,Netcapital Inc.,not_continued,not_continued_in_reviewed_filings,2,1.8447146157755994,-1.6008879762732031,0.6828429241319546
+1852131,NXT,Nextpower Inc.,continued,continued_same_matrix,1,1.370292878032543,4.880812345620365,0.9699525726494596
+1939780,UCAR,U Power Ltd,continued,continued_same_matrix,0,-5.510814684692987,-0.7645653991257804,0.9153802293681368
+1937993,CVKD,"Cadrenal Therapeutics, Inc.",continued,continued_other_narrative,1,2.097151224889235,-2.313395803582029,0.955076010794074
+1901305,,"Forza X1, Inc.",not_continued,no_post_vacatur_relevant_filing,1,2.424351191267108,-1.8676797075862228,0.19626523644916835
+1944399,PDC,Perpetuals.com Ltd,not_continued,not_continued_in_reviewed_filings,0,-5.605162290715877,0.934929747583704,0.5809462540371698
+1527352,NXL,"Nexalin Technology, Inc.",continued,continued_other_narrative,1,3.001721152409078,-3.13580748422645,0.9577442570796652
+1347242,LIPO,LIPELLA PHARMACEUTICALS INC.,continued,continued_same_matrix,1,2.9747696336006393,-2.2894805953542625,0.9537360704401
+1514183,SILO,"Silo Pharma, Inc.",continued,continued_other_narrative,1,2.8716264489474286,-0.9725127062139475,0.8176001139871837
+1932770,HERE,Here Group Ltd,not_continued,not_continued_in_reviewed_filings,0,-5.0111661522351465,-0.13934720409523058,0.3769510532607371
+1903995,MGIH,Millennium Group International Holdings Ltd,continued,continued_other_narrative,0,-5.39190220222474,-1.380184365967828,0.7576054752253886
+1854572,IZM,ICZOOM Group Inc.,continued,continued_other_narrative,0,-5.2577968313290375,-0.419067550540643,0.8623529806598119
+1945711,LVROF,Lavoro Ltd,not_continued,not_continued_in_reviewed_filings,0,-4.090808216203301,1.3389871993337652,0.48777124731352905
+1888980,LRE,"LEAD REAL ESTATE CO., LTD",not_continued,not_continued_in_reviewed_filings,0,-5.7678341554883,-1.222947959737688,0.16460367858403413
+1962845,,"PIXIE DUST TECHNOLOGIES, INC.",not_continued,not_continued_in_reviewed_filings,0,-4.049127346541629,-2.1668098851626456,0.09262640753118796
+1978527,GVH,Globavend Holdings Ltd,continued,continued_same_matrix,0,-6.679090530892186,-0.8248508610525052,0.17765762030548157
+1967621,ATGL,Alpha Technology Group Ltd,continued,continued_other_narrative,0,-5.555411328242654,0.8992325240448253,0.7317730647901153
+1913749,GMM,Global Mofy AI Ltd,continued,continued_same_matrix,0,-5.51103351395245,0.8594358180880706,0.7191645477967735
+1928340,GDHG,GOLDEN HEAVEN GROUP HOLDINGS LTD.,continued,continued_same_matrix,0,-5.40818176126612,-0.4122321087420311,0.47317613177386647
+1907085,ODD,Oddity Tech Ltd,not_continued,not_continued_in_reviewed_filings,0,-4.165855634373804,2.13874928044133,0.39141650177013704
+1916241,PRZO,ParaZero Technologies Ltd.,not_continued,not_continued_in_reviewed_filings,0,-5.295840346315862,-1.4752477477154293,0.5633036079182907
+1934642,MDBH,"MDB Capital Holdings, LLC",not_continued,not_continued_in_reviewed_filings,2,0.9474636172628071,-2.1935493785178988,0.3725741808060678
+1956744,TRON,Tron Inc.,continued,continued_same_matrix,2,0.9805215309405712,-2.6521714316267797,0.7551411800089526
+1956827,ABVX,Abivax S.A.,not_continued,not_continued_in_reviewed_filings,0,-3.978334053884188,-1.636547533747588,0.6998370693293082
+1939365,IVPR,"INSPIRE VETERINARY PARTNERS, INC.",continued,continued_other_narrative,2,0.9525051873463496,-2.2260052034819156,0.436193412585099
+1947244,USGO,U.S. GoldMining Inc.,continued,continued_other_narrative,1,-0.35006296315808016,-0.3538633195748987,0.9934809312157732
+1946703,WBUY,WEBUY GLOBAL LTD,continued,continued_other_narrative,0,-5.26754382969864,-0.1658239101739086,0.6420261466048461
+1329606,CETY,"Clean Energy Technologies, Inc.",continued,continued_same_matrix,2,0.6467456467137483,-0.07550949011758018,0.9740370588288088
+1579091,CART,Maplebear Inc.,not_continued,not_continued_in_reviewed_filings,1,0.8810357680843689,4.887403218720199,0.8289094332329349
+1914805,BANL,CBL International Ltd,continued,continued_same_matrix,0,-5.336818266478796,-1.428816267752268,0.943856752237543
+1400118,SGMT,Sagimet Biosciences Inc.,continued,continued_other_narrative,1,2.479793861916759,-2.0862917481796592,0.8346072469278394
+1944552,ANL,Adlai Nortye Ltd.,continued,continued_other_narrative,0,-1.2802279475773406,-1.6325981428803955,0.8165457519149143
+1962918,,"ACELYRIN, Inc.",continued,continued_other_narrative,1,2.986131037813098,-2.6770821923751287,0.5031262953732676
+1873093,GDTC,CytoMed Therapeutics Ltd,not_continued,not_continued_in_reviewed_filings,0,-4.095019813879876,-2.5480898285433073,0.38942068789674833
+1764974,,Turnstone Biologics Corp.,not_continued,not_continued_in_reviewed_filings,1,2.8555249777634755,-2.871440459834808,0.6126220411509063
+1951667,CTNT,CHEETAH NET SUPPLY CHAIN SERVICE INC.,continued,continued_other_narrative,1,1.0596637690443933,-1.6732066997485953,0.9994099625081234
+1974640,APGE,"Apogee Therapeutics, Inc.",continued,continued_other_narrative,1,2.205118788670814,1.5113257799514772,0.7765421054367166
+1966494,,"CARGO Therapeutics, Inc.",continued,continued_same_matrix,1,2.5780368145501473,-2.1857921075655993,0.6201871076532673
+1948294,NWGL,CL Workshop Group Ltd,continued,continued_same_matrix,0,-5.155430223648657,-1.219902886582832,0.6415456074240787
+1885522,NMRA,"Neumora Therapeutics, Inc.",continued,continued_other_narrative,1,2.504754932832538,0.40864995025115636,0.968979686110758
+1837821,ZJYL,Jin Medical International Ltd.,continued,continued_same_matrix,0,-3.995763521309648,-2.3755781502360294,0.7497412577197895
+1887944,SHIM,Shimmick Corp,continued,continued_other_narrative,1,1.0575150351901015,-1.07187475339325,0.8489689805824826
+1687187,METC,"Ramaco Resources, Inc.",continued,continued_other_narrative,1,1.3261745137958802,2.9132768354113834,0.9949635910105904
+1951294,VSME,VS MEDIA Holdings Ltd,not_continued,not_continued_in_reviewed_filings,0,-5.606825310946085,-0.2340944725546518,0.5438904699374424
+1949478,DTCKF,DAVIS COMMODITIES Ltd,continued,continued_same_matrix,0,-5.3417345536346525,-0.9645938535834193,0.984461443209767
+1627282,CWD,CaliberCos Inc.,not_continued,not_continued_in_reviewed_filings,2,1.7579967037604647,-2.504839869965886,0.9134916606377422
+1973239,ARM,ARM HOLDINGS PLC /UK,continued,continued_other_narrative,0,-3.645139952445172,3.935308198217721,0.7760800399554838
+1946563,SXTP,"60 DEGREES PHARMACEUTICALS, INC.",continued,continued_same_matrix,1,2.3137534077592576,-2.507644555358794,0.9397898480222746
+1891944,PMEC,Primech Holdings Ltd,continued,continued_other_narrative,0,-5.419894597204883,-0.4106463474517994,0.301819767026959
+1959224,AXG,"Solowin Holdings, Ltd.",continued,continued_other_narrative,0,-5.17706129024699,-1.905121280114651,0.554859019356502
+1948884,,Gamer Pakistan Inc,not_continued,no_post_vacatur_relevant_filing,1,1.1608849333986606,-0.7978679743219016,0.014881149565825686
+1954269,GSIW,Garden Stage Ltd,continued,continued_same_matrix,0,-5.205984538283805,-2.1162043988985357,0.833430445623284
+1859199,AIRE,reAlpha Tech Corp.,continued,continued_other_narrative,2,1.8942173243258977,-2.6620687824322937,0.9658742566610375

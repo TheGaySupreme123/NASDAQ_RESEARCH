@@ -2,16 +2,17 @@
   "rows": 177,
   "continued": 120,
   "not_continued": 57,
-  "feature_count": 50,
+  "feature_count": 60,
   "best_model": {
     "model": "knn_k_11",
-    "auc": 0.6524122807017544,
-    "accuracy_at_0_50": 0.6779661016949152,
-    "log_loss": 0.6605628932861788
+    "auc": 0.6412280701754386,
+    "accuracy_at_0_50": 0.6666666666666666,
+    "log_loss": 0.6702371665410802
   },
   "report": "build/analysis/post_vacatur_differentiators/report.html",
   "charts": {
     "status": "build/analysis/post_vacatur_differentiators/charts/continuation_outcomes.png",
+    "sector": "build/analysis/post_vacatur_differentiators/charts/sector_continuation.png",
     "diff": "build/analysis/post_vacatur_differentiators/charts/categorical_differentiators.png",
     "coef": "build/analysis/post_vacatur_differentiators/charts/logistic_coefficients.png",
     "clusters": "build/analysis/post_vacatur_differentiators/charts/clusters.png",

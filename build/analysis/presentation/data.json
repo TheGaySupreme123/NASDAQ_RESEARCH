@@ -1,0 +1,498 @@
+{
+ "funnel": {
+  "candidates": 938,
+  "excluded": 525,
+  "in_scope": 409,
+  "matured": 297,
+  "modeled": 177,
+  "continued": 120,
+  "wound_down": 57
+ },
+ "exclusions": {
+  "spac_or_blank_check": 376,
+  "not_nasdaq_exchange (NYSE)": 110,
+  "fund_or_etf_etp": 20,
+  "debt_only": 9,
+  "listed_after_vacatur": 4,
+  "preferred_only": 3,
+  "right_security": 2,
+  "limited_partnership": 2,
+  "not_nasdaq_exchange (Cboe)": 2,
+  "not_nasdaq_exchange (unknown)": 1
+ },
+ "status": {
+  "NaN": 529,
+  "published_on_time": 211,
+  "not_located": 120,
+  "obligation_voided": 78
+ },
+ "outcomes": {
+  "continued_other_narrative": 78,
+  "continued_same_matrix": 42,
+  "not_continued_in_reviewed_filings": 41,
+  "no_post_vacatur_relevant_filing": 16
+ },
+ "issuer": {
+  "domestic": {
+   "n": 124,
+   "cont_rate": 0.726,
+   "kept_matrix_of_cont": 0.233
+  },
+  "foreign_private_issuer": {
+   "n": 53,
+   "cont_rate": 0.566,
+   "kept_matrix_of_cont": 0.7
+  }
+ },
+ "form_subtype": {
+  "continued_other_narrative": {
+   "10-K": 19,
+   "10-K/A": 3,
+   "20-F": 9,
+   "20-F/A": 0,
+   "DEF 14A": 33,
+   "PRE 14A": 14
+  },
+  "continued_same_matrix": {
+   "10-K": 3,
+   "10-K/A": 1,
+   "20-F": 20,
+   "20-F/A": 1,
+   "DEF 14A": 15,
+   "PRE 14A": 2
+  }
+ },
+ "incorp": {
+  "Delaware": {
+   "c": 64,
+   "n": 93,
+   "rate": 69
+  },
+  "Foreign": {
+   "c": 31,
+   "n": 55,
+   "rate": 56
+  },
+  "Home US state": {
+   "c": 21,
+   "n": 23,
+   "rate": 91
+  },
+  "Other": {
+   "c": 4,
+   "n": 6,
+   "rate": 67
+  }
+ },
+ "timeline": {
+  "2024-12": {
+   "matrix": 4,
+   "narrative": 0
+  },
+  "2025-01": {
+   "matrix": 4,
+   "narrative": 2
+  },
+  "2025-02": {
+   "matrix": 2,
+   "narrative": 3
+  },
+  "2025-03": {
+   "matrix": 5,
+   "narrative": 13
+  },
+  "2025-04": {
+   "matrix": 18,
+   "narrative": 38
+  },
+  "2025-05": {
+   "matrix": 5,
+   "narrative": 5
+  },
+  "2025-06": {
+   "matrix": 2,
+   "narrative": 5
+  },
+  "2025-07": {
+   "matrix": 1,
+   "narrative": 3
+  },
+  "2025-08": {
+   "matrix": 1,
+   "narrative": 4
+  },
+  "2025-09": {
+   "matrix": 0,
+   "narrative": 3
+  },
+  "2025-10": {
+   "matrix": 0,
+   "narrative": 2
+  }
+ },
+ "gender": {
+  "parsed": 26,
+  "total_matrix": 42,
+  "zero_women": 5,
+  "mean_female_share": 0.245,
+  "zero_women_tickers": [
+   "NXGL",
+   "LCFY",
+   "NXTT",
+   "GDHG",
+   "NWGL"
+  ]
+ },
+ "states": {
+  "PA": {
+   "rate": 1.0,
+   "cont": 3,
+   "n": 3
+  },
+  "TX": {
+   "rate": 0.857,
+   "cont": 6,
+   "n": 7
+  },
+  "NY": {
+   "rate": 0.818,
+   "cont": 9,
+   "n": 11
+  },
+  "CA": {
+   "rate": 0.8,
+   "cont": 32,
+   "n": 40
+  },
+  "OH": {
+   "rate": 0.75,
+   "cont": 3,
+   "n": 4
+  },
+  "FL": {
+   "rate": 0.733,
+   "cont": 11,
+   "n": 15
+  },
+  "MA": {
+   "rate": 0.556,
+   "cont": 10,
+   "n": 18
+  },
+  "CO": {
+   "rate": 0.333,
+   "cont": 1,
+   "n": 3
+  }
+ },
+ "industry": {
+  "Banks / finance": {
+   "rate": 1.0,
+   "n": 5,
+   "cont": 5
+  },
+  "Bio / pharma / medical": {
+   "rate": 0.69,
+   "n": 58,
+   "cont": 40
+  },
+  "Other": {
+   "rate": 0.639,
+   "n": 83,
+   "cont": 53
+  },
+  "Tech / software": {
+   "rate": 0.71,
+   "n": 31,
+   "cont": 22
+  }
+ },
+ "us_states": {
+  "AL": {
+   "c": 1,
+   "n": 1,
+   "rate": 100
+  },
+  "AZ": {
+   "c": 0,
+   "n": 1,
+   "rate": 0
+  },
+  "CA": {
+   "c": 32,
+   "n": 40,
+   "rate": 80
+  },
+  "CO": {
+   "c": 1,
+   "n": 3,
+   "rate": 33
+  },
+  "DC": {
+   "c": 1,
+   "n": 1,
+   "rate": 100
+  },
+  "DE": {
+   "c": 1,
+   "n": 1,
+   "rate": 100
+  },
+  "FL": {
+   "c": 11,
+   "n": 15,
+   "rate": 73
+  },
+  "IL": {
+   "c": 1,
+   "n": 2,
+   "rate": 50
+  },
+  "KS": {
+   "c": 1,
+   "n": 1,
+   "rate": 100
+  },
+  "KY": {
+   "c": 1,
+   "n": 1,
+   "rate": 100
+  },
+  "MA": {
+   "c": 10,
+   "n": 18,
+   "rate": 56
+  },
+  "MD": {
+   "c": 1,
+   "n": 1,
+   "rate": 100
+  },
+  "NC": {
+   "c": 0,
+   "n": 1,
+   "rate": 0
+  },
+  "NJ": {
+   "c": 1,
+   "n": 2,
+   "rate": 50
+  },
+  "NV": {
+   "c": 0,
+   "n": 1,
+   "rate": 0
+  },
+  "NY": {
+   "c": 9,
+   "n": 11,
+   "rate": 82
+  },
+  "OH": {
+   "c": 3,
+   "n": 4,
+   "rate": 75
+  },
+  "PA": {
+   "c": 3,
+   "n": 3,
+   "rate": 100
+  },
+  "SC": {
+   "c": 0,
+   "n": 1,
+   "rate": 0
+  },
+  "TX": {
+   "c": 6,
+   "n": 7,
+   "rate": 86
+  },
+  "VA": {
+   "c": 2,
+   "n": 2,
+   "rate": 100
+  },
+  "WA": {
+   "c": 1,
+   "n": 3,
+   "rate": 33
+  }
+ },
+ "foreign_region": {
+  "Europe": {
+   "c": 3,
+   "n": 6,
+   "rate": 50
+  },
+  "Greater China": {
+   "c": 16,
+   "n": 23,
+   "rate": 70
+  },
+  "Israel": {
+   "c": 2,
+   "n": 6,
+   "rate": 33
+  },
+  "Japan": {
+   "c": 1,
+   "n": 6,
+   "rate": 17
+  },
+  "Other": {
+   "c": 3,
+   "n": 5,
+   "rate": 60
+  },
+  "SE Asia": {
+   "c": 7,
+   "n": 9,
+   "rate": 78
+  }
+ },
+ "foreign_country": {
+  "China": {
+   "c": 11,
+   "n": 17,
+   "rate": 65
+  },
+  "Hong Kong": {
+   "c": 4,
+   "n": 5,
+   "rate": 80
+  },
+  "Israel": {
+   "c": 2,
+   "n": 6,
+   "rate": 33
+  },
+  "Japan": {
+   "c": 1,
+   "n": 6,
+   "rate": 17
+  },
+  "Malaysia": {
+   "c": 3,
+   "n": 3,
+   "rate": 100
+  },
+  "Singapore": {
+   "c": 4,
+   "n": 6,
+   "rate": 67
+  }
+ },
+ "scope": {
+  "US": {
+   "c": 86,
+   "n": 120,
+   "rate": 72
+  },
+  "Foreign": {
+   "c": 34,
+   "n": 57,
+   "rate": 60
+  }
+ },
+ "tier": {
+  "Capital Market": {
+   "c": 64,
+   "n": 88,
+   "rate": 73
+  },
+  "Global Market": {
+   "c": 13,
+   "n": 20,
+   "rate": 65
+  },
+  "Global Select": {
+   "c": 28,
+   "n": 34,
+   "rate": 82
+  }
+ },
+ "size": {
+  "large (1,000-9,999 employees)": {
+   "c": 5,
+   "n": 7,
+   "rate": 71
+  },
+  "micro (<50 employees)": {
+   "c": 12,
+   "n": 17,
+   "rate": 71
+  },
+  "mid-size (250-999 employees)": {
+   "c": 15,
+   "n": 19,
+   "rate": 79
+  },
+  "small (50-249 employees)": {
+   "c": 26,
+   "n": 33,
+   "rate": 79
+  }
+ },
+ "egc": {
+  "Emerging growth co.": {
+   "c": 82,
+   "n": 128,
+   "rate": 64
+  },
+  "Not EGC": {
+   "c": 38,
+   "n": 49,
+   "rate": 78
+  }
+ },
+ "sector": {
+  "Finance/Insurance/RE": {
+   "c": 12,
+   "n": 18,
+   "rate": 67
+  },
+  "Manufacturing": {
+   "c": 61,
+   "n": 89,
+   "rate": 69
+  },
+  "Mining/Energy": {
+   "c": 5,
+   "n": 6,
+   "rate": 83
+  },
+  "Retail/Wholesale": {
+   "c": 12,
+   "n": 16,
+   "rate": 75
+  },
+  "Services": {
+   "c": 27,
+   "n": 42,
+   "rate": 64
+  },
+  "Transport/Utilities": {
+   "c": 3,
+   "n": 6,
+   "rate": 50
+  }
+ },
+ "listing_year": {
+  "2021": {
+   "c": 51,
+   "n": 75,
+   "rate": 68
+  },
+  "2022": {
+   "c": 28,
+   "n": 41,
+   "rate": 68
+  },
+  "2023": {
+   "c": 41,
+   "n": 61,
+   "rate": 67
+  }
+ }
+}

@@ -1,0 +1,563 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Voluntary Board-Diversity Disclosure After the Nasdaq Vacatur</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#FFFFFF; --panel:#FAFAFB; --panel-2:#F4F5F7;
+  --ink:#1B2330; --ink-2:#46505F; --slate:#6B7480; --faint:#9AA2AC;
+  --line:#E4E7EC; --line-2:#D2D7DE;
+  --teal:#2E7D70; --teal-d:#1F6F62; --teal-l:#9CC2B8;
+  --amber:#BE824A; --amber-d:#A56A33; --amber-l:#E7CFAE;
+  --indigo:#39557F; --mid:#AEB6BF;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font-family:"Public Sans",system-ui,sans-serif;font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.deck{height:100vh;overflow-y:scroll;scroll-snap-type:y mandatory}
+section.slide{min-height:100vh;scroll-snap-align:start;scroll-snap-stop:always;
+  position:relative;display:flex;flex-direction:column;justify-content:center;
+  padding:74px clamp(34px,7vw,104px) 64px}
+.wrap{max-width:1060px;width:100%;margin:0 auto}
+
+/* running chrome */
+.topbar{position:fixed;top:0;left:0;right:0;height:46px;z-index:50;display:flex;align-items:center;
+  justify-content:space-between;padding:0 22px;background:rgba(255,255,255,.86);backdrop-filter:blur(6px);
+  border-bottom:1px solid var(--line);font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.04em;color:var(--slate)}
+.topbar .t{text-transform:uppercase;letter-spacing:.12em}
+.topbar .pg b{color:var(--ink)}
+.botbar{position:fixed;bottom:0;left:0;right:0;height:30px;z-index:50;display:flex;align-items:center;
+  padding:0 22px;background:var(--bg);border-top:1px solid var(--line);
+  font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--faint);letter-spacing:.03em}
+.rail{position:fixed;right:14px;top:50%;transform:translateY(-50%);z-index:50;display:flex;flex-direction:column;gap:9px}
+.rail a{width:7px;height:7px;border-radius:50%;background:var(--line-2);transition:.2s}
+.rail a.on{background:var(--indigo);transform:scale(1.4)}
+
+/* type */
+.eyebrow{font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:500;letter-spacing:.15em;
+  text-transform:uppercase;color:var(--indigo);margin:0 0 16px;display:flex;gap:10px;align-items:center}
+.eyebrow .sep{color:var(--line-2)}.eyebrow .gr{color:var(--faint)}
+h2.title{font-family:"Source Serif 4",Georgia,serif;font-weight:600;font-size:clamp(23px,2.8vw,32px);
+  line-height:1.14;letter-spacing:-.005em;margin:0 0 10px}
+.defn{font-size:15.5px;color:var(--ink-2);max-width:74ch;line-height:1.5;margin:0 0 26px}
+.reading{font-size:13.5px;color:var(--slate);line-height:1.5;margin-top:26px;padding-left:14px;border-left:2px solid var(--line-2);max-width:82ch}
+.reading b{color:var(--ink-2);font-weight:600}
+.mono{font-family:"IBM Plex Mono",monospace}
+strong{font-weight:600;color:var(--ink)}
+.up{color:var(--teal-d);font-weight:600}.dn{color:var(--amber-d);font-weight:600}
+
+/* reveal */
+.reveal{opacity:0;transform:translateY(10px);transition:opacity .5s ease,transform .5s ease}
+.in .reveal{opacity:1;transform:none}
+.in .reveal.d1{transition-delay:.06s}.in .reveal.d2{transition-delay:.12s}.in .reveal.d3{transition-delay:.18s}
+
+/* cover */
+.cover .ksmall{font-family:"IBM Plex Mono",monospace;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--indigo);margin-bottom:26px}
+.cover h1{font-family:"Source Serif 4",serif;font-weight:600;font-size:clamp(30px,4.6vw,52px);line-height:1.08;letter-spacing:-.012em;margin:0;max-width:20ch}
+.cover .lead{font-size:18px;color:var(--ink-2);max-width:64ch;margin:22px 0 0;line-height:1.5}
+.cover .rule{height:1px;background:var(--line-2);margin:34px 0;max-width:560px}
+.cover .facts{display:flex;gap:42px;flex-wrap:wrap;font-family:"IBM Plex Mono",monospace;font-size:12.5px;color:var(--slate)}
+.cover .facts b{display:block;font-family:"Public Sans";font-size:25px;font-weight:600;color:var(--ink);letter-spacing:-.01em}
+
+/* generic table */
+table{width:100%;border-collapse:collapse;font-size:13.5px}
+th{font-family:"IBM Plex Mono",monospace;font-weight:500;font-size:11px;letter-spacing:.06em;text-transform:uppercase;
+  color:var(--slate);text-align:left;padding:0 12px 9px;border-bottom:1px solid var(--line-2)}
+th.r,td.r{text-align:right}
+td{padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:middle}
+td.mono{font-family:"IBM Plex Mono",monospace}
+tr:hover td{background:var(--panel)}
+.seg{font-weight:600;color:var(--ink)}
+.sub{color:var(--slate);font-size:12px}
+
+/* horizontal bar (inline in tables / charts) */
+.minirail{display:inline-block;width:120px;height:9px;background:var(--panel-2);border-radius:5px;overflow:hidden;vertical-align:middle;margin-right:9px;border:1px solid var(--line)}
+.minirail i{display:block;height:100%;width:var(--w);background:var(--teal);transform-origin:left}
+.barlist{display:flex;flex-direction:column;gap:13px}
+.brow{display:grid;grid-template-columns:200px 1fr 92px;gap:16px;align-items:center}
+.brow .nm{font-size:14px;color:var(--ink);text-align:right;line-height:1.2}
+.brow .nm small{display:block;font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--faint)}
+.track{height:26px;background:var(--panel-2);border:1px solid var(--line);border-radius:4px;overflow:hidden;position:relative}
+.fill{height:100%;width:0;background:var(--teal);transition:width .6s ease}
+.in .fill{width:var(--w)}
+.fill.teal{background:var(--teal)}.fill.amber{background:var(--amber)}.fill.indigo{background:var(--indigo)}.fill.mid{background:var(--mid)}
+.brow .vv{font-family:"IBM Plex Mono",monospace;font-size:14px;font-weight:600;color:var(--ink)}
+.brow .vv small{color:var(--faint);font-weight:400}
+.avgmark{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--amber-d)}
+
+/* two col */
+.two{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:start}
+.two.w{grid-template-columns:1.15fr .85fr}
+.two.n{grid-template-columns:.8fr 1.2fr}
+@media(max-width:900px){.two,.two.w,.two.n{grid-template-columns:1fr;gap:24px}}
+.note{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:18px 20px}
+.note h4{margin:0 0 8px;font-size:13px;font-family:"IBM Plex Mono",monospace;letter-spacing:.08em;text-transform:uppercase;color:var(--indigo);font-weight:500}
+.note p{margin:0 0 8px;font-size:14px;color:var(--ink-2);line-height:1.5}
+.note p:last-child{margin-bottom:0}
+
+/* dates */
+.dates{display:flex;gap:0;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.dates .d{flex:1;padding:16px 18px;border-right:1px solid var(--line)}
+.dates .d:last-child{border-right:0}
+.dates .d .dt{font-family:"IBM Plex Mono",monospace;font-size:13px;color:var(--indigo);font-weight:600}
+.dates .d.end .dt{color:var(--amber-d)}
+.dates .d .lb{font-size:13px;color:var(--ink-2);margin-top:6px;line-height:1.35}
+
+/* funnel */
+.funnel{display:flex;flex-direction:column;gap:7px}
+.fr{display:grid;grid-template-columns:1fr 250px;gap:20px;align-items:center}
+.fbar{height:40px;border-radius:3px;display:flex;align-items:center;padding:0 14px;color:#fff;
+  font-family:"IBM Plex Mono",monospace;font-weight:600;font-size:14px;width:0;transition:width .6s ease;min-width:54px}
+.in .fbar{width:var(--w)}
+.fr .fd{font-size:13.5px;color:var(--ink-2);line-height:1.25}
+.fr .fd b{color:var(--ink);font-weight:600}
+.fr .fd .cut{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--amber-d);margin-left:6px}
+
+/* US tile map */
+.maprow{display:grid;grid-template-columns:1fr 280px;gap:36px;align-items:start}
+@media(max-width:900px){.maprow{grid-template-columns:1fr}}
+.usmap{display:grid;grid-template-columns:repeat(11,1fr);grid-auto-rows:1fr;gap:5px;aspect-ratio:11/8.2}
+.st{border-radius:4px;display:flex;flex-direction:column;align-items:center;justify-content:center;
+  background:#EFF1F3;border:1px solid var(--line);min-height:0;opacity:0;transition:opacity .4s ease}
+.in .st{opacity:1}
+.st .ab{font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:600;line-height:1}
+.st .nn{font-family:"IBM Plex Mono",monospace;font-size:8.5px;line-height:1;margin-top:2px;opacity:.8}
+.st.nd .ab{color:var(--faint);font-weight:400}.st.nd .nn{display:none}
+.st.data .ab,.st.data .nn{color:#fff}
+.st.lite .ab,.st.lite .nn{color:var(--ink)}
+.legend{display:flex;flex-direction:column;gap:6px;margin-top:4px}
+.legend .lr{display:flex;align-items:center;gap:9px;font-size:12.5px;color:var(--ink-2)}
+.legend .sw{width:15px;height:15px;border-radius:3px;flex:none}
+.foreignbox{margin-top:18px}
+.fbar2{display:grid;grid-template-columns:118px 1fr 54px;gap:11px;align-items:center;margin-bottom:9px}
+.fbar2 .nm{font-size:13px;color:var(--ink)}
+.fbar2 .tk{height:18px;background:var(--panel-2);border:1px solid var(--line);border-radius:3px;overflow:hidden}
+.fbar2 .tk i{display:block;height:100%;width:0;transition:width .6s ease}
+.in .fbar2 .tk i{width:var(--w)}
+.fbar2 .vv{font-family:"IBM Plex Mono",monospace;font-size:12.5px;font-weight:600;text-align:right}
+
+/* small multiples */
+.sm{display:grid;grid-template-columns:repeat(2,1fr);gap:22px 40px}
+@media(max-width:760px){.sm{grid-template-columns:1fr}}
+.smpanel h4{margin:0 0 12px;font-size:13px;font-family:"IBM Plex Mono",monospace;letter-spacing:.05em;
+  text-transform:uppercase;color:var(--slate);font-weight:500;display:flex;justify-content:space-between}
+.smpanel h4 span{color:var(--faint);text-transform:none;letter-spacing:0}
+.smrow{display:grid;grid-template-columns:130px 1fr 60px;gap:10px;align-items:center;margin-bottom:9px}
+.smrow .nm{font-size:13px;color:var(--ink-2);text-align:right;line-height:1.15}
+.smrow .tk{height:18px;background:var(--panel-2);border:1px solid var(--line);border-radius:3px;overflow:hidden;position:relative}
+.smrow .tk i{display:block;height:100%;width:0;transition:width .6s ease}
+.in .smrow .tk i{width:var(--w)}
+.smrow .vv{font-family:"IBM Plex Mono",monospace;font-size:12.5px;font-weight:600;color:var(--ink);text-align:right}
+.avgline{position:absolute;top:-6px;bottom:-6px;left:67.8%;border-left:1px dashed var(--amber-d);opacity:.6}
+
+/* timeline */
+.tlchart{display:flex;align-items:flex-end;gap:9px;height:210px;border-bottom:1px solid var(--line-2)}
+.tcol{flex:1;height:100%;display:flex;flex-direction:column;justify-content:flex-end;align-items:center}
+.tnum{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--faint);margin-bottom:4px}
+.tstack{width:100%;max-width:38px;display:flex;flex-direction:column;justify-content:flex-end}
+.tseg{width:100%;transform:scaleY(0);transform-origin:bottom;transition:transform .55s ease}
+.in .tseg{transform:scaleY(1)}
+.tseg.n{background:var(--teal-l);border-radius:3px 3px 0 0}.tseg.m{background:var(--teal-d)}
+.tlx{display:flex;gap:9px;margin-top:8px}
+.tlx .tc{flex:1;text-align:center;font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--faint)}
+.tlx .tc.pk{color:var(--amber-d);font-weight:600}
+.keyrow{display:flex;gap:20px;flex-wrap:wrap;margin-top:14px;font-size:12.5px;color:var(--ink-2)}
+.keyrow .k{display:flex;align-items:center;gap:7px}
+.keyrow .sw{width:12px;height:12px;border-radius:3px}
+
+/* issuer panel */
+.ipair{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-bottom:6px}
+.ip{border:1px solid var(--line);border-radius:8px;padding:18px 20px;background:var(--panel)}
+.ip .h{font-size:15px;font-weight:600;color:var(--ink)}
+.ip .who{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--slate);margin:3px 0 16px}
+.ip .metric{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:11px}
+.ip .metric .lab{font-size:12.5px;color:var(--ink-2);max-width:60%}
+.ip .metric .num{font-family:"IBM Plex Mono",monospace;font-size:19px;font-weight:600}
+.ip .metric .num.t{color:var(--teal-d)}.ip .metric .num.a{color:var(--amber-d)}
+.tickline{font-size:13px;color:var(--ink-2);margin-top:4px}
+.tickline .tk{font-family:"IBM Plex Mono",monospace;font-weight:600;color:var(--amber-d);background:var(--amber-l);
+  padding:2px 7px;border-radius:4px;margin:0 3px;font-size:12px;display:inline-block}
+
+/* league table vs avg */
+.vsbar{display:inline-flex;align-items:center;gap:8px;min-width:140px}
+.vstrack{position:relative;width:110px;height:16px;background:linear-gradient(90deg,transparent 49.5%,var(--line-2) 49.5%,var(--line-2) 50.5%,transparent 50.5%)}
+.vstrack i{position:absolute;top:3px;height:10px;border-radius:2px}
+.vsval{font-family:"IBM Plex Mono",monospace;font-size:12px;font-weight:600;width:38px}
+
+@media(max-width:760px){.two,.maprow,.ipair{grid-template-columns:1fr}.rail{display:none}
+  section.slide{padding:64px 22px 54px}.brow{grid-template-columns:120px 1fr 64px;gap:9px}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}
+  .reveal{opacity:1;transform:none}.fbar,.fill,.fbar2 .tk i,.smrow .tk i,.minirail i{width:var(--w)!important}
+  .tseg{transform:scaleY(1)!important}.st{opacity:1!important}}
+</style>
+</head>
+<body>
+<div class="deck" id="deck">
+
+<!-- 0 COVER -->
+<section class="slide cover" id="s0">
+  <div class="wrap">
+    <div class="ksmall reveal">Governance Research · Working Analysis</div>
+    <h1 class="reveal d1">Voluntary continuation of board-diversity disclosure after the Nasdaq rule was vacated</h1>
+    <p class="lead reveal d2">Nasdaq's Board Diversity Matrix requirement was struck down on December&nbsp;11,&nbsp;2024. This analysis examines which previously-compliant IPO issuers kept disclosing once the obligation no longer existed — and what company characteristics separate them from those that stopped.</p>
+    <div class="rule reveal d2"></div>
+    <div class="facts reveal d3">
+      <div><b>177</b>companies analysed</div>
+      <div><b>120</b>continued disclosure</div>
+      <div><b>57</b>wound down</div>
+      <div><b>67.8%</b>continuation rate</div>
+    </div>
+    <p class="mono reveal d3" style="margin-top:30px;font-size:11.5px;color:var(--faint)">Sources · SEC EDGAR primary filings · Nasdaq listing data · Alliance for Fair Board Recruitment v. SEC (5th Cir., 2024)</p>
+  </div>
+</section>
+
+<!-- 1 QUESTION & COHORT -->
+<section class="slide" id="s1">
+  <div class="wrap">
+    <div class="eyebrow">Background <span class="sep">/</span> <span class="gr">the rule and the question</span></div>
+    <h2 class="title reveal">A disclosure mandate that operated for three years, then was removed.</h2>
+    <p class="defn reveal d1">Nasdaq Rules 5605(f) / 5606 required every listed company to publish a Board Diversity Matrix; for an IPO issuer the first matrix was due one year after listing. The Fifth Circuit vacated the rule, creating a clean before/after setting.</p>
+    <div class="dates reveal d1">
+      <div class="d"><div class="dt">2021 · 08 · 06</div><div class="lb">SEC approves the rule (Release 34-92590)</div></div>
+      <div class="d"><div class="dt">listing + 1 year</div><div class="lb">Initial matrix due for each IPO issuer</div></div>
+      <div class="d end"><div class="dt">2024 · 12 · 11</div><div class="lb">5th Circuit vacates the rule — disclosure no longer required</div></div>
+    </div>
+    <div class="two w reveal d2" style="margin-top:26px">
+      <div class="note">
+        <h4>The question</h4>
+        <p>After the obligation disappeared, which issuers kept disclosing board diversity, and which company characteristics predict that choice?</p>
+      </div>
+      <div class="note">
+        <h4>Important framing</h4>
+        <p>All 177 companies in scope had <strong>already complied on time</strong> under the rule. The continuation rate therefore measures <strong>retention among prior compliers</strong> — the analytic object is the 57 that discontinued.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 2 FUNNEL -->
+<section class="slide" id="s2">
+  <div class="wrap">
+    <div class="eyebrow">Sample construction <span class="sep">/</span> <span class="gr">938 candidate filings → 177 analysed</span></div>
+    <h2 class="title reveal">How the analytic cohort was narrowed.</h2>
+    <p class="defn reveal d1">The universe is rebuilt from EDGAR (an 8-A12B exchange registration plus a priced prospectus identifies a genuine IPO), then reduced to issuers that actually owed a matrix, verifiably published one, and survived to the vacatur.</p>
+    <div class="funnel reveal d1" id="funnel"></div>
+    <p class="reading reveal d2"><b>Reading:</b> 525 candidates are removed at the first cut — chiefly <span class="mono">376 SPACs</span>, <span class="mono">113 non-Nasdaq</span> listings, and 20 funds/ETFs. The 177 final issuers are matured (deadline elapsed before the vacatur) and verified as originally compliant.</p>
+  </div>
+</section>
+
+<!-- 3 OUTCOMES -->
+<section class="slide" id="s3">
+  <div class="wrap">
+    <div class="eyebrow">Outcomes <span class="sep">/</span> <span class="gr">four mutually exclusive states</span></div>
+    <h2 class="title reveal">What "continuation" actually looks like.</h2>
+    <p class="defn reveal d1">A company is recorded as continuing if a post-vacatur filing contains either the full Board Diversity Matrix or board-diversity narrative language. The two are tracked separately, because they represent different choices.</p>
+    <div class="barlist reveal d1" id="outchart"></div>
+    <p class="reading reveal d2"><b>Reading:</b> Only <strong>42 of 177</strong> retained the structured matrix. The larger continuing group (<strong>78</strong>) dropped the table and kept softer governance language — so the headline is better stated as "most kept a sentence, not a matrix."</p>
+  </div>
+</section>
+
+<!-- 4 GEOGRAPHY / MAP -->
+<section class="slide" id="s4">
+  <div class="wrap">
+    <div class="eyebrow">Geography <span class="sep">/</span> <span class="gr">continuation rate by headquarters location</span></div>
+    <h2 class="title reveal">Where the issuers are, and how location tracks continuation.</h2>
+    <p class="defn reveal d1">120 issuers are US-headquartered (22 states); 57 are foreign. Shading is the continuation rate; the figure under each state is its company count. Single-company states carry no inference.</p>
+    <div class="maprow reveal d1">
+      <div class="usmap" id="usmap"></div>
+      <div>
+        <div class="legend">
+          <div class="lr"><span class="sw" style="background:var(--teal-d)"></span> ≥ 85% continued</div>
+          <div class="lr"><span class="sw" style="background:var(--teal)"></span> 75–84%</div>
+          <div class="lr"><span class="sw" style="background:var(--teal-l)"></span> 68–74% (≈ average)</div>
+          <div class="lr"><span class="sw" style="background:var(--amber-l)"></span> 55–67%</div>
+          <div class="lr"><span class="sw" style="background:var(--amber)"></span> 40–54%</div>
+          <div class="lr"><span class="sw" style="background:var(--amber-d)"></span> &lt; 40%</div>
+          <div class="lr"><span class="sw" style="background:#EFF1F3;border:1px solid var(--line-2)"></span> no companies</div>
+        </div>
+        <div class="foreignbox">
+          <div class="eyebrow" style="margin:0 0 12px">Foreign issuers · 57</div>
+          <div id="foreign"></div>
+        </div>
+      </div>
+    </div>
+    <p class="reading reveal d2"><b>Reading:</b> US issuers continue at <span class="up">72%</span> vs <span class="dn">60%</span> foreign. Inside the US a coastal CA / NY / TX belt is high; <strong>Massachusetts</strong> (56%, n=18) is the one large low. Among foreign issuers the low pockets are <strong>Japan</strong> (17%, n=6) and <strong>Israel</strong> (33%, n=6) — not Greater China (70%).</p>
+  </div>
+</section>
+
+<!-- 5 ISSUER TYPE & FORM -->
+<section class="slide" id="s5">
+  <div class="wrap">
+    <div class="eyebrow">Company type <span class="sep">/</span> <span class="gr">issuer status and filing vehicle</span></div>
+    <h2 class="title reveal">Continuation rate and matrix retention diverge by issuer type.</h2>
+    <p class="defn reveal d1">Domestic issuers file proxy statements (DEF 14A) and Form 10-K; foreign private issuers file Form 20-F. The two groups differ not only in <em>whether</em> they continue but in <em>how</em>.</p>
+    <div class="ipair reveal d1">
+      <div class="ip">
+        <div class="h">Domestic issuer</div>
+        <div class="who">n = 124 · DEF 14A / 10-K</div>
+        <div class="metric"><span class="lab">Continue at all</span><span class="num t">72.6%</span></div>
+        <div class="metric"><span class="lab">Of those, retain the full matrix</span><span class="num a">23%</span></div>
+      </div>
+      <div class="ip">
+        <div class="h">Foreign private issuer</div>
+        <div class="who">n = 53 · Form 20-F</div>
+        <div class="metric"><span class="lab">Continue at all</span><span class="num t">56.6%</span></div>
+        <div class="metric"><span class="lab">Of those, retain the full matrix</span><span class="num a">70%</span></div>
+      </div>
+    </div>
+    <table class="reveal d2" style="margin-top:6px">
+      <thead><tr><th>Filing vehicle</th><th class="r">Matrix retained</th><th class="r">Softened to narrative</th></tr></thead>
+      <tbody>
+        <tr><td class="seg">Form 20-F <span class="sub">(foreign annual report)</span></td><td class="r mono">21</td><td class="r mono">9</td></tr>
+        <tr><td class="seg">DEF 14A / PRE 14A <span class="sub">(proxy)</span></td><td class="r mono">17</td><td class="r mono">47</td></tr>
+        <tr><td class="seg">10-K <span class="sub">(domestic annual report)</span></td><td class="r mono">4</td><td class="r mono">22</td></tr>
+      </tbody>
+    </table>
+    <p class="reading reveal d2"><b>Reading:</b> Foreign issuers continue less often, but <strong>20 of 42</strong> surviving matrices arrive on a 20-F, where the table is embedded in the annual-report template and carries forward. Domestic continuation is real but mostly migrates to narrative. The filing vehicle predicts the form of disclosure more than the firm's profile does.</p>
+  </div>
+</section>
+
+<!-- 6 SMALL MULTIPLES: COMPANY CHARACTERISTICS -->
+<section class="slide" id="s6">
+  <div class="wrap">
+    <div class="eyebrow">Company type <span class="sep">/</span> <span class="gr">continuation rate across firm characteristics</span></div>
+    <h2 class="title reveal">Which characteristics move continuation, and which do not.</h2>
+    <p class="defn reveal d1">Continuation rate by segment; dashed line marks the 67.8% cohort average. Segments shown have n ≥ 4.</p>
+    <div class="sm reveal d1">
+      <div class="smpanel"><h4>Market tier <span>Nasdaq</span></h4><div id="sm_tier"></div></div>
+      <div class="smpanel"><h4>Filer status <span>SEC</span></h4><div id="sm_egc"></div></div>
+      <div class="smpanel"><h4>Employees <span>headcount band</span></h4><div id="sm_size"></div></div>
+      <div class="smpanel"><h4>Sector <span>SIC division</span></h4><div id="sm_sector"></div></div>
+    </div>
+    <p class="reading reveal d2"><b>Reading:</b> Higher market tier (Global Select <span class="up">82%</span>) and <strong>seasoned</strong> issuers continue more; <strong>emerging growth companies</strong> — younger, smaller, less governance-mature — continue less (<span class="dn">64%</span> vs 78%). Sector spread is modest. Notably, <strong>listing cohort is flat</strong> across 2021–2023 (≈68% each), so this is not simply a recency effect.</p>
+  </div>
+</section>
+
+<!-- 7 INCORPORATION + BOARD COMPOSITION -->
+<section class="slide" id="s7">
+  <div class="wrap">
+    <div class="eyebrow">Company type <span class="sep">/</span> <span class="gr">legal home and board composition</span></div>
+    <h2 class="title reveal">State of incorporation separates issuers more sharply than size or sector.</h2>
+    <div class="two n reveal d1">
+      <div class="barlist" id="incorp"></div>
+      <div class="note">
+        <h4>Matrix retention is not a diversity signal</h4>
+        <p>Among the 42 issuers that kept the full matrix, board gender was readable for 26. Mean female share is <strong>24.5%</strong>, and <strong>5 boards have no women</strong> — yet they re-published the matrix, voluntarily documenting that fact.</p>
+        <p class="tickline"><span class="tk">NWGL</span><span class="tk">NXGL</span><span class="tk">LCFY</span><span class="tk">GDHG</span><span class="tk">NXTT</span></p>
+        <p style="margin-top:10px">If retention tracked conviction, all-male boards would discontinue first. They did not — consistent with mechanical carry-forward rather than a values statement.</p>
+      </div>
+    </div>
+    <p class="reading reveal d2"><b>Reading:</b> Issuers incorporated in their <strong>home US state</strong> (older regional operating companies, community banks) continue at <span class="up">91%</span>; the <strong>Delaware</strong> default — the standard venture-backed charter — sits at 69%, and foreign charters at 56%.</p>
+  </div>
+</section>
+
+<!-- 8 TIMING -->
+<section class="slide" id="s8">
+  <div class="wrap">
+    <div class="eyebrow">Timing <span class="sep">/</span> <span class="gr">month the continuing disclosure appeared</span></div>
+    <h2 class="title reveal">The decision is made at the first annual filing cycle.</h2>
+    <p class="defn reveal d1">Continuation evidence by month, split into matrix retention and narrative. The bar height is the number of companies first observed continuing in that month.</p>
+    <div class="reveal d1">
+      <div class="tlchart" id="tlchart"></div>
+      <div class="tlx" id="tlx"></div>
+    </div>
+    <div class="keyrow reveal d2">
+      <div class="k"><span class="sw" style="background:var(--teal-d)"></span> retained matrix</div>
+      <div class="k"><span class="sw" style="background:var(--teal-l)"></span> softened to narrative</div>
+      <div class="k" style="margin-left:auto;color:var(--amber-d)"><b>peak · April 2025 proxy season (56 of 120)</b></div>
+    </div>
+    <p class="reading reveal d2"><b>Reading:</b> Continuation concentrates in the spring 2025 proxy/annual season — the first filing window after the vacatur. A small group (4 issuers) re-filed the full matrix within weeks of the ruling, all on 20-F, consistent with template momentum.</p>
+  </div>
+</section>
+
+<!-- 9 LEAGUE TABLE -->
+<section class="slide" id="s9">
+  <div class="wrap">
+    <div class="eyebrow">Summary <span class="sep">/</span> <span class="gr">differentiators ranked by continuation rate</span></div>
+    <h2 class="title reveal">All segments on one scale, against the 67.8% average.</h2>
+    <p class="defn reveal d1">Each row is a company segment; the marker shows its continuation rate relative to the cohort average (centre line). Treat small-n rows as leads, not conclusions.</p>
+    <table class="reveal d1" id="league">
+      <thead><tr><th>Segment</th><th class="r">n</th><th class="r">Rate</th><th>vs. 67.8% average</th></tr></thead>
+      <tbody></tbody>
+    </table>
+    <p class="reading reveal d2"><b>Reading:</b> The strongest separators are structural — legal home, issuer/filing type, market tier and filer maturity — rather than size or industry. The best cross-validated model reaches AUC 0.65: these are differentiators, not a deterministic rule.</p>
+  </div>
+</section>
+
+<!-- 10 SYNTHESIS -->
+<section class="slide" id="s10">
+  <div class="wrap">
+    <div class="eyebrow">Interpretation <span class="sep">/</span> <span class="gr">what the pattern supports</span></div>
+    <h2 class="title reveal">Continuation appears to be driven by filing mechanics more than by stated commitment.</h2>
+    <table class="reveal d1" style="margin-top:8px">
+      <thead><tr><th>Observation</th><th>Supporting evidence</th></tr></thead>
+      <tbody>
+        <tr><td class="seg" style="width:36%">Carry-forward, not conviction</td><td>Foreign 20-F filers retain the exact matrix at 70% — including 5 all-male boards — while domestic filers mostly downgrade to narrative.</td></tr>
+        <tr><td class="seg">Vehicle and charter dominate</td><td>Filing form (20-F vs proxy) and incorporation (home-state vs Delaware) separate issuers more cleanly than size, sector, or listing year.</td></tr>
+        <tr><td class="seg">The discontinuers are the signal</td><td>All 177 had built the disclosure once; the 57 that dropped it the moment it became optional are where intent is most visible — and skew emerging-growth, Delaware-chartered.</td></tr>
+      </tbody>
+    </table>
+    <p class="reading reveal d2"><b>Next:</b> model "matrix retention" and "narrative only" as separate targets, and profile the 57 discontinuers directly; refresh when upstream disclosure collection completes.</p>
+  </div>
+</section>
+
+<!-- 11 METHODS -->
+<section class="slide" id="s11">
+  <div class="wrap">
+    <div class="eyebrow">Method &amp; limitations <span class="sep">/</span> <span class="gr">what to trust, what not to</span></div>
+    <h2 class="title reveal">Every figure traces to a primary source; the cohort is conditioned.</h2>
+    <div class="two reveal d1" style="margin-top:6px">
+      <div class="note">
+        <h4>How it was built</h4>
+        <p>EDGAR full-index universe → 8-A12B + 424B priced-prospectus IPO test → SEC submissions metadata → Nasdaq listing dates → matrix/narrative classifier over post-vacatur filings, each citation re-verified against live EDGAR.</p>
+      </div>
+      <div class="note">
+        <h4>Read with care</h4>
+        <p><strong>Conditioned cohort:</strong> rates describe retention among prior compliers, not the whole IPO universe.</p>
+        <p><strong>Evidence-located:</strong> "no continuation" means none found in reviewed SEC forms, not proof of none anywhere.</p>
+        <p><strong>Foreign timing &amp; small n:</strong> some low foreign rates may be filing-calendar mechanics; state / country / sector cuts guide sampling, not causal claims.</p>
+      </div>
+    </div>
+    <p class="reading reveal d2"><b>Artifact:</b> <span class="mono">build/analysis/presentation/</span> · data bundle <span class="mono">data.json</span> · cohort <span class="mono">definitive_required_matured_verified_matrix_sources.csv</span> joined to profile enrichment.</p>
+  </div>
+</section>
+
+</div>
+
+<div class="topbar"><span class="t">Board-Diversity Disclosure After the Vacatur</span><span class="pg"><b id="pg">01</b> / 12</span></div>
+<div class="botbar">Working analysis · SEC EDGAR &amp; Nasdaq primary sources · n = 177 prior-compliant Nasdaq IPO issuers</div>
+<nav class="rail" id="rail"></nav>
+
+<script>
+const DATA={
+ funnel:{candidates:938,in_scope:409,matured:297,modeled:177,continued:120},
+ outcomes:[["Retained full matrix","continued_same_matrix",42,"teal"],["Softened to narrative","continued_other_narrative",78,"teal"],["No continuation in filings","not_continued_in_reviewed_filings",41,"amber"],["No relevant post-vacatur filing","no_post_vacatur_relevant_filing",16,"amber"]],
+ us_states:{AL:{c:1,n:1,rate:100},AZ:{c:0,n:1,rate:0},CA:{c:32,n:40,rate:80},CO:{c:1,n:3,rate:33},DC:{c:1,n:1,rate:100},DE:{c:1,n:1,rate:100},FL:{c:11,n:15,rate:73},IL:{c:1,n:2,rate:50},KS:{c:1,n:1,rate:100},KY:{c:1,n:1,rate:100},MA:{c:10,n:18,rate:56},MD:{c:1,n:1,rate:100},NC:{c:0,n:1,rate:0},NJ:{c:1,n:2,rate:50},NV:{c:0,n:1,rate:0},NY:{c:9,n:11,rate:82},OH:{c:3,n:4,rate:75},PA:{c:3,n:3,rate:100},SC:{c:0,n:1,rate:0},TX:{c:6,n:7,rate:86},VA:{c:2,n:2,rate:100},WA:{c:1,n:3,rate:33}},
+ foreign_region:{"Greater China":{n:23,rate:70},"SE Asia":{n:9,rate:78},"Israel":{n:6,rate:33},"Japan":{n:6,rate:17},"Europe":{n:6,rate:50},"Other":{n:5,rate:60}},
+ tier:[["Global Select",34,82],["Capital Market",88,73],["Global Market",20,65]],
+ egc:[["Not EGC",49,78],["Emerging growth co.",128,64]],
+ size:[["Mid (250–999)",19,79],["Small (50–249)",33,79],["Large (1k–9,999)",7,71],["Micro (<50)",17,71]],
+ sector:[["Mining / energy",6,83],["Retail / wholesale",16,75],["Manufacturing",89,69],["Finance / RE",18,67],["Services",42,64],["Transport / util.",6,50]],
+ incorp:[["Home US state",23,91,"teal"],["Delaware",93,69,"indigo"],["Foreign",55,56,"amber"]],
+ timeline:[["Dec",4,0],["Jan",4,2],["Feb",2,3],["Mar",5,13],["Apr",18,38],["May",5,5],["Jun",2,5],["Jul",1,3],["Aug",1,4],["Sep",0,3],["Oct",0,2]],
+ league:[["Home-state incorporation",23,91],["Global Select tier",34,82],["Seasoned (not EGC)",49,78],["SE Asia HQ",9,78],["Domestic issuer",124,73],["US headquartered",120,72],["Greater China HQ",23,70],["Delaware incorporation",93,69],["Emerging growth co.",128,64],["Foreign private issuer",53,57],["Massachusetts HQ",18,56],["Israel HQ",6,33],["Japan HQ",6,17]]
+};
+const AVG=67.8;
+function fillColor(r){if(r>=85)return'var(--teal-d)';if(r>=75)return'var(--teal)';if(r>=68)return'var(--teal-l)';if(r>=55)return'var(--amber-l)';if(r>=40)return'var(--amber)';return'var(--amber-d)';}
+
+// funnel
+(function(){const el=document.getElementById('funnel');const f=DATA.funnel;
+ const rows=[["Candidate IPO events",f.candidates,"#3A4658","8-A12B + priced prospectus, 2021–2024",""],
+  ["In-scope Nasdaq operating IPOs",f.in_scope,"#3A4658","rule in force at listing","−525 SPACs · NYSE · funds"],
+  ["Matured cohort",f.matured,"#46557A","1-yr deadline elapsed pre-vacatur","−112 not yet due"],
+  ["Verified, originally compliant",f.modeled,"var(--indigo)","matrix located in a primary source","−120 unverified"],
+  ["Continued after the vacatur",f.continued,"var(--teal)","matrix or narrative","−57 wound down"]];
+ el.innerHTML=rows.map(([lab,v,col,d,cut])=>`<div class="fr">
+  <div class="fbar" style="--w:${(v/f.candidates*100).toFixed(1)}%;background:${col}">${v}</div>
+  <div class="fd"><b>${lab}</b>${d}${cut?`<span class="cut">${cut}</span>`:''}</div></div>`).join('');
+})();
+
+// outcomes
+(function(){const el=document.getElementById('outchart');const mx=78;
+ el.innerHTML=DATA.outcomes.map(([nm,code,v,c])=>`<div class="brow">
+  <div class="nm">${nm}<small>${code}</small></div>
+  <div class="track"><div class="fill ${c==='teal'?(nm.includes('narrative')?'':'teal'):'amber'}" style="--w:${(v/mx*100).toFixed(1)}%"></div></div>
+  <div class="vv">${v} <small>/177</small></div></div>`).join('');
+})();
+
+// US tile map
+(function(){const el=document.getElementById('usmap');if(!el)return;
+ const pos={AK:[1,1],ME:[1,11],VT:[2,10],NH:[2,11],WA:[3,1],ID:[3,2],MT:[3,3],ND:[3,4],MN:[3,5],IL:[3,6],WI:[3,7],MI:[3,9],NY:[3,10],RI:[3,11],
+  OR:[4,1],NV:[4,2],WY:[4,3],SD:[4,4],IA:[4,5],IN:[4,6],OH:[4,7],PA:[4,8],NJ:[4,9],CT:[4,10],MA:[4,11],
+  CA:[5,1],UT:[5,2],CO:[5,3],NE:[5,4],MO:[5,5],KY:[5,6],WV:[5,7],VA:[5,8],MD:[5,9],DE:[5,10],
+  AZ:[6,2],NM:[6,3],KS:[6,4],AR:[6,5],TN:[6,6],NC:[6,7],SC:[6,8],DC:[6,9],
+  OK:[7,4],LA:[7,5],MS:[7,6],AL:[7,7],GA:[7,8],HI:[8,1],TX:[8,4],FL:[8,9]};
+ let html='';
+ for(const[ab,[r,c]]of Object.entries(pos)){
+   const d=DATA.us_states[ab];
+   if(d){const bg=fillColor(d.rate);const lite=d.rate>=55&&d.rate<75;
+     html+=`<div class="st ${lite?'lite':'data'}" style="grid-row:${r};grid-column:${c};background:${bg};border-color:${bg}"><span class="ab">${ab}</span><span class="nn">${d.rate}% · ${d.n}</span></div>`;
+   }else{
+     html+=`<div class="st nd" style="grid-row:${r};grid-column:${c}"><span class="ab">${ab}</span></div>`;
+   }
+ }
+ el.innerHTML=html;
+})();
+
+// foreign regions
+(function(){const el=document.getElementById('foreign');if(!el)return;
+ const ent=Object.entries(DATA.foreign_region).sort((a,b)=>b[1].rate-a[1].rate);
+ el.innerHTML=ent.map(([nm,d])=>`<div class="fbar2"><div class="nm">${nm} <span class="mono" style="color:var(--faint);font-size:11px">n=${d.n}</span></div>
+  <div class="tk"><i style="--w:${d.rate}%;background:${fillColor(d.rate)}"></i></div>
+  <div class="vv" style="color:${fillColor(d.rate)}">${d.rate}%</div></div>`).join('');
+})();
+
+// small multiples
+function sm(id,rows){const el=document.getElementById(id);if(!el)return;
+ el.innerHTML=rows.map(([nm,n,r])=>`<div class="smrow"><div class="nm">${nm}</div>
+  <div class="tk"><div class="avgline"></div><i style="--w:${r}%;background:${fillColor(r)}"></i></div>
+  <div class="vv">${r}%<span style="color:var(--faint);font-weight:400"> ·${n}</span></div></div>`).join('');
+}
+sm('sm_tier',DATA.tier);sm('sm_egc',DATA.egc);sm('sm_size',DATA.size);sm('sm_sector',DATA.sector);
+
+// incorporation
+(function(){const el=document.getElementById('incorp');if(!el)return;
+ el.innerHTML=DATA.incorp.map(([nm,n,r,c])=>`<div class="brow">
+  <div class="nm">${nm}<small>n = ${n}</small></div>
+  <div class="track"><div class="fill ${c}" style="--w:${r}%"></div></div>
+  <div class="vv">${r}%</div></div>`).join('');
+})();
+
+// timeline
+(function(){const t=document.getElementById('tlchart'),xr=document.getElementById('tlx');if(!t)return;
+ const max=56,H=170;
+ DATA.timeline.forEach(([lab,m,n])=>{const tot=m+n,pk=tot===max;
+  const col=document.createElement('div');col.className='tcol';
+  col.innerHTML=`<div class="tnum">${tot||''}</div><div class="tstack">`+
+   (n?`<div class="tseg n" style="height:${n/max*H}px"></div>`:'')+
+   (m?`<div class="tseg m" style="height:${m/max*H}px"></div>`:'')+`</div>`;
+  t.appendChild(col);
+  const tc=document.createElement('div');tc.className='tc'+(pk?' pk':'');tc.textContent=lab;xr.appendChild(tc);});
+})();
+
+// league table
+(function(){const tb=document.querySelector('#league tbody');if(!tb)return;
+ const rows=DATA.league.slice().sort((a,b)=>b[2]-a[2]);
+ tb.innerHTML=rows.map(([nm,n,r])=>{
+   const up=r>=AVG;const col=fillColor(r);
+   const off=(r-AVG);const w=Math.min(50,Math.abs(off)/50*50);
+   const bar=up?`<i style="left:50%;width:${w}%;background:${col}"></i>`:`<i style="right:50%;width:${w}%;background:${col}"></i>`;
+   return `<tr><td class="seg">${nm}</td><td class="r mono sub">${n}</td>
+    <td class="r mono" style="font-weight:600">${r}%</td>
+    <td><span class="vsbar"><span class="vstrack">${bar}</span><span class="vsval" style="color:${col}">${off>=0?'+':''}${off.toFixed(0)}</span></span></td></tr>`;
+ }).join('');
+})();
+
+// nav + reveal
+const slides=[...document.querySelectorAll('.slide')];
+const rail=document.getElementById('rail');
+slides.forEach(s=>{const a=document.createElement('a');a.href='#'+s.id;rail.appendChild(a)});
+const dots=[...rail.children],pg=document.getElementById('pg');
+const io=new IntersectionObserver((es)=>{es.forEach(e=>{if(e.isIntersecting){
+  e.target.classList.add('in');
+  const i=slides.indexOf(e.target);
+  dots.forEach((d,j)=>d.classList.toggle('on',j===i));
+  pg.textContent=String(i+1).padStart(2,'0');
+}})},{threshold:.5});
+slides.forEach(s=>io.observe(s));
+
+function curIdx(){let b=0,bd=1e9;slides.forEach((s,i)=>{const d=Math.abs(s.getBoundingClientRect().top);if(d<bd){bd=d;b=i}});return b;}
+addEventListener('keydown',e=>{
+ if(['ArrowDown','PageDown',' '].includes(e.key)){e.preventDefault();slides[Math.min(slides.length-1,curIdx()+1)].scrollIntoView();}
+ if(['ArrowUp','PageUp'].includes(e.key)){e.preventDefault();slides[Math.max(0,curIdx()-1)].scrollIntoView();}
+ if(e.key==='Home'){e.preventDefault();slides[0].scrollIntoView();}
+ if(e.key==='End'){e.preventDefault();slides[slides.length-1].scrollIntoView();}});
+</script>
+</body>
+</html>

@@ -36,7 +36,7 @@
   <div class="summary">
     <p><strong>Most validated companies continued some board-diversity disclosure.</strong> In the strict required/matured verified cohort, 120 of 177 companies continued after the December 11, 2024 vacatur (67.8%): 42 kept a matrix and 78 kept other board/diversity narrative.</p>
     <p><strong>The cleanest structural signal is domestic, US-centered operating-company profile.</strong> Domestic issuers continued at a higher rate than foreign private issuers, and US-headquartered companies were materially more likely to continue than several non-US clusters.</p>
-    <p><strong>The models find weak-to-moderate rank-order signal, but not a hard separator.</strong> The best non-baseline cross-validated model was knn_k_11 with AUC 0.652; the base-rate benchmark has AUC 0.500. K-means clusters stayed mixed, so these are useful differentiators, not a deterministic classifier.</p>
+    <p><strong>The models find weak-to-moderate rank-order signal, but not a hard separator.</strong> The best non-baseline cross-validated model was knn_k_11 with AUC 0.641; the base-rate benchmark has AUC 0.500. K-means clusters stayed mixed, so these are useful differentiators, not a deterministic classifier.</p>
     <p><strong>Do not use post-vacatur filing availability as a company trait.</strong> Candidate filing count separates outcomes strongly, but it is partly definitional because companies with no relevant post-vacatur filing cannot show continuation evidence in this pipeline.</p>
   </div>
 
@@ -57,6 +57,25 @@
   <h2>What we found so far</h2>
   <p><strong>The main behavioral split is not simply company size or industry.</strong> The evidence points first to issuer/reporting structure: US or domestic companies, proxy-style evidence, and higher market-tier companies continued at higher rates. Foreign private issuer and 20-F-linked groups continued less often.</p>
   <p><strong>Continuation often became softer rather than disappearing.</strong> The largest positive bucket is not same-matrix continuation; it is other board/diversity narrative. That means the post-vacatur behavior is partly a shift from explicit Nasdaq matrix form toward more general governance/diversity language.</p>
+
+  <h2>Sector view</h2>
+  <p><strong>Sector is now a first-class profile field.</strong> The sector bucket is derived from SEC SIC code and SIC description, so technology, life sciences/medical, finance/real estate, consumer/retail, industrials, and related groups can be compared directly in the company info file and this analysis.</p>
+  <figure>
+    <img src="charts/sector_continuation.png" alt="Continuation rate by company sector">
+    <figcaption>Source: <code>company_sector</code> in <code>build/post_vacatur_company_profile_enrichment.csv</code>. It is a broad SIC-derived sector bucket, not a manual analyst label.</figcaption>
+  </figure>
+  <table><thead><tr><th>value</th><th>n</th><th>continued</th><th>not_continued</th><th>continued_share</th><th>diff_vs_overall_pp</th><th>signal_confidence</th></tr></thead><tbody>
+<tr><td>Life sciences / medical</td><td>58</td><td>40</td><td>18</td><td>69.0%</td><td>+1.2</td><td>stronger descriptive signal</td></tr>
+<tr><td>Technology</td><td>31</td><td>22</td><td>9</td><td>71.0%</td><td>+3.2</td><td>directional</td></tr>
+<tr><td>Consumer / retail</td><td>21</td><td>15</td><td>6</td><td>71.4%</td><td>+3.6</td><td>directional</td></tr>
+<tr><td>Finance / real estate</td><td>18</td><td>12</td><td>6</td><td>66.7%</td><td>-1.1</td><td>directional</td></tr>
+<tr><td>Services</td><td>14</td><td>8</td><td>6</td><td>57.1%</td><td>-10.7</td><td>early signal</td></tr>
+<tr><td>Energy / industrials</td><td>13</td><td>12</td><td>1</td><td>92.3%</td><td>+24.5</td><td>directional</td></tr>
+<tr><td>Manufacturing / industrials</td><td>13</td><td>8</td><td>5</td><td>61.5%</td><td>-6.3</td><td>early signal</td></tr>
+<tr><td>Other / mixed</td><td>5</td><td>2</td><td>3</td><td>40.0%</td><td>-27.8</td><td>early signal</td></tr>
+<tr><td>Transportation / utilities</td><td>3</td><td>1</td><td>2</td><td>33.3%</td><td>-34.5</td><td>too small</td></tr>
+<tr><td>Communications / media</td><td>1</td><td>0</td><td>1</td><td>0.0%</td><td>-67.8</td><td>too small</td></tr>
+</tbody></table>
 
   <h2>Continuation subtype differs by issuer type</h2>
   <p><strong>Domestic issuers carry more of the same-matrix signal.</strong> Foreign private issuers are lower overall and the evidence mix is more dependent on narrative or missing/review-negative outcomes. This is one reason the model repeatedly surfaces issuer type, 20-F source, and geography together.</p>
@@ -118,33 +137,33 @@
 
   <h3>Highest positive descriptive cuts</h3>
   <table><thead><tr><th>field</th><th>value</th><th>n</th><th>continued_share</th><th>diff_vs_overall_pp</th></tr></thead><tbody>
+<tr><td>company_sector</td><td>Energy / industrials</td><td>13</td><td>92.3%</td><td>+24.5</td></tr>
 <tr><td>filer_category_simplified</td><td>accelerated, smaller reporting</td><td>15</td><td>86.7%</td><td>+18.9</td></tr>
 <tr><td>filer_category_simplified</td><td>accelerated</td><td>6</td><td>83.3%</td><td>+15.5</td></tr>
 <tr><td>market_tier_clean</td><td>Global Select</td><td>34</td><td>82.4%</td><td>+14.6</td></tr>
 <tr><td>company_size_bucket</td><td>mid-size (250-999 employees)</td><td>19</td><td>78.9%</td><td>+11.2</td></tr>
-<tr><td>company_size_bucket</td><td>small (50-249 employees)</td><td>33</td><td>78.8%</td><td>+11.0</td></tr>
 </tbody></table>
 
   <h3>Lowest descriptive cuts</h3>
   <table><thead><tr><th>field</th><th>value</th><th>n</th><th>continued_share</th><th>diff_vs_overall_pp</th></tr></thead><tbody>
 <tr><td>hq_group</td><td>Europe</td><td>5</td><td>40.0%</td><td>-27.8</td></tr>
+<tr><td>company_sector</td><td>Other / mixed</td><td>5</td><td>40.0%</td><td>-27.8</td></tr>
 <tr><td>market_tier_clean</td><td>Unknown market tier</td><td>35</td><td>42.9%</td><td>-24.9</td></tr>
 <tr><td>hq_group</td><td>Asia-Pacific / Israel</td><td>20</td><td>45.0%</td><td>-22.8</td></tr>
 <tr><td>sic_division</td><td>Transport/utilities</td><td>6</td><td>50.0%</td><td>-17.8</td></tr>
-<tr><td>filer_category_simplified</td><td>accelerated, egc</td><td>47</td><td>55.3%</td><td>-12.5</td></tr>
 </tbody></table>
 
   <h2>Early signals to investigate</h2>
   <p><strong>The early signals are the high-gap segments whose intervals are still wide or whose sample sizes are modest.</strong> They should guide review sampling, not final claims. The most useful next pass is to inspect representative companies in each segment and separate true non-continuation from disclosure-source timing or filing-form effects.</p>
   <table><thead><tr><th>field</th><th>value</th><th>n</th><th>continued_share</th><th>diff_vs_overall_pp</th><th>continued_share_ci_low</th><th>continued_share_ci_high</th><th>signal_confidence</th></tr></thead><tbody>
+<tr><td>company_sector</td><td>Other / mixed</td><td>5</td><td>40.0%</td><td>-27.8</td><td>11.8%</td><td>76.9%</td><td>early signal</td></tr>
 <tr><td>hq_group</td><td>Europe</td><td>5</td><td>40.0%</td><td>-27.8</td><td>11.8%</td><td>76.9%</td><td>early signal</td></tr>
 <tr><td>market_tier_clean</td><td>Unknown market tier</td><td>35</td><td>42.9%</td><td>-24.9</td><td>28.0%</td><td>59.1%</td><td>directional</td></tr>
+<tr><td>company_sector</td><td>Energy / industrials</td><td>13</td><td>92.3%</td><td>+24.5</td><td>66.7%</td><td>98.6%</td><td>directional</td></tr>
 <tr><td>hq_group</td><td>Asia-Pacific / Israel</td><td>20</td><td>45.0%</td><td>-22.8</td><td>25.8%</td><td>65.8%</td><td>directional</td></tr>
 <tr><td>filer_category_simplified</td><td>accelerated, smaller reporting</td><td>15</td><td>86.7%</td><td>+18.9</td><td>62.1%</td><td>96.3%</td><td>directional</td></tr>
 <tr><td>sic_division</td><td>Transport/utilities</td><td>6</td><td>50.0%</td><td>-17.8</td><td>18.8%</td><td>81.2%</td><td>early signal</td></tr>
 <tr><td>filer_category_simplified</td><td>accelerated</td><td>6</td><td>83.3%</td><td>+15.5</td><td>43.6%</td><td>97.0%</td><td>early signal</td></tr>
-<tr><td>company_size_bucket</td><td>mid-size (250-999 employees)</td><td>19</td><td>78.9%</td><td>+11.2</td><td>56.7%</td><td>91.5%</td><td>directional</td></tr>
-<tr><td>filer_category_simplified</td><td>large accelerated</td><td>28</td><td>71.4%</td><td>+3.6</td><td>52.9%</td><td>84.7%</td><td>directional</td></tr>
 </tbody></table>
 
   <h2>Regression view</h2>
@@ -157,11 +176,11 @@
   <h3>Cross-validated model performance</h3>
   <table><thead><tr><th>model</th><th>auc</th><th>accuracy_at_0_50</th><th>log_loss</th></tr></thead><tbody>
 <tr><td>base_rate</td><td>0.500</td><td>0.678</td><td>0.628</td></tr>
-<tr><td>ridge_logistic_regression</td><td>0.640</td><td>0.684</td><td>0.812</td></tr>
-<tr><td>knn_k_3</td><td>0.579</td><td>0.616</td><td>1.915</td></tr>
-<tr><td>knn_k_5</td><td>0.586</td><td>0.644</td><td>1.166</td></tr>
-<tr><td>knn_k_7</td><td>0.617</td><td>0.667</td><td>0.872</td></tr>
-<tr><td>knn_k_11</td><td>0.652</td><td>0.678</td><td>0.661</td></tr>
+<tr><td>ridge_logistic_regression</td><td>0.622</td><td>0.689</td><td>0.859</td></tr>
+<tr><td>knn_k_3</td><td>0.610</td><td>0.672</td><td>1.807</td></tr>
+<tr><td>knn_k_5</td><td>0.637</td><td>0.667</td><td>1.067</td></tr>
+<tr><td>knn_k_7</td><td>0.615</td><td>0.610</td><td>0.811</td></tr>
+<tr><td>knn_k_11</td><td>0.641</td><td>0.667</td><td>0.670</td></tr>
 </tbody></table>
 
   <h2>Clustering view</h2>
@@ -170,10 +189,10 @@
     <img src="charts/clusters.png" alt="K-means cluster projection">
     <figcaption>Projection uses the same standardized structural feature matrix as the regression and KNN models.</figcaption>
   </figure>
-  <table><thead><tr><th>cluster</th><th>n</th><th>continued</th><th>continued_share</th><th>top_issuer_type</th><th>top_industry_theme</th><th>top_hq_group</th></tr></thead><tbody>
-<tr><td>2</td><td>15</td><td>11</td><td>73.3%</td><td>domestic</td><td>Finance / real estate</td><td>US</td></tr>
-<tr><td>1</td><td>110</td><td>80</td><td>72.7%</td><td>domestic</td><td>Life sciences / medical</td><td>US</td></tr>
-<tr><td>0</td><td>52</td><td>29</td><td>55.8%</td><td>foreign_private_issuer</td><td>Other industries</td><td>China / Hong Kong</td></tr>
+  <table><thead><tr><th>cluster</th><th>n</th><th>continued</th><th>continued_share</th><th>top_issuer_type</th><th>top_company_sector</th><th>top_hq_group</th></tr></thead><tbody>
+<tr><td>2</td><td>16</td><td>12</td><td>75.0%</td><td>domestic</td><td>Finance / real estate</td><td>US</td></tr>
+<tr><td>1</td><td>109</td><td>79</td><td>72.5%</td><td>domestic</td><td>Life sciences / medical</td><td>US</td></tr>
+<tr><td>0</td><td>52</td><td>29</td><td>55.8%</td><td>foreign_private_issuer</td><td>Technology</td><td>China / Hong Kong</td></tr>
 </tbody></table>
 
   <h2>What is still unclear</h2>

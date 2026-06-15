@@ -263,6 +263,62 @@ def industry_theme(desc: str) -> str:
     return "Other industries"
 
 
+def sector_from_sic(sic, desc: str) -> str:
+    s = str(desc or "").lower()
+    if any(token in s for token in (
+        "pharmaceutical", "biological", "biotechnology", "medical",
+        "surgical", "diagnostic", "electromedical", "health", "hospital",
+    )):
+        return "Life sciences / medical"
+    if any(token in s for token in (
+        "software", "computer", "semiconductor", "data processing",
+        "data preparation", "internet", "technology",
+    )):
+        return "Technology"
+    if any(token in s for token in (
+        "bank", "finance", "investment", "insurance", "real estate",
+        "blank checks",
+    )):
+        return "Finance / real estate"
+    if any(token in s for token in (
+        "retail", "catalog", "restaurants", "eating places", "consumer",
+        "apparel", "food", "beverage",
+    )):
+        return "Consumer / retail"
+    if any(token in s for token in (
+        "oil", "gas", "energy", "electric", "mining", "metal", "chemical",
+        "machinery", "manufacturing",
+    )):
+        return "Energy / industrials"
+    if any(token in s for token in (
+        "transportation", "air transportation", "trucking", "shipping",
+        "utilities",
+    )):
+        return "Transportation / utilities"
+    if any(token in s for token in (
+        "telecommunications", "communications", "broadcasting", "motion picture",
+    )):
+        return "Communications / media"
+
+    try:
+        code = int(float(sic))
+    except (TypeError, ValueError):
+        return "Unknown"
+    if 1000 <= code <= 1499:
+        return "Energy / industrials"
+    if 2000 <= code <= 3999:
+        return "Manufacturing / industrials"
+    if 4000 <= code <= 4999:
+        return "Transportation / utilities"
+    if 5000 <= code <= 5999:
+        return "Consumer / retail"
+    if 6000 <= code <= 6799:
+        return "Finance / real estate"
+    if 7000 <= code <= 8999:
+        return "Services"
+    return "Other / mixed"
+
+
 def hq_group(row: pd.Series) -> str:
     loc = str(row.get("headquarters_state_or_country") or "")
     country = str(row.get("headquarters_country") or "")
@@ -285,6 +341,8 @@ def clean_market(value: str) -> str:
 
 def prepare_dataset() -> tuple[pd.DataFrame, pd.DataFrame]:
     profile = pd.read_csv(PROFILE, dtype={"cik": str})
+    if "company_sector" not in profile.columns:
+        profile["company_sector"] = ""
     initial = pd.read_csv(INITIAL, dtype={"cik": str})[["cik", "nasdaq_listing_date", "form_type", "source_type"]].rename(
         columns={"form_type": "initial_form_type", "source_type": "initial_source_type"}
     )
@@ -307,6 +365,8 @@ def prepare_dataset() -> tuple[pd.DataFrame, pd.DataFrame]:
     df["is_accelerated_any"] = df["sec_filer_category"].fillna("").str.lower().str.contains("accelerated").astype(int)
     df["sic_division"] = df["sic"].map(sic_division)
     df["industry_theme"] = df["sic_description"].map(industry_theme)
+    derived_sector = df.apply(lambda row: sector_from_sic(row.get("sic"), row.get("sic_description")), axis=1)
+    df["company_sector"] = df["company_sector"].fillna("").mask(df["company_sector"].fillna("").eq(""), derived_sector)
     df["hq_group"] = df.apply(hq_group, axis=1)
     df["is_actual_us_state_hq"] = df["headquarters_state_or_country"].isin(US_STATES).astype(int)
     df["geo_scope"] = np.where(df["is_actual_us_state_hq"].eq(1), "Actual US state HQ", "Non-US / non-state HQ")
@@ -347,6 +407,7 @@ def build_feature_matrix(df: pd.DataFrame) -> pd.DataFrame:
         "issuer_type",
         "market_tier_clean",
         "filer_category_simplified",
+        "company_sector",
         "sic_division",
         "industry_theme",
         "hq_group",
@@ -369,6 +430,7 @@ def group_differentiators(df: pd.DataFrame) -> pd.DataFrame:
         "market_tier_clean",
         "filer_category_simplified",
         "company_size_bucket",
+        "company_sector",
         "sic_division",
         "industry_theme",
         "hq_group",
@@ -521,7 +583,7 @@ def run_models(df: pd.DataFrame, x_df: pd.DataFrame):
     cluster_rows = []
     for cluster_id, part in df_clusters.groupby("cluster"):
         top = {}
-        for field in ["issuer_type", "industry_theme", "hq_group", "filer_category_simplified", "market_tier_clean"]:
+        for field in ["issuer_type", "company_sector", "industry_theme", "hq_group", "filer_category_simplified", "market_tier_clean"]:
             counts = part[field].value_counts()
             top[field] = counts.index[0] if len(counts) else ""
         cluster_rows.append({
@@ -662,6 +724,36 @@ def save_geography_chart(geo_summary: pd.DataFrame) -> Path:
     return path
 
 
+def save_sector_chart(sector_summary: pd.DataFrame) -> Path:
+    plot = sector_summary.sort_values(["n", "continued_share"], ascending=[True, True]).copy()
+    fig, ax = plt.subplots(figsize=(10.2, 6.2))
+    bars = ax.barh(
+        plot["value"],
+        plot["continued_share"] * 100,
+        color=COLORS["blue"]["base"],
+        edgecolor=COLORS["blue"]["dark"],
+        linewidth=1,
+    )
+    ax.set_xlim(0, 100)
+    ax.xaxis.set_major_formatter(mticker.PercentFormatter())
+    ax.set_xlabel("Continuation rate")
+    ax.set_ylabel("")
+    for bar, (_, row) in zip(bars, plot.iterrows()):
+        ax.text(
+            min(98, bar.get_width() + 1.2),
+            bar.get_y() + bar.get_height() / 2,
+            f"{int(row['continued'])}/{int(row['n'])}",
+            va="center",
+            fontsize=8.5,
+            color=TOKENS["muted"],
+        )
+    add_chart_header(fig, ax, "Continuation by company sector", "Broad sector bucket derived from SEC SIC and SIC description")
+    path = CHARTS / "sector_continuation.png"
+    fig.savefig(path, dpi=180, bbox_inches="tight")
+    plt.close(fig)
+    return path
+
+
 def save_us_state_chart(state_summary: pd.DataFrame) -> Path:
     plot = state_summary[state_summary["n"] >= 3].sort_values("continued_share", ascending=True).copy()
     fig, ax = plt.subplots(figsize=(10.8, 6.6))
@@ -764,6 +856,7 @@ def write_report(
     perf,
     coef,
     clusters,
+    sector_summary,
     geo_summary,
     state_summary,
     city_summary,
@@ -782,6 +875,7 @@ def write_report(
     leakage_num = numdiff[numdiff["metric"].isin(["post_vacatur_candidate_filings", "reviewed_post_vacatur_filings"])]
     actual_us = geo_summary[geo_summary["value"] == "Actual US state HQ"].iloc[0]
     non_us = geo_summary[geo_summary["value"] == "Non-US / non-state HQ"].iloc[0]
+    sector_display = sector_summary.sort_values(["n", "continued_share"], ascending=[False, False]).copy()
     state_display = state_summary[state_summary["n"] >= 3].sort_values(["continued_share", "n"], ascending=[False, False]).head(10)
     city_display = city_summary[city_summary["n"] >= 2].sort_values(["continued_share", "n"], ascending=[False, False]).head(14)
     strongest_early = diff[(diff["signal_confidence"].isin(["early signal", "directional"])) & (diff["n"] >= 5)].copy()
@@ -850,6 +944,14 @@ def write_report(
   <p><strong>The main behavioral split is not simply company size or industry.</strong> The evidence points first to issuer/reporting structure: US or domestic companies, proxy-style evidence, and higher market-tier companies continued at higher rates. Foreign private issuer and 20-F-linked groups continued less often.</p>
   <p><strong>Continuation often became softer rather than disappearing.</strong> The largest positive bucket is not same-matrix continuation; it is other board/diversity narrative. That means the post-vacatur behavior is partly a shift from explicit Nasdaq matrix form toward more general governance/diversity language.</p>
 
+  <h2>Sector view</h2>
+  <p><strong>Sector is now a first-class profile field.</strong> The sector bucket is derived from SEC SIC code and SIC description, so technology, life sciences/medical, finance/real estate, consumer/retail, industrials, and related groups can be compared directly in the company info file and this analysis.</p>
+  <figure>
+    <img src="{rel['sector']}" alt="Continuation rate by company sector">
+    <figcaption>Source: <code>company_sector</code> in <code>build/post_vacatur_company_profile_enrichment.csv</code>. It is a broad SIC-derived sector bucket, not a manual analyst label.</figcaption>
+  </figure>
+  {markdown_table(sector_display.assign(continued_share=sector_display['continued_share'].map(lambda x: f"{x:.1%}"), continued_share_ci_low=sector_display['continued_share_ci_low'].map(lambda x: f"{x:.1%}"), continued_share_ci_high=sector_display['continued_share_ci_high'].map(lambda x: f"{x:.1%}"), diff_vs_overall_pp=sector_display['diff_vs_overall_pp'].map(lambda x: f"{x:+.1f}")), ['value', 'n', 'continued', 'not_continued', 'continued_share', 'diff_vs_overall_pp', 'signal_confidence'], 12)}
+
   <h2>Continuation subtype differs by issuer type</h2>
   <p><strong>Domestic issuers carry more of the same-matrix signal.</strong> Foreign private issuers are lower overall and the evidence mix is more dependent on narrative or missing/review-negative outcomes. This is one reason the model repeatedly surfaces issuer type, 20-F source, and geography together.</p>
   <figure>
@@ -910,7 +1012,7 @@ def write_report(
     <img src="{rel['clusters']}" alt="K-means cluster projection">
     <figcaption>Projection uses the same standardized structural feature matrix as the regression and KNN models.</figcaption>
   </figure>
-  {markdown_table(clusters.assign(continued_share=clusters['continued_share'].map(lambda x: f"{x:.1%}")), ['cluster', 'n', 'continued', 'continued_share', 'top_issuer_type', 'top_industry_theme', 'top_hq_group'], 5)}
+  {markdown_table(clusters.assign(continued_share=clusters['continued_share'].map(lambda x: f"{x:.1%}")), ['cluster', 'n', 'continued', 'continued_share', 'top_issuer_type', 'top_company_sector', 'top_hq_group'], 5)}
 
   <h2>What is still unclear</h2>
   <div class="callout">
@@ -963,6 +1065,7 @@ def main() -> None:
     x_df = build_feature_matrix(df)
     diff = group_differentiators(df)
     numdiff = numeric_differentiators(df)
+    sector_summary = summarize_field(df, "company_sector")
     geo_summary = summarize_field(df, "geo_scope")
     state_summary = summarize_field(df[df["is_actual_us_state_hq"].eq(1)].copy(), "hq_state_for_analysis")
     city_summary = summarize_field(df[df["is_actual_us_state_hq"].eq(1)].copy(), "hq_city_state_for_analysis")
@@ -975,6 +1078,7 @@ def main() -> None:
     x_df.to_csv(OUT / "feature_matrix.csv", index=False)
     diff.to_csv(OUT / "categorical_differentiators.csv", index=False)
     numdiff.to_csv(OUT / "numeric_differentiators.csv", index=False)
+    sector_summary.to_csv(OUT / "sector_summary.csv", index=False)
     geo_summary.to_csv(OUT / "geography_summary.csv", index=False)
     state_summary.to_csv(OUT / "us_state_summary.csv", index=False)
     city_summary.to_csv(OUT / "us_city_summary.csv", index=False)
@@ -989,6 +1093,7 @@ def main() -> None:
 
     charts = {
         "status": save_status_chart(df),
+        "sector": save_sector_chart(sector_summary),
         "diff": save_differentiator_chart(diff),
         "coef": save_coef_chart(coef),
         "clusters": save_cluster_chart(df_clusters),
@@ -996,7 +1101,7 @@ def main() -> None:
         "state": save_us_state_chart(state_summary),
         "subtype_issuer": save_subtype_by_issuer_chart(subtype_issuer),
     }
-    report = write_report(df, diff, numdiff, perf, coef, clusters, geo_summary, state_summary, city_summary, subtype_issuer, charts)
+    report = write_report(df, diff, numdiff, perf, coef, clusters, sector_summary, geo_summary, state_summary, city_summary, subtype_issuer, charts)
     metadata = {
         "rows": int(len(df)),
         "continued": int(df["continued"].sum()),

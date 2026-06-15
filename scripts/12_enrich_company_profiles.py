@@ -304,6 +304,62 @@ def size_bucket(employee_count: str) -> str:
     return "enterprise (10,000+ employees)"
 
 
+def company_sector(sic: str, sic_description: str) -> str:
+    desc = (sic_description or "").lower()
+    if any(token in desc for token in (
+        "pharmaceutical", "biological", "biotechnology", "medical",
+        "surgical", "diagnostic", "electromedical", "health", "hospital",
+    )):
+        return "Life sciences / medical"
+    if any(token in desc for token in (
+        "software", "computer", "semiconductor", "data processing",
+        "data preparation", "internet", "technology",
+    )):
+        return "Technology"
+    if any(token in desc for token in (
+        "bank", "finance", "investment", "insurance", "real estate",
+        "blank checks",
+    )):
+        return "Finance / real estate"
+    if any(token in desc for token in (
+        "retail", "catalog", "restaurants", "eating places", "consumer",
+        "apparel", "food", "beverage",
+    )):
+        return "Consumer / retail"
+    if any(token in desc for token in (
+        "oil", "gas", "energy", "electric", "mining", "metal", "chemical",
+        "machinery", "manufacturing",
+    )):
+        return "Energy / industrials"
+    if any(token in desc for token in (
+        "transportation", "air transportation", "trucking", "shipping",
+        "utilities",
+    )):
+        return "Transportation / utilities"
+    if any(token in desc for token in (
+        "telecommunications", "communications", "broadcasting", "motion picture",
+    )):
+        return "Communications / media"
+
+    try:
+        code = int(float(sic))
+    except (TypeError, ValueError):
+        return "Unknown"
+    if 1000 <= code <= 1499:
+        return "Energy / industrials"
+    if 2000 <= code <= 3999:
+        return "Manufacturing / industrials"
+    if 4000 <= code <= 4999:
+        return "Transportation / utilities"
+    if 5000 <= code <= 5999:
+        return "Consumer / retail"
+    if 6000 <= code <= 6799:
+        return "Finance / real estate"
+    if 7000 <= code <= 8999:
+        return "Services"
+    return "Other / mixed"
+
+
 def extract_from_filings(cik: str, row: dict, sub: dict | None, *, fetch_missing: bool) -> dict:
     for filing in candidate_filings(cik, row, sub):
         body, url = fetch_doc(cik, filing, fetch_missing=fetch_missing)
@@ -365,6 +421,8 @@ def build_row(row: dict, db_rows: dict[str, dict], *, fetch_missing: bool) -> di
     employee_count = filing_profile["employee_count"]
 
     sub_name = (sub or {}).get("name") or ""
+    sic = first_nonempty((sub or {}).get("sic"), db_row.get("sic"))
+    sic_description = first_nonempty((sub or {}).get("sicDescription"), db_row.get("sic_description"))
     out = {
         "cik": cik,
         "ticker": first_nonempty(row.get("ticker"), normalize_list((sub or {}).get("tickers"))),
@@ -383,8 +441,9 @@ def build_row(row: dict, db_rows: dict[str, dict], *, fetch_missing: bool) -> di
                 first_nonempty(db_row.get("security_type")),
             ) if part
         ),
-        "sic": first_nonempty((sub or {}).get("sic"), db_row.get("sic")),
-        "sic_description": first_nonempty((sub or {}).get("sicDescription"), db_row.get("sic_description")),
+        "sic": sic,
+        "sic_description": sic_description,
+        "company_sector": company_sector(sic, sic_description),
         "market_tier": first_nonempty(db_row.get("market_tier")),
         "exchange": first_nonempty(db_row.get("exchange")),
         "current_tickers": normalize_list((sub or {}).get("tickers") or db_row.get("tickers")),
@@ -537,6 +596,11 @@ def write_summary(rows: list[dict], *, fetch_missing: bool) -> None:
         ["sec_filer_category", "total", "continued", "continued_share", "not_continued", "not_continued_share"],
         group_rows(rows, "sec_filer_category"),
     ))
+    lines.extend(["", "## Continued vs Not Continued by Sector"])
+    lines.extend(md_table(
+        ["company_sector", "total", "continued", "continued_share", "not_continued", "not_continued_share"],
+        group_rows(rows, "company_sector"),
+    ))
     lines.extend(["", "## Top Industries"])
     lines.extend(md_table(
         ["sic_description", "total", "continued", "continued_share", "not_continued", "not_continued_share"],
@@ -565,6 +629,7 @@ def write_summary(rows: list[dict], *, fetch_missing: bool) -> None:
         "- `continuation_status`: original stage 11 classification such as `continued_same_matrix`, `continued_other_narrative`, or `not_continued_in_reviewed_filings`.",
         "- `company_type`: compact combination of issuer type, SEC entity type, and IPO security type.",
         "- `sic` / `sic_description`: SEC industry classification from the submissions API.",
+        "- `company_sector`: broad sector bucket derived deterministically from SIC and SIC description.",
         "- `business_address` and headquarters fields: SEC submissions API business address.",
         "- `business_summary_excerpt`: evidence excerpt from the selected SEC filing, not an analyst rewrite.",
         "- `employee_count` and `company_size_bucket`: extracted only when the filing contains a supported employee-count sentence.",
@@ -595,7 +660,7 @@ def main() -> None:
 
     fieldnames = list(out_rows[0].keys()) if out_rows else []
     with open(OUTPUT, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(out_rows)
 

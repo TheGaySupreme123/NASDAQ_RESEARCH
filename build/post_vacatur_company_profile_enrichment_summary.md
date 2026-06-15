@@ -2,7 +2,7 @@
 
 - input rows: 177
 - output: `build/post_vacatur_company_profile_enrichment.csv`
-- SEC filing fetch for missing profile documents: enabled
+- SEC filing fetch for missing profile documents: disabled
 - headquarters/address coverage: 177/177
 - business-summary excerpt coverage: 177/177
 - employee-count extraction coverage: 77/177
@@ -45,6 +45,20 @@
 | Accelerated filer<br>Smaller reporting company | 3 | 3 | 100.0% | 0 | 0.0% |
 | Accelerated filer<br>Emerging growth company | 2 | 1 | 50.0% | 1 | 50.0% |
 | Accelerated filer<br>Smaller reporting company<br>Emerging growth company | 1 | 1 | 100.0% | 0 | 0.0% |
+
+## Continued vs Not Continued by Sector
+| company_sector | total | continued | continued_share | not_continued | not_continued_share |
+| --- | --- | --- | --- | --- | --- |
+| Life sciences / medical | 58 | 40 | 69.0% | 18 | 31.0% |
+| Technology | 31 | 22 | 71.0% | 9 | 29.0% |
+| Consumer / retail | 21 | 15 | 71.4% | 6 | 28.6% |
+| Finance / real estate | 18 | 12 | 66.7% | 6 | 33.3% |
+| Services | 14 | 8 | 57.1% | 6 | 42.9% |
+| Energy / industrials | 13 | 12 | 92.3% | 1 | 7.7% |
+| Manufacturing / industrials | 13 | 8 | 61.5% | 5 | 38.5% |
+| Other / mixed | 5 | 2 | 40.0% | 3 | 60.0% |
+| Transportation / utilities | 3 | 1 | 33.3% | 2 | 66.7% |
+| Communications / media | 1 | 0 | 0.0% | 1 | 100.0% |
 
 ## Top Industries
 | sic_description | total | continued | continued_share | not_continued | not_continued_share |
@@ -116,6 +130,7 @@
 - `continuation_status`: original stage 11 classification such as `continued_same_matrix`, `continued_other_narrative`, or `not_continued_in_reviewed_filings`.
 - `company_type`: compact combination of issuer type, SEC entity type, and IPO security type.
 - `sic` / `sic_description`: SEC industry classification from the submissions API.
+- `company_sector`: broad sector bucket derived deterministically from SIC and SIC description.
 - `business_address` and headquarters fields: SEC submissions API business address.
 - `business_summary_excerpt`: evidence excerpt from the selected SEC filing, not an analyst rewrite.
 - `employee_count` and `company_size_bucket`: extracted only when the filing contains a supported employee-count sentence.
