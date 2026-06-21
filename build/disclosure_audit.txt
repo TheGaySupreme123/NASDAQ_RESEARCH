@@ -1,16 +1,19 @@
-Disclosure audit (2026-06-14T18:43:41Z)
+Disclosure audit (2026-06-21T20:26:48Z)
 
 broad in-scope
-  published_on_time: 211
-  not_located: 120
+  published_on_time: 216
+  not_located: 114
   obligation_voided: 78
+  published_late: 1
 
 narrow matured
-  published_on_time: 177
-  not_located: 120
+  published_on_time: 182
+  not_located: 114
+  published_late: 1
 
 observation sources
   edgar_filing: 212
+  website_archive: 6
 
 status taxonomy
   published_on_time: high-confidence primary-source matrix found by due date plus grace
