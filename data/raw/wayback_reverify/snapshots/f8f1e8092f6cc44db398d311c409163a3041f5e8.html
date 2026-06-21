@@ -1,0 +1,1753 @@
+<!doctype html><!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en" > <![endif]--><!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en" >        <![endif]--><!--[if IE 8]>    <html class="no-js lt-ie9" lang="en" >               <![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="CompSci Resources, LLC">
+    <meta name="description" content="On June 28, 2018, the SEC adopted amendments requiring the usage of iXBRL, which is being phased in over three years. Although iXBRL is derived from XBRL, there are some differences that are important to note.">
+    <meta name="generator" content="HubSpot">
+    <title>The Transition to Inline XBRL (iXBRL)</title>
+    <link rel="shortcut icon" href="https://www.compsciresources.com/hubfs/favicon-compsci-transparent.png">
+    
+
+    <script src="/hs/hsstatic/jquery-libs/static-1.1/jquery/jquery-1.7.1.js"></script>
+<script>hsjQuery = window['jQuery'];</script>
+    <meta property="og:description" content="On June 28, 2018, the SEC adopted amendments requiring the usage of iXBRL, which is being phased in over three years. Although iXBRL is derived from XBRL, there are some differences that are important to note.">
+    <meta property="og:title" content="The Transition to Inline XBRL (iXBRL)">
+    <meta name="twitter:description" content="On June 28, 2018, the SEC adopted amendments requiring the usage of iXBRL, which is being phased in over three years. Although iXBRL is derived from XBRL, there are some differences that are important to note.">
+    <meta name="twitter:title" content="The Transition to Inline XBRL (iXBRL)">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+<link rel="stylesheet" href="https://www.compsciresources.com/hs-fs/hub/5501830/hub_generated/template_assets/14331985388/1585656060520/Custom/page/mjfw/mjfw_styles.min.css">
+<link rel="stylesheet" href="https://www.compsciresources.com/hs-fs/hub/5501830/hub_generated/module_assets/1572289113569/module_14331983919_MJFW_MJFW_Site_Header.min.css">
+    
+
+    
+<!--  Added by GoogleAnalytics integration -->
+<script>
+var _hsp = window._hsp = window._hsp || [];
+_hsp.push(['addPrivacyConsentListener', function(consent) { if (consent.allowed || (consent.categories && consent.categories.analytics)) {
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create','UA-7417652-1','auto');
+  ga('send','pageview');
+}}]);
+</script>
+
+<!-- /Added by GoogleAnalytics integration -->
+
+    <link rel="canonical" href="https://www.compsciresources.com/transitioning-to-ixbrl">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- FF unstyled content on load fix --><script>0</script>
+<meta name="google-site-verification" content="h28xq5RHM2NdRNqFaLZNr0FYolQgUTYXAWIK4EEjths">
+
+<meta property="og:url" content="https://www.compsciresources.com/transitioning-to-ixbrl">
+<meta name="twitter:card" content="summary">
+<meta http-equiv="content-language" content="en">
+<link rel="stylesheet" href="//cdn2.hubspot.net/hub/7052064/hub_generated/template_assets/1656143305538/hubspot/hubspot_default/shared/responsive/layout.min.css">
+
+
+
+
+
+    
+    
+
+</head>
+<body class="interior interior--one-col 
+  module--bg-gray
+ 
+  
+   hs-content-id-29299922425 hs-site-page page " style="">
+    <div class="header-container-wrapper">
+    <div class="header-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_15417955377451247" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+
+
+
+
+
+
+<div class="site-header-container">
+  
+
+<div class="site-header" role="banner">
+  <div class="site-header__inner">
+    <div class="site-header__left">
+      <div class="site-header__logo">
+        <a href="https://compsciresources-5501830-hs-sites-com.sandbox.hs-sites.com?hsLang=en">
+          
+            <img src="https://www.compsciresources.com/hubfs/assets/images/logos/on-light@2x.png" alt="on-light@2x">
+          
+        </a>
+      </div>
+      <div class="site-header__main-menu">
+        <div id="hs_menu_wrapper_module_15417955377451247_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="14334431123" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="https://www.compsciresources.com/transform-sec-reporting-software" aria-haspopup="true" aria-expanded="false" role="menuitem">SEC Reporting Software</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.compsciresources.com/transform-sec-reporting-software/html-authoring" role="menuitem">HTML Authoring</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.compsciresources.com/transform-sec-reporting-software/ixbrl-xbrl-tagging" role="menuitem">XBRL and iXBRL Tagging </a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.compsciresources.com/transform-sec-reporting-software/xml-forms" role="menuitem">XML Forms</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.compsciresources.com/transform-sec-reporting-software/edgar-filing" role="menuitem">EDGAR Filing</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.compsciresources.com/our-services" role="menuitem">Services</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.compsciresources.com/pricing" role="menuitem">Pricing</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.compsciresources.com/blog" role="menuitem">Blog</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.compsciresources.com/company" role="menuitem">About Us</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.compsciresources.com/contact" role="menuitem">Contact Us</a></li>
+ </ul>
+</div>
+      </div>      
+    </div>
+
+    <div class="site-header__right">
+
+      <div class="site-header__secondary-menu">
+        <div id="hs_menu_wrapper_module_15417955377451247_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="14340319661" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://platform.compsciresources.com/Transform/external/login" role="menuitem" target="_blank" rel="noopener">Login</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.compsciresources.com/demo-request" role="menuitem"><span>Request a </span>Demo</a></li>
+ </ul>
+</div> 
+      </div>
+
+      <div class="menu-trigger__container">
+        <button class="menu-trigger__button" id="mobile-menu-toggle" aria-expanded="false" aria-controls="mobile-menu" aria-label="Menu">
+          <div class="inner">
+            <span class="menu-trigger__icon"></span>
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+  
+</div></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end header -->
+</div><!--end header wrapper -->
+
+<div class="body-container-wrapper">
+    <div class="body-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-widget_container flex-top-full" style="" data-widget-type="widget_container" data-x="0" data-w="12">
+<span id="hs_cos_wrapper_module_14508921441232089" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell 
+  primary-content-container primary-content-container--padding-large
+" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell 
+  page page--sheet
+" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-widget_container flex-top-sheet" style="" data-widget-type="widget_container" data-x="0" data-w="12">
+<span id="hs_cos_wrapper_module_145089218939213436" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-6 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell primary-content primary-content--two-col-right" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span8 widget-span widget-type-widget_container primary-content__left-col" style="" data-widget-type="widget_container" data-x="0" data-w="8">
+<span id="hs_cos_wrapper_module_146231237846345238" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_15151209756" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h1>The Transition to Inline XBRL (iXBRL)</h1>
+<p>&nbsp;</p></div>
+<div id="hs_cos_wrapper_widget_1569850956051" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="custom-rich-text module  module--padding-small module--no-padding-top  module--bg-white  module--on-light">
+  
+  
+  
+
+  <div class="module__inner constrain">
+    
+
+    <div class="module__section-main module__section-main--block-align-left">
+      <div class="module__content module__content--text-align-left constrain--8">
+        <div class="custom-rich-text__content-inner">
+          <h2>Introduction</h2>
+<p>The Securities and Exchange Commission (SEC) is constantly making and updating reporting regulations, and it is important for companies to keep up with the latest changes. One of those major changes is the switch in the reporting standard from XBRL to Inline XBRL (iXBRL). On June 28, 2018, the <a href="https://www.sec.gov/news/press-release/2018-117">SEC adopted</a> amendments requiring the usage of iXBRL, which is being phased in over three years. Although iXBRL is derived from XBRL, there are some differences that are important to note.</p>
+        </div>
+
+        
+      </div>
+    </div>
+
+    
+  </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1589318901438" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+<div class="anchor-divider">
+  <a class="anchor-divider__anchor" name="xbrl-toi-xbrl" id="xbrl-toi-xbrl" data-label="Evolution from XBRL to iXBRL"></a>
+</div></div>
+<div id="hs_cos_wrapper_widget_1589318978398" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="custom-rich-text module  module--padding-small module--no-padding-top module--no-padding-bottom  module--bg-transparent  module--on-light">
+  
+  
+  
+
+  <div class="module__inner constrain">
+    
+
+    <div class="module__section-main module__section-main--block-align-center">
+      <div class="module__content module__content--text-align-left constrain--8">
+        <div class="custom-rich-text__content-inner">
+          <h2>Evolution from XBRL to iXBRL</h2>
+<p>XBRL (eXtensible Business Reporting Language) has been the standard format and requirement for public companies and mutual funds reporting to the SEC since 2009. Filings in XBRL are used for everything from business registrations to quarterly financial reports. XBRL is a machine-readable, XML-based framework, which uses standardized taxonomies to organize and categorize data in SEC filings. Each of these standardized taxonomies includes a set of financial concepts and defines the relationships among those concepts. XBRL connects the facts within the filing to the concepts defined in the taxonomy.&nbsp;</p>
+<p>Inline XBRL or iXBRL, on the other hand, combines EDGAR-compliant HTML and XBRL, resulting in one single document that is both human and machine-readable. This single-document approach should create long-term benefits by removing a separate workflow of checking the numbers and text in the original HTML filing with the numbers and text in the separate XBRL filing. By embedding the XBRL data in an HTML document rather than tagging a copy of the data to create a separate XBRL exhibit, filers should increase the efficiency and effectiveness of their filing preparation process. Inline XBRL also eliminates the need to create a separate XBRL instance document containing all of the XBRL tags which will reduce re-keying errors and simplify the review process.&nbsp;</p>
+<p>Although XBRL and iXBRL offer similar functions, there are some advantages and tradeoffs to the introduction of iXBRL:</p>
+        </div>
+
+        
+      </div>
+    </div>
+
+    
+  </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1589319353614" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+<div class="anchor-divider">
+  <a class="anchor-divider__anchor" name="benefits-tradeoffs" id="benefits-tradeoffs" data-label="Benefits and Trade-offs"></a>
+</div></div>
+<div id="hs_cos_wrapper_widget_1589319099270" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="two-column module  module--padding-small  module--bg-transparent  module--on-light">
+  
+   
+  
+  
+  
+  <div class="module__inner constrain">
+    
+    
+    <div class="module__section-main module__section-main--block-align-center">
+      <div class="module__content module__content--text-align-left  constrain--12">
+        <div class="two-column__grid two-column__grid--50-50 two-column__grid--top two-column__grid--gap-medium">
+          
+            
+  
+
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+    
+
+    <div class="two-column__content">
+      <div class="two-column__content-inner">
+        <h2>Benefits</h2>
+<ul>
+<li>By combining the HTML and XBRL, iXBRL gives control of the presentation and formatting of the financial data to the filer, while keeping the data machine-readable.</li>
+<li>Provides a streamlined review process which may save time and money.</li>
+<li>Eliminates the risk of having differences between your HTML and XBRL exhibits.</li>
+</ul>
+
+        
+        
+        
+        
+        
+      </div>
+    </div>
+      
+  
+
+          
+            
+  
+
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+    
+
+    <div class="two-column__content">
+      <div class="two-column__content-inner">
+        <h2>Trade-offs</h2>
+<ul>
+<li>Introduces a learning curve to understanding the differences between iXBRL and XBRL.</li>
+<li>Eliminates the grace period between the filing of the HTML and XBRL for certain filings such as 485BPOS.</li>
+<li>The SEC makes frequent updates to their Inline Renderer which makes visualizing iXBRL a bit of a moving target.</li>
+</ul>
+
+        
+        
+        
+        
+        
+      </div>
+    </div>
+      
+  
+
+          
+        </div>
+      </div>
+    </div>
+    
+    
+  </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1589319398454" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+<div class="anchor-divider">
+  <a class="anchor-divider__anchor" name="important-dates" id="important-dates" data-label="Important Dates"></a>
+</div></div>
+<div id="hs_cos_wrapper_widget_1589319448231" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="custom-rich-text module  module--padding-small module--no-padding-top  module--bg-transparent  module--on-light">
+  
+  
+  
+
+  <div class="module__inner constrain">
+    
+
+    <div class="module__section-main module__section-main--block-align-center">
+      <div class="module__content module__content--text-align-left constrain--8">
+        <div class="custom-rich-text__content-inner">
+          <h2>Important Dates</h2>
+<p>As deadlines approach, filers must keep some <a href="https://www.compsciresources.com/blog/sec-filing-deadlines-to-keep-in-mind-for-2020?hsLang=en">important dates</a> in mind.</p>
+<ul>
+<li>Accelerated filers were required to file using iXBRL beginning June 15, 2020.</li>
+<li aria-level="1">Large fund groups with assets of $1 billion or more were required to file using iXBRL on September 17, 2020. If the registration statement was filed on or before the amendment date, an inline filing is not required.&nbsp;</li>
+<li>IFRS and non-accelerated filers were required to comply with Inline XBRL beginning with fiscal periods ending on or after June 15, 2021.</li>
+<li>Small fund groups with assets less than $1 billion will be required to file using iXBRL September 17, 2021. If the registration statement was filed on or before the amendment date, an inline filing is not required.</li>
+</ul>
+        </div>
+
+        
+      </div>
+    </div>
+
+    
+  </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1589319519974" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+<div class="anchor-divider">
+  <a class="anchor-divider__anchor" name="technical-aspects" id="technical-aspects" data-label="Technical Aspects of iXBRL"></a>
+</div></div>
+<div id="hs_cos_wrapper_widget_1589319572982" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="custom-rich-text module  module--padding-small module--no-padding-top module--no-padding-bottom  module--bg-transparent  module--on-light">
+  
+  
+  
+
+  <div class="module__inner constrain">
+    
+
+    <div class="module__section-main module__section-main--block-align-center">
+      <div class="module__content module__content--text-align-left constrain--8">
+        <div class="custom-rich-text__content-inner">
+          <h2>Technical Aspects of iXBRL</h2>
+<p>Beyond the obvious difference of combining the HTML and XBRL, iXBRL requires a transition to XHTML and thus introduces some technical differences about which you should know. For example, some HTML tags, such as &lt;font&gt; tags, and certain HTML attributes like ”name” are no longer valid. Rather than &lt;font&gt; tags, XHTML requires the use of a &lt;span&gt; element, and the HTML attribute (name=“example”) should be represented with a unique ID attribute (id=“example”) instead. Furthermore, the closing tag is essential in XHTML. For example, HTML does not require &lt;hr&gt; element to have a closing tag, however, that would be invalid XHTML. For that element to be valid, a self-closing &lt;hr/&gt; tag is required. Another area where the technical differences are apparent is regarding numeric character references and a character entity references. There are only five entity codes that are allowed in XHTML, and they can be found below.</p>
+<p>&nbsp;</p>
+<table style="border-color: #99acc2; border-collapse: collapse; table-layout: fixed; height: 229px;" cellpadding="4">
+<tbody>
+<tr style="height: 34px;">
+<td style="height: 34px; width: 94px;">
+<h5><span style="color: #ffffff;">Character Reference</span></h5>
+</td>
+<td style="height: 34px; width: 99px;">
+<h5><span style="color: #ffffff;">Special Characters</span></h5>
+</td>
+<td style="height: 34px; width: 107px;">
+<h5><span style="color: #ffffff;">Description</span></h5>
+</td>
+</tr>
+<tr style="height: 10px;">
+<td style="height: 10px; width: 94px;">
+<p><strong>&amp;lt;</strong></p>
+</td>
+<td style="height: 10px; width: 99px;">
+<p><strong>&lt;</strong></p>
+</td>
+<td style="height: 10px; width: 107px;">
+<p><strong>Less than&nbsp;</strong></p>
+</td>
+</tr>
+<tr style="height: 37px;">
+<td style="height: 37px; width: 94px;">
+<p><strong>&amp;gt;</strong></p>
+</td>
+<td style="height: 37px; width: 99px;">
+<p><strong>&gt;</strong></p>
+</td>
+<td style="height: 37px; width: 107px;">
+<p><strong>Greater than</strong></p>
+</td>
+</tr>
+<tr style="height: 37px;">
+<td style="height: 37px; width: 94px;">
+<p><strong>&amp;amp;</strong></p>
+</td>
+<td style="height: 37px; width: 99px;">
+<p><strong>&amp;</strong></p>
+</td>
+<td style="height: 37px; width: 107px;">
+<p><strong>Ampersand&nbsp;</strong></p>
+</td>
+</tr>
+<tr style="height: 37px;">
+<td style="height: 37px; width: 94px;">
+<p><strong>&amp;quot;</strong></p>
+</td>
+<td style="height: 37px; width: 99px;">
+<p><strong>“</strong></p>
+</td>
+<td style="height: 37px; width: 107px;">
+<p><strong>Double quote&nbsp;</strong></p>
+</td>
+</tr>
+<tr style="height: 60px;">
+<td style="height: 60px; width: 94px;">
+<p><strong>&amp;apos;</strong></p>
+</td>
+<td style="height: 60px; width: 99px;">
+<p><strong>‘</strong></p>
+</td>
+<td style="height: 60px; width: 107px;">
+<p><strong>Single quote</strong></p>
+</td>
+</tr>
+<tr style="height: 14px;">
+<td style="height: 14px; width: 306px;" colspan="3">
+<p><em>Allowed entity codes in XHTML</em></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>When converting from HTML to XHTML, any character entity references not listed above should be converted to their equivalent numeric character reference. For example, the Dollar sign ($) does not have a non-numeric entity reference, therefore the numeric character of (&amp;#36;) is required.</p>
+<p>To fully illustrate differences in more detail, we will compare how one number is included in the filing in HTML/XBRL compared to iXBRL. Let us track the number reported as the Operating Lease Expense for Three Months Ended 10/31/2019, 1557, which is scaled to thousands.</p>
+<h4>&nbsp;</h4>
+<table border="1" style="width: 100%; margin-left: auto; margin-right: auto; border-color: #99acc2; border-style: solid; border-collapse: collapse; table-layout: fixed;" cellpadding="4">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<h5><span style="color: #ffffff;">HTML Table</span></h5>
+</td>
+</tr>
+<tr>
+<td style="width: 100%;"><img src="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image5.png?width=600&amp;name=image5.png" alt="image5" width="600" style="width: 600px; display: block; margin: 10px auto;" srcset="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image5.png?width=300&amp;name=image5.png 300w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image5.png?width=600&amp;name=image5.png 600w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image5.png?width=900&amp;name=image5.png 900w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image5.png?width=1200&amp;name=image5.png 1200w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image5.png?width=1500&amp;name=image5.png 1500w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image5.png?width=1800&amp;name=image5.png 1800w" sizes="(max-width: 600px) 100vw, 600px"></td>
+</tr>
+<tr>
+<td style="width: 100%;"><em>This table provides an example of a human-readable format as it appears in HTML</em></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" style="width: 100%; margin-left: auto; margin-right: auto; border-color: #99acc2; border-style: solid; border-collapse: collapse; table-layout: fixed;" cellpadding="4">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<h5><span style="color: #ffffff;">HTML Snippet</span></h5>
+</td>
+</tr>
+<tr>
+<td style="width: 100%;"><img src="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image7.png?width=452&amp;name=image7.png" alt="image7" width="452" style="width: 452px; display: block; margin: 0px auto;" srcset="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image7.png?width=226&amp;name=image7.png 226w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image7.png?width=452&amp;name=image7.png 452w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image7.png?width=678&amp;name=image7.png 678w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image7.png?width=904&amp;name=image7.png 904w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image7.png?width=1130&amp;name=image7.png 1130w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image7.png?width=1356&amp;name=image7.png 1356w" sizes="(max-width: 452px) 100vw, 452px"></td>
+</tr>
+<tr>
+<td style="width: 100%;"><em>Here you can see the underlying HTML tags used to format and present the number</em></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" style="width: 100%; margin-left: auto; margin-right: auto; border-color: #99acc2; border-style: solid; border-collapse: collapse; table-layout: fixed; height: 131px;" cellpadding="4">
+<tbody>
+<tr style="height: 35px;">
+<td style="width: 100%; height: 35px;">
+<h5><span style="color: #ffffff;">XBRL Snippet</span></h5>
+</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 100%; height: 27px;"><img src="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image8.png?width=600&amp;name=image8.png" alt="image8" width="600" style="width: 600px; display: block; margin: 10px auto;" srcset="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image8.png?width=300&amp;name=image8.png 300w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image8.png?width=600&amp;name=image8.png 600w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image8.png?width=900&amp;name=image8.png 900w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image8.png?width=1200&amp;name=image8.png 1200w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image8.png?width=1500&amp;name=image8.png 1500w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image8.png?width=1800&amp;name=image8.png 1800w" sizes="(max-width: 600px) 100vw, 600px"></td>
+</tr>
+<tr style="height: 69px;">
+<td style="width: 100%; height: 69px;"><em>Here you can see the underlying XML tags used in the XBRL instance document to represent the number</em></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" style="width: 100%; margin-left: auto; margin-right: auto; border-color: #99acc2; border-style: solid; border-collapse: collapse; table-layout: fixed;" cellpadding="4">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<h5><span style="color: #ffffff;">Derivation of the iXBRL</span></h5>
+</td>
+</tr>
+<tr>
+<td style="width: 100%;"><img src="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image2.png?width=1770&amp;name=image2.png" alt="image2" width="1770" style="width: 1770px;" srcset="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image2.png?width=885&amp;name=image2.png 885w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image2.png?width=1770&amp;name=image2.png 1770w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image2.png?width=2655&amp;name=image2.png 2655w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image2.png?width=3540&amp;name=image2.png 3540w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image2.png?width=4425&amp;name=image2.png 4425w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image2.png?width=5310&amp;name=image2.png 5310w" sizes="(max-width: 1770px) 100vw, 1770px"></td>
+</tr>
+<tr>
+<td style="width: 100%;"><em>Here you can see that the XBRL tags are embedded in the HTML tags, combining both the presentation and the financial tagging information</em></td>
+</tr>
+</tbody>
+</table>
+<h4>&nbsp;</h4>
+<table border="1" style="width: 100%; margin-left: auto; margin-right: auto; border-color: #99acc2; border-style: solid; border-collapse: collapse; table-layout: fixed; height: 69px;" cellpadding="4">
+<tbody>
+<tr style="height: 23px;">
+<td style="width: 100%; height: 23px;">
+<h5><span style="color: #ffffff;">Viewed in the Inline Renderer</span></h5>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 100%; height: 23px;"><img src="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image3.png?width=600&amp;name=image3.png" alt="image3" width="600" style="width: 600px; display: block; margin: 10px auto;" srcset="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image3.png?width=300&amp;name=image3.png 300w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image3.png?width=600&amp;name=image3.png 600w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image3.png?width=900&amp;name=image3.png 900w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image3.png?width=1200&amp;name=image3.png 1200w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image3.png?width=1500&amp;name=image3.png 1500w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image3.png?width=1800&amp;name=image3.png 1800w" sizes="(max-width: 600px) 100vw, 600px"></td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 100%; height: 23px;"><em>Because iXBRL is the combination of HTML and XBRL, when viewing the filing in the SEC Inline Renderer, we see the HTML presentation along with the XBRL information; reducing and simplifying the review process.&nbsp;</em></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+        </div>
+
+        
+      </div>
+    </div>
+
+    
+  </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1589387408978" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+<div class="anchor-divider">
+  <a class="anchor-divider__anchor" name="data-transformations" id="data-transformations" data-label="Data Transformations"></a>
+</div></div>
+<div id="hs_cos_wrapper_widget_1589387470035" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="custom-rich-text module  module--padding-small module--no-padding-top  module--bg-transparent  module--on-light">
+  
+  
+  
+
+  <div class="module__inner constrain">
+    
+
+    <div class="module__section-main module__section-main--block-align-center">
+      <div class="module__content module__content--text-align-left constrain--8">
+        <div class="custom-rich-text__content-inner">
+          <h2>Data Transformations</h2>
+<p>One of the most complicated aspects of building an iXBRL filing is understanding how <a href="https://www.compsciresources.com/blog/what-to-know-about-ixbrl-data-transformations-and-sec-filings?hsLang=en">data transformations</a> within the filing work. These transformations change a value from the HTML into the proper iXBRL format required by the SEC. The transformation used for each fact is listed within its detailed fact popup in the SEC Inline Renderer and due to the standardization of the outputs, it simplifies comparing facts. Although these data transformations are often found on the filing’s cover page, they can be used throughout the filing as well.</p>
+<table border="1" style="width: 100%; margin-left: auto; margin-right: auto; border-color: #99acc2; border-style: solid; border-collapse: collapse; table-layout: fixed;" cellpadding="4">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<h5><span style="color: #ffffff;">Cover Page</span></h5>
+</td>
+</tr>
+<tr>
+<td style="width: 100%;"><img src="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image1.png?width=600&amp;name=image1.png" alt="image1" width="600" style="width: 600px; display: block; margin: 10px auto;" srcset="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image1.png?width=300&amp;name=image1.png 300w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image1.png?width=600&amp;name=image1.png 600w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image1.png?width=900&amp;name=image1.png 900w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image1.png?width=1200&amp;name=image1.png 1200w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image1.png?width=1500&amp;name=image1.png 1500w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image1.png?width=1800&amp;name=image1.png 1800w" sizes="(max-width: 600px) 100vw, 600px"></td>
+</tr>
+<tr>
+<td style="width: 100%;">
+<p><i>An inline preview of a tagged 8-K cover page.</i></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Transformations are listed in the <a href="https://www.sec.gov/info/edgar/specifications/edgarfm-vol2-v51.pdf">SEC’s EDGAR Filer Manual</a> and are defined and approved by<a href="https://www.xbrl.org/Specification/inlineXBRL-transformationRegistry/REC-2015-02-26+errata-2019-04-17/inlineXBRL-transformationRegistry-REC-2015-02-26+corrected-errata-2019-04-17.html#d1e193"> XBRL International</a> or the SEC. As iXBRL evolves, future versions of the EDGAR Filer Manual might introduce more data transformations.</p>
+<p>Here are some common examples of data transformations:</p>
+<ul>
+<li>
+<p><strong>durwordsen</strong>: This will transform duration words, such as “five years”, into “P5Y”. It is a way of standardizing durations so that they can be easily compared.&nbsp;</p>
+</li>
+<li>
+<p><strong>duryear</strong>: Similar to durwordsen, duryear will take a duration format that uses numbers rather than words for the number of years and turn it into the same comparable format. For example, “5 years” would transform into “P5Y”.</p>
+</li>
+<li>
+<p><strong>datemonthdayyearen</strong>: This changes the common date format, “December 31, 2019”, into the computer readable date format, “2019-12-31”.</p>
+</li>
+<li>
+<p><strong>boolballotbox</strong>: This transformation changes the Unicode ballot box characters (“☐”, “☑”, “☒”) from symbols to the corresponding values of “true” and “false”.</p>
+</li>
+<li>
+<p><strong>stateprovnameen</strong>: This will transform the name of a state or province into its 2-letter code, for instance, “Delaware” will transform into “DE”. A common issue here is that it only allows for the first letter to be capitalized, so “DELAWARE” would result in a hidden fact and test filing warning. One way to work around this issue is to change the HTML to use the text-transform attribute to make the word appear as capitalized but have the underlying text in lowercase.</p>
+</li>
+</ul>
+<p>Although data transformation makes it easier to compare facts, there are issues that filers may encounter. One issue a filer might run into is a fact that cannot be transformed due to the currently allowed rules. In this situation, the fact will be marked hidden while still providing a link to the associated text in the Renderer. For example, the text “6-months” tagged with a duration data type will be marked hidden. Due to the hyphen, the fact cannot be transformed into the iXBRL format, but it would still be linked in the filing.</p>
+<p>Additionally, filers may run into test filing warnings, such as Hidden-Fact-Eligible-For-Transform,&nbsp; if there is an eligible data transformation for a concept but not being utilized due to text formatting or other inconsistencies. Although this warning may imply that the filing was generated incorrectly, in some cases this is unavoidable. For example, if the value for <i>EntityIncorporationStateCountryCode </i>in the HTML document is set in all caps, e.g., NEVADA, the fact would be linked but the filer will receive a Hidden-Fact-Eligible-For-Transform test filing warning.&nbsp; One way to work around this issue is to change the HTML to use the text-transform&nbsp; property in CSS to make the word appear as capitalized in the filing but have the underlying text in lowercase.</p>
+        </div>
+
+        
+      </div>
+    </div>
+
+    
+  </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1589392046440" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+<div class="anchor-divider">
+  <a class="anchor-divider__anchor" name="fast-act" id="fast-act" data-label="Cover Pages and 8-Ks"></a>
+</div></div>
+<div id="hs_cos_wrapper_widget_1589392119405" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="custom-rich-text module  module--padding-small module--no-padding-top  module--bg-transparent  module--on-light">
+  
+  
+  
+
+  <div class="module__inner constrain">
+    
+
+    <div class="module__section-main module__section-main--block-align-center">
+      <div class="module__content module__content--text-align-left constrain--8">
+        <div class="custom-rich-text__content-inner">
+          <h2>Cover Pages and 8-Ks</h2>
+<p>In addition to the amendments requiring the usage of iXBRL and the release of the SEC Inline Renderer, in March 2019, as part of the<a href="https://www.sec.gov/news/press-release/2019-38"> FAST Act</a>, the SEC has also made it a requirement for filers to tag their 8-K cover page using iXBRL. An<a href="https://www.sec.gov/files/form8-k.pdf"> 8-K</a> is a current report that is filed by public companies in the U.S. when a <a href="https://www.sec.gov/fast-answers/answersform8khtm.html">material event</a> occurs. These filings include important information for shareholders and must be submitted to the SEC within four business days of the event. Previously, XBRL was only required if updated financials were included.&nbsp;</p>
+<p>In addition to the mandate, filers must provide additional detailed information such as registrant, address, phone number, and SEC file number. Each additional field is required to be tagged and linked to the corresponding text found on the cover page of the filing. This rule will be phased in at the same time filers become subject to the iXBRL mandate. Sections 6.5.46-52 of the<a href="https://www.sec.gov/edgar/filer-information/current-edgar-filer-manual"> EDGAR Filer Manual</a> highlight in detail the additional fields that are required when filing iXBRL.</p>
+<p>When linking some facts to the HTML, data transformations will be required to convert the text to the standardized iXBRL format. A common example is converting the ballot boxes on the cover page to true or false. If the formatting of the text does not match with the data transformation rule, it will still be linked to the text but will be marked as hidden in the underlying iXBRL.</p>
+<p>However, there are exceptions for certain concepts. For example, the registrant name in the filing must match the registrant name in the EDGAR database but some variations will still be allowed. To illustrate, “ABC Corporation” can be used in the iXBRL even if it is listed as “ABC Corp” in the EDGAR database. Exceptions like the one stated, make it less likely that a fact on the cover page would need to use the hidden tag.</p>
+        </div>
+
+        
+      </div>
+    </div>
+
+    
+  </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1589392184576" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+<div class="anchor-divider">
+  <a class="anchor-divider__anchor" name="sec-renderer" id="sec-renderer" data-label="SEC Inline Renderer"></a>
+</div></div>
+<div id="hs_cos_wrapper_widget_1589392237150" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="custom-rich-text module  module--padding-small module--no-padding-top  module--bg-transparent  module--on-light">
+  
+  
+  
+
+  <div class="module__inner constrain">
+    
+
+    <div class="module__section-main module__section-main--block-align-center">
+      <div class="module__content module__content--text-align-left constrain--8">
+        <div class="custom-rich-text__content-inner">
+          <h2>SEC Inline Renderer</h2>
+<p>In addition to the <a href="https://www.sec.gov/news/press-release/2018-117">amendment</a> to require filers to transition to iXBRL, the SEC released an open-source iXBRL visualization tool to preview how filings would render once filed. The SEC’s Inline Renderer takes iXBRL files and renders them in a way that is easy to review. Because the XBRL data is embedded directly into the HTML document, the Inline Renderer will allow the user to see the rendering on a web browser with a marked-up version of the original HTML.</p>
+<p>The Renderer is available for anyone to download and install on their personal computers from the<a href="http://arelle.org/arelle/"> Arelle</a> website. Their documentation page includes step-by-step instructions on how to<a href="http://arelle.org/arelle/documentation/edgar-renderer-installation/"> install</a> and use the renderer, which can be through a graphical user interface or the command line.&nbsp;</p>
+<h2>&nbsp;</h2>
+<h3>Viewing the Rendering</h3>
+<p>The Inline Renderer will allow the user to see the original HTML formatting with orange markups for each particular fact. The orange markups highlight facts that have more details about the iXBRL tag used. Text block and table text block-level tags will have a vertical orange bar before and after the fact which can be clicked on for more details regarding the iXBRL tag.</p>
+<table style="border-color: #99acc2; border-collapse: collapse; table-layout: fixed; height: 123px;" cellpadding="4">
+<tbody>
+<tr style="height: 40px;">
+<td style="height: 40px; width: 280px;">
+<h5><span style="color: #ffffff;"><strong>Orange Fact Markups</strong></span></h5>
+</td>
+</tr>
+<tr style="height: 137px;">
+<td style="height: 68px; width: 280px;">
+<p><strong><img src="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image9.jpg?width=734&amp;name=image9.jpg" alt="image9" width="734" style="width: 734px; display: block; margin: 10px auto 0px;" srcset="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image9.jpg?width=367&amp;name=image9.jpg 367w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image9.jpg?width=734&amp;name=image9.jpg 734w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image9.jpg?width=1101&amp;name=image9.jpg 1101w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image9.jpg?width=1468&amp;name=image9.jpg 1468w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image9.jpg?width=1835&amp;name=image9.jpg 1835w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image9.jpg?width=2202&amp;name=image9.jpg 2202w" sizes="(max-width: 734px) 100vw, 734px"></strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>&nbsp;</h2>
+<h3>Navigating the Rendering</h3>
+<p>The header bar of the Renderer offers several helpful tools. For example, the <i>Sections </i>option allows the user to jump to different sections of the document. It offers a similar function to the standard sidebar of the XBRL Renderer. The new Inline Renderer also features a search bar which is useful for looking up concepts, values, or text within the document.&nbsp; The search feature also comes with a filter, allowing the user to set different searching parameters such as fact name, definition, or dimension. Lastly, the<i> Data, Tags, and More Filters</i> found on the header bar offer additional filtering capabilities of the rendering.</p>
+<h2>&nbsp;</h2>
+<table style="border-color: #99acc2; border-collapse: collapse; table-layout: fixed; height: 60px;" cellpadding="4">
+<tbody>
+<tr style="height: 35px;">
+<td style="height: 35px; width: 280px;">
+<h5><span style="color: #ffffff;"><strong>Inline Renderer Header Bar</strong></span></h5>
+</td>
+</tr>
+<tr style="height: 25px;">
+<td style="height: 25px; width: 280px;">
+<p><img src="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image4.jpg?width=600&amp;name=image4.jpg" alt="image4" width="600" style="width: 600px; margin: 10px auto 0px; display: block;" srcset="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image4.jpg?width=300&amp;name=image4.jpg 300w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image4.jpg?width=600&amp;name=image4.jpg 600w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image4.jpg?width=900&amp;name=image4.jpg 900w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image4.jpg?width=1200&amp;name=image4.jpg 1200w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image4.jpg?width=1500&amp;name=image4.jpg 1500w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image4.jpg?width=1800&amp;name=image4.jpg 1800w" sizes="(max-width: 600px) 100vw, 600px"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>Renderer Complexities</h3>
+<p style="font-size: 8px;">&nbsp;</p>
+<h4>Hidden Facts</h4>
+<p>This new way to render an iXBRL filing comes with a few complexities. One complexity is with hidden facts. Some facts do not have text within the HTML filing that can have a direct link. Therefore, to view these facts in the preview, the user has to filter by <i>Additional Items Only </i>which is located under the <i>Data </i>dropdown and opening the fact sidebar on the right-hand side. An example of one of these facts is the Entity Central Index Key, which is still required to be tagged within the filing but is not listed in any text within the filing.</p>
+<h4>&nbsp;</h4>
+<h4>Labels</h4>
+<p>Another complexity is how the Inline Renderer displays label information. For each fact within the pop-up window, there is a tab for Labels.</p>
+<p>&nbsp;</p>
+<table style="border-color: #99acc2; border-collapse: collapse; table-layout: fixed;" cellpadding="4">
+<tbody>
+<tr>
+<td>
+<h5><span style="color: #ffffff;"><strong>Labels in Fact Dialog</strong></span></h5>
+</td>
+</tr>
+<tr>
+<td><img src="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image6.jpg?width=385&amp;name=image6.jpg" alt="image6" width="385" style="width: 385px; display: block; margin: 10px auto;" srcset="https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image6.jpg?width=193&amp;name=image6.jpg 193w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image6.jpg?width=385&amp;name=image6.jpg 385w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image6.jpg?width=578&amp;name=image6.jpg 578w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image6.jpg?width=770&amp;name=image6.jpg 770w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image6.jpg?width=963&amp;name=image6.jpg 963w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/pillar%20pages/image6.jpg?width=1155&amp;name=image6.jpg 1155w" sizes="(max-width: 385px) 100vw, 385px"></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>The tab lists all the labels that were used for a specific concept throughout the entire filing, including any standard, negated, terse, or verbose labels, but does not specify which type of label was used for the fact that is currently being viewed. This issue may cause confusion because without looking at the underlying iXBRL, there is no way to know which of these labels was used in this context.</p>
+<h4>&nbsp;</h4>
+<h4>Continuations</h4>
+<p>Another complication that was introduced with iXBRL is the usage of continuations. Continuations are used when a fact spans over several nonconsecutive paragraphs or sections; the “ix:continuation” tag is used to connect the sections to each other and assign the same concept. This is common for text block sections to avoid page breaks or unwanted whitespace. Each of these continuation tags must link to one another, and if just one of the links is broken or incorrect, the entire chain would be incorrect.</p>
+        </div>
+
+        
+      </div>
+    </div>
+
+    
+  </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1589391992591" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+<div class="anchor-divider">
+  <a class="anchor-divider__anchor" name="conclusion" id="conclusion" data-label="Conclusion"></a>
+</div></div>
+<div id="hs_cos_wrapper_widget_1570108506586" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="custom-rich-text module  module--padding-small module--no-padding-top  module--bg-white  module--on-light">
+  
+  
+  
+
+  <div class="module__inner constrain">
+    
+
+    <div class="module__section-main module__section-main--block-align-left">
+      <div class="module__content module__content--text-align-left constrain--8">
+        <div class="custom-rich-text__content-inner">
+          <h2>Conclusion</h2>
+<p>While the transition to Inline XBRL introduces complexities in the filing process, over time, filers will be able to realize the benefits that iXBRL offers.&nbsp; The SEC has adopted Inline XBRL with the intention to improve the data’s usefulness, timeliness, and quality. Inline XBRL involves embedding XBRL data directly into the filing so that the document is both human-readable and machine-readable. This amendment is expected to reduce the preparation time and effort needed to review XBRL data. iXBRL ultimately improves upon XBRL, giving control of the presentation and formatting of financial data to the filer. As deadlines approach, it is important for public and investment companies to keep up with these amendments to lessen the learning curve and ease the transition to Inline XBRL.</p>
+        </div>
+
+        
+      </div>
+    </div>
+
+    
+  </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1570108568507" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+<div class="anchor-divider">
+  <a class="anchor-divider__anchor" name="about-the-author" id="about-the-author" data-label="About the Author"></a>
+</div></div>
+<div id="hs_cos_wrapper_widget_1570108591266" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="custom-rich-text module  module--padding-small module--no-padding-top  module--bg-white  module--on-light">
+  
+  
+  
+
+  <div class="module__inner constrain">
+    
+
+    <div class="module__section-main module__section-main--block-align-left">
+      <div class="module__content module__content--text-align-left constrain--8">
+        <div class="custom-rich-text__content-inner">
+          <h2>About the Author</h2>
+<p style="line-height: 2;">Amin Kassim is a Business Analyst at CompSci Resources, LLC. He earned a M.S. in Analytics from American University. Here at CompSci, he is responsible for preparing and processing SEC filings for public and investment companies. By leveraging our patented technology, Amin Kassim helps businesses comply with SEC requirements.</p>
+<p style="line-height: 2;">&nbsp;</p>
+<p><img src="https://www.compsciresources.com/hs-fs/hubfs/assets/images/headshots/AminKassim1.jpg?width=100&amp;name=AminKassim1.jpg" alt="AminKassim1" width="100" style="width: 100px; float: left; margin: 0px 10px 10px 0px;" srcset="https://www.compsciresources.com/hs-fs/hubfs/assets/images/headshots/AminKassim1.jpg?width=50&amp;name=AminKassim1.jpg 50w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/headshots/AminKassim1.jpg?width=100&amp;name=AminKassim1.jpg 100w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/headshots/AminKassim1.jpg?width=150&amp;name=AminKassim1.jpg 150w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/headshots/AminKassim1.jpg?width=200&amp;name=AminKassim1.jpg 200w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/headshots/AminKassim1.jpg?width=250&amp;name=AminKassim1.jpg 250w, https://www.compsciresources.com/hs-fs/hubfs/assets/images/headshots/AminKassim1.jpg?width=300&amp;name=AminKassim1.jpg 300w" sizes="(max-width: 100px) 100vw, 100px"><a href="https://www.linkedin.com/in/aminkassim/" rel="noopener" target="_blank"><img src="https://www.compsciresources.com/hs-fs/hubfs/hs_marketplace_assets/modules/Follow%20Me/77/linkedin_legacy_color.png?width=32&amp;name=linkedin_legacy_color.png" alt="linkedin_legacy_color" width="32" style="width: 32px;" srcset="https://www.compsciresources.com/hs-fs/hubfs/hs_marketplace_assets/modules/Follow%20Me/77/linkedin_legacy_color.png?width=16&amp;name=linkedin_legacy_color.png 16w, https://www.compsciresources.com/hs-fs/hubfs/hs_marketplace_assets/modules/Follow%20Me/77/linkedin_legacy_color.png?width=32&amp;name=linkedin_legacy_color.png 32w, https://www.compsciresources.com/hs-fs/hubfs/hs_marketplace_assets/modules/Follow%20Me/77/linkedin_legacy_color.png?width=48&amp;name=linkedin_legacy_color.png 48w, https://www.compsciresources.com/hs-fs/hubfs/hs_marketplace_assets/modules/Follow%20Me/77/linkedin_legacy_color.png?width=64&amp;name=linkedin_legacy_color.png 64w, https://www.compsciresources.com/hs-fs/hubfs/hs_marketplace_assets/modules/Follow%20Me/77/linkedin_legacy_color.png?width=80&amp;name=linkedin_legacy_color.png 80w, https://www.compsciresources.com/hs-fs/hubfs/hs_marketplace_assets/modules/Follow%20Me/77/linkedin_legacy_color.png?width=96&amp;name=linkedin_legacy_color.png 96w" sizes="(max-width: 32px) 100vw, 32px"></a></p>
+<p><strong>Amin Kassim</strong></p>
+<p><strong>Business Analyst at CompSci Resources, LLC</strong></p>
+        </div>
+
+        
+      </div>
+    </div>
+
+    
+  </div>
+</div></div></span>
+</div><!--end widget-span -->
+<div class="span4 widget-span widget-type-cell primary-content__right-col sidebar" style="" data-widget-type="cell" data-x="8" data-w="4">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-widget_container " style="" data-widget-type="widget_container" data-x="0" data-w="12">
+<span id="hs_cos_wrapper_module_1515605454808169" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_15151209757" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+<div class="sidebar-menu module sidebar-menu--dynamic">
+  <div class="sidebar-menu__inner">
+    <div id="hs_menu_wrapper_widget_15151209757_sidebar_menu" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="10904731188" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="https://www.compsciresources.com/demo-request" aria-haspopup="true" aria-expanded="false" role="menuitem">Test Item</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.mediajunction.com" role="menuitem">Test Child Page</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="/blog" role="menuitem">Default HubSpot Blog</a></li>
+ </ul>
+</div>
+  </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1569850945823" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+
+<div class="anchor-menu-container">
+  <div class="anchor-menu module attach-to-header-on-scroll">
+    <div class="module__inner constrain">
+      <div class="module__section-main">
+        <div class="anchor-menu__content-inner">
+          <div class="anchor-menu__menu" role="navigation">
+            <div class="anchor-menu__menu-body">
+              <div class="anchor-menu__menu-body-inner">
+              
+              <ul class="anchor-menu__menu-list"></ul>
+              
+                <div class="anchor-menu__form">
+                  <span id="hs_cos_wrapper_widget_1569850945823_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_form" style="" data-hs-cos-general-type="widget" data-hs-cos-type="form"><h3 id="hs_cos_wrapper_form_890931227_title" class="hs_cos_wrapper form-title" data-hs-cos-general-type="widget_field" data-hs-cos-type="text"></h3>
+
+<div id="hs_form_target_form_890931227"></div>
+
+
+
+
+
+
+
+
+
+</span>
+                </div>
+              
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></span>
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-widget_container flex-bottom-sheet" style="" data-widget-type="widget_container" data-x="0" data-w="12">
+<span id="hs_cos_wrapper_module_14508921490423660" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-widget_container flex-bottom-full" style="" data-widget-type="widget_container" data-x="0" data-w="12">
+<span id="hs_cos_wrapper_module_14508921462002860" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end body -->
+</div><!--end body wrapper -->
+
+<div class="footer-container-wrapper">
+    <div class="footer-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_15417955428651248" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+<div class="site-footer" role="contentinfo">
+  <div class="site-footer__top">
+    <div class="site-footer__top-inner">
+      <div class="site-footer__contact">
+        <p class="large"><a href="/contact?hsLang=en" rel=" noopener">Contact Us</a></p>
+<p><a href="tel:7037503232">703-750-3232</a></p>
+<p><a href="https://goo.gl/maps/WDAupDQKVGT6upbY6" target="_blank" rel="noopener"><strong>2000 Duke Street&nbsp;<br>Suite 300<br>Alexandria, VA 22314</strong></a></p>
+<p class="large"><a href="/company?hsLang=en" rel=" noopener">About Us</a></p>
+      </div>
+      <div class="site-footer__main-menu">
+        <div id="hs_menu_wrapper_module_15417955428651248_" class="hs-menu-wrapper active-branch no-flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="14340319721" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="https://www.compsciresources.com/transform-sec-reporting-software" aria-haspopup="true" aria-expanded="false" role="menuitem">SEC Reporting Software</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.compsciresources.com/transform-sec-reporting-software/html-authoring" role="menuitem">HTML Authoring</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.compsciresources.com/transform-sec-reporting-software/ixbrl-xbrl-tagging" role="menuitem">XBRL and iXBRL Tagging</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.compsciresources.com/transform-sec-reporting-software/xml-forms" role="menuitem">XML Forms</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.compsciresources.com/transform-sec-reporting-software/edgar-filing" role="menuitem">EDGAR Filing</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.compsciresources.com/pricing" role="menuitem">Pricing</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="https://www.compsciresources.com/our-services" aria-haspopup="true" aria-expanded="false" role="menuitem">Services</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.compsciresources.com/our-services#xbrl-public" role="menuitem">XBRL and iXBRL Tagging for Public Companies</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.compsciresources.com/our-services#xbrl-tagging" role="menuitem">XBRL and iXBRL Tagging for Investment Companies</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.compsciresources.com/our-services#xml-tagging" role="menuitem">XML Forms</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.compsciresources.com/blog" role="menuitem">Blog</a></li>
+ </ul>
+</div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="site-footer__bottom">
+    <div class="site-footer__bottom-inner">
+      <div class="site-footer__social-links">
+        <div id="hs_menu_wrapper_module_15417955428651248_" class="hs-menu-wrapper active-branch no-flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="14364333259" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.facebook.com/CompSciResources" role="menuitem" target="_blank" rel="noopener">Facebook</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://twitter.com/CompSciResource" role="menuitem" target="_blank" rel="noopener">Twitter</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linkedin.com/company/compsci-resources-llc" role="menuitem" target="_blank" rel="noopener">LinkedIn</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="mailto:contact@compsciresources.com" role="menuitem">Email</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.youtube.com/channel/UC2pXPjT2Qa6vplAUN8jtpXw" role="menuitem" target="_blank" rel="noopener">YouTube</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.instagram.com/compsciresources/" role="menuitem" target="_blank" rel="noopener">Instagram</a></li>
+ </ul>
+</div>
+      </div>
+      <div class="site-footer__bottom-menu">
+        <div class="site-footer__copyright">
+          <span class="site-footer__copyright-text">©2022 CompSci Resources, LLC.&nbsp;<br>All rights reserved. U.S. Patent No. 8,230,332</span>
+        </div>
+        <div class="site-footer__secondary-menu">
+          <div id="hs_menu_wrapper_module_15417955428651248_" class="hs-menu-wrapper active-branch no-flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="14343814250" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.compsciresources.com/privacy-policy" role="menuitem">Privacy Policy</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.compsciresources.com/terms" role="menuitem">Terms of Service</a></li>
+ </ul>
+</div>
+        </div>        
+      </div>
+    </div>
+  </div>
+  
+  
+    <div class="site-footer__logo">
+      <img src="https://www.compsciresources.com/hubfs/assets/images/backgrounds/footer-logo.png" alt="footer-logo">
+    </div>
+  
+</div></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end footer -->
+</div><!--end footer wrapper -->
+
+    
+<script>
+(function () {
+    window.addEventListener('load', function () {
+        setTimeout(function () {
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', '/_hcms/perf', true /*async*/);
+            xhr.setRequestHeader("Content-type", "application/json");
+            xhr.onreadystatechange = function () {
+                // do nothing.
+            };
+            var connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+            function populateNetworkInfo(name, connection, info) {
+                if (name in connection) {
+                    info[name] = connection[name];
+                }
+            }
+            var networkInfo = {};
+            if (connection) {
+                ['type', 'effectiveType', 'downlink', 'rtt'].forEach(function(name) {
+                    populateNetworkInfo(name, connection, networkInfo);
+                });
+            }
+            var perfData = {
+                url: location.href,
+                portal: 5501830,
+                content: 29299922425,
+                group: -1,
+                connection: networkInfo,
+                timing: performance.timing
+            };
+            xhr.send(JSON.stringify(perfData));
+        }, 3000);  // Execute this 3 seconds after onload.
+    });
+})();
+</script>
+
+<script>
+var hsVars = hsVars || {}; hsVars['language'] = 'en';
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></script>
+<script src="/hs/hsstatic/keyboard-accessible-menu-flyouts/static-1.17/bundles/project.js"></script>
+
+    <!--[if lte IE 8]>
+    <script charset="utf-8" src="https://js.hsforms.net/forms/v2-legacy.js"></script>
+    <![endif]-->
+
+<script data-hs-allowed="true" src="/_hcms/forms/v2.js"></script>
+
+    <script data-hs-allowed="true">
+        var options = {
+            portalId: '5501830',
+            formId: '018956a9-1d52-451a-adfc-f6736c21a242',
+            formInstanceId: '3199',
+            pageId: '29299922425',
+            region: 'na1',
+            
+            
+            
+            
+            pageName: "The Transition to Inline XBRL (iXBRL)",
+            
+            
+            
+            inlineMessage: "<p>Thank you for subscribing!&nbsp;</p>",
+            
+            
+            rawInlineMessage: "<p>Thank you for subscribing!&nbsp;</p>",
+            
+            
+            hsFormKey: "4983a27928da81e72ce496470a1e6905",
+            
+            
+            css: '',
+            target: '#hs_form_target_form_890931227',
+            
+            
+            
+            
+            
+            contentType: "standard-page",
+            
+            
+            formsBaseUrl: '/_hcms/forms/',
+            
+            
+            
+            formData: {
+                cssClass: 'hs-form stacked hs-custom-form'
+            }
+        };
+
+        options.getExtraMetaDataBeforeSubmit = function() {
+            var metadata = {};
+            
+
+            if (hbspt.targetedContentMetadata) {
+                var count = hbspt.targetedContentMetadata.length;
+                var targetedContentData = [];
+                for (var i = 0; i < count; i++) {
+                    var tc = hbspt.targetedContentMetadata[i];
+                     if ( tc.length !== 3) {
+                        continue;
+                     }
+                     targetedContentData.push({
+                        definitionId: tc[0],
+                        criterionId: tc[1],
+                        smartTypeId: tc[2]
+                     });
+                }
+                metadata["targetedContentMetadata"] = JSON.stringify(targetedContentData);
+            }
+
+            return metadata;
+        };
+
+        hbspt.forms.create(options);
+    </script>
+
+<script src="https://www.compsciresources.com/hs-fs/hub/5501830/hub_generated/template_assets/14331983917/1574770969374/Custom/page/mjfw/mjfw_main.js"></script>
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/www.compsciresources.com\/transitioning-to-ixbrl"]);
+_hsq.push(["setPageId", "29299922425"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 29299922425,
+    "legacyPageId": "29299922425",
+    "contentFolderId": null,
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": 29299922425,
+    "languageCode": "en",
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="/hs/scriptloader/5501830.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    ticks: 1656197711525,
+    page_id: 29299922425,
+    
+    content_group_id: 0,
+    portal_id: 5501830,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en",
+    analytics_page_type: "standard-page",
+    analytics_page_id: "29299922425",
+    category_id: 1,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.128/js/index.js"></script>
+
+
+
+
+    
+    <!-- Generated by the HubSpot Template Builder - template version 1.03 -->
+
+</body></html>

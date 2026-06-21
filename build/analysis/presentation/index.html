@@ -154,7 +154,7 @@ tr:hover td{background:var(--panel)}
 .smrow .tk i{display:block;height:100%;width:0;transition:width .6s ease}
 .in .smrow .tk i{width:var(--w)}
 .smrow .vv{font-family:"IBM Plex Mono",monospace;font-size:12.5px;font-weight:600;color:var(--ink);text-align:right}
-.avgline{position:absolute;top:-6px;bottom:-6px;left:67.8%;border-left:1px dashed var(--amber-d);opacity:.6}
+.avgline{position:absolute;top:-6px;bottom:-6px;left:46.3%;border-left:1px dashed var(--amber-d);opacity:.6}
 
 /* timeline */
 .tlchart{display:flex;align-items:flex-end;gap:9px;height:210px;border-bottom:1px solid var(--line-2)}
@@ -190,8 +190,65 @@ tr:hover td{background:var(--panel)}
 .vstrack i{position:absolute;top:3px;height:10px;border-radius:2px}
 .vsval{font-family:"IBM Plex Mono",monospace;font-size:12px;font-weight:600;width:38px}
 
+/* US cartogram — squares sized to issuer count, sorted, bottom-aligned, no overlap */
+.cartogram{display:flex;flex-wrap:wrap;align-items:flex-end;gap:7px;padding:18px;
+  border:1px solid var(--line);border-radius:10px;background:linear-gradient(180deg,#fff,var(--panel))}
+.cst{position:relative;border-radius:4px;display:flex;flex-direction:column;align-items:center;justify-content:center;
+  color:#fff;overflow:hidden;cursor:default;box-shadow:0 1px 2px rgba(27,35,48,.08);
+  border:1px solid rgba(255,255,255,.3);opacity:0;transform:translateY(8px);
+  transition:opacity .45s ease,transform .45s ease,box-shadow .2s ease}
+.in .cst{opacity:1;transform:none}
+.cst:hover{box-shadow:0 6px 16px rgba(27,35,48,.22);z-index:9}
+.cst.lite{color:var(--ink);border-color:rgba(27,35,48,.08)}
+.cst .cab{font-family:"IBM Plex Mono",monospace;font-weight:700;line-height:1;letter-spacing:.02em}
+.cst .cnn{font-family:"IBM Plex Mono",monospace;line-height:1;margin-top:.2em;opacity:.92;font-weight:500}
+.szlegend{display:flex;align-items:flex-end;gap:18px;margin-top:16px;padding-top:14px;border-top:1px solid var(--line)}
+.szlegend .szi{display:flex;flex-direction:column;align-items:center;gap:5px}
+.szlegend .szq{background:var(--mid);border-radius:3px;opacity:.55}
+.szlegend .szl{font-family:"IBM Plex Mono",monospace;font-size:10px;color:var(--faint);letter-spacing:.03em}
+.szcap{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--faint);align-self:center;line-height:1.4;max-width:130px}
+
+/* donut (pie) */
+.donutwrap{display:flex;align-items:center;gap:30px;flex-wrap:wrap}
+.donut{width:200px;height:200px;flex:none}
+.donut circle{fill:none;stroke-width:5}
+.donut .seg{transition:stroke-dasharray .8s ease}
+.donutctr{position:relative}
+.donutctr .ctr{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
+.donutctr .ctr .big{font-family:"Source Serif 4",serif;font-weight:600;font-size:34px;line-height:1;color:var(--ink)}
+.donutctr .ctr .sm{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--slate);margin-top:5px}
+.dlegend{display:flex;flex-direction:column;gap:12px;min-width:230px}
+.dlegend .dli{display:grid;grid-template-columns:14px 1fr auto;gap:11px;align-items:center}
+.dlegend .dli .dsw{width:14px;height:14px;border-radius:3px}
+.dlegend .dli .dnm{font-size:13.5px;color:var(--ink)}
+.dlegend .dli .dnm small{display:block;font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--faint)}
+.dlegend .dli .dvv{font-family:"IBM Plex Mono",monospace;font-size:14px;font-weight:600;text-align:right}
+.dlegend .dli .dvv small{color:var(--faint);font-weight:400;font-size:11px}
+
+/* scatter — sector landscape: x = continuation rate, y = cohort size, bubble area ∝ count */
+.scatter{position:relative;width:100%;aspect-ratio:16/9;border-left:1px solid var(--line-2);
+  border-bottom:1px solid var(--line-2);background:
+   repeating-linear-gradient(90deg,transparent,transparent calc(20% - 1px),var(--line) calc(20% - 1px),var(--line) 20%)}
+.scbub{position:absolute;transform:translate(-50%,-50%);border-radius:50%;display:flex;align-items:center;justify-content:center;
+  color:#fff;font-family:"IBM Plex Mono",monospace;font-weight:700;box-shadow:0 2px 6px rgba(27,35,48,.18);
+  border:1.5px solid rgba(255,255,255,.55);opacity:0;transition:opacity .5s ease,transform .2s ease;cursor:default}
+.in .scbub{opacity:1}
+.scbub:hover{transform:translate(-50%,-50%) scale(1.07);z-index:9}
+.scbub.lite{color:var(--ink);border-color:rgba(27,35,48,.12)}
+.sclab{position:absolute;transform:translate(-50%,-50%);font-size:11.5px;font-weight:600;color:var(--ink);
+  white-space:nowrap;pointer-events:none;text-shadow:0 1px 2px #fff,0 0 3px #fff}
+.sclab small{display:block;font-family:"IBM Plex Mono",monospace;font-weight:500;font-size:10px;color:var(--slate);text-align:center}
+.scavg{position:absolute;top:0;bottom:0;border-left:1px dashed var(--amber-d);opacity:.65}
+.scavg span{position:absolute;top:-4px;left:6px;font-family:"IBM Plex Mono",monospace;font-size:10px;color:var(--amber-d);white-space:nowrap}
+.scax{display:flex;justify-content:space-between;font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--faint);margin-top:7px}
+.scyax{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--faint);margin-bottom:6px}
+
+/* truncated-baseline note */
+.axisnote{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--faint);margin-top:12px;letter-spacing:.02em}
+
 @media(max-width:760px){.two,.maprow,.ipair{grid-template-columns:1fr}.rail{display:none}
-  section.slide{padding:64px 22px 54px}.brow{grid-template-columns:120px 1fr 64px;gap:9px}}
+  section.slide{padding:64px 22px 54px}.brow{grid-template-columns:120px 1fr 64px;gap:9px}
+  .scatter{aspect-ratio:4/3}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}
   .reveal{opacity:1;transform:none}.fbar,.fill,.fbar2 .tk i,.smrow .tk i,.minirail i{width:var(--w)!important}
   .tseg{transform:scaleY(1)!important}.st{opacity:1!important}}
@@ -258,8 +315,14 @@ tr:hover td{background:var(--panel)}
     <div class="eyebrow">Outcomes <span class="sep">/</span> <span class="gr">four mutually exclusive states</span></div>
     <h2 class="title reveal">What "continuation" actually looks like.</h2>
     <p class="defn reveal d1">A company is recorded as continuing if a post-vacatur filing contains either the full Board Diversity Matrix or board-diversity narrative language. The two are tracked separately, because they represent different choices.</p>
-    <div class="barlist reveal d1" id="outchart"></div>
-    <p class="reading reveal d2"><b>Reading:</b> Only <strong>42 of 177</strong> retained the structured matrix. The larger continuing group (<strong>78</strong>) dropped the table and kept softer governance language — so the headline is better stated as "most kept a sentence, not a matrix."</p>
+    <div class="donutwrap reveal d1">
+      <div class="donutctr">
+        <svg class="donut" id="outdonut" viewBox="0 0 36 36" role="img" aria-label="Outcome mix"></svg>
+        <div class="ctr"><span class="big">67.8%</span><span class="sm">continued · 120 / 177</span></div>
+      </div>
+      <div class="dlegend" id="outlegend"></div>
+    </div>
+    <p class="reading reveal d2"><b>Reading:</b> Only <strong>42 of 177</strong> retained the structured matrix (dark teal). The larger continuing group — <strong>78</strong>, light teal — dropped the table and kept softer governance language, so the honest headline is "most kept a sentence, not a matrix." The two amber wedges (57) are the issuers that let disclosure lapse.</p>
   </div>
 </section>
 
@@ -267,10 +330,18 @@ tr:hover td{background:var(--panel)}
 <section class="slide" id="s4">
   <div class="wrap">
     <div class="eyebrow">Geography <span class="sep">/</span> <span class="gr">continuation rate by headquarters location</span></div>
-    <h2 class="title reveal">Where the issuers are, and how location tracks continuation.</h2>
-    <p class="defn reveal d1">120 issuers are US-headquartered (22 states); 57 are foreign. Shading is the continuation rate; the figure under each state is its company count. Single-company states carry no inference.</p>
+    <h2 class="title reveal">Issuer counts and continuation rates, state by state.</h2>
+    <p class="defn reveal d1">120 issuers are US-headquartered across 22 states; 57 are foreign. Each state is a square <strong>sized to its issuer count</strong> and shaded by continuation rate, ordered largest to smallest — California (40) leads, the single-company states trail as small tiles.</p>
     <div class="maprow reveal d1">
-      <div class="usmap" id="usmap"></div>
+      <div>
+        <div class="cartogram" id="usmap"></div>
+        <div class="szlegend">
+          <div class="szi"><span class="szq" id="szq1"></span><span class="szl" id="szl1">1</span></div>
+          <div class="szi"><span class="szq" id="szq2"></span><span class="szl" id="szl2">10</span></div>
+          <div class="szi"><span class="szq" id="szq3"></span><span class="szl" id="szl3">40</span></div>
+          <div class="szcap">square area = issuers headquartered (states)</div>
+        </div>
+      </div>
       <div>
         <div class="legend">
           <div class="lr"><span class="sw" style="background:var(--teal-d)"></span> ≥ 85% continued</div>
@@ -279,7 +350,6 @@ tr:hover td{background:var(--panel)}
           <div class="lr"><span class="sw" style="background:var(--amber-l)"></span> 55–67%</div>
           <div class="lr"><span class="sw" style="background:var(--amber)"></span> 40–54%</div>
           <div class="lr"><span class="sw" style="background:var(--amber-d)"></span> &lt; 40%</div>
-          <div class="lr"><span class="sw" style="background:#EFF1F3;border:1px solid var(--line-2)"></span> no companies</div>
         </div>
         <div class="foreignbox">
           <div class="eyebrow" style="margin:0 0 12px">Foreign issuers · 57</div>
@@ -328,14 +398,21 @@ tr:hover td{background:var(--panel)}
   <div class="wrap">
     <div class="eyebrow">Company type <span class="sep">/</span> <span class="gr">continuation rate across firm characteristics</span></div>
     <h2 class="title reveal">Which characteristics move continuation, and which do not.</h2>
-    <p class="defn reveal d1">Continuation rate by segment; dashed line marks the 67.8% cohort average. Segments shown have n ≥ 4.</p>
-    <div class="sm reveal d1">
-      <div class="smpanel"><h4>Market tier <span>Nasdaq</span></h4><div id="sm_tier"></div></div>
-      <div class="smpanel"><h4>Filer status <span>SEC</span></h4><div id="sm_egc"></div></div>
-      <div class="smpanel"><h4>Employees <span>headcount band</span></h4><div id="sm_size"></div></div>
-      <div class="smpanel"><h4>Sector <span>SIC division</span></h4><div id="sm_sector"></div></div>
+    <p class="defn reveal d1">Each named SIC division is a bubble — placed left-to-right by <strong>continuation rate</strong>, stacked by <strong>how many issuers it holds</strong>, with bubble area equal to that count. Every company lands in a named sector; there is no catch-all bucket. The dashed line is the 67.8% cohort average.</p>
+    <div class="two w reveal d1" style="margin-top:4px">
+      <div>
+        <div class="scyax">cohort size · issuers ↑</div>
+        <div class="scatter" id="scatter"></div>
+        <div class="scax"><span>← lower continuation</span><span>continuation rate · 50–90% →</span></div>
+      </div>
+      <div>
+        <div class="smpanel" style="margin-bottom:18px"><h4>Market tier <span>Nasdaq</span></h4><div id="sm_tier"></div></div>
+        <div class="smpanel" style="margin-bottom:18px"><h4>Filer status <span>SEC</span></h4><div id="sm_egc"></div></div>
+        <div class="smpanel"><h4>Employees <span>headcount band</span></h4><div id="sm_size"></div></div>
+      </div>
     </div>
-    <p class="reading reveal d2"><b>Reading:</b> Higher market tier (Global Select <span class="up">82%</span>) and <strong>seasoned</strong> issuers continue more; <strong>emerging growth companies</strong> — younger, smaller, less governance-mature — continue less (<span class="dn">64%</span> vs 78%). Sector spread is modest. Notably, <strong>listing cohort is flat</strong> across 2021–2023 (≈68% each), so this is not simply a recency effect.</p>
+    <p class="axisnote reveal d2">Bubble area = issuer count · colour = continuation rate · small-multiple bars scaled from a 40% baseline, dashed line = 67.8% average, numbers show true rates</p>
+    <p class="reading reveal d2"><b>Reading:</b> The cohort sits in <strong>Manufacturing</strong> (89 issuers, the largest bubble) at a middling 69%; the high-continuation sectors — <strong>Mining/energy</strong> (83%) and <strong>Retail</strong> (75%) — are small. By the other cuts, higher market tier (Global Select <span class="up">82%</span>) and <strong>seasoned</strong> issuers continue more, while <strong>emerging growth companies</strong> continue less (<span class="dn">64%</span> vs 78%). <strong>Listing cohort is flat</strong> across 2021–2023 (≈68% each) — not a recency effect.</p>
   </div>
 </section>
 
@@ -353,6 +430,7 @@ tr:hover td{background:var(--panel)}
         <p style="margin-top:10px">If retention tracked conviction, all-male boards would discontinue first. They did not — consistent with mechanical carry-forward rather than a values statement.</p>
       </div>
     </div>
+    <p class="axisnote reveal d2">Bars scaled from a 40% baseline to separate the three charters · labels show true rates</p>
     <p class="reading reveal d2"><b>Reading:</b> Issuers incorporated in their <strong>home US state</strong> (older regional operating companies, community banks) continue at <span class="up">91%</span>; the <strong>Delaware</strong> default — the standard venture-backed charter — sits at 69%, and foreign charters at 56%.</p>
   </div>
 </section>
@@ -463,32 +541,45 @@ function fillColor(r){if(r>=85)return'var(--teal-d)';if(r>=75)return'var(--teal)
   <div class="fd"><b>${lab}</b>${d}${cut?`<span class="cut">${cut}</span>`:''}</div></div>`).join('');
 })();
 
-// outcomes
-(function(){const el=document.getElementById('outchart');const mx=78;
- el.innerHTML=DATA.outcomes.map(([nm,code,v,c])=>`<div class="brow">
-  <div class="nm">${nm}<small>${code}</small></div>
-  <div class="track"><div class="fill ${c==='teal'?(nm.includes('narrative')?'':'teal'):'amber'}" style="--w:${(v/mx*100).toFixed(1)}%"></div></div>
-  <div class="vv">${v} <small>/177</small></div></div>`).join('');
+// outcomes donut (pie)
+(function(){const svg=document.getElementById('outdonut'),leg=document.getElementById('outlegend');if(!svg)return;
+ const items=[
+   ['Retained full matrix',42,'var(--teal-d)','continued · structured matrix'],
+   ['Softened to narrative',78,'var(--teal-l)','continued · narrative only'],
+   ['No continuation in filings',41,'var(--amber)','stopped · reviewed filings'],
+   ['No relevant post-vacatur filing',16,'var(--amber-d)','stopped · no filing found']];
+ const tot=177;let off=25;/* start at 12 o'clock */
+ svg.innerHTML=`<circle r="15.9155" cx="18" cy="18" fill="none" stroke="var(--panel-2)"></circle>`+
+   items.map(([nm,v,c])=>{const pct=v/tot*100;
+     const s=`<circle class="seg" r="15.9155" cx="18" cy="18" fill="none" stroke="${c}" pathLength="100"
+       stroke-dasharray="${pct.toFixed(2)} ${(100-pct).toFixed(2)}" stroke-dashoffset="${off.toFixed(2)}"></circle>`;
+     off-=pct;return s;}).join('');
+ leg.innerHTML=items.map(([nm,v,c,sub])=>`<div class="dli"><span class="dsw" style="background:${c}"></span>
+   <span class="dnm">${nm}<small>${sub}</small></span>
+   <span class="dvv">${v}<small> · ${(v/tot*100).toFixed(0)}%</small></span></div>`).join('');
 })();
 
-// US tile map
-(function(){const el=document.getElementById('usmap');if(!el)return;
- const pos={AK:[1,1],ME:[1,11],VT:[2,10],NH:[2,11],WA:[3,1],ID:[3,2],MT:[3,3],ND:[3,4],MN:[3,5],IL:[3,6],WI:[3,7],MI:[3,9],NY:[3,10],RI:[3,11],
-  OR:[4,1],NV:[4,2],WY:[4,3],SD:[4,4],IA:[4,5],IN:[4,6],OH:[4,7],PA:[4,8],NJ:[4,9],CT:[4,10],MA:[4,11],
-  CA:[5,1],UT:[5,2],CO:[5,3],NE:[5,4],MO:[5,5],KY:[5,6],WV:[5,7],VA:[5,8],MD:[5,9],DE:[5,10],
-  AZ:[6,2],NM:[6,3],KS:[6,4],AR:[6,5],TN:[6,6],NC:[6,7],SC:[6,8],DC:[6,9],
-  OK:[7,4],LA:[7,5],MS:[7,6],AL:[7,7],GA:[7,8],HI:[8,1],TX:[8,4],FL:[8,9]};
- let html='';
- for(const[ab,[r,c]]of Object.entries(pos)){
-   const d=DATA.us_states[ab];
-   if(d){const bg=fillColor(d.rate);const lite=d.rate>=55&&d.rate<75;
-     html+=`<div class="st ${lite?'lite':'data'}" style="grid-row:${r};grid-column:${c};background:${bg};border-color:${bg}"><span class="ab">${ab}</span><span class="nn">${d.rate}% · ${d.n}</span></div>`;
-   }else{
-     html+=`<div class="st nd" style="grid-row:${r};grid-column:${c}"><span class="ab">${ab}</span></div>`;
-   }
- }
- el.innerHTML=html;
-})();
+// US cartogram — square AREA ∝ issuer count, colour ∝ continuation rate, sorted big→small
+const FULLNAME={WA:"Washington",CA:"California",NV:"Nevada",AZ:"Arizona",CO:"Colorado",KS:"Kansas",
+ TX:"Texas",IL:"Illinois",KY:"Kentucky",OH:"Ohio",AL:"Alabama",NC:"North Carolina",SC:"South Carolina",
+ FL:"Florida",PA:"Pennsylvania",NY:"New York",NJ:"New Jersey",MA:"Massachusetts",MD:"Maryland",
+ DC:"Washington DC",DE:"Delaware",VA:"Virginia"};
+function renderMap(){const el=document.getElementById('usmap');if(!el)return;
+ const W=el.clientWidth||700; const K=Math.max(11,Math.min(20,W/40)); // px per sqrt(company)
+ const side=n=>K*Math.sqrt(n);
+ const ent=Object.entries(DATA.us_states).sort((a,b)=>b[1].n-a[1].n||b[1].rate-a[1].rate);
+ el.innerHTML=ent.map(([ab,d])=>{
+   const s=side(d.n);const bg=fillColor(d.rate);const lite=d.rate>=55&&d.rate<75;
+   let inner='';
+   if(s>=56) inner=`<span class="cab" style="font-size:${(s*0.19).toFixed(1)}px">${ab}</span><span class="cnn" style="font-size:${(s*0.115).toFixed(1)}px">${d.rate}% · ${d.n}</span>`;
+   else if(s>=26) inner=`<span class="cab" style="font-size:${Math.min(13,s*0.42).toFixed(1)}px">${ab}</span>`;
+   return `<div class="cst ${lite?'lite':''}" title="${FULLNAME[ab]} — ${d.rate}% continued · ${d.n} issuer${d.n>1?'s':''}"
+     style="width:${s.toFixed(1)}px;height:${s.toFixed(1)}px;background:${bg}">${inner}</div>`;
+ }).join('');
+ [[1,'szq1'],[10,'szq2'],[40,'szq3']].forEach(([n,id])=>{const q=document.getElementById(id);if(q){const v=side(n);q.style.width=v+'px';q.style.height=v+'px';}});
+}
+renderMap();
+addEventListener('resize',()=>{clearTimeout(window.__mt);window.__mt=setTimeout(renderMap,150);});
 
 // foreign regions
 (function(){const el=document.getElementById('foreign');if(!el)return;
@@ -498,19 +589,48 @@ function fillColor(r){if(r>=85)return'var(--teal-d)';if(r>=75)return'var(--teal)
   <div class="vv" style="color:${fillColor(d.rate)}">${d.rate}%</div></div>`).join('');
 })();
 
-// small multiples
+// truncated-baseline normalisation: spreads the 50–100% cluster across the full track
+const BASE=40;
+function NORM(r){return Math.max(2,Math.min(100,(r-BASE)/(100-BASE)*100));}
+
+// sector scatter — x = continuation rate, y = cohort size, bubble area ∝ count (named SIC divisions, no 'Other')
+const SECTOR_SHORT={"Mining / energy":"Mining","Retail / wholesale":"Retail","Manufacturing":"Manufacturing",
+  "Finance / RE":"Finance","Services":"Services","Transport / util.":"Transport"};
+function renderScatter(){const el=document.getElementById('scatter');if(!el)return;
+ const W=el.clientWidth||500,H=el.clientHeight||280;
+ const xmap=r=>(9+(r-50)/40*82)/100*W;             // rate 50–90% → 9–91% of width
+ const ymax=Math.sqrt(90);
+ const ymap=n=>H-((12+(Math.sqrt(n)/ymax)*76)/100*H);// sqrt(n) → height from bottom
+ const K=Math.max(4.1,W/106);const rad=n=>Math.max(11,K*Math.sqrt(n));
+ let h=`<div class="scavg" style="left:${xmap(67.8).toFixed(1)}px"><span>avg 67.8%</span></div>`;
+ DATA.sector.forEach(([nm,n,r])=>{
+   const cx=xmap(r),cy=ymap(n),rd=rad(n),bg=fillColor(r),lite=r>=55&&r<75,sh=SECTOR_SHORT[nm];
+   let inside='',outside=true;
+   if(rd>=32){inside=`<b style="font-size:${Math.min(13,rd*0.34).toFixed(1)}px">${sh}</b><span style="font-size:${(rd*0.26).toFixed(1)}px;opacity:.92">${r}% · ${n}</span>`;outside=false;}
+   else if(rd>=17){inside=`${r}%`;}
+   h+=`<div class="scbub ${lite?'lite':''}" title="${nm}: ${r}% continued · ${n} issuers"
+     style="left:${cx.toFixed(1)}px;top:${cy.toFixed(1)}px;width:${(2*rd).toFixed(0)}px;height:${(2*rd).toFixed(0)}px;background:${bg};font-size:${Math.min(13,rd*0.5).toFixed(1)}px;flex-direction:column;line-height:1.15">${inside}</div>`;
+   if(outside){const below=cy<H*0.7;let ly=below?cy+rd+13:cy-rd-12;ly=Math.max(11,Math.min(H-9,ly));
+     h+=`<div class="sclab" style="left:${cx.toFixed(1)}px;top:${ly.toFixed(1)}px">${sh}<small>n=${n}</small></div>`;}
+ });
+ el.innerHTML=h;
+}
+renderScatter();
+addEventListener('resize',()=>{clearTimeout(window.__st);window.__st=setTimeout(renderScatter,150);});
+
+// small multiples (normalised to 40% baseline)
 function sm(id,rows){const el=document.getElementById(id);if(!el)return;
  el.innerHTML=rows.map(([nm,n,r])=>`<div class="smrow"><div class="nm">${nm}</div>
-  <div class="tk"><div class="avgline"></div><i style="--w:${r}%;background:${fillColor(r)}"></i></div>
+  <div class="tk"><div class="avgline"></div><i style="--w:${NORM(r).toFixed(1)}%;background:${fillColor(r)}"></i></div>
   <div class="vv">${r}%<span style="color:var(--faint);font-weight:400"> ·${n}</span></div></div>`).join('');
 }
-sm('sm_tier',DATA.tier);sm('sm_egc',DATA.egc);sm('sm_size',DATA.size);sm('sm_sector',DATA.sector);
+sm('sm_tier',DATA.tier);sm('sm_egc',DATA.egc);sm('sm_size',DATA.size);
 
-// incorporation
+// incorporation (normalised to 40% baseline)
 (function(){const el=document.getElementById('incorp');if(!el)return;
  el.innerHTML=DATA.incorp.map(([nm,n,r,c])=>`<div class="brow">
   <div class="nm">${nm}<small>n = ${n}</small></div>
-  <div class="track"><div class="fill ${c}" style="--w:${r}%"></div></div>
+  <div class="track"><div class="fill ${c}" style="--w:${NORM(r).toFixed(1)}%"></div></div>
   <div class="vv">${r}%</div></div>`).join('');
 })();
 

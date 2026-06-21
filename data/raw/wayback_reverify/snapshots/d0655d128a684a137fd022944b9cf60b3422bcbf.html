@@ -1,0 +1,1339 @@
+<!DOCTYPE html>
+<html lang="en-US" >
+<head>
+	
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="format-detection" content="telephone=no">
+<title>Technical Papers &#8211; SeqLL</title>
+<script type="text/javascript">var ajaxurl = "http://seqll.com/wp-admin/admin-ajax.php"</script><meta name='robots' content='max-image-preview:large' />
+
+		<style id="critical-path-css" type="text/css">
+			/* non cached */ body,html{width:100%;height:100%;margin:0;padding:0}.page-preloader{top:0;left:0;z-index:999;position:fixed;height:100%;width:100%;text-align:center}.preloader-preview-area{-webkit-animation-delay:-.2s;animation-delay:-.2s;top:50%;-webkit-transform:translateY(100%);-ms-transform:translateY(100%);transform:translateY(100%);margin-top:10px;max-height:calc(50% - 20px);opacity:1;width:100%;text-align:center;position:absolute}.preloader-logo{max-width:90%;top:50%;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%);margin:-10px auto 0 auto;max-height:calc(50% - 20px);opacity:1;position:relative}.ball-pulse>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;-webkit-animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08);animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08)}.ball-pulse>div:nth-child(1){-webkit-animation-delay:-.36s;animation-delay:-.36s}.ball-pulse>div:nth-child(2){-webkit-animation-delay:-.24s;animation-delay:-.24s}.ball-pulse>div:nth-child(3){-webkit-animation-delay:-.12s;animation-delay:-.12s}@-webkit-keyframes ball-pulse{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}}@keyframes ball-pulse{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}}.ball-clip-rotate-pulse{position:relative;-webkit-transform:translateY(-15px) translateX(-10px);-ms-transform:translateY(-15px) translateX(-10px);transform:translateY(-15px) translateX(-10px);display:inline-block}.ball-clip-rotate-pulse>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;top:0;left:0;border-radius:100%}.ball-clip-rotate-pulse>div:first-child{height:36px;width:36px;top:7px;left:-7px;-webkit-animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite}.ball-clip-rotate-pulse>div:last-child{position:absolute;width:50px;height:50px;left:-16px;top:-2px;background:0 0;border:2px solid;-webkit-animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;-webkit-animation-duration:1s;animation-duration:1s}@-webkit-keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@-webkit-keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@-webkit-keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}@keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}.square-spin{display:inline-block}.square-spin>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:50px;height:50px;-webkit-animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite}.cube-transition{position:relative;-webkit-transform:translate(-25px,-25px);-ms-transform:translate(-25px,-25px);transform:translate(-25px,-25px);display:inline-block}.cube-transition>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:15px;height:15px;position:absolute;top:-5px;left:-5px;-webkit-animation:cube-transition 1.6s 0s infinite ease-in-out;animation:cube-transition 1.6s 0s infinite ease-in-out}.cube-transition>div:last-child{-webkit-animation-delay:-.8s;animation-delay:-.8s}@-webkit-keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}@keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}.ball-scale>div{border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;height:60px;width:60px;-webkit-animation:ball-scale 1s 0s ease-in-out infinite;animation:ball-scale 1s 0s ease-in-out infinite}@-webkit-keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.line-scale>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;width:5px;height:50px;border-radius:2px;margin:2px}.line-scale>div:nth-child(1){-webkit-animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(2){-webkit-animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(3){-webkit-animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(4){-webkit-animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(5){-webkit-animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08)}@-webkit-keyframes line-scale{0%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}100%{-webkit-transform:scaley(1);transform:scaley(1)}}@keyframes line-scale{0%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}100%{-webkit-transform:scaley(1);transform:scaley(1)}}.ball-scale-multiple{position:relative;-webkit-transform:translateY(30px);-ms-transform:translateY(30px);transform:translateY(30px);display:inline-block}.ball-scale-multiple>div{border-radius:100%;-webkit-animation-fill-mode:both;animation-fill-mode:both;margin:2px;position:absolute;left:-30px;top:0;opacity:0;margin:0;width:50px;height:50px;-webkit-animation:ball-scale-multiple 1s 0s linear infinite;animation:ball-scale-multiple 1s 0s linear infinite}.ball-scale-multiple>div:nth-child(2){-webkit-animation-delay:-.2s;animation-delay:-.2s}.ball-scale-multiple>div:nth-child(3){-webkit-animation-delay:-.2s;animation-delay:-.2s}@-webkit-keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.ball-pulse-sync{display:inline-block}.ball-pulse-sync>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block}.ball-pulse-sync>div:nth-child(1){-webkit-animation:ball-pulse-sync .6s -.21s infinite ease-in-out;animation:ball-pulse-sync .6s -.21s infinite ease-in-out}.ball-pulse-sync>div:nth-child(2){-webkit-animation:ball-pulse-sync .6s -.14s infinite ease-in-out;animation:ball-pulse-sync .6s -.14s infinite ease-in-out}.ball-pulse-sync>div:nth-child(3){-webkit-animation:ball-pulse-sync .6s -70ms infinite ease-in-out;animation:ball-pulse-sync .6s -70ms infinite ease-in-out}@-webkit-keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}.transparent-circle{display:inline-block;border-top:.5em solid rgba(255,255,255,.2);border-right:.5em solid rgba(255,255,255,.2);border-bottom:.5em solid rgba(255,255,255,.2);border-left:.5em solid #fff;-webkit-transform:translateZ(0);transform:translateZ(0);-webkit-animation:transparent-circle 1.1s infinite linear;animation:transparent-circle 1.1s infinite linear;width:50px;height:50px;border-radius:50%}.transparent-circle:after{border-radius:50%;width:10em;height:10em}@-webkit-keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.ball-spin-fade-loader{position:relative;top:-10px;left:-10px;display:inline-block}.ball-spin-fade-loader>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;-webkit-animation:ball-spin-fade-loader 1s infinite linear;animation:ball-spin-fade-loader 1s infinite linear}.ball-spin-fade-loader>div:nth-child(1){top:25px;left:0;animation-delay:-.84s;-webkit-animation-delay:-.84s}.ball-spin-fade-loader>div:nth-child(2){top:17.05px;left:17.05px;animation-delay:-.72s;-webkit-animation-delay:-.72s}.ball-spin-fade-loader>div:nth-child(3){top:0;left:25px;animation-delay:-.6s;-webkit-animation-delay:-.6s}.ball-spin-fade-loader>div:nth-child(4){top:-17.05px;left:17.05px;animation-delay:-.48s;-webkit-animation-delay:-.48s}.ball-spin-fade-loader>div:nth-child(5){top:-25px;left:0;animation-delay:-.36s;-webkit-animation-delay:-.36s}.ball-spin-fade-loader>div:nth-child(6){top:-17.05px;left:-17.05px;animation-delay:-.24s;-webkit-animation-delay:-.24s}.ball-spin-fade-loader>div:nth-child(7){top:0;left:-25px;animation-delay:-.12s;-webkit-animation-delay:-.12s}.ball-spin-fade-loader>div:nth-child(8){top:17.05px;left:-17.05px;animation-delay:0s;-webkit-animation-delay:0s}@-webkit-keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}		</style>
+
+		<link rel="alternate" type="application/rss+xml" title="SeqLL &raquo; Feed" href="http://seqll.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SeqLL &raquo; Comments Feed" href="http://seqll.com/comments/feed/" />
+
+<link rel="shortcut icon" href="http://seqll.com/wp-content/uploads/2016/08/SeqLL-Icon-Small-Logo.png"  />
+<link rel="apple-touch-icon-precomposed" href="http://seqll.com/wp-content/uploads/2016/09/seqll-icon-phone.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://seqll.com/wp-content/uploads/2016/09/seqll-icon-ipad.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://seqll.com/wp-content/uploads/2016/09/seqll-icon-ipadsm.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://seqll.com/wp-content/uploads/2016/09/seqll-icon-ipad-retina.png">
+<script type="text/javascript">
+window.abb = {};
+php = {};
+window.PHP = {};
+PHP.ajax = "http://seqll.com/wp-admin/admin-ajax.php";PHP.wp_p_id = "5804";var mk_header_parallax, mk_banner_parallax, mk_page_parallax, mk_footer_parallax, mk_body_parallax;
+var mk_images_dir = "http://seqll.com/wp-content/themes/jupiter/assets/images",
+mk_theme_js_path = "http://seqll.com/wp-content/themes/jupiter/assets/js",
+mk_theme_dir = "http://seqll.com/wp-content/themes/jupiter",
+mk_captcha_placeholder = "Enter Captcha",
+mk_captcha_invalid_txt = "Invalid. Try again.",
+mk_captcha_correct_txt = "Captcha correct.",
+mk_responsive_nav_width = 1140,
+mk_vertical_header_back = "Back",
+mk_vertical_header_anim = "1",
+mk_check_rtl = true,
+mk_grid_width = 1180,
+mk_ajax_search_option = "fullscreen_search",
+mk_preloader_bg_color = "#ffffff",
+mk_accent_color = "#6fbe44",
+mk_go_to_top =  "true",
+mk_smooth_scroll =  "true",
+mk_preloader_bar_color = "#6fbe44",
+mk_preloader_logo = "http://seqll.com/wp-content/uploads/2016/08/Seqll-Color-Logo-Small.png";
+var mk_header_parallax = false,
+mk_banner_parallax = false,
+mk_footer_parallax = false,
+mk_body_parallax = false,
+mk_no_more_posts = "No More Posts",
+mk_typekit_id   = "",
+mk_google_fonts = ["Lato:100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic,100,200,300,400,500,600,700,800,900"],
+mk_global_lazyload = true;
+</script>
+<link rel='stylesheet' id='wp-block-library-css' href='http://seqll.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='http://seqll.com/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='theme-styles-css' href='http://seqll.com/wp-content/themes/jupiter/assets/stylesheet/min/full-styles.6.1.1.css?ver=1638311997' type='text/css' media='all' />
+<style id='theme-styles-inline-css' type='text/css'>
+body { background-color:#fff; } .hb-custom-header #mk-page-introduce, .mk-header { background-color:#f7f7f7; } .hb-custom-header > div, .mk-header-bg { background-color:#fff; } .mk-classic-nav-bg { background-color:#fff; } .master-holder-bg { background-color:#fff; } #mk-footer { background-color:#3d4045; } #mk-boxed-layout { -webkit-box-shadow:0 0 0px rgba(0, 0, 0, 0); -moz-box-shadow:0 0 0px rgba(0, 0, 0, 0); box-shadow:0 0 0px rgba(0, 0, 0, 0); } .mk-news-tab .mk-tabs-tabs .is-active a, .mk-fancy-title.pattern-style span, .mk-fancy-title.pattern-style.color-gradient span:after, .page-bg-color { background-color:#fff; } .page-title { font-size:20px; color:; text-transform:uppercase; font-weight:400; letter-spacing:2px; } .page-subtitle { font-size:14px; line-height:100%; color:; font-size:14px; text-transform:none; } .mk-header.sticky-style-fixed.a-sticky .mk-header-holder{ border-bottom:1px solid #fafafa; } .mk-header.transparent-header:not(.a-sticky) .mk-header-holder { border-bottom:1px solid #cccccc; } body { font-family:HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, sans-serif } body, .mk-testimonial-quote { font-family:Lato } @font-face { font-family:'star'; src:url('http://seqll.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.eot'); src:url('http://seqll.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.eot?#iefix') format('embedded-opentype'), url('http://seqll.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.woff') format('woff'), url('http://seqll.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.ttf') format('truetype'), url('http://seqll.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.svg#star') format('svg'); font-weight:normal; font-style:normal; } @font-face { font-family:'WooCommerce'; src:url('http://seqll.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.eot'); src:url('http://seqll.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.eot?#iefix') format('embedded-opentype'), url('http://seqll.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.woff') format('woff'), url('http://seqll.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.ttf') format('truetype'), url('http://seqll.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.svg#WooCommerce') format('svg'); font-weight:normal; font-style:normal; }.mk-fullscreen-search-overlay { background-color:rgba(255, 255, 255, 0.9); } .mk-fullscreen-search-overlay .mk-fullscreen-search-wrapper p { font-size:18px; color:#6fbe44; } .mk-fullscreen-search-overlay .mk-fullscreen-close svg { height:26px; fill:#67be44; } .mk-fullscreen-search-overlay .mk-fullscreen-search-wrapper #mk-fullscreen-searchform #mk-fullscreen-search-input { color:#27b4ce; } .search-result-item .search-loop-meta { display:none; } h2 { background:-webkit-linear-gradient(#6fbe44, #27b4ce); -webkit-background-clip:text; -webkit-text-fill-color:transparent; }
+</style>
+<link rel='stylesheet' id='mkhb-render-css' href='http://seqll.com/wp-content/themes/jupiter/header-builder/includes/assets/css/mkhb-render.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mkhb-row-css' href='http://seqll.com/wp-content/themes/jupiter/header-builder/includes/assets/css/mkhb-row.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mkhb-column-css' href='http://seqll.com/wp-content/themes/jupiter/header-builder/includes/assets/css/mkhb-column.css?ver=6.1.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css' href='http://seqll.com/wp-content/plugins/js_composer_theme/assets/css/vc_lte_ie9.min.css?ver=6.0.3' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='js_composer_front-css' href='http://seqll.com/wp-content/plugins/js_composer_theme/assets/css/js_composer.min.css?ver=6.0.3' type='text/css' media='all' />
+<style id='js_composer_front-inline-css' type='text/css'>
+.vc_custom_1679515023406{margin-bottom: 0px !important;}.vc_custom_1646439094574{margin-bottom: 0px !important;}
+</style>
+<link rel='stylesheet' id='theme-options-css' href='http://seqll.com/wp-content/uploads/mk_assets/theme-options-production-1679515263.css?ver=1679515260' type='text/css' media='all' />
+<script type='text/javascript' src='http://seqll.com/wp-content/themes/jupiter/assets/js/plugins/wp-enqueue/min/webfontloader.js?ver=6.2.2' id='mk-webfontloader-js'></script>
+<script type='text/javascript' id='mk-webfontloader-js-after'>
+WebFontConfig = {
+	timeout: 2000
+}
+
+if ( mk_typekit_id.length > 0 ) {
+	WebFontConfig.typekit = {
+		id: mk_typekit_id
+	}
+}
+
+if ( mk_google_fonts.length > 0 ) {
+	WebFontConfig.google = {
+		families:  mk_google_fonts
+	}
+}
+
+if ( (mk_google_fonts.length > 0 || mk_typekit_id.length > 0) && navigator.userAgent.indexOf("Speed Insights") == -1) {
+	WebFont.load( WebFontConfig );
+}
+		
+</script>
+<script type='text/javascript' id='wp-statistics-tracker-js-extra'>
+/* <![CDATA[ */
+var WP_Statistics_Tracker_Object = {"hitRequestUrl":"http:\/\/seqll.com\/wp-json\/wp-statistics\/v2\/hit?wp_statistics_hit_rest=yes&track_all=1&current_page_type=page&current_page_id=5804&search_query&page_uri=L3RlY2huaWNhbC1wYXBlcnMv","keepOnlineRequestUrl":"http:\/\/seqll.com\/wp-json\/wp-statistics\/v2\/online?wp_statistics_hit_rest=yes&track_all=1&current_page_type=page&current_page_id=5804&search_query&page_uri=L3RlY2huaWNhbC1wYXBlcnMv","option":{"dntEnabled":false,"cacheCompatibility":false}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://seqll.com/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=6.2.2' id='wp-statistics-tracker-js'></script>
+<script type='text/javascript' src='http://seqll.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://seqll.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="http://seqll.com/wp-json/" /><link rel="alternate" type="application/json" href="http://seqll.com/wp-json/wp/v2/pages/5804" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://seqll.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://seqll.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<link rel="canonical" href="http://seqll.com/technical-papers/" />
+<link rel='shortlink' href='http://seqll.com/?p=5804' />
+<link rel="alternate" type="application/json+oembed" href="http://seqll.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fseqll.com%2Ftechnical-papers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://seqll.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fseqll.com%2Ftechnical-papers%2F&#038;format=xml" />
+<!-- Analytics by WP Statistics v14.1.2 - https://wp-statistics.com/ -->
+<script> var isTest = false; </script>
+<meta itemprop="author" content="" /><meta itemprop="datePublished" content="August 23, 2016" /><meta itemprop="dateModified" content="March 22, 2023" /><meta itemprop="publisher" content="SeqLL" /><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Jupiter 6.1.1" />
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="page-template-default page page-id-5804 wpb-js-composer js-comp-ver-6.0.3 vc_responsive" itemscope="itemscope" itemtype="https://schema.org/WebPage"  data-adminbar="">
+
+	<div class="mk-body-loader-overlay page-preloader" style="background-color:#ffffff;"><img alt="SeqLL" class="preloader-logo" src="http://seqll.com/wp-content/uploads/2016/08/Seqll-Color-Logo-Small.png" width="200" height="90" > <div class="preloader-preview-area">  <div class="ball-clip-rotate-pulse">
+                            <div style="background-color: #2349c6"></div>
+                            <div style="border-color: #2349c6 transparent #2349c6 transparent;"></div>
+                        </div>  </div></div>
+	<!-- Target for scroll anchors to achieve native browser bahaviour + possible enhancements like smooth scrolling -->
+	<div id="top-of-page"></div>
+
+		<div id="mk-boxed-layout">
+
+			<div id="mk-theme-container" class="trans-header">
+
+				 
+    <header data-height='90'
+                data-sticky-height='80'
+                data-responsive-height='90'
+                data-transparent-skin='light'
+                data-header-style='1'
+                data-sticky-style='fixed'
+                data-sticky-offset='header' id="mk-header-1" class="mk-header header-style-1 header-align-left  toolbar-false menu-hover-1 sticky-style-fixed mk-background-stretch full-header  transparent-header light-skin bg-true" role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+                    <div class="mk-header-holder">
+                                <div class="mk-header-inner add-header-height">
+
+                    <div class="mk-header-bg "></div>
+
+                    
+                    
+                            <div class="mk-header-nav-container one-row-style menu-hover-style-1" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" >
+                                <nav class="mk-main-navigation js-main-nav"><ul id="menu-main-menu" class="main-navigation-ul"><li id="menu-item-5577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/">Home</a></li>
+<li id="menu-item-5576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/about-us/">About</a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-5723" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/about-us/#mission">The Story Behind</a></li>
+	<li id="menu-item-5720" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/about-us/#team">Leadership Team</a></li>
+	<li id="menu-item-6981" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/about-us/#boardmembers">Board Members</a></li>
+</ul>
+</li>
+<li id="menu-item-5811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technology-information/">Technology</a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-6210" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technology-information/#overview">tSMS Overview</a></li>
+	<li id="menu-item-6075" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technology-information/#applicationsreview">Applications</a></li>
+</ul>
+</li>
+<li id="menu-item-5810" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5804 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/">Publications</a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-6084" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#drsdirectrnasequencing">DRS Direct RNA Sequencing</a></li>
+	<li id="menu-item-6087" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#drsdirectrnasequencingmethods">DRS Direct Sequencing, Methods</a></li>
+	<li id="menu-item-6088" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqcage">RNA Seq CAGE</a></li>
+	<li id="menu-item-6089" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqdge">RNA Seq DGE</a></li>
+	<li id="menu-item-6090" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqdgemethods">RNA Seq DGE, Methods</a></li>
+	<li id="menu-item-6091" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqciculatingtumorcells">RNA Seq Circulating Tumor Cells</a></li>
+	<li id="menu-item-6092" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqadarrnaediting">RNA Seq ADAR RNA Editing</a></li>
+	<li id="menu-item-6093" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqncrnanoncodingrna">RNA Seq NCRNA NonCoding RNA</a></li>
+	<li id="menu-item-6094" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqshortrna">RNA Seq Short RNA</a></li>
+	<li id="menu-item-6095" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqincrnalongnoncodingrna">RNA Seq LNCRNA Long NonCoding RNA</a></li>
+	<li id="menu-item-6096" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseq">RNA Seq</a></li>
+	<li id="menu-item-6097" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqmethods">RNA Seq, Methods</a></li>
+	<li id="menu-item-6098" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#chipseq">CHIP Seq</a></li>
+	<li id="menu-item-6099" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#dnaseqdirectcapture">DNA Seq Direct Capture</a></li>
+	<li id="menu-item-6100" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#dnaseqdiagnosticapplicationspersonalizedmedicine">DNA Seq Diagnostic Applications, Personalized Medicine</a></li>
+	<li id="menu-item-6101" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#dnaseqgenomicaavgenetherapy">DNA Seq Genomic AAV Gene Therapy</a></li>
+	<li id="menu-item-6102" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#dnaseq">DNA Seq</a></li>
+	<li id="menu-item-6103" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#dnaseqmethods">DNA Seq, Methods</a></li>
+</ul>
+</li>
+<li id="menu-item-6953" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/investor-relations/">Investors</a></li>
+</ul></nav>
+	<div class="main-nav-side-search">
+		<a class="mk-search-trigger add-header-height mk-fullscreen-trigger" href="#"><i class="mk-svg-icon-wrapper"><svg  class="mk-svg-icon" data-name="mk-icon-search" data-cacheid="icon-6475eaa333ae3" style=" height:16px; width: 14.857142857143px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1792"><path d="M1152 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"/></svg></i></a>
+	</div>
+
+                            </div>
+                            
+<div class="mk-nav-responsive-link">
+    <div class="mk-css-icon-menu">
+        <div class="mk-css-icon-menu-line-1"></div>
+        <div class="mk-css-icon-menu-line-2"></div>
+        <div class="mk-css-icon-menu-line-3"></div>
+    </div>
+</div>	<div class=" header-logo fit-logo-img add-header-height  logo-has-sticky">
+		<a href="http://seqll.com/" title="SeqLL">
+
+			<img class="mk-desktop-logo dark-logo "
+				title="True Single Molecule Sequencing"
+				alt="True Single Molecule Sequencing"
+				src="http://seqll.com/wp-content/uploads/2016/09/seqll-rna-dna-sequencing-web-logo-color.png" />
+
+							<img class="mk-desktop-logo light-logo "
+					title="True Single Molecule Sequencing"
+					alt="True Single Molecule Sequencing"
+					src="http://seqll.com/wp-content/uploads/2016/09/seqll-dna-rna-web-logo-white2.png" />
+			
+			
+							<img class="mk-sticky-logo "
+					title="True Single Molecule Sequencing"
+					alt="True Single Molecule Sequencing"
+					src="http://seqll.com/wp-content/uploads/2016/09/seqll-rna-dna-sequencing-web-logo-color.png" />
+					</a>
+	</div>
+
+                    
+                    <div class="mk-header-right">
+                                            </div>
+
+                </div>
+                
+<div class="mk-responsive-wrap">
+
+	<nav class="menu-main-menu-container"><ul id="menu-main-menu-1" class="mk-responsive-nav"><li id="responsive-menu-item-5577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/">Home</a></li>
+<li id="responsive-menu-item-5576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/about-us/">About</a><span class="mk-nav-arrow mk-nav-sub-closed"><svg  class="mk-svg-icon" data-name="mk-moon-arrow-down" data-cacheid="icon-6475eaa336973" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 192l-96-96-160 160-160-160-96 96 256 255.999z"/></svg></span>
+<ul class="sub-menu ">
+	<li id="responsive-menu-item-5723" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/about-us/#mission">The Story Behind</a></li>
+	<li id="responsive-menu-item-5720" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/about-us/#team">Leadership Team</a></li>
+	<li id="responsive-menu-item-6981" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/about-us/#boardmembers">Board Members</a></li>
+</ul>
+</li>
+<li id="responsive-menu-item-5811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technology-information/">Technology</a><span class="mk-nav-arrow mk-nav-sub-closed"><svg  class="mk-svg-icon" data-name="mk-moon-arrow-down" data-cacheid="icon-6475eaa336d14" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 192l-96-96-160 160-160-160-96 96 256 255.999z"/></svg></span>
+<ul class="sub-menu ">
+	<li id="responsive-menu-item-6210" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technology-information/#overview">tSMS Overview</a></li>
+	<li id="responsive-menu-item-6075" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technology-information/#applicationsreview">Applications</a></li>
+</ul>
+</li>
+<li id="responsive-menu-item-5810" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5804 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/">Publications</a><span class="mk-nav-arrow mk-nav-sub-closed"><svg  class="mk-svg-icon" data-name="mk-moon-arrow-down" data-cacheid="icon-6475eaa337053" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 192l-96-96-160 160-160-160-96 96 256 255.999z"/></svg></span>
+<ul class="sub-menu ">
+	<li id="responsive-menu-item-6084" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#drsdirectrnasequencing">DRS Direct RNA Sequencing</a></li>
+	<li id="responsive-menu-item-6087" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#drsdirectrnasequencingmethods">DRS Direct Sequencing, Methods</a></li>
+	<li id="responsive-menu-item-6088" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqcage">RNA Seq CAGE</a></li>
+	<li id="responsive-menu-item-6089" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqdge">RNA Seq DGE</a></li>
+	<li id="responsive-menu-item-6090" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqdgemethods">RNA Seq DGE, Methods</a></li>
+	<li id="responsive-menu-item-6091" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqciculatingtumorcells">RNA Seq Circulating Tumor Cells</a></li>
+	<li id="responsive-menu-item-6092" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqadarrnaediting">RNA Seq ADAR RNA Editing</a></li>
+	<li id="responsive-menu-item-6093" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqncrnanoncodingrna">RNA Seq NCRNA NonCoding RNA</a></li>
+	<li id="responsive-menu-item-6094" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqshortrna">RNA Seq Short RNA</a></li>
+	<li id="responsive-menu-item-6095" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqincrnalongnoncodingrna">RNA Seq LNCRNA Long NonCoding RNA</a></li>
+	<li id="responsive-menu-item-6096" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseq">RNA Seq</a></li>
+	<li id="responsive-menu-item-6097" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#rnaseqmethods">RNA Seq, Methods</a></li>
+	<li id="responsive-menu-item-6098" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#chipseq">CHIP Seq</a></li>
+	<li id="responsive-menu-item-6099" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#dnaseqdirectcapture">DNA Seq Direct Capture</a></li>
+	<li id="responsive-menu-item-6100" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#dnaseqdiagnosticapplicationspersonalizedmedicine">DNA Seq Diagnostic Applications, Personalized Medicine</a></li>
+	<li id="responsive-menu-item-6101" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#dnaseqgenomicaavgenetherapy">DNA Seq Genomic AAV Gene Therapy</a></li>
+	<li id="responsive-menu-item-6102" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#dnaseq">DNA Seq</a></li>
+	<li id="responsive-menu-item-6103" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/technical-papers/#dnaseqmethods">DNA Seq, Methods</a></li>
+</ul>
+</li>
+<li id="responsive-menu-item-6953" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="http://seqll.com/investor-relations/">Investors</a></li>
+</ul></nav>
+			<form class="responsive-searchform" method="get" action="http://seqll.com/">
+		    <input type="text" class="text-input" value="" name="s" id="s" placeholder="Search.." />
+		    <i><input value="" type="submit" /><svg  class="mk-svg-icon" data-name="mk-icon-search" data-cacheid="icon-6475eaa337744" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1792"><path d="M1152 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"/></svg></i>
+		</form>
+		
+
+</div>
+        
+            </div>
+        
+                        
+    </header>
+
+		<div id="theme-page" class="master-holder  clearfix" itemscope="itemscope" itemtype="https://schema.org/Blog" >
+			<div class="master-holder-bg-holder">
+				<div id="theme-page-bg" class="master-holder-bg js-el"  ></div>
+			</div>
+			<div class="mk-main-wrapper-holder">
+				<div id="mk-page-id-5804" class="theme-page-wrapper mk-main-wrapper mk-grid full-layout no-padding">
+					<div class="theme-content no-padding" itemprop="mainEntityOfPage">
+							
+<div class="mk-page-section-wrapper" data-mk-full-width="true" data-mk-full-width-init="true" data-mk-stretch-content="true">
+    <div id="page-section-2"class="mk-page-section self-hosted   full_layout full-width-2 js-el js-master-row hidden-nb    center-y"    data-intro-effect="false">
+
+
+            
+            <div class="mk-page-section-inner">
+                
+
+
+<div class="mk-video-color-mask"></div>
+
+                
+                
+			<div class="mk-section-preloader js-el" data-mk-component="Preloader">
+			<div class="mk-section-preloader__icon"></div>
+		</div>
+		
+
+	<div class="background-layer-holder">
+		<div id="background-layer--2" data-mk-lazyload="false" class="background-layer mk-background-stretch none-blend-effect js-el" data-mk-component="Parallax" data-parallax-config='{"speed" : 0.3 }'  data-mk-img-set='{"landscape":{"desktop":"http://seqll.com/wp-content/uploads/2014/06/slide2.jpg","tablet":"http://seqll.com/wp-content/uploads/2014/06/slide2.jpg","mobile":"http://seqll.com/wp-content/uploads/2014/06/slide2-736x414.jpg"},"responsive":"true"}' >
+									<div class="mk-color-layer"></div>
+		</div>
+	</div>
+
+            </div>
+
+            
+        <div class="page-section-content vc_row-fluid mk-grid " >
+            <div class="mk-padding-wrapper wpb_row">
+<div class="vc_col-sm-12 wpb_column column_container   _ height-full">
+	
+<h1 id="fancy-title-4" class="mk-fancy-title  simple-style   color-single">
+	<span>
+				<p>True<span style="color: #6fbe44;">.</span> Single<span style="color: #6fbe44;">.</span> Molecule<span style="color: #6fbe44;">.</span> Sequencing<span style="color: #6fbe44;">.</span></p>
+			</span>
+</h1>
+<div class="clearboth"></div>
+
+
+
+<style>#fancy-title-4 {font-family: "Lato"}</style></div>
+</div>
+            <div class="clearboth"></div>
+        </div>
+
+
+            
+            
+            
+
+        <div class="clearboth"></div>
+    </div>
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+
+
+<div  data-mk-full-width="true" data-mk-full-width-init="false" data-mk-stretch-content="true" class="wpb_row vc_row vc_row-fluid  mk-fullwidth-true  attched-false     js-master-row  mk-full-content-true">
+				
+<div class="vc_col-sm-12 wpb_column column_container   _ height-full">
+	<div id="divider-6" class="mk-divider     divider_full_width center thin_solid  ">
+
+			<div class="divider-inner"></div>
+	
+</div>
+<div class="clearboth"></div>
+</div>
+	</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+<div  data-mk-stretch-content="true" class="wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false     js-master-row  mk-grid">
+				
+<div class="vc_col-sm-12 wpb_column column_container   _ height-full">
+	
+<h2 id="fancy-title-8" class="mk-fancy-title  simple-style   color-gradient">
+	<span>
+		<i>		<p>Technical Papers</p>
+		</i>	</span>
+</h2>
+<div class="clearboth"></div>
+
+
+
+<style>#fancy-title-8 {font-family: "Lato"}</style>
+<h4 id="fancy-title-9" class="mk-fancy-title  simple-style   color-single">
+	<span>
+				<p>Publications</p>
+			</span>
+</h4>
+<div class="clearboth"></div>
+
+
+
+<style>#fancy-title-9 {font-family: "Lato"}</style><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-white vc_tta-style-classic vc_tta-shape-square vc_tta-o-shape-group vc_tta-controls-align-left vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="drsdirectrnasequencing" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#drsdirectrnasequencing" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">DRS - Direct RNA Sequencing</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+
+<div class="wpb_row vc_inner vc_row vc_row-fluid    attched-false   ">
+		
+		<div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div id="text-block-10" class="mk-text-block   ">
+
+	
+	<h3>Filaggrin-stratified transcriptomic analysis of pediatric skin identifies mechanistic pathways in patients with atopic dermatitis</h3>
+<p style="padding-left: 30px;"><em>The Journal of Allergy and Clinical Immunology July, 2014</em></p>
+<p style="padding-left: 30px;"><em>Christian Cole, PhD, Karin Kroboth, MSc, Nicholas J. Schurch, PhD, Aileen Sandilands, PhD, Alexander Sherstnev, PhD, Grainne M. O&#8217;Regan, MRCPI, Rosemarie M. Watson, MD, W.H. Irwin McLean, DSc, Geoffrey J. Barton, PhD correspondence email, Alan D. Irvine, MD correspondence e-mail, Sara J. Brown, MD</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Atopic dermatitis (AD; eczema) is characterized by a widespread abnormality in cutaneous barrier function and propensity to inflammation. Filaggrin is a multifunctional protein and plays a key role in skin barrier formation. Loss‐of‐function mutations in the gene encoding filaggrin (FLG) are a highly significant risk factor for atopic disease, but the molecular mechanisms leading to dermatitis remain unclear. We sought to interrogate tissue‐specific variations in the expressed genome in the skin of children with AD and to investigate underlying patho‐mechanisms in atopic skin. We applied single‐molecule direct RNA sequencing to analyze the whole transcriptome using minimal tissue samples. Uninvolved skin biopsy specimens from 26 pediatric patients with AD were compared with site‐matched samples from 10 nonatopic teenage control subjects. Cases and control subjects were screened for FLG genotype to stratify the data set. Two thousand four hundred thirty differentially expressed genes (false discovery rate, P &lt; .05) were identified, of which 211 were significantly upregulated and 490 downregulated by greater than 2‐fold. Gene ontology terms for “extracellular space” and “defense response” were enriched, whereas “lipid metabolic processes” were downregulated. The subset of FLG wild‐type cases showed dysregulation of genes involved with lipid metabolism, whereas filaggrin haploinsufficiency affected global gene expression and was characterized by a type 1 interferon–mediated stress response. These analyses demonstrate the importance of extracellular space and lipid metabolism in atopic skin pathology independent of FLG genotype, whereas an aberrant defense response is seen</p>
+<p><a href="http://www.jacionline.org/article/S0091-6749(14)00596-X/abstract" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-11" class="mk-text-block   ">
+
+	
+	<h3>Global Analysis of mRNA Isoform Half-Lives Reveals Stabilizing and Destabilizing Elements in Yeast</h3>
+<p style="padding-left: 30px;"><em>Cell February 13, 2014</em></p>
+<p style="padding-left: 30px;"><em>Joseph V. Geisberg, Zarmik Moqtaderi, Xiaochun Fan, Fatih Ozsolak, Kevin Struhl</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">We measured half‐lives of 21,248 mRNA 3′ isoforms in yeast by rapidly depleting RNA polymerase II from the nucleus and performing direct RNA sequencing throughout the decay process. Interestingly, half‐lives of mRNA isoforms from the same gene, including nearly identical isoforms, often vary widely. Based on clusters of isoforms with different half‐lives, we identify hundreds of sequences conferring stabilization or destabilization upon mRNAs terminating downstream. One class of stabilizing element is a polyU sequence that can interact with poly(A) tails, inhibit the association of poly(A)‐binding protein, and confer increased stability upon introduction into ectopic transcripts. More generally, destabilizing and stabilizing elements are linked to the propensity of the poly(A) tail to engage in double‐stranded structures. Isoforms engineered to fold into 3′ stem‐loop structures not involving the poly(A) tail exhibit even longer half‐lives. We suggest that double‐stranded structures at 3′ ends are a major determinant of mRNA stability</p>
+<p><a href="http://www.cell.com/retrieve/pii/S009286741301595X" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-12" class="mk-text-block   ">
+
+	
+	<h3>The microglial sensome revealed by direct RNA sequencing</h3>
+<p style="padding-left: 30px;"><em>Nature Neuroscience October 27, 2013</em></p>
+<p style="padding-left: 30px;"><em>Suzanne E Hickman, Nathan D Kingery, Toshiro K Ohsumi, Mark L Borowsky, Li-chong Wang, Terry K Means, Joseph El Khoury</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Microglia, the principal neuroimmune sentinels of the brain, continuously sense changes in their environment and respond to invading pathogens, toxins and cellular debris. Microglia exhibit plasticity and can assume neurotoxic or neuroprotective priming states that determine their responses to danger. We used direct RNA sequencing, without amplification or cDNA synthesis, to determine the quantitative transcriptomes of microglia of healthy adult and aged mice. We validated our findings using fluorescence dual in situ hybridization, unbiased proteomic analysis and quantitative PCR. We found that microglia have a distinct transcriptomic signature and express a unique cluster of transcripts encoding proteins for sensing endogenous ligands and microbes that we refer to as the sensome. With aging, sensome transcripts for endogenous ligand recognition were downregulated, whereas those involved in microbe recognition and host defense were upregulated. In addition, aging was associated with an overall increase in the expression of microglial genes involved in neuroprotection.</p>
+<p><a href="http://www.nature.com/neuro/journal/v16/n12/full/nn.3554.html" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-13" class="mk-text-block   ">
+
+	
+	<h3>Transcription Termination and Chimeric RNA Formation Controlled by Arabidopsis thaliana FPA</h3>
+<p style="padding-left: 30px;"><em>PLOS Genetics October 13, 2013</em></p>
+<p style="padding-left: 30px;"><em>Céline Duc, Alexander Sherstnev, Christian Cole, Geoffrey J. Barton, Gordon G. Simpson</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Alternative cleavage and polyadenylation influence the coding and regulatory potential of mRNAs and where transcription termination occurs. Although widespread, few regulators of this process are known. The Arabidopsis thaliana protein FPA is a rare example of a trans‐acting regulator of poly(A) site choice. Analysing fpa mutants therefore provides an opportunity to reveal generic consequences of disrupting this process. We used direct RNA sequencing to quantify shifts in RNA 3′ formation in fpa mutants. Here we show that specific chimeric RNAs formed between the exons of otherwise separate genes are a striking consequence of loss of FPA function. We define intergenic read‐through transcripts resulting from defective RNA 3′ end formation in fpa mutants and detail cryptic splicing and antisense transcription associated with these readthrough RNAs. We identify alternative polyadenylation within introns that is sensitive to FPA and show FPA‐dependent shifts in IBM1 poly(A) site selection that differ from those recently defined in mutants defective in intragenic heterochromatin and DNA methylation. Finally, we show that defective termination at specific loci in fpa mutants is shared with dicer‐like 1 (dcl1) or dcl4 mutants, leading us to develop alternative explanations for some silencing roles of these proteins. We relate our findings to the impact that altered patterns of 3′ end formation can have on gene and genome organization.</p>
+<p><a href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003867" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-14" class="mk-text-block   ">
+
+	
+	<h3>Direct Sequencing of Arabidopsis thaliana RNA Reveals Patterns of Cleavage and Polyadenylation</h3>
+<p style="padding-left: 30px;"><em>Nature Structural and Molecular Biology August 19, 2012</em></p>
+<p style="padding-left: 30px;"><em>Alexander Sherstnev, Céline Duc, Christian Cole,Vasiliki Zacharaki, Csaba Hornyik, Fatih Ozsolak, Patrice M. Milos, Geoffrey J. Barton, and Gordon G. Simpson</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">It has recently been shown that RNA 3′ end formation plays a more widespread role in controlling gene expression than previously thought. In order to examine the impact of regulated 3′ end formation genome‐wide we applied direct RNA sequencing to A. thaliana. Here we show the authentic transcriptome in unprecedented detail and how 3′ end formation impacts genome organization. We reveal extreme heterogeneity in RNA 3′ ends, discover previously unrecognized non‐coding RNAs and propose widespread re‐annotation of the genome. We explain the origin of most poly(A)+ antisense RNAs and identify cis‐elements that control 3′ end formation in different registers. These findings are essential to understand what the genome actually encodes, how it is organized and the impact of regulated 3′ end formation on these processes</p>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3533403/" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-15" class="mk-text-block   ">
+
+	
+	<h3>Comprehensive Polyadenylation Site Maps in Yeast and Human Reveal Pervasive Alternative Polyadenylation</h3>
+<p style="padding-left: 30px;"><em>Cell December 10, 2010</em></p>
+<p style="padding-left: 30px;"><em>Fatih Ozsolak, Phillipp Kapranov, Sylvain Foissac, Sang Woo Kim, Elaine Fishilevich, A. Paula Monaghan, Bino John, Patrice M. Milos</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">The emerging discoveries on the link between polyadenylation and disease states underline the need to fully characterize genome‐ wide polyadenylation states. Here, we report comprehensive maps of global polyadenylation events in human and yeast generated using refinements to the Direct RNA Sequencing technology. This direct approach provides a quantitative view of genome‐wide polyadenylation states in a strand‐specific manner and requires only attomole RNA quantities. The polyadenylation profiles revealed an abundance of unannotated polyadenylation sites, alternative polyadenylation patterns, and regulatory element‐ associated poly(A)+ RNAs. We observed differences in sequence composition surrounding canonical and noncanonical human polyadenylation sites, suggesting novel noncoding RNAspecific polyadenylation mechanisms in humans. Furthermore, we observed the correlation level between sense and antisense transcripts to depend on gene expression levels, supporting the view that overlapping transcription from opposite strands may play a regulatory role. Our data provide a comprehensive view of the polyadenylation state and overlapping transcription.</p>
+<p><a href="http://www.cell.com/cell/abstract/S0092-8674(10)01300-0" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-16" class="mk-text-block   ">
+
+	
+	<h3>Direct RNA Sequencing</h3>
+<p style="padding-left: 30px;"><em>Letters to Nature Vol 461|8 October 2009| doi:10.1038/nature08390</em></p>
+<p style="padding-left: 30px;"><em>Fatih Ozsolak, Adam R. Platt, Dan R. Jones, Jeffrey G. Reifenberger, Lauryn E. Sass, Peter McInerney, John F. Thompson, Jayson Bowers, Mirna Jarosz &amp; Patrice M. Milos</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Our understanding of human biology and disease is ultimately dependent on a complete understanding of the genome and its functions. The recent application of microarray and sequencing technologies to transcriptomics has changed the simplistic view of transcriptomes to a more complicated view of genome‐wide transcription where a large fraction of transcripts emanates from unannotated parts of genomes1, 2, 3, 4, 5, 6, 7, and underlined our limited knowledge of the dynamic state of transcription. Most of this broad body of knowledge was obtained indirectly because current transcriptome analysis methods typically require RNA to be converted to complementary DNA (cDNA) before measurements, even though the cDNA synthesis step introduces multiple biases and artifacts that interfere with both the proper characterization and quantification of transcripts8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18. Furthermore, cDNA synthesis is not particularly suitable for the analysis of short, degraded and/ or small quantity RNA samples. Here we report direct single molecule RNA sequencing without prior conversion of RNA to cDNA. We applied this technology to sequence femtomole quantities of poly(A)+ Saccharomyces cerevisiae RNA using a surface coated with poly(dT) oligonucleotides to capture the RNAs at their natural poly(A) tails and initiate sequencing by synthesis. We observed transcript 3′ end heterogeneity and polyadenylated small nucleolar RNAs. This study provides a path to high‐throughput and low‐cost direct RNA sequencing and achieving the ultimate goal of a comprehensive and bias‐free understanding of transcriptomes.</p>
+<p><a href="http://www.nature.com/nature/journal/v461/n7265/full/nature08390.html" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div></div>		
+</div></div></div><div class="vc_tta-panel" id="drsdirectrnasequencingmethods" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#drsdirectrnasequencingmethods" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">DRS - Direct RNA Sequencing, Methods</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-17" class="mk-text-block   ">
+
+	
+	<h3>Quantitative Polyadenylation Site Mapping with Single-Molecule Direct RNA Sequencing</h3>
+<p style="padding-left: 30px;"><em>Methods Molecular Biology March 19, 2014</em></p>
+<p style="padding-left: 30px;"><em>Fatih Ozsolak</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">The known regulatory role of 3′ untranslated regions (3′UTRs) and poly(A) tails in RNA localization, stability, and translation, and polyadenylation regulation defects leading to human diseases such as oculopharyngeal muscular dystrophy, thalassemias, thrombophilia, and IPEX syndrome underline the need to fully characterize genome‐wide polyadenylation states and mechanisms across normal physiological and disease states. This chapter outlines the quantitative polyadenylation site mapping and analysis strategies developed with the single‐molecule direct RNA sequencing technology</p>
+<p><a href="http://www.springerprotocols.com/Abstract/doi/10.1007/978-1-62703-971-0_13" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-18" class="mk-text-block   ">
+
+	
+	<h3>Single-Molecule Direct RNA sequencing without cDNA Synthesis</h3>
+<p style="padding-left: 30px;"><em>Methods in Molecular Biology March 14, 2011</em></p>
+<p style="padding-left: 30px;"><em>Fatih Ozsolak &amp; Patrice M. Milos</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Methods for in‐depth genome‐wide characterization of transcriptomes and quantification of transcript levels using various microarray and next generation sequencing technologies have emerged as valuable tools for understanding cellular physiology and human disease biology and have begun to be utilized in various clinical diagnostic applications. Current methods, however, typically require RNA to be converted to complementary DNA prior to measurements. This step has been shown to introduce many biases and artifacts. In order to best characterize the ‘true’ transcriptome, the single‐molecule direct RNA sequencing (DRS) technology was developed. This review focuses on the underlying principles behind the DRS, sample preparation steps, and the current and novel avenues of research and applications DRS offers. WIREs RNA 2011 2 565–570 DOI: 10.1002/wrna.84.</p>
+<p><a href="http://onlinelibrary.wiley.com/doi/10.1002/wrna.84/abstract;jsessionid=E5F844F28B8892F41A56C36A22B8FC4D.f03t04" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-19" class="mk-text-block   ">
+
+	
+	<h3>Transcriptome Profiling Using Single-Molecule Direct RNA Sequencing</h3>
+<p style="padding-left: 30px;"><em>Methods Molecular Biology February 23, 2011</em></p>
+<p style="padding-left: 30px;"><em>Fatih Ozsolak, Patrice M. Milos</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Methods for in‐depth characterization of transcriptomes and quantification of transcript levels have emerged as valuable tools for understanding cellular physiology and human disease biology, and have begun to be utilized in various clinical diagnostic applications. Today, current methods utilized by the scientific community typically require RNA to be converted to cDNA prior to comprehensive measurements. However, this cDNA conversion process has been shown to introduce many biases and artifacts that interfere with the proper characterization and quantitation of transcripts. We have developed a direct RNA sequencing (DRS) approach, in which, unlike other technologies, RNA is sequenced directly without prior conversion to cDNA. The benefits of DRS include the ability to use minute quantities (e.g. on the order of several femtomoles) of RNA with minimal sample preparation, the ability to analyze short RNAs which pose unique challenges for analysis using cDNA‐based approaches, and the ability to perform these analyses in a low‐cost and high‐throughput manner. Here, we describe the strategies and procedures we employ to prepare various RNA species for analysis with DRS.</p>
+<p><a href="http://link.springer.com/protocol/10.1007%2F978-1-61779-089-8_4" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div><div class="vc_tta-panel" id="rnaseqcage" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#rnaseqcage" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">RNA Seq: CAGE</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-20" class="mk-text-block   ">
+
+	
+	<h3>An atlas of active enhancers across human cell types and tissues</h3>
+<p style="padding-left: 30px;"><em>Nature March 26, 2014</em></p>
+<p style="padding-left: 30px;"><em>Robin Andersson, Claudia Gebhard, Irene Miguel-Escalada, Ilka Hoof, Jette Bornholdt, Mette Boyd, Yun Chen, Xiaobei Zhao, Christian Schmidl, Takahiro Suzuki, Evgenia Ntini, Erik Arner,Eivind Valen, Kang Li,Lucia Schwarzfischer, Dagmar Glatz, Johanna Raithel, Berit Lilje,Nicolas Rapin, Frederik Otzen Bagger,Mette Jørgensen, Peter Refsing Andersen, Nicolas Bertin, Owen Rackham, A. Maxwell Burroughs</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Enhancers control the correct temporal and cell‐type‐specific activation of gene expression in multicellular eukaryotes. Knowing their properties, regulatory activity and targets is crucial to understand the regulation of differentiation and homeostasis. Here we use the FANTOM5 panel of samples, covering the majority of human tissues and cell types, to produce an atlas of active, in vivo‐ transcribed enhancers. We show that enhancers share properties with CpG‐poor messenger RNA promoters but produce bidirectional, exosome‐sensitive, relatively short unspliced RNAs, the generation of which is strongly related to enhancer activity. The atlas is used to compare regulatory programs between different cells at unprecedented depth, to identify disease‐associated regulatory single nucleotide polymorphisms, and to classify cell‐type‐specific and ubiquitous enhancers. We further explore the utility of enhancer redundancy, which explains gene expression strength rather than expression patterns. The online FANTOM5 enhancer atlas represents a unique resource for studies on cell‐type‐specific enhancers and gene regulation.</p>
+<p><a href="http://www.nature.com/nature/journal/v507/n7493/full/nature12787.html">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-21" class="mk-text-block   ">
+
+	
+	<h3>A promoter-level mammalian expression atlas</h3>
+<p style="padding-left: 30px;"><em>Nature March 26, 2014</em></p>
+<p style="padding-left: 30px;"><em>Alistair R. R. Forrest, Hideya Kawaji, Michael Rehli, J. Kenneth Baillie, Michiel J. L. de Hoon, Vanja Haberle</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Regulated transcription controls the diversity, developmental pathways and spatial organization of the hundreds of cell types that make up a mammal. Using single‐molecule cDNA sequencing, we mapped transcription start sites (TSSs) and their usage in human and mouse primary cells, cell lines and tissues to produce a comprehensive overview of mammalian gene expression across the human body. We find that few genes are truly ‘housekeeping’, whereas many mammalian promoters are composite entities composed of several closely separated TSSs, with independent cell‐type‐specific expression profiles. TSSs specific to different cell types evolve at different rates, whereas promoters of broadly expressed genes are the most conserved. Promoter‐based expression analysis reveals key transcription factors defining cell states and links them to binding‐site motifs. The functions of identified novel transcripts can be predicted by coexpression and sample ontology enrichment analyses. The functional annotation of the mammalian genome 5 (FANTOM5) project provides comprehensive expression profiles and functional annotation of mammalian cell‐type‐specific transcriptomes with wide applications in biomedical research.</p>
+<p><a href="http://www.nature.com/nature/journal/v507/n7493/full/nature13182.html">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-22" class="mk-text-block   ">
+
+	
+	<h3>Unamplified Cap Analysis of Gene Expression on a Single-Molecule Sequencer</h3>
+<p style="padding-left: 30px;"><em>Genome Res. July 21, 2011</em></p>
+<p style="padding-left: 30px;"><em>Mutsumi Kanamori-Katayama, Masayoshi Itoh, Hideya Kawaji, Timo Lassmann, Shintaro Katayama, Miki Kojima, Nicolas Bertin, Ai Kaiho, Noriko Ninomiya, Carsten O. Daub, Piero Carninci, Alistair R.R. Forrest, &amp; Yoshihide Hayashizaki</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">We report the development of a simplified cap analysis of gene expression (CAGE) protocol adapted for single‐molecule sequencers that avoids second strand synthesis, ligation, digestion, and PCR. HeliScopeCAGE directly sequences the 3′ end of cap trapped first‐strand cDNAs. As with previous versions of CAGE, we better define transcription start sites (TSS) than known models identify novel regions of transcription and alternative promoters, and find two major classes of TSS signal, sharp peaks and broad regions. However, using this protocol, we observe reproducible evidence of regulation at the much finer level of individual TSS positions. The libraries are quantitative over 5 orders of magnitude and highly reproducible (Pearson&#8217;s correlation coefficient of 0.987). We have also scaled down the sample requirement to 5 μg of total RNA for a standard HeliScopeCAGE library and 100 ng for a low‐quantity version. When the same RNA was run as 5‐μg and 100‐ng versions, the 100 ng was still able to detect expression for<br />
+∼60% of the 13,468 loci detected by a 5‐μg library using the same threshold, allowing comparative analysis of even rare cell<br />
+populations. Testing the protocol for differential gene expression measurements on triplicate HeLa and THP‐1 samples, we find that the log fold change compared to Illumina microarray measurements is highly correlated (0.871). In addition, HeliScopeCAGE finds differential expression for thousands more loci including those with probes on the array. Finally, although the majority of tags are 5′ associated, we also observe a low level of signal on exons that is useful for defining gene structures.</p>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3129257/?report=classic">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div><div class="vc_tta-panel" id="rnaseqdge" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#rnaseqdge" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">RNA Seq: DGE</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-23" class="mk-text-block   ">
+
+	
+	<h3>Transcriptional Response of Mucoid Pseudomonas aeruginosa to Human Respiratory Mucus</h3>
+<p style="padding-left: 30px;"><em>mBio November 13, 2012</em></p>
+<p style="padding-left: 30px;"><em>V. Cattoir, G. Narasimhan, D. Skurnik, H. Aschard, D. Roux, R. Ramphal, J. Jyot, and S. Lorya</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Adaptation of bacterial pathogens to a host can lead to the selection and accumulation of specific mutations in their genomes with profound effects on the overall physiology and virulence of the organisms. The opportunistic pathogen Pseudomonas aeruginosa is capable of colonizing the respiratory tract of individuals with cystic fibrosis (CF), where it undergoes evolution to optimize survival as a persistent chronic human colonizer. The transcriptome of a host‐adapted, alginate overproducing (space) isolate from a CF patient was determined following growth of the bacteria in the presence of human respiratory mucus. This stable mucoid strain responded to a number of regulatory inputs from the mucus, resulting in an unexpected repression of alginate production. Mucus in the medium also induced the production of catalases and additional peroxide‐detoxifying enzymes and caused reorganization of pathways of energy generation. A specific antibacterial type VI secretion system was also induced in mucus‐grown cells. Finally, a group of small regulatory RNAs was identified and a fraction of these were mucus regulated. This report provides a snapshot of responses in a pathogen adapted to a human host through assimilation of regulatory signals from tissues, optimizing its long‐term survival potential</p>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3509433/">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-24" class="mk-text-block   ">
+
+	
+	<h3>RNA-seq-based Monitoring of Infection-Linked Changes in Vibrio(sp) Cholerae Gene Expression</h3>
+<p style="padding-left: 30px;"><em>Cell Host Microbe August 18, 2011</em></p>
+<p style="padding-left: 30px;"><em>Anjali Mandlik, Jonathan Livny, William P. Robins, Jennifer M. Ritchie, John J. Mekalanos, and Matthew K. Waldor</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Pathogens adapt to the host environment by altering their patterns of gene expression. Microarray‐based and genetic techniques used to characterize bacterial gene expression during infection are limited in their ability to comprehensively and simultaneously monitor genome‐wide transcription. We used massively parallel cDNA sequencing (RNA‐seq) techniques to quantitatively catalog the transcriptome of the cholera pathogen, Vibrio cholerae derived from two animal models of infection. Transcripts elevated in infected rabbits and mice relative to laboratory media</p>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166260/">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-25" class="mk-text-block   ">
+
+	
+	<h3>Aberrant Overexpression of Satellite Repeats in Pancreatic and Other Epithelial Cancers</h3>
+<p style="padding-left: 30px;"><em>Science February 4, 2011</em></p>
+<p style="padding-left: 30px;"><em>David T. Ting, Doron Lipson, Suchismita Paul, Brian W. Brannigan, Sara Akhavanfard, Erik J. Coffman, Gianmarco Contino, Vikram Deshpande, A. John Iafrate, Stan Letovsky, Miguel N. Rivera, Nabeel Bardeesy, Shyamala Maheswaran, &amp; Daniel A. Haber</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Satellite repeats in heterochromatin are transcribed into noncoding RNAs that have been linked to gene silencing and maintenance of chromosomal integrity. Using digital gene expression analysis, we showed that these transcripts are greatly overexpressed in mouse and human epithelial cancers. In 8 of 10 mouse pancreatic ductal adenocarcinomas (PDACs), pericentromeric satellites accounted for a mean 12% (range 1 to 50%) of all cellular transcripts, a mean 40‐fold increase over that in normal tissue. In 15 of 15 human PDACs, alpha satellite transcripts were most abundant and HSATII transcripts were highly specific for cancer. Similar patterns were observed in cancers of the lung, kidney, ovary, colon, and prostate. Depression of satellite transcripts correlated with overexpression of the long interspersed nuclear element 1 (LINE‐1) retrotransposon and with aberrant expression of neuroendocrine‐associated genes proximal to LINE‐1 insertions. The overexpression of satellite transcripts in cancer may reflect global alterations in heterochromatin silencing and could potentially be useful as a biomarker for cancer detection.</p>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3701432/">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-26" class="mk-text-block   ">
+
+	
+	<h3>Amplification-Free Digital Gene Expression Profiling from Minute Cell Quantities</h3>
+<p style="padding-left: 30px;"><em>Nat Methods July 18, 2010</em></p>
+<p style="padding-left: 30px;"><em>Fatih Ozsolak, David T. Ting, Ben S Wittner, Brian W. Brannigan, Suchismita Paul, Nabeel Bardeesy, Sridhar Ramaswamy, Patrice M. Milos, &amp; Daniel A. Haber</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Generating reliable expression profiles from minute cell quantities is critical for scientific discovery and potential clinical applications. Here we present low‐quantity digital gene expression (LQ‐DGE), an amplification‐free approach involving capture of poly(A)+ RNAs from cellular lysates onto poly(dT)‐coated sequencing surfaces, followed by on‐surface reverse transcription and sequencing. We applied LQ‐DGE to profile malignant and nonmalignant mouse and human cells, demonstrating its quantitative power and potential applicability to archival specimens.</p>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2975601/">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-27" class="mk-text-block   ">
+
+	
+	<h3>Quantification of the Yeast Transcriptome by Single-Molecule Sequencing</h3>
+<p style="padding-left: 30px;"><em>Nature Biotechnology July 5, 2009</em></p>
+<p style="padding-left: 30px;"><em>Doron Lipson, Tal Raz, Alix Kieu, Daniel R. Jones, Eldar Giladi, Edward Thayer, John F Thompson, Stan Letovsky, Patrice Milos, &amp; Marie Causey</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">We present single‐molecule sequencing digital gene expression (smsDGE), a high‐throughput, amplification‐free method for accurate quantification of the full range of cellular polyadenylated RNA transcripts using a Helicos Genetic Analysis system. smsDGE involves a reverse transcription and polyA‐tailing sample preparation procedure followed by sequencing that generates a single read per transcript. We applied smsDGE to the transcriptome of Saccharomyces cerevisiae strain DBY746, using 6 of the available 50 channels in a single sequencing run, yielding on average 12 million aligned reads per channel. Using spiked‐in RNA, accurate quantitative measurements were obtained over four orders of magnitude. High correlation was demonstrated across independent flow‐cell channels, instrument runs and sample preparations. Transcript counting in smsDGE is highly efficient due to the representation of each transcript molecule by a single read. This efficiency, coupled with the high throughput enabled by the single‐ molecule sequencing platform, provides an alternative method for expression profiling.</p>
+<p><a href="http://www.nature.com/nbt/journal/v27/n7/full/nbt.1551.html">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div><div class="vc_tta-panel" id="rnaseqdgemethods" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#rnaseqdgemethods" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">RNA Seq: DGE Methods</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-28" class="mk-text-block   ">
+
+	
+	<h3>RNA Sequencing and Quantitation Using the Helicos Genetic Analysis System</h3>
+<p style="padding-left: 30px;"><em>Methods Molecular Biology February 23, 2011</em></p>
+<p style="padding-left: 30px;"><em>Tal Raz , Marie Causey, Daniel R. Jones, Alix Kieu, Stan Letovsky, Doron Lipson, Edward Thayer, John F. Thompson, Patrice M. Milos</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">The recent transition in gene expression analysis technology to ultra high‐throughput cDNA sequencing provides a means for higher quantitation sensitivity across a wider dynamic range than previously possible. Sensitivity of detection is mostly a function of the sheer number of sequence reads generated. Typically, RNA is converted to cDNA using random hexamers and the cDNA is subsequently sequenced (RNA‐Seq). With this approach, higher read numbers are generated for long transcripts as compared to short ones. This length bias necessitates the generation of very high read numbers to achieve sensitive quantitation of short, low‐ expressed genes. To eliminate this length bias, we have developed an ultra high‐throughput sequencing approach where only a single read is generated for each transcript molecule (single‐molecule sequencing Digital Gene Expression (smsDGE)). So, for example, equivalent quantitation accuracy of the yeast transcriptome can be achieved by smsDGE using only 25% of the reads that would be required using RNA‐Seq. For sample preparation, RNA is first reverse‐transcribed into single‐stranded cDNA using oligo‐ dT as a primer. A poly‐A tail is then added to the 3′ ends of cDNA to facilitate the hybridization of the sample to the Helicos® single‐ molecule sequencing Flow‐Cell to which a poly dT oligo serves as the substrate for subsequent sequencing by synthesis. No PCR, sample‐size selection, or ligation steps are required, thus avoiding possible biases that may be introduced by such manipulations. Each tailed cDNA sample is injected into one of 50 flow‐cell channels and sequenced on the Helicos® Genetic Analysis System. Thus, 50 samples are sequenced simultaneously generating 10–20 million sequence reads on average for each sample channel. The sequence reads can then be aligned to the reference of choice such as the transcriptome, for quantitation of known transcripts, or the genome for novel transcript discovery. This chapter provides a summary of the methods required for smsDGE.</p>
+<p><a href="http://link.springer.com/protocol/10.1007%2F978-1-61779-089-8_3" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div><div class="vc_tta-panel" id="rnaseqciculatingtumorcells" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#rnaseqciculatingtumorcells" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">RNA Seq: Circulating Tumor Cells</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-29" class="mk-text-block   ">
+
+	
+	<h3>RNA sequencing of pancreatic circulating tumour cells implicates WNT signaling in metastasis</h3>
+<p style="padding-left: 30px;"><em>Nature July 1, 2012</em></p>
+<p style="padding-left: 30px;"><em>Min Yu, David T. Ting,Shannon L. Stott, Ben S. Wittner, Fatih Ozsolak, Suchismita Paul, Jordan C. Ciciliano, Malgorzata E. Smas, Daniel Winokur, Anna J. Gilman, Matthew J. Ulman,Kristina Xega, Gianmarco Contino, Brinda Alagesan, Brian W. Brannigan, Patrice M. Milos, David P. Ryan, Lecia V. Sequist, Nabeel Bardeesy, Sridhar Ramaswamy, Mehmet Toner, Shyamala Maheswaran, Daniel A. Haber</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Circulating tumour cells (CTCs) shed into blood from primary cancers include putative precursors that initiate distal metastases1. Although these cells are extraordinarily rare, they may identify cellular pathways contributing to the blood‐borne dissemination of cancer. Here, we adapted a microfluidic device2 for efficient capture of CTCs from an endogenous mouse pancreatic cancer model3 and subjected CTCs to single‐molecule RNA sequencing4, identifying Wnt2 as a candidate gene enriched in CTCs. Expression of WNT2 in pancreatic cancer cells suppresses anoikis, enhances anchorage‐independent sphere formation, and increases metastatic propensity in vivo. This effect is correlated with fibronectin upregulation and suppressed by inhibition of MAP3K7 (also known as TAK1) kinase. In humans, formation of non‐adherent tumour spheres by pancreatic cancer cells is associated with upregulation of multiple WNT genes, and pancreatic CTCs revealed enrichment for WNT signalling in 5 out of 11 cases. Thus, molecular analysis of CTCs may identify candidate therapeutic targets to prevent the distal spread of cancer.</p>
+<p><a href="http://www.nature.com/nature/journal/vaop/ncurrent/abs/nature11217.html?wt.mc_id=twt_naturecellbio" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div><div class="vc_tta-panel" id="rnaseqadarrnaediting" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#rnaseqadarrnaediting" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">RNA Seq: ADAR RNA Editing</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-30" class="mk-text-block   ">
+
+	
+	<h3>Genome-wide analysis of A-to-I RNA editing by single-molecule sequencing in Drosophila</h3>
+<p style="padding-left: 30px;"><em>Nature Structural and Molecular Biology September 29, 2013</em></p>
+<p style="padding-left: 30px;"><em>Georges St Laurent, Michael R Tackett, Sergey Nechkin, Dmitry Shtokalo, Denis Antonets, Yiannis A Savva, Rachel Maloney, Philipp Kapranov, Charles E Lawrence and Robert A Reenan</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">The accurate and thorough genome‐wide detection of adenosine‐to‐inosine editing, a biologically indispensable process, has proven challenging. Here, we present a discovery pipeline in adult Drosophila, with 3,581 high‐confidence editing sites identified with an estimated accuracy of 87%. The target genes and specific sites highlight global biological properties and functions of RNA editing, including hitherto‐unknown editing in well characterized classes of noncoding RNAs and 645 sites that cause amino acid substitutions, usually at conserved positions. The spectrum of functions that these gene targets encompass suggests that editing participates in a diverse set of cellular processes. Editing sites in Drosophila exhibit sequence‐motif preferences and tend to be concentrated within a small subset of total RNAs. Finally, editing regulates expression levels of target mRNAs and strongly correlates with alternative splicing.</p>
+<p><a href="http://www.nature.com/nsmb/journal/v20/n11/full/nsmb.2675.html" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div><div class="vc_tta-panel" id="rnaseqncrnanoncodingrna" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#rnaseqncrnanoncodingrna" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">RNA Seq: ncRNA NonCoding RNA</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-31" class="mk-text-block   ">
+
+	
+	<h3>Intronic RNAs constitute the major fraction of the non-coding RNA in mammalian cells</h3>
+<p style="padding-left: 30px;"><em>BMC Genomics September 24, 2012</em></p>
+<p style="padding-left: 30px;"><em>Georges St Laurent, Dmitry Shtokalo, Michael R Tackett, Zhaoqing Yang, Tatyana Eremina, Claes Wahlestedt, Silvio Urcuqui-Inchima, Bernd Seilheimer, Timothy A McCaffrey and Philipp Kapranov</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">The func on of RNA from the non-coding (the so called “dark ma er”) regions of the ge- nome has been a subject of considerable recent debate. Perhaps the most controversy is regarding the func on of RNAs found in introns of annotated transcripts, where most of the reads that map outside of exons are usually found. However, it has been reported that the levels of RNA in introns are minor rela ve to those of the corresponding exons, and that changes in the levels of intronic RNAs correlate ghtly with that of adjacent ex- ons. This would suggest that RNAs produced from the vast expanse of intronic space are just pieces of pre-mRNAs or excised introns enroute to degrada on. We present data that challenges the no on that intronic RNAs are mere by-standers in the cell. By per- forming a highly quan ta ve RNAseq analysis of transcriptome changes during an in am- ma on me course, we show that intronic RNAs have a number of features that would be expected from func onal, standalone RNA species. We show that there are thousands of introns in the mouse genome that generate RNAs whose overall abundance, which changes throughout the in amma on me course, and other proper es suggest that they func on in yet unknown ways. So far, the focus of non-coding RNA discovery has shied away from intronic regions as those were believed to simply encode parts of pre- mRNAs. Results presented here suggest a very di erent situa on – the sequences encod- ed in the introns appear to harbor a yet unexplored reservoir of novel, func onal RNAs. As such, they should not be ignored in surveys of func onal transcripts or other genomic studies.</p>
+<p><a href="http://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-504" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-32" class="mk-text-block   ">
+
+	
+	<h3>The Majority of Total Nuclear-Encoded Non-Ribosomal RNA in a Human Cell is ‘Dark Matter’ Un-Annotated RNA</h3>
+<p style="padding-left: 30px;"><em>BMC Biology December 2010</em></p>
+<p style="padding-left: 30px;"><em>Philipp Kapranov, Georges St. Laurent, Tal Raz, Fatih Ozsolak, C. Patrick Reynolds, Poul HB Sorensen, Gregory Reaman, Patrice Milos, Robert J Arceci, John F. Thompson, &amp; Timothy J Triche</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Discovery that the transcriptional output of the human genome is far more complex than predicted by the current set of protein‐ coding annotations and that most RNAs produced do not appear to encode proteins has transformed our understanding of genome complexity and suggests new paradigms of genome regulation. However, the fraction of all cellular RNA whose function we do not understand and the fraction of the genome that is utilized to produce that RNA remain controversial. This is not simply a bookkeeping issue because the degree to which this unannotated transcription is present has important implications with respect to its biologic function and to the general architecture of genome regulation. For example, efforts to elucidate how non‐coding RNAs (ncRNAs) regulate genome function will be compromised if that class of RNAs is dismissed as simply &#8216;transcriptional noise’. We show that the relative mass of RNA whose function and/or structure we do not understand (the so called &#8216;dark matter&#8217; RNAs), as a proportion of all non‐ribosomal, non‐mitochondrial human RNA (mt‐RNA), can be greater than that of protein‐encoding transcripts. This observation is obscured in studies that focus only on polyA‐selected RNA, a method that enriches for protein coding RNAs and at the same time discards the vast majority of RNA prior to analysis. We further show the presence of a large number of very long, abundantly‐transcribed regions (100&#8217;s of kb) in intergenic space and further show that expression of these regions is associated with neoplastic transformation. These overlap some regions found previously in normal human embryonic tissues and raises an interesting hypothesis as to the function of these ncRNAs in both early development and neoplastic transformation. We conclude that &#8216;dark matter&#8217; RNA can constitute the majority of non‐ribosomal, non‐mitochondrial‐RNA and a significant fraction arises from numerous very long, intergenic transcribed regions that could be involved in neoplastic transformation</p>
+<p><a href="http://bmcbiol.biomedcentral.com/articles/10.1186/1741-7007-8-149" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div><div class="vc_tta-panel" id="rnaseqshortrna" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#rnaseqshortrna" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">RNA Seq: Short RNA</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-33" class="mk-text-block   ">
+
+	
+	<h3>Novel Class of Human RNAs Associated with Gene Termini Suggests Uncharacterized RNA Copying Mechanism</h3>
+<p style="padding-left: 30px;"><em>Nature July 29, 2010</em></p>
+<p style="padding-left: 30px;"><em>Philipp Kapranov, Fatih Ozsolak, Sang Woo Kim, Sylvain Foissac, Doron Lipson, Chris Hart, Steve Roels, Christelle Borel, Stylianos E Antonarakis, A. Paula Monaghan, Bino John, &amp; Patrice M. Milos</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Short ( &lt; 200 nt ) RNA (sRNA) profiling of human cells using various technologies demonstrates unexpected complexity of sRNAs with 100’s of thousands of sRNA species present 1,2,3,4. Genetic and in vitro studies argue that these RNAs are not merely degradation on products of longer transcripts but could indeed have function 1,2,5. Furthermore, profiling of RNAs, including the sRNAs, can reveal not only novel transcripts, but also make clear predictions about the existence and properties of novel biochemical pathways operating in a cell. For example, short RNA pro ling in human cells suggested existence of an unknown capping mechanism operating on cleaved RNA 2 a biochemical component of which was later identified 6. Here we show that human cells contain a novel type of sRNAs that have non-genomically encoded 5’ polyU tails. Presence of these RNAs at the termini of genes, specifically at the very 3’ ends of known mRNAs strongly argues for the presence of a yet uncharacterized endogenous biochemical pathway in a cell that can copy RNA. We show that this pathway can operate on multiple genes, with specific enrichment towards transcripts encoding components of the translational machinery. Finally we show that genes are also flanked by sense, 3’ polyadenylated sRNAs that are likely to be capped.</p>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3058539/" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div><div class="vc_tta-panel" id="rnaseqincrnalongnoncodingrna" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#rnaseqincrnalongnoncodingrna" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">RNA Seq: lncRNA Long NonCoding RNA</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-34" class="mk-text-block   ">
+
+	
+	<h3>The Bromodomain protein BRD4 controls HOTAIR, a long noncoding RNA essential for glioblastoma proliferation</h3>
+<p style="padding-left: 30px;"><em>Proceedings of National Academy of Sciences of the United States of America, Vol.112 no. 27. Chiara Pastori, 8326–8331, doi: 10.1073/ pnas.1424220112</em></p>
+<p style="padding-left: 30px;"><em>Chiara Pastori, Philipp Kapranov, Clara Penas, Veronica Peschansky, Claude-Henry Volmar, Jann N. Sarkaria, Amade Bregy, Ricardo Komotar, Georges St. Laurent, Nagi G. Ayad, and Claes Wahlestedt</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Bromodomain and extraterminal (BET) domain proteins have emerged as promising therapeutic targets in glioblastoma and many other cancers. Small molecule inhibitors of BET bromodomain proteins reduce expression of several oncogenes required for Glioblastoma Multiforme (GBM) progression. However, the mechanism through which BET protein inhibition reduces GBM growth is not completely understood. Long noncoding RNAs (lncRNAs) are important epigenetic regulators with critical roles in cancer initiation and malignant progression, but mechanistic insight into their expression and regulation by BET bromodomain inhibitors remains elusive. In this study, we used Helicos single molecule sequencing to comprehensively profile lncRNAs differentially expressed in GBM, and we identified a subset of GBM‐specific lncRNAs whose expression is regulated by BET proteins. Treatment of GBM cells with the BET bromdomain inhibitor I‐BET151 reduced levels of the tumor‐promoting lncRNA HOX transcript antisense RNA (HOTAIR) and restored the expression of several other GBM down‐regulated lncRNAs. Conversely, overexpression of HOTAIR in conjunction with I‐BET151 treatment abrogates the antiproliferative activity of the BET bromodomain inhibitor. Moreover, chromatin immunoprecipitation analysis demonstrated binding of Bromodomain Containing 4 (BRD4) to the HOTAIR promoter, suggesting that BET proteins can directly regulate lncRNA expression. Our data unravel a previously unappreciated mechanism through which BET proteins control tumor growth of glioblastoma cells and suggest that modulation of lncRNA networks may, in part, mediate the antiproliferative effects of many epigenetic inhibitors currently in clinical trials for cancer and other diseases.</p>
+<p><a href="http://www.pnas.org/content/112/27/8326" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div><div class="vc_tta-panel" id="rnaseq" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#rnaseq" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">RNA Seq</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-35" class="mk-text-block   ">
+
+	
+	<h3>Dark matter RNA illuminates the puzzle of genome-wide association studies</h3>
+<p style="padding-left: 30px;"><em>BMC Medicine June 12, 2014</em></p>
+<p style="padding-left: 30px;"><em>Georges St. Laurent, Yuri Vyatkin, Philipp Kapranov</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">In the past decade, numerous studies have made connections between sequence variants in human genomes and predisposition to complex diseases. However, most of these variants lie outside of the charted regions of the human genome whose function we understand; that is, the sequences that encode proteins. Consequently, the general concept of a mechanism that translates these variants into predisposition to diseases has been lacking, potentially calling into question the validity of these studies. Here we make a connection between the growing class of apparently functional RNAs that do not encode proteins and whose function we do not yet understand (the so‐called ‘dark matter’ RNAs) and the disease‐associated variants. We review advances made in a different genomic mapping effort – unbiased profiling of all RNA transcribed from the human genome – and provide arguments that the disease‐associated variants exert their effects via perturbation of regulatory properties of non‐coding RNAs existing in mammalian cells.</p>
+<p><a href="http://bmcmedicine.biomedcentral.com/articles/10.1186/1741-7015-12-97" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-36" class="mk-text-block   ">
+
+	
+	<h3>RNA editing regulates transposon-mediated heterochromatic gene silencing</h3>
+<p style="padding-left: 30px;"><em>Nature Communications November 8, 2013</em></p>
+<p style="padding-left: 30px;"><em>Yiannis A. Savva, James E. C. Jepson, Yao-Jen Chang, Rachel Whitaker, Brian C. Jones, Georges St Laurent, Michael R. Tackett, Philipp Kapranov, Nan Jiang, Guyu Du, Stephen L. Helfand, Robert A. Reenan</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Heterochromatin formation drives epigenetic mechanisms associated with silenced gene expression. Repressive heterochromatin is established through the RNA interference pathway, triggered by double‐stranded RNAs (dsRNAs) that can be modified via RNA editing. However, the biological consequences of such modifications remain enigmatic. Here we show that RNA editing regulates heterochromatic gene silencing in Drosophila. We utilize the binding activity of an RNA‐editing enzyme to visualize the in vivo production of a long dsRNA trigger mediated by Hoppel transposable elements. Using homologous recombination, we delete this trigger, dramatically altering heterochromatic gene silencing and chromatin architecture. Furthermore, we show that the trigger RNA is edited and that dADAR serves as a key regulator of chromatin state. Additionally, dADAR auto‐editing generates a natural suppressor of gene silencing. Lastly, systemic differences in RNA editing activity generates inter‐individual variation in silencing state within a population. Our data reveal a global role for RNA editing in regulating gene expression.</p>
+<p><a href="http://www.nature.com/ncomms/2013/131108/ncomms3745/full/ncomms3745.html" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-37" class="mk-text-block   ">
+
+	
+	<h3>On the importance of small changes in RNA expression</h3>
+<p style="padding-left: 30px;"><em>Methods September 1, 2013</em></p>
+<p style="padding-left: 30px;"><em>Georges St. Laurenta, Dmitry Shtokalod, Michael R. Tackettd, Zhaoqing Yang, Yuri Vyatkind, Patrice M. Milos, Bernd Seilheimerc, Timothy A. McCaffrey, Philipp Kapranov</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">The analysis of the differential expression of genes has been the key goal of many molecular biology methods for decades and will remain with us for decades to come. It constitutes a fundamental resource at our disposal for determining the relationship between products of transcription, biology and disease. The completed genome sequencing of many common species allowed microarrays and RNA sequencing (RNAseq) to become major tools in Systems Biology. However, we estimate that at least half of all experiments ignore transcripts that change less than some subjectively chosen threshold, typically around 2–3 fold. Here we show that a majority of the informative RNAs and differentially expressed transcripts can exhibit fold changes less than 2. We use highly quantitative single‐molecule sequencing of total cellular RNA derived from a time course of inflammatory response, a process critical to a large number of diseases. Furthermore, we show that enrichment of biologically‐relevant functions occurs even at very low fold changes in RNA levels. In addition, we show that most of the common statistical methods can reliably detect transcripts with low fold change when as few as 3 biological replicates are sequenced using single‐molecule based RNAseq. In conclusion, given the prevalence of expression profiling in current research, the loss of data in half of all expression studies results in a significant, yet needless drain on the discovery process</p>
+<p><a href="http://www.sciencedirect.com/science/article/pii/S1046202313000960" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-38" class="mk-text-block   ">
+
+	
+	<h3>5-hmC in the brain is abundant in synaptic genes and shows differences at the exon-intron boundary</h3>
+<p style="padding-left: 30px;"><em>Nature Structural and Molecular Biology September 9, 2012</em></p>
+<p style="padding-left: 30px;"><em>Tarang Khare, Shraddha Pai, Karolis Koncevicius, Mrinal Pal, Edita Kriukiene, Zita Liutkeviciute, Manuel Irimia, Peixin Jia, Carolyn Ptak, Menghang Xia, Raymond Tice, Mamoru Tochigi, Solange Moréra, Anaies Nazarians, Denise Belsham, Albert H C Wong, Benjamin J Blencowe, Sun Chong Wang, Philipp Kapranov, Rafal Kustra, Viviane Labrie, Saulius Klimasauskas &amp; Arturas Petronis</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">The 5‐methylcytosine (5‐mC) derivative 5‐hydroxymethylcytosine (5‐hmC) is abundant in the brain for unknown reasons. Here we characterize the genomic distribution of 5‐hmC and 5‐mC in human and mouse tissues. We assayed 5‐hmC by using glucosylation coupled with restriction enzyme digestion and microarray analysis. We detected 5‐hmC enrichment in genes with synapse‐related functions in both human and mouse brain. We also identified substantial tissue‐specific differential distributions of these DNA modifications at the exon‐intron boundary in human and mouse. This boundary change was mainly due to 5‐hmC in the brain but due to 5‐mC in non‐neural contexts. This pattern was replicated in multiple independent data sets and with single‐molecule sequencing. Moreover, in human frontal cortex, constitutive exons contained higher levels of 5‐hmC relative to alternatively spliced exons. Our study suggests a new role for 5‐hmC in RNA splicing and synaptic function in the brain.</p>
+<p><a href="http://www.nature.com/nsmb/journal/v19/n10/full/nsmb.2372.html" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-39" class="mk-text-block   ">
+
+	
+	<h3>Protocol Dependence of Sequencing-Based Gene Expression Measurements</h3>
+<p style="padding-left: 30px;"><em>PLOS One May 6, 2011</em></p>
+<p style="padding-left: 30px;"><em>Tal Raz, Philipp Kapranov, Doron Lipson, Stan Letovsky, Patrice M. Milos, John F. Thompson</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">RNA Seq provides unparalleled levels of information about the transcriptome including precise expression levels over a wide dynamic range. It is essential to understand how technical variation impacts the quality and interpretability of results, how potential errors could be introduced by the protocol, how the source of RNA affects transcript detection, and how all of these variations can impact the conclusions drawn. Multiple human RNA samples were used to assess RNA fragmentation, RNA fractionation, cDNA synthesis, and single versus multiple tag counting. Though protocols employing polyA RNA selection generate the highest number of non‐ribosomal reads and the most precise measurements for coding transcripts, such protocols were found to detect only a fraction of the non‐ribosomal RNA in human cells. PolyA RNA excludes thousands of annotated and even more unannotated transcripts, resulting in an incomplete view of the transcriptome. Ribosomal‐depleted RNA provides a more cost‐ effective method for generating complete transcriptome coverage. Expression measurements using single tag counting provided advantages for assessing gene expression and for detecting short RNAs relative to multi‐read protocols. Detection of short RNAs was also hampered by RNA fragmentation. Thus, this work will help researchers choose from among a range of options when analyzing gene expression, each with its own advantages and disadvantages.</p>
+<p><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0019287" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-40" class="mk-text-block   ">
+
+	
+	<h3>A Comparison of Single Molecule and Amplification Based Sequencing of Cancer Transcriptomes</h3>
+<p style="padding-left: 30px;"><em>PLoS ONE March 1, 2011</em></p>
+<p style="padding-left: 30px;"><em>Lee T. Sam, Doron Lipson, Tal Raz, Xuhong Cao, John Thompson, Patrice M. Milos, Dan Robinson, Arul M. Chinnaiyan, Chandan Kumar-Sinha, and Christopher A. Maher</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">The second wave of next generation sequencing technologies, referred to as single‐molecule sequencing (SMS), carries the promise of profiling samples directly without employing polymerase chain reaction steps used by amplification‐based sequencing (AS) methods. To examine the merits of both technologies, we examine mRNA sequencing results from single‐molecule and amplification‐based sequencing in a set of human cancer cell lines and tissues. We observe a characteristic coverage bias towards high abundance transcripts in amplification‐based sequencing. A larger fraction of AS reads cover highly expressed genes, such as those associated with translational processes and housekeeping genes, resulting in relatively lower coverage of genes at low and mid‐level abundance. In contrast, the coverage of high abundance transcripts plateaus off using SMS. Consequently, SMS is able to sequence lower‐ abundance transcripts more thoroughly, including some that are undetected by AS methods; however, these include many more mapping artifacts. A better understanding of the technical and analytical factors introducing platform specific biases in high throughput transcriptome sequencing applications will be critical in cross platform meta‐analytic studies.</p>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3046973/" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-41" class="mk-text-block   ">
+
+	
+	<h3>Digital Transcriptome Profiling from Attomole-Level RNA Samples</h3>
+<p style="padding-left: 30px;"><em>Genome Res. April 20, 2010</em></p>
+<p style="padding-left: 30px;"><em>Fatih Ozsolak, Alon Goren, Melissa Gymrek, Mitchell Guttman, Aviv Regev, Bradley E. Bernstein, Patrice M. Milos</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Accurate profiling of minute quantities of RNA in a global manner can enable key advances in many scientific and clinical disciplines. Here, we present low‐quantity RNA sequencing (LQ‐RNAseq), a high‐throughput sequencing‐based technique allowing whole transcriptome surveys from subnanogram RNA quantities in an amplification/ligation‐free manner. LQ‐RNAseq involves first‐ strand cDNA synthesis from RNA templates, followed by 3′ polyA tailing of the single‐stranded cDNA products and direct single molecule sequencing. We applied LQ‐RNAseq to profile S. cerevisiae polyA+ transcripts, demonstrate the reproducibility of the approach across different sample preparations and independent instrument runs, and establish the absolute quantitative power of this method through comparisons with other reported transcript profiling techniques and through utilization of RNA spike‐in experiments. We demonstrate the practical application of this approach to define the transcriptional landscape of mouse embryonic and induced pluripotent stem cells, observing transcriptional differences, including over 100 genes exhibiting differential expression between these otherwise very similar stem cell populations. This amplification‐independent technology, which utilizes small quantities of nucleic acid and provides quantitative measurements of cellular transcripts, enables global gene expression measurements from minute amounts of materials and offers broad utility in both basic research and translational biology for characterization of rare cells.</p>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2847755/" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div><div class="vc_tta-panel" id="rnaseqmethods" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#rnaseqmethods" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">RNA Seq, Methods</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-42" class="mk-text-block   ">
+
+	
+	<h3>Profiling of Short RNAs Using Helicos Single-Molecule Sequencing</h3>
+<p style="padding-left: 30px;"><em>Methods Molecular Biology December 1, 2011</em></p>
+<p style="padding-left: 30px;"><em>Philipp Kapranov , Fatih Ozsolak, Patrice M. Milos</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">The importance of short ( &lt; 200 nt ) RNAs in cell biogenesis has been well documented. These short RNAs include crucial classes of molecules such as transfer RNAs, small nuclear RNA, microRNAs, and many others (reviewed in Storz et al., Annu Rev Biochem 74:199–217, 2005; Ghildiyal and Zamore, Nat Rev Genet 10:94–108, 2009). Furthermore, the realm of functional RNAs that fall within this size range is growing to include less well‐characterized RNAs such as short RNAs found at the promoters and 3′ termini of genes (Affymetrix ENCODE Transcriptome Project et al., Nature 457:1028–1032, 2009; Davis and Ares, Proc Natl Acad Sci USA 103:3262–3267, 2006; Kapranov et al., Science 316:1484–1488, 2007; Taft et al., Nat Genet 41:572–578, 2009; Kapranov et al., Nature 466:642–646, 2010), short RNAs involved in paramutation (Rassoulzadegan et al., Nature 441:469–474, 2006), and others (reviewed in Kawaji and Hayashizaki, PLoS Genet 4:e22, 2008). Discovery and accurate quantification of these RNA molecules, less than 200 bases in size, is thus an important and also challenging aspect of understanding the full repertoire of cellular and extracellular RNAs. Here, we describe the strategies and procedures we developed to profile short RNA species using single‐ molecule sequencing ( s m s ) and the advantages SMS offers.</p>
+<p><a href="http://link.springer.com/protocol/10.1007%2F978-1-61779-427-8_15" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-43" class="mk-text-block   ">
+
+	
+	<h3>Single Molecule Sequencing with a HeliScope Genetic Analysis System</h3>
+<p style="padding-left: 30px;"><em>Curr Protoc Mol Biol. October 2010</em></p>
+<p style="padding-left: 30px;"><em>John F. Thompson and Kathleen E. Steinmann</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">HelicosTM Single Molecule Sequencing (SMS) provides a unique view of genome biology through direct sequencing of cellular nucleic acids in an unbiased manner, providing both accurate quantitation and sequence information. Sample preparation does not require ligation or PCR amplification, avoiding the GC‐content and size biases observed in other technologies. DNA is simply sheared, tailed with poly A, and hybridized to a flow cell surface containing oligo‐dT for sequencing‐by‐synthesis of billions of molecules in parallel. This process also requires far less material than other technologies. Gene expression measurements can be done using 1st‐strand cDNA‐based methods (RNA‐ Seq) or using a novel approach that allows direct hybridization and sequencing of cellular RNA for the most direct quantitation possible. A diverse array of applications have been successfully performed including genome sequencing for accurate variant detection, ChIP‐Seq using picogram quantities of DNA, copy number variation studies from both fresh tumor tissue and FFPE tissue samples, sequencing of ancient and degraded DNAs, small RNA studies leading to the identification of new classes of RNAs and the direct capture and sequencing of RNA from cell quantities as few as 250 cells. Because most next generation sequencing technologies require amplification and a specific size range of target molecules, DNAs not meeting those criteria cannot be sequenced in a reliable manner. Single‐molecule sequencing does not suffer from those limitations.</p>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2954431/" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div><div class="vc_tta-panel" id="chipseq" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#chipseq" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">ChIP-Seq</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-44" class="mk-text-block   ">
+
+	
+	<h3>Single-molecule decoding of combinatorially modified nucleosomes</h3>
+<p style="padding-left: 30px;"><em>Science 06MAY2016 Vol 352, Issue 6286</em></p>
+<p style="padding-left: 30px;"><em>Efrat Shema, Daniel Jones, Noam Shoresh, Laura Donohue, Oren Ram, Bradley E. Bernstein</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Different combinations of histone modifications have been proposed to signal distinct gene regulatory functions, but this area is poorly addressed by existing technologies. We applied high‐throughput single‐molecule imaging to decode combinatorial modifications on millions of individual nucleosomes from pluripotent stem cells and lineage‐committed cells. We identified definitively bivalent nucleosomes with concomitant repressive and activating marks, as well as other combinatorial modification states whose prevalence varies with developmental potency. We showed that genetic and chemical perturbations of chromatin enzymes preferentially affect nucleosomes harboring specific modification states. Last, we combined this proteomic platform with single‐molecule DNA sequencing technology to simultaneously determine the modification states and genomic positions of individual nucleosomes. This single‐molecule technology has the potential to address</p>
+<p><a href="http://science.sciencemag.org/content/352/6286/717" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-45" class="mk-text-block   ">
+
+	
+	<h3>Mapping the regulon on Vibrio Cholerae Ferric Uptake Regulator Expands its Known Network of Gene Regulation</h3>
+<p style="padding-left: 30px;"><em>PNAS June 12, 2011</em></p>
+<p style="padding-left: 30px;"><em>Bryan W. Davies, Ryan W. Bogard, &amp; John J. Mekalanos</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">ChIP coupled with next‐generation sequencing (ChIP‐seq) has revolutionized whole‐genome mapping of DNA‐binding protein sites. Although ChIP‐seq rapidly gained support in eukaryotic systems, it remains underused in the mapping of bacterial transcriptional regulator‐binding sites. Using the virulence‐required iron‐responsive ferric uptake regulator (Fur), we report a simple, broadly applicable ChIP‐seq method in the pathogen Vibrio cholerae. Combining our ChIP‐seq results with available microarray data, we clarify direct and indirect Fur regulation of known iron responsive (space) genes. We validate a subset of Fur‐binding sites in vivo and show a common motif present in all Fur ChIP‐seq peaks that has enhanced binding affinity for purified V. cholerae Fur. Further analysis shows that V. cholerae Fur directly regulates several additional genes associated with Fur‐binding sites, expanding the role of this transcription factor into the regulation of ribosome formation, additional transport functions, and unique sRNAs.</p>
+<p><a href="http://www.pnas.org/content/108/30/12467.long" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-46" class="mk-text-block   ">
+
+	
+	<h3>Chromatin Profiling by Directly Sequencing Small Quantities of Immunoprecipitated DNA</h3>
+<p style="padding-left: 30px;"><em>Nature Methods April 12, 2010</em></p>
+<p style="padding-left: 30px;"><em>Alon Goren, Fatih Ozsolak, Noam, Shoresh, Manching Ku, Mazhar Adli, Chris Hart, Melissa Gymrek, Or Zuk, Aviv Regev, Patrice M. Milos, &amp; Bradley E. Bernstein</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Chromatin structure and transcription factor localization can be assayed genome‐wide by sequencing genomic DNA fractionated by protein occupancy or other properties, but current technologies involve multiple steps that introduce bias and inefficiency. Here we apply a single molecule approach to directly sequence chromatin immune‐precipitated DNA with minimal sample manipulation. This method is compatible with just 50 pg of DNA and should thus facilitate charting chromatin maps from limited cell populations</p>
+<p><a href="http://www.nature.com/nmeth/journal/v7/n1/abs/nmeth.1404.html" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div><div class="vc_tta-panel" id="dnaseqdirectcapture" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#dnaseqdirectcapture" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">DNA Seq: Direct Capture</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-47" class="mk-text-block   ">
+
+	
+	<h3>Genome-wide fitness profiling reveals adaptations required by Haemophilus in coinfection with influenza A virus in the murine lung</h3>
+<p style="padding-left: 30px;"><em>PNAS September 17, 2013</em></p>
+<p style="padding-left: 30px;"><em>Sandy M. Wong, Mariana Bernui, Hao Shen, Brian J. Akerley</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Bacterial coinfec on represents a major cause of morbidity and mortality in epidemics of in uenza A virus (IAV). The bacterium Haemophilus in uenzae typically colonizes the hu- man upper respiratory tract without causing disease, and yet in individuals infected with IAV, it can cause debilita ng or lethal secondary pneumonia. Studies in murine models have detected immune components involved in suscep bility and pathology, and yet few studies have examined bacterial factors contribu ng to coinfec on. We conducted ge- nome-wide pro ling of the H. in uenzae genes that promote its tness in a murine model of coinfec on with IAV. Applica on of direct, high-throughput sequencing of transposon inser on sites revealed tness phenotypes of a bank of H. in uenzae mutants in viral coinfec on in comparison with bacterial infec on alone. One set of virulence genes was required in nonvirally infected mice but not in coinfec on, consistent with a defect in an -bacterial defenses during coinfec on. Nevertheless, a core set of genes required in both in vivo condi ons indicated that many bacterial countermeasures against host defenses remain cri cal for coinfec on. The results also revealed a subset of genes required in coinfec on but not in bacterial infec on alone, including the iron-sulfur cluster regulator gene, iscR, which was required for oxida ve stress resistance. Overexpression of the an &#8211; oxidant protein Dps in the iscR mutant restored oxida ve stress resistance and ability to colonize in coinfec on. The results iden fy bacterial stress and metabolic adapta ons required in an IAV coinfec on model, revealing poten al targets for treatment or preven- on of secondary bacterial pneumonia a er viral infec on.</p>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3780910/" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-48" class="mk-text-block   ">
+
+	
+	<h3>Single-step capture and sequencing of natural DNA for detection of BRCA1 mutations</h3>
+<p style="padding-left: 30px;"><em>Genome Research February 22, 2012</em></p>
+<p style="padding-left: 30px;"><em>John F. Thompson, Jeffrey G. Reifenberger, Eldar Giladi, Kristen Kerouac, Jaime Gill, Erik Hansen, Avak Kahvejian, Philipp Kapranov, Travis Knope, Doron Lipson, Kathleen E. Steinmann, and Patrice M. Milos</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Genetic testing for disease risk is an increasingly important component of medical care. However, testing can be expensive, which can lead to patients and physicians having limited access to the genetic information needed for medical decisions. To simplify DNA sample preparation and lower costs, we have developed a system in which any gene can be captured and sequenced directly from human genomic DNA without amplification, using no proteins or enzymes prior to sequencing. Extracted whole‐genome DNA is acoustically sheared and loaded in a flow cell channel for single‐molecule sequencing. Gene isolation, amplification, or ligation is not necessary. Accurate and low‐cost detection of DNA sequence variants is demonstrated for the BRCA1 gene. Disease‐causing mutations as well as common variants from well‐characterized samples are identified. Single‐molecule sequencing generates very reproducible coverage patterns, and these can be used to detect any size insertion or deletion directly, unlike PCR‐based methods, which require additional assays. Because no gene isolation or amplification is required for sequencing, the exceptionally low costs of sample preparation and analysis could make genetic tests more accessible to those who wish to know their own disease susceptibility. Additionally, this approach has applications for sequencing integration sites for gene therapy vectors, transposons, retroviruses, and other mobile DNA elements in a more facile manner than possible with other methods.</p>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266041/" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div><div class="vc_tta-panel" id="dnaseqdiagnosticapplicationspersonalizedmedicine" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#dnaseqdiagnosticapplicationspersonalizedmedicine" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">DNA-Seq: Diagnostic Applications, Personalized Medicine</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-49" class="mk-text-block   ">
+
+	
+	<h3>Successful Noninvasive Trisomy 18 Detection Using Single Molecule Sequencing</h3>
+<p style="padding-left: 30px;"><em>Clinical Chemistry January 11, 2013</em></p>
+<p style="padding-left: 30px;"><em>Jessica M.E. van den Oever, Sahila Balkassmi, Lennart F. Johansson, Phebe N. Adama van Scheltema, Ron F. Suijkerbuijk, Mariëtte J.V. Hoffer, Richard J. Sinke, Egbert Bakker, Birgit Sikkema-Raddatz, Elles M.J. Boon</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Noninvasive trisomy 21 detection performed by use of massively parallel sequencing is achievable with high diagnostic sensitivity and low falsepositive rates. Detection of fetal trisomy 18 and 13 has been reported as well but seems to be less accurate with the use of this approach. The reduced accuracy can be explained by PCR‐introduced guanine‐cytosine (GC) bias influencing sequencing data. Previously, we demonstrated that sequence data generated by single molecule sequencing show virtually no GC bias and result in a more pronounced noninvasive detection of fetal trisomy 21. In this study, single molecule sequencing was used for noninvasive detection of trisomy 18 and 13. Single molecule sequencing was performed on the Helicos platform with free DNA isolated from maternal plasma from 11 weeks of gestation onward (n = 17). Relative sequence tag density ratios were calculated against male control plasma samples and results were compared to those of previous karyotyping. All trisomy 18 fetuses were identified correctly with a diagnostic sensitivity and specificity of 100%. However, low diagnostic sensitivity and specificity were observed for fetal trisomy 13 detection. We successfully applied single molecule sequencing in combination with relative sequence tag density calculations for noninvasive trisomy 18 detection using free DNA from maternal plasma. However, noninvasive trisomy 13 detection was</p>
+<p><a href="http://www.clinchem.org/content/59/4/705.long" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-50" class="mk-text-block   ">
+
+	
+	<h3>Single Molecule Sequencing of Free DNA from Maternal Plasma for Noninvasive Trisomy 21 Detection</h3>
+<p style="padding-left: 30px;"><em>Clinical Chemistry January 25, 2012</em></p>
+<p style="padding-left: 30px;"><em>Jessica M.E. van den Oever, Sahila Balkassmi, E. Joanne Verweij, Maarten van Iterson, Phebe N. Adama van Scheltema, Dick Oepkes, Jan M.M. van Lith, Mariëtte J.V. Hoffer, Johan T. den Dunnen, Egbert Bakker, Elles M.J. Boon</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Noninvasive fetal aneuploidy detection by use of free DNA from maternal plasma has recently been shown to be achievable by whole genome shotgun sequencing. The high‐throughput next‐generation sequencing platforms previously tested use a PCR step during sample preparation, which results in amplification bias in GC‐rich areas of the human genome. To eliminate this bias, and thereby experimental noise, we have used single molecule sequencing as an alternative method. For noninvasive trisomy 21 detection, we performed single molecule sequencing on the Helicos platform using free DNA isolated from maternal plasma from 9 weeks of gestation onwards. Relative sequence tag density ratios were calculated and results were directly compared to the previously described Illumina GAII platform. Sequence data generated without an amplification step show no GC bias. Therefore, with the use of single molecule sequencing all trisomy 21 fetuses could be distinguished more clearly from euploid fetuses. This study shows for the first time that single molecule sequencing is an attractive and easy to use alternative for reliable noninvasive fetal aneuploidy detection in diagnostics. With this approach, previously described experimental noise associated with PCR amplification, such as GC bias, can be overcome.</p>
+<p><a href="http://www.clinchem.org/content/58/4/699.long" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-51" class="mk-text-block   ">
+
+	
+	<h3>Toward Knowing the Whole Human: Next-Generation Sequencing for Personalized Medicine</h3>
+<p style="padding-left: 30px;"><em>Future Medicine July 2011</em></p>
+<p style="padding-left: 30px;"><em>Ian Toma, Georges St. Laurent &amp; Timothy A. McCaffrey</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">The sequencing of the human genome, combined with brilliant technical advances in microarrays and computing, opened the genomic era of personalized medicine. The next generation of genomics is now being driven by massively parallel sequencers that are effectively high definition genetic analyzers capable of sequencing an entire human genome 30‐times over in approximately a week for several thousand US dollars. Likewise, these next‐generation sequencers, sometimes called deep sequencers, can sequence RNA transcriptomes to render unprecedented, high definition views of transcript sequence, SNP haplotypes, rare variants, splicing, exon boundaries and RNA editing. Presently, next generation sequencing platforms can be grouped into ‘discovery’ platforms, which provide broad sequence coverage, but require days per sample, versus ‘diagnostic’ platforms, which provide a fraction of the coverage, but require only hours for sequencing. As these technologies converge, it will be possible to sequence a human genome in a matter of hours for a few hundred US dollars. While presenting considerable technical challenges in handling the massive data generated, next‐generation sequencing platforms offer unparalleled opportunities for biological insights, target discovery and clinical diagnostics to accelerate personalized medicine in the coming years.</p>
+<p><a href="http://www.futuremedicine.com/doi/abs/10.2217/pme.11.27?journalCode=pme&amp;&amp;" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div><div class="vc_tta-panel" id="dnaseqgenomicaavgenetherapy" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#dnaseqgenomicaavgenetherapy" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">DNA Seq: genomic, AAV, Gene Therapy</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-52" class="mk-text-block   ">
+
+	
+	<h3>Native Molecular State of Adeno-Associated Viral Vectors Revealed by Single-Molecule Sequencing</h3>
+<p style="padding-left: 30px;"><em>Human Gene Therapy January 23, 2012</em></p>
+<p style="padding-left: 30px;"><em>Philipp Kapranov, Lingxia Chen, Debra Dederich, Biao Dong, Jie He,Kathleen E. Steinmann, Andrea R. Moore, John F. Thompson, Patrice M. Milos, and Weidong Xiao</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">The single‐stranded genome of adeno‐associated viral (AAV) vectors is one of the key factors leading to slow‐rising but long‐term transgene expression kinetics. Previous molecular studies have established what is now considered a textbook molecular model of AAV genomes with two copies of inverted tandem repeats at either end. In this study, we profiled hundreds of thousands of individual molecules of AAV vector DNA directly isolated from capsids, using single‐molecule sequencing (SMS), which avoids any intermediary steps such as plasmid cloning. The sequence profile at 3′ ends of both the regular and oversized vector did show the presence of an inverted terminal repeat (ITR), which provided direct confirmation that AAV vector packaging initiates from its 3′ end. Furthermore, the vector 5′‐terminus profile showed inconsistent termination for oversized vectors. Such incomplete vectors would not be expected to undergo canonical synthesis of the second strand of their genomic DNA and thus could function only via annealing of complementary strands of DNA. Furthermore, low levels of contaminating plasmid DNA were also detected. SMS may become a valuable tool during the development phase of vectors that are candidates for clinical use and for facilitating/ accelerating studies on vector biology</p>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3260442/" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div><div class="vc_tta-panel" id="dnaseq" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#dnaseq" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">DNA Seq</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-53" class="mk-text-block   ">
+
+	
+	<h3>Improving the performance of true single molecule sequencing for ancient DNA</h3>
+<p style="padding-left: 30px;"><em>BMC Genomics May 10, 2012</em></p>
+<p style="padding-left: 30px;"><em>Aurelien Ginolhac, Julia Vilstrup, Jesper Stenderup, Morten Rasmussen, Mathias Stiller, Beth Shapiro, Grant Zazula, Duane Froese, Kathleen E Steinmann, John F Thompson, Khaled AS AL-Rasheid, Thomas MP Gilbert, Eske Willerslev and Ludovic Orlando</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Second‐generation sequencing technologies have revolutionized our ability to recover genetic information from the past, allowing the characterization of the first complete genomes from past individuals and extinct species. Recently, third generation Helicos sequencing platforms, which perform true Single‐Molecule DNA Sequencing (tSMS), have shown great potential for sequencing DNA molecules from Pleistocene fossils. Here, we aim at improving even further the performance of tSMS for ancient DNA by testing two novel tSMS template preparation methods for Pleistocene bone fossils, namely oligonucleotide spiking and treatment with DNA phosphatase. We found that a significantly larger fraction of the horse genome could be covered following oligonucleotide spiking however not reproducibly and at the cost of extra post‐sequencing filtering procedures and skewed %GC content. In contrast, we showed that treating ancient DNA extracts with DNA phosphatase improved the amount of endogenous sequence information recovered per sequencing channel by up to 3.3‐fold, while still providing molecular signatures of endogenous ancient DNA damage, including cytosine deamination and fragmentation by depurination. Additionally, we confirmed the existence of molecular preservation niches in large bone crystals from which DNA could be preferentially extracted. We propose DNA phosphatase treatment as a mechanism to increase sequence coverage of ancient genomes when using Helicos tSMS as a sequencing platform. Together with mild denaturation temperatures that favor access to endogenous ancient templates over modern DNA contaminants, this simple preparation procedure can improve overall Helicos tSMS performance when damaged DNA templates are targeted.</p>
+<p><a href="http://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-177" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-54" class="mk-text-block   ">
+
+	
+	<h3>True Single-Molecule DNA Sequencing of a Pleistocene Horse Bone</h3>
+<p style="padding-left: 30px;"><em>Genome Research 2011</em></p>
+<p style="padding-left: 30px;"><em>Ludovic Orlando, Aurelien Ginolhac, Maanasa Raghavan, Julia Vilstrup, Morten Rasmussen, Kim Magnussen, Kathleen E. Steinmann, Philipp Kapranov, John F. Thompson, Grant Zazula, Duane Froese, Ida Moltke, Beth Shapiro, Michael Hofreiter, Khaled A.S. AlRasheid, M. Thomas P. Gilbert, &amp; Eske Willerslev</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Second‐generation sequencing platforms have revolutionized the field of ancient DNA, opening access to complete genomes of past individuals and extinct species. However, these platforms are dependent on library construction and amplification steps that may result in sequences that do not reflect the original DNA template composition. This is particularly true for ancient DNA, where templates have undergone extensive damage post‐mortem. Here, we report the results of the first “true single molecule sequencing” of ancient DNA. We generated 115.9 Mb and 76.9 Mb of DNA sequences from a permafrost‐preserved Pleistocene horse bone using the Helicos HeliScope and Illumina GAIIx platforms, respectively. We find that the percentage of endogenous DNA sequences derived from the horse is higher among the Helicos data than Illumina data. This result indicates that the molecular biology tools used to generate sequencing libraries of ancient DNA molecules, as required for second generation sequencing, introduce biases into the data that reduce the efficiency of the sequencing process and limit our ability to fully explore the molecular complexity of ancient DNA extracts. We demonstrate that simple modifications to the standard Helicos DNA template preparation protocol further increase the proportion of horse DNA for this sample by threefold. Comparison of Helicos‐specific biases and sequence errors in modern DNA with those in ancient DNA also reveals extensive cytosine deamination damage at the 3′ ends of ancient templates, indicating the presence of 3′‐sequence overhangs. Our results suggest that paleogenomes could be sequenced in an unprecedented manner by combining current second‐ and third‐generation sequencing approaches.</p>
+<p><a href="http://onlinelibrary.wiley.com/doi/10.1002/wrna.84/abstract;jsessionid=E5F844F28B8892F41A56C36A22B8FC4D.f03t04" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div><div class="vc_tta-panel" id="dnaseqmethods" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#dnaseqmethods" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">DNA Seq, Methods</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
+<div id="text-block-55" class="mk-text-block   ">
+
+	
+	<h3>Helicos Single-Molecule Sequencing of Bacterial Genomes</h3>
+<p style="padding-left: 30px;"><em>Methods Molecular Biology February 23, 2011</em></p>
+<p style="padding-left: 30px;"><em>Kathleen E. Steinmann , Christopher E. Hart, John F. Thompson, Patrice M. Milos</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">With the advent of high‐throughput sequencing technologies, multiple bacterial genomes can be sequenced in days. While the ultimate goal of de novo assembly of bacterial genomes is progressing, changes in the genomic sequence of closely related bacterial strains and isolates are now easily monitored by comparison of their sequences to those of a reference genome. Such studies can be applied to the fields of bacterial evolution, epidemiology, and diagnostics. We present a protocol for single‐ molecule sequencing of bacterial DNA whose end result is the identification of single nucleotide variants, and various size insertions and deletions relative to a reference genome. The protocol is characterized by the simplicity of sample preparation and the lack of amplification‐related sequencing bias.</p>
+<p><a href="http://link.springer.com/protocol/10.1007%2F978-1-61779-089-8_1" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-56" class="mk-text-block   ">
+
+	
+	<h3>Single-Molecule Sequencing: Sequence Methods to Enable Accurate Quantitation</h3>
+<p style="padding-left: 30px;"><em>Meth in Enzymol 2010</em></p>
+<p style="padding-left: 30px;"><em>Christopher Hart, Doron Lipson, Fatih Ozsolak, Tal Raz, Kathleen Steinmann, John Thompson, Patrice M. Milos</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Helicos® Single‐Molecule Sequencing provides a unique view of genome biology through direct sequencing of cellular and extracellular nucleic acids in an unbiased manner, providing both quantitation and sequence information. Using a simple sample preparation, involving no ligation or amplification, genomic DNA is sheared, tailed with poly‐A and hybridized to the flow‐cell surface containing oligo‐dT for initiating sequencing‐by‐synthesis. RNA measurements involving direct RNA hybridization to the flow cell allows for the direct sequencing and quantitation of RNA molecules. From these methods, a diverse array of applications has now been successfully demonstrated with the Helicos® Genetic Analysis System, including human genome sequencing for accurate variant detection, ChIP Seq studies involving picogram quantities of DNA obtained from small cell numbers, copy number variation studies from both fresh tumor tissue and formalin‐fixed paraffin‐embedded tissue and archival tissue samples, small RNA studies leading to the identification of new classes of RNAs, and the direct capture and sequencing of nucleic acids from cell quantities as few as 400 cells with our end goal of single cell measurements. Helicos methods provide an important opportunity to researchers, including genomic scientists, translational researchers, and diagnostic experts, to benefit from biological measurements at the single‐molecule level. This chapter will describe the various methods available to researchers.</p>
+<p><a href="http://www.sciencedirect.com/science/article/pii/S0076687910720024" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-57" class="mk-text-block   ">
+
+	
+	<h3>Single-Molecule Sequencing of an Individual Human Genome</h3>
+<p style="padding-left: 30px;"><em>Nature Biotechnology August 10, 2009</em></p>
+<p style="padding-left: 30px;"><em>Dmitry Pushkarev, Norma F Neff, &amp; Stephen R. Quakec</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">Recent advances in high‐throughput DNA sequencing technologies have enabled order‐of‐magnitude improvements in both cost and throughput. Here we report the use of single‐molecule methods to sequence an individual human genome. We aligned billions of 24‐ to 70‐bp reads (32 bp average) to ~90% of the National Center for Biotechnology Information (NCBI) reference genome, with 28× average coverage. Our results were obtained on one sequencing instrument by a single operator with four data collection runs. Single molecule sequencing enabled analysis of human genomic information without the need for cloning, amplification or ligation. We determined ~2.8 million single nucleotide polymorphisms (SNPs) with a false‐positive rate of less than 1% as validated by Sanger sequencing and 99.8% concordance with SNP genotyping arrays. We identified 752 regions of copy number variation by analyzing coverage depth alone and validated 27 of these using digital PCR. This milestone should allow widespread application of genome sequencing to many aspects of genetics and human health, including personal genomics.</p>
+<p><a href="http://www.nature.com/nbt/journal/v27/n9/abs/nbt.1561.html" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="text-block-58" class="mk-text-block   ">
+
+	
+	<h3>Virtual Terminator Nucleotides for Next Generation DNA Sequencing</h3>
+<p style="padding-left: 30px;"><em>Natural Methods August 6, 2009</em></p>
+<p style="padding-left: 30px;"><em>Jayson Bowers, Judith Mitchell, Eric Beer, Philip R. Buzby, Marie Causey, J. William Efcavitch, Mirna Jarosz, Edyta Krzymanska-Olejnik, Li Kung, Doron Lipson, Geoffrey M. Lowman, Subramanian Marappan, Peter McInerney, Adam Platt, Atanu Roy, Suhaib M. Siddiqi, Kathleen Steinmann, and John F. Thompson</em></p>
+<p><strong>Abstract</strong></p>
+<p style="padding-left: 30px;">We synthesized reversible terminators with tethered inhibitors for next genera on sequencing. These were efficiently incorporated with high fidelity while preventing incorporation on of additional nucleotides and were used to sequence canine bacterial artificial chromosomes in a single-molecule system that provided even coverage for over 99% of the region sequenced. This single-molecule approach generated high quality sequence data without the need for target amplification on and thus avoided concomitant biases.</p>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2719685/" target="_blank" rel="noopener noreferrer">See Source</a></p>
+
+	<div class="clearboth"></div>
+</div>
+
+</div></div></div></div></div></div></div>
+	</div>
+
+<div  data-mk-stretch-content="true" class="wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false     js-master-row  mk-grid">
+				
+<div class="vc_col-sm-12 wpb_column column_container   _ height-full">
+	
+<div id="padding-60" class="mk-padding-divider   clearfix"></div>
+
+</div>
+	</div>
+
+<div  data-mk-full-width="true" data-mk-full-width-init="false" data-mk-stretch-content="true" class="wpb_row vc_row vc_row-fluid  mk-fullwidth-true  attched-false     js-master-row  mk-full-content-true">
+				
+<div class="vc_col-sm-12 wpb_column column_container   _ height-full">
+	<div id="divider-62" class="mk-divider     divider_full_width center thin_solid  ">
+
+			<div class="divider-inner"></div>
+	
+</div>
+<div class="clearboth"></div>
+</div>
+	</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+<div class="mk-page-section-wrapper" data-mk-full-width="true" data-mk-full-width-init="true" data-mk-stretch-content="true">
+    <div id="page-section-63"class="mk-page-section self-hosted   full_layout full-width-63 js-el js-master-row    "    data-intro-effect="false">
+
+
+            
+            <div class="mk-page-section-inner">
+                
+
+
+<div class="mk-video-color-mask"></div>
+
+                
+                
+			<div class="mk-section-preloader js-el" data-mk-component="Preloader">
+			<div class="mk-section-preloader__icon"></div>
+		</div>
+		
+
+	<div class="background-layer-holder">
+		<div id="background-layer--63" data-mk-lazyload="false" class="background-layer mk-background-stretch none-blend-effect js-el" data-mk-component="Parallax" data-parallax-config='{"speed" : 0.3 }'  data-mk-img-set='{"landscape":{"desktop":"http://seqll.com/wp-content/uploads/2016/03/seqll-dna-rna-sequencing-footer.jpg","tablet":"http://seqll.com/wp-content/uploads/2016/03/seqll-dna-rna-sequencing-footer-1024x768.jpg","mobile":"http://seqll.com/wp-content/uploads/2016/03/seqll-dna-rna-sequencing-footer-736x414.jpg"},"responsive":"true"}' >
+									<div class="mk-color-layer"></div>
+		</div>
+	</div>
+
+            </div>
+
+            
+        <div class="page-section-content vc_row-fluid mk-grid " >
+            <div class="mk-padding-wrapper wpb_row">
+<div class="vc_col-sm-12 wpb_column column_container   _ height-full">
+	
+<h2 id="fancy-title-65" class="mk-fancy-title  simple-style   color-gradient">
+	<span>
+		<i>		<p>Discover</p>
+		</i>	</span>
+</h2>
+<div class="clearboth"></div>
+
+
+
+<style>#fancy-title-65 {font-family: "Lato"}</style>
+<h3 id="fancy-title-66" class="mk-fancy-title  simple-style   color-single">
+	<span>
+				<p>What your sequencing is missing</p>
+			</span>
+</h3>
+<div class="clearboth"></div>
+
+
+
+
+
+<div class="wpb_row vc_inner vc_row vc_row-fluid    attched-false   ">
+		
+		<div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mk-font-icons icon-align-center" id="mk-font-icons-67">
+	<i class="font-icon mk-size-medium"><svg class="mk-svg-icon" data-name="mk-moon-phone-6" data-cacheid="icon-6475eaa35a47e" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><defs><lineargradient id="gradient-icon-6475eaa35a47e" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#6fbe44"></stop><stop offset="100%" stop-color="#27b4ce"></stop></lineargradient></defs><path fill="url(#gradient-icon-6475eaa35a47e)" d="M403.655 512h-6.055c-32.828 0-82.212-15.348-135.488-42.106-52.054-26.146-99.579-58.811-130.387-89.619-30.809-30.808-63.473-78.332-89.618-130.386-26.76-53.277-42.107-102.661-42.107-135.49v-6.056l3.359-5.038c.667-1 16.557-24.767 36.677-48.91 21.105-25.325 48.63-54.395 74.364-54.395 22.215 0 49.753 22.282 64.191 35.564 11.086 10.199 38.206 37.139 50.555 66.953 13.07 31.554 1.723 49.564-6.205 57.491-13.666 13.666-27.12 21.981-37.931 28.663-16.997 10.505-19.144 12.762-19.144 20.128 0 23.18 29.012 52.193 57.068 80.252 28.069 28.067 57.083 57.081 80.265 57.081 7.366 0 9.624-2.147 20.128-19.144 6.682-10.812 14.998-24.266 28.664-37.932 7.975-7.975 18.547-12.191 30.574-12.191 13.033 0 27.884 4.986 44.139 14.821 12.849 7.772 26.457 18.512 39.355 31.056 10.778 10.483 45.941 46.857 45.941 74.858 0 25.734-29.07 53.26-54.396 74.364-24.144 20.12-47.91 36.011-48.91 36.677l-5.039 3.359zm-363.443-391.718c1.845 26.779 15.62 67.814 37.639 111.653 23.947 47.677 54.66 92.558 82.158 120.055 27.498 27.498 72.378 58.212 120.056 82.158 43.839 22.02 84.871 35.795 111.649 37.64 7.785-5.418 23.196-16.44 38.681-29.225 36.434-30.08 41.072-43.227 41.569-45.081-.911-5.818-11.776-24.986-35.052-47.28-23.913-22.904-44.934-33.336-54.346-33.336-1.204 0-1.975.16-2.29.476-10.373 10.373-16.753 20.695-22.922 30.677-11.041 17.865-23.557 38.114-54.154 38.114-39.75 0-74.721-34.97-108.54-68.787-33.827-33.828-68.794-68.797-68.794-108.546 0-30.598 20.249-43.113 38.115-54.154 9.982-6.169 20.304-12.549 30.676-22.921.598-.598 1.055-4.287-1.481-11.354-5.294-14.753-20.189-34.967-38.872-52.752-20.225-19.252-35.43-26.847-39.793-27.58-1.88.507-15.083 5.192-45.267 41.8-12.738 15.447-23.653 30.711-29.032 38.443zm279.788 7.718c-22.419 0-42.133 11.536-53.563 28.987 7.893-3.206 16.518-4.987 25.563-4.987 37.556 0 68 30.445 68 68 0 9.045-1.781 17.669-4.987 25.563 17.451-11.43 28.987-31.144 28.987-53.563 0-35.346-28.653-64-64-64zm16-64c-33.896 0-64.273 15.059-84.812 38.85 16.792-9.452 36.17-14.85 56.812-14.85 64.064 0 116 51.935 116 116 0 20.642-5.398 40.02-14.85 56.812 23.791-20.539 38.85-50.916 38.85-84.812 0-61.856-50.145-112-112-112zm32-64c-41.519 0-78.926 17.578-105.206 45.689 22.477-13.772 48.913-21.717 77.206-21.717 81.738 0 148 66.269 148 148.014 0 28.326-7.962 54.79-21.761 77.286 28.154-26.283 45.761-63.718 45.761-105.272 0-79.529-64.471-144-144-144z"></path></svg></i>
+</div>
+<div id="padding-68" class="mk-padding-divider   clearfix"></div>
+
+
+<h5 id="fancy-title-69" class="mk-fancy-title  simple-style   color-gradient">
+	<span>
+		<i>		<p>phone</p>
+		</i>	</span>
+</h5>
+<div class="clearboth"></div>
+
+
+
+
+<div id="text-block-70" class="mk-text-block   ">
+
+	
+	<p><span style="color: #ffffff;">781.460.6016</span></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="padding-71" class="mk-padding-divider visible-sm  clearfix"></div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mk-font-icons icon-align-center" id="mk-font-icons-72">
+	<i class="font-icon mk-size-medium"><svg class="mk-svg-icon" data-name="mk-moon-location-4" data-cacheid="icon-6475eaa35b236" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><defs><lineargradient id="gradient-icon-6475eaa35b236" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#6fbe44"></stop><stop offset="100%" stop-color="#27b4ce"></stop></lineargradient></defs><path fill="url(#gradient-icon-6475eaa35b236)" d="M256 0c-88.366 0-160 71.634-160 160 0 160 160 288 160 288s160-128 160-288c0-88.366-71.635-160-160-160zm0 258c-54.124 0-98-43.876-98-98s43.876-98 98-98 98 43.876 98 98-43.876 98-98 98zm-62-98c0 34.242 27.758 62 62 62 34.242 0 62-27.758 62-62s-27.758-62-62-62c-34.242 0-62 27.758-62 62zm199.128 188.815c-7.091 11.137-14.438 21.69-21.828 31.613 1.173.551 2.333 1.108 3.471 1.677 24.335 12.169 35.229 25.791 35.229 33.895s-10.894 21.726-35.229 33.895c-30.64 15.319-73.93 24.105-118.771 24.105s-88.131-8.786-118.771-24.105c-24.336-12.169-35.229-25.791-35.229-33.895s10.893-21.726 35.229-33.895c1.138-.568 2.298-1.126 3.47-1.677-7.39-9.923-14.737-20.477-21.827-31.613-33.937 17.316-54.872 41.026-54.872 67.185 0 53.02 85.961 96 192 96s192-42.98 192-96c0-26.159-20.935-49.869-54.872-67.185z"></path></svg></i>
+</div>
+<div id="padding-73" class="mk-padding-divider   clearfix"></div>
+
+
+<h5 id="fancy-title-74" class="mk-fancy-title  simple-style   color-gradient">
+	<span>
+		<i>		<p>address</p>
+		</i>	</span>
+</h5>
+<div class="clearboth"></div>
+
+
+
+	<div class=" vc_custom_1646439094574">
+
+<div id="text-block-75" class="mk-text-block   ">
+
+	
+	<p><span style="color: #ffffff;">3 Federal St,<br />
+Billerica, MA 01821</span></p>
+
+	<div class="clearboth"></div>
+</div>
+
+	</div>
+
+<div id="padding-76" class="mk-padding-divider visible-sm  clearfix"></div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mk-font-icons icon-align-center" id="mk-font-icons-77">
+	<i class="font-icon mk-size-medium"><svg class="mk-svg-icon" data-name="mk-li-mail" data-cacheid="icon-6475eaa35c098" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><defs><lineargradient id="gradient-icon-6475eaa35c098" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#6fbe44"></stop><stop offset="100%" stop-color="#27b4ce"></stop></lineargradient></defs><path fill="url(#gradient-icon-6475eaa35c098)" d="M460.038 75.505h-408.076c-26.003 0-47.086 21.083-47.086 47.086v266.818c0 26.002 21.082 47.086 47.086 47.086h408.075c26.002 0 47.086-21.083 47.086-47.086v-266.818c0-26.003-21.083-47.086-47.085-47.086zm11.908 324.001l-128.703-128.708 132.49-132.489v251.1c0 3.862-1.457 7.357-3.787 10.097zm-435.679-10.097v-251.039l131.493 131.497-128.581 128.581c-1.824-2.56-2.912-5.667-2.912-9.039zm153.688-97.352l39.138 39.138c7.173 7.181 16.722 11.135 26.876 11.135s19.703-3.954 26.876-11.135l38.203-38.204 112.104 112.112h-356.237l113.04-113.046zm270.083-185.161c.843 0 1.663.122 2.467.249l-201.854 201.857c-1.686 1.69-3.655 1.938-4.682 1.938-1.027 0-2.997-.249-4.683-1.938l-201.845-201.854c.827-.13 1.655-.253 2.522-.253h408.075z"></path></svg></i>
+</div>
+<div id="padding-78" class="mk-padding-divider   clearfix"></div>
+
+
+<h5 id="fancy-title-79" class="mk-fancy-title  simple-style   color-gradient">
+	<span>
+		<i>		<p>email</p>
+		</i>	</span>
+</h5>
+<div class="clearboth"></div>
+
+
+
+
+<div id="text-block-80" class="mk-text-block   ">
+
+	
+	<p><span style="color: #ffffff;"><a style="color: #ffffff;" href="mailto:orders@seqll.com" target="_blank" rel="noopener noreferrer">orders@seqll.com</a></span></p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div id="padding-81" class="mk-padding-divider visible-sm  clearfix"></div>
+
+</div></div></div>		
+</div><div id="divider-82" class="mk-divider     divider_full_width center thin_solid  ">
+
+			<div class="divider-inner"></div>
+	
+</div>
+<div class="clearboth"></div>
+	<div class=" vc_custom_1679515023406">
+
+<div id="text-block-83" class="mk-text-block   ">
+
+	
+	<h3 style="text-align: center;"><span style="color: #c4c4c4;"> SeqLL Inc. © 2023</span></h3>
+<p style="text-align: center;"><span style="color: #999999;">Site By: <a style="color: #999999;" href="http://olpphotovideo.com/" target="_blank" rel="noopener noreferrer">OLP</a></span></p>
+
+	<div class="clearboth"></div>
+</div>
+
+	</div>
+</div>
+</div>
+            <div class="clearboth"></div>
+        </div>
+
+
+            
+            
+            
+
+        <div class="clearboth"></div>
+    </div>
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+
+
+		<div class="clearboth"></div>
+									<div class="clearboth"></div>
+											</div>
+										<div class="clearboth"></div>
+				</div>
+			</div>
+					</div>
+
+
+<section id="mk-footer-unfold-spacer"></section>
+
+<section id="mk-footer" class=" mk-footer-disable" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+		</section>
+</div>
+</div>
+
+<div class="bottom-corner-btns js-bottom-corner-btns">
+
+<a href="#top-of-page" class="mk-go-top  js-smooth-scroll js-bottom-corner-btn js-bottom-corner-btn--back">
+	<svg  class="mk-svg-icon" data-name="mk-icon-chevron-up" data-cacheid="icon-6475eaa35e7ff" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1683 1331l-166 165q-19 19-45 19t-45-19l-531-531-531 531q-19 19-45 19t-45-19l-166-165q-19-19-19-45.5t19-45.5l742-741q19-19 45-19t45 19l742 741q19 19 19 45.5t-19 45.5z"/></svg></a>
+</div>
+
+
+
+<div class="mk-fullscreen-search-overlay">
+	<a href="#" class="mk-fullscreen-close"><svg  class="mk-svg-icon" data-name="mk-moon-close-2" data-cacheid="icon-6475eaa35f08d" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M390.628 345.372l-45.256 45.256-89.372-89.373-89.373 89.372-45.255-45.255 89.373-89.372-89.372-89.373 45.254-45.254 89.373 89.372 89.372-89.373 45.256 45.255-89.373 89.373 89.373 89.372z"/></svg></a>
+	<div class="mk-fullscreen-search-wrapper">
+		<p>Start typing and press Enter to search</p>
+		<form method="get" id="mk-fullscreen-searchform" action="http://seqll.com/">
+			<input type="text" value="" name="s" id="mk-fullscreen-search-input" />
+			<i class="fullscreen-search-icon"><svg  class="mk-svg-icon" data-name="mk-icon-search" data-cacheid="icon-6475eaa35f3a6" style=" height:25px; width: 23.214285714286px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1792"><path d="M1152 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"/></svg></i>
+		</form>
+	</div>
+</div>
+
+
+	<style type='text/css'></style><script type="text/javascript">
+    php = {
+        hasAdminbar: false,
+        json: (null != null) ? null : "",
+        jsPath: 'http://seqll.com/wp-content/themes/jupiter/assets/js'
+      };
+    </script><link rel='stylesheet' id='Lato-css' href='//fonts.googleapis.com/css?family=Lato%3A100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%2C100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_tta_style-css' href='http://seqll.com/wp-content/plugins/js_composer_theme/assets/css/js_composer_tta.min.css?ver=6.0.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://seqll.com/wp-content/themes/jupiter/assets/js/min/full-scripts.6.1.1.js?ver=1638311997' id='theme-scripts-js'></script>
+<script type='text/javascript' src='http://seqll.com/wp-content/themes/jupiter/header-builder/includes/assets/js/mkhb-render.js?ver=6.1.1' id='mkhb-render-js'></script>
+<script type='text/javascript' src='http://seqll.com/wp-content/themes/jupiter/header-builder/includes/assets/js/mkhb-column.js?ver=6.1.1' id='mkhb-column-js'></script>
+<script type='text/javascript' src='http://seqll.com/wp-content/plugins/js_composer_theme/assets/js/dist/js_composer_front.min.js?ver=6.0.3' id='wpb_composer_front_js-js'></script>
+<script type='text/javascript' src='http://seqll.com/wp-content/plugins/js_composer_theme/assets/lib/vc_accordion/vc-accordion.min.js?ver=6.0.3' id='vc_accordion_script-js'></script>
+<script type='text/javascript' src='http://seqll.com/wp-content/plugins/js_composer_theme/assets/lib/vc-tta-autoplay/vc-tta-autoplay.min.js?ver=6.0.3' id='vc_tta_autoplay_script-js'></script>
+		<script type="text/javascript">
+		var ga_fired = false;
+		window.addEventListener("scroll", function(){
+			if ((document.documentElement.scrollTop != 0 && ga_fired === false) || (document.body.scrollTop != 0 && ga_fired === false)) {
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-85918750-1', 'auto');
+				ga('send', 'pageview');
+				ga_fired = true;
+			}
+		}, true);
+		</script> 
+		<script type="text/javascript">	window.get = {};	window.get.captcha = function(enteredCaptcha) {
+                  return jQuery.get(ajaxurl, { action : "mk_validate_captcha_input", captcha: enteredCaptcha });
+              	};</script><style id="mk-shortcode-dynamic-styles" type="text/css"> #fancy-title-4{letter-spacing:2px;text-transform:uppercase;font-size:55px;color:#ffffff;text-align:center;font-style:inherit;font-weight:300;padding-top:0px;padding-bottom:20px;}#fancy-title-4 span{}#fancy-title-4 span i{font-style:inherit;} @media handheld, only screen and (max-width:767px) { #fancy-title-4 { text-align:center !important; } } @media handheld, only screen and (min-width:768px) and (max-width:1024px) { #fancy-title-4 { font-size:40px; } } @media handheld, only screen and (max-width:767px) { #fancy-title-4 { font-size:30px; } } .full-width-2 .mk-video-color-mask{ background:#2a363b; background:-moz-linear-gradient(top, #2a363b 0%, #2e2a3b 100%); background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,#2a363b), color-stop(100%,#2e2a3b)); background:-webkit-linear-gradient(top, #2a363b 0%,#2e2a3b 100%); background:-o-linear-gradient(top, #2a363b 0%,#2e2a3b 100%); background:-ms-linear-gradient(top, #2a363b 0%,#2e2a3b 100%); background:linear-gradient(to bottom, #2a363b 0%,#2e2a3b 100%); opacity:0.7;} .full-width-2 { min-height:500px; margin-bottom:0px; } .full-width-2 .page-section-content { padding:0px 0 0px; } #background-layer--2 { ; background-position:center top; background-repeat:no-repeat; ; } #background-layer--2 .mk-color-layer { ; width:100%; height:100%; position:absolute; top:0; left:0; }  #divider-6 { padding:0px 0 40px; } #divider-6 .divider-inner { border-top-width:10px; } #divider-6 .divider-inner:after { background:#6fbe44;background:-webkit-linear-gradient(left,#6fbe44 0%, #27b4ce 100%);background:linear-gradient(to right,#6fbe44 0%, #27b4ce 100%);height:10px;top:-10px;content:""; }  #fancy-title-8 span i { background:-webkit-linear-gradient(top,#6fbe44 0%, #27b4ce 100%); background:linear-gradient(to bottom,#6fbe44 0%, #27b4ce 100%); } #fancy-title-8 span i { -webkit-background-clip:text; -webkit-text-fill-color:transparent; display:inline-block; } .Firefox #fancy-title-8 span i, .IE #fancy-title-8 span i { background:transparent; color:#6fbe44; -webkit-text-fill-color:initial; } #fancy-title-8{letter-spacing:2px;text-transform:capitalize;font-size:100px;text-align:left;font-style:inherit;font-weight:300;padding-top:0px;padding-bottom:0px;}#fancy-title-8 span{}#fancy-title-8 span i{font-style:inherit;} @media handheld, only screen and (max-width:767px) { #fancy-title-8 { text-align:center !important; } } @media handheld, only screen and (min-width:768px) and (max-width:1024px) { #fancy-title-8 { font-size:70px; } } @media handheld, only screen and (max-width:767px) { #fancy-title-8 { font-size:50px; } } #fancy-title-9{letter-spacing:2px;text-transform:capitalize;font-size:55px;color:#495062;text-align:left;font-style:inherit;font-weight:300;padding-top:0px;padding-bottom:20px;}#fancy-title-9 span{}#fancy-title-9 span i{font-style:inherit;} @media handheld, only screen and (max-width:767px) { #fancy-title-9 { text-align:center !important; } } @media handheld, only screen and (max-width:767px) { #fancy-title-9 { font-size:36px; } } #text-block-10 { margin-bottom:0px; text-align:left; } #text-block-11 { margin-bottom:0px; text-align:left; } #text-block-12 { margin-bottom:0px; text-align:left; } #text-block-13 { margin-bottom:0px; text-align:left; } #text-block-14 { margin-bottom:0px; text-align:left; } #text-block-15 { margin-bottom:0px; text-align:left; } #text-block-16 { margin-bottom:0px; text-align:left; } #text-block-17 { margin-bottom:0px; text-align:left; } #text-block-18 { margin-bottom:0px; text-align:left; } #text-block-19 { margin-bottom:0px; text-align:left; } #text-block-20 { margin-bottom:0px; text-align:left; } #text-block-21 { margin-bottom:0px; text-align:left; } #text-block-22 { margin-bottom:0px; text-align:left; } #text-block-23 { margin-bottom:0px; text-align:left; } #text-block-24 { margin-bottom:0px; text-align:left; } #text-block-25 { margin-bottom:0px; text-align:left; } #text-block-26 { margin-bottom:0px; text-align:left; } #text-block-27 { margin-bottom:0px; text-align:left; } #text-block-28 { margin-bottom:0px; text-align:left; } #text-block-29 { margin-bottom:0px; text-align:left; } #text-block-30 { margin-bottom:0px; text-align:left; } #text-block-31 { margin-bottom:0px; text-align:left; } #text-block-32 { margin-bottom:0px; text-align:left; } #text-block-33 { margin-bottom:0px; text-align:left; } #text-block-34 { margin-bottom:0px; text-align:left; } #text-block-35 { margin-bottom:0px; text-align:left; } #text-block-36 { margin-bottom:0px; text-align:left; } #text-block-37 { margin-bottom:0px; text-align:left; } #text-block-38 { margin-bottom:0px; text-align:left; } #text-block-39 { margin-bottom:0px; text-align:left; } #text-block-40 { margin-bottom:0px; text-align:left; } #text-block-41 { margin-bottom:0px; text-align:left; } #text-block-42 { margin-bottom:0px; text-align:left; } #text-block-43 { margin-bottom:0px; text-align:left; } #text-block-44 { margin-bottom:0px; text-align:left; } #text-block-45 { margin-bottom:0px; text-align:left; } #text-block-46 { margin-bottom:0px; text-align:left; } #text-block-47 { margin-bottom:0px; text-align:left; } #text-block-48 { margin-bottom:0px; text-align:left; } #text-block-49 { margin-bottom:0px; text-align:left; } #text-block-50 { margin-bottom:0px; text-align:left; } #text-block-51 { margin-bottom:0px; text-align:left; } #text-block-52 { margin-bottom:0px; text-align:left; } #text-block-53 { margin-bottom:0px; text-align:left; } #text-block-54 { margin-bottom:0px; text-align:left; } #text-block-55 { margin-bottom:0px; text-align:left; } #text-block-56 { margin-bottom:0px; text-align:left; } #text-block-57 { margin-bottom:0px; text-align:left; } #text-block-58 { margin-bottom:0px; text-align:left; }  #padding-60 { height:140px; }  #divider-62 { padding:0px 0 0px; } #divider-62 .divider-inner { border-top-width:10px; } #divider-62 .divider-inner:after { background:#6fbe44;background:-webkit-linear-gradient(left,#6fbe44 0%, #27b4ce 100%);background:linear-gradient(to right,#6fbe44 0%, #27b4ce 100%);height:10px;top:-10px;content:""; }  #fancy-title-65 span i { background:-webkit-linear-gradient(top,#6fbe44 0%, #27b4ce 100%); background:linear-gradient(to bottom,#6fbe44 0%, #27b4ce 100%); } #fancy-title-65 span i { -webkit-background-clip:text; -webkit-text-fill-color:transparent; display:inline-block; } .Firefox #fancy-title-65 span i, .IE #fancy-title-65 span i { background:transparent; color:#6fbe44; -webkit-text-fill-color:initial; } #fancy-title-65{letter-spacing:2px;text-transform:initial;font-size:72px;text-align:center;font-style:inherit;font-weight:300;padding-top:0px;padding-bottom:0px;}#fancy-title-65 span{}#fancy-title-65 span i{font-style:inherit;} @media handheld, only screen and (max-width:767px) { #fancy-title-65 { text-align:center !important; } } @media handheld, only screen and (max-width:767px) { #fancy-title-65 { font-size:50px; } } #fancy-title-66{letter-spacing:0px;text-transform:capitalize;font-size:60px;color:#ffffff;text-align:center;font-style:inherit;font-weight:100;padding-top:0px;padding-bottom:20px;}#fancy-title-66 span{}#fancy-title-66 span i{font-style:inherit;} @media handheld, only screen and (max-width:767px) { #fancy-title-66 { text-align:center !important; } } @media handheld, only screen and (max-width:767px) { #fancy-title-66 { font-size:40px; } } #mk-font-icons-67 { margin:4px 4px; } #mk-font-icons-67 .font-icon { } #padding-68 { height:10px; } #fancy-title-69 span i { background:-webkit-linear-gradient(left,#6fbe44 0%, #27b4ce 100%); background:linear-gradient(to right,#6fbe44 0%, #27b4ce 100%); } #fancy-title-69 span i { -webkit-background-clip:text; -webkit-text-fill-color:transparent; display:inline-block; } .Firefox #fancy-title-69 span i, .IE #fancy-title-69 span i { background:transparent; color:#6fbe44; -webkit-text-fill-color:initial; } #fancy-title-69{letter-spacing:0px;text-transform:uppercase;font-size:14px;text-align:center;font-style:inherit;font-weight:bold;padding-top:0px;padding-bottom:0px;}#fancy-title-69 span{}#fancy-title-69 span i{font-style:inherit;} @media handheld, only screen and (max-width:767px) { #fancy-title-69 { text-align:center !important; } } #text-block-70 { margin-bottom:0px; text-align:center; } #padding-71 { height:40px; } #mk-font-icons-72 { margin:4px 4px; } #mk-font-icons-72 .font-icon { } #padding-73 { height:10px; } #fancy-title-74 span i { background:-webkit-linear-gradient(left,#6fbe44 0%, #27b4ce 100%); background:linear-gradient(to right,#6fbe44 0%, #27b4ce 100%); } #fancy-title-74 span i { -webkit-background-clip:text; -webkit-text-fill-color:transparent; display:inline-block; } .Firefox #fancy-title-74 span i, .IE #fancy-title-74 span i { background:transparent; color:#6fbe44; -webkit-text-fill-color:initial; } #fancy-title-74{letter-spacing:0px;text-transform:uppercase;font-size:14px;text-align:center;font-style:inherit;font-weight:bold;padding-top:0px;padding-bottom:0px;}#fancy-title-74 span{}#fancy-title-74 span i{font-style:inherit;} @media handheld, only screen and (max-width:767px) { #fancy-title-74 { text-align:center !important; } } #text-block-75 { margin-bottom:0px; text-align:center; } #padding-76 { height:40px; } #mk-font-icons-77 { margin:4px 4px; } #mk-font-icons-77 .font-icon { } #padding-78 { height:10px; } #fancy-title-79 span i { background:-webkit-linear-gradient(left,#6fbe44 0%, #27b4ce 100%); background:linear-gradient(to right,#6fbe44 0%, #27b4ce 100%); } #fancy-title-79 span i { -webkit-background-clip:text; -webkit-text-fill-color:transparent; display:inline-block; } .Firefox #fancy-title-79 span i, .IE #fancy-title-79 span i { background:transparent; color:#6fbe44; -webkit-text-fill-color:initial; } #fancy-title-79{letter-spacing:0px;text-transform:uppercase;font-size:14px;text-align:center;font-style:inherit;font-weight:bold;padding-top:0px;padding-bottom:0px;}#fancy-title-79 span{}#fancy-title-79 span i{font-style:inherit;} @media handheld, only screen and (max-width:767px) { #fancy-title-79 { text-align:center !important; } } #text-block-80 { margin-bottom:0px; text-align:center; } #padding-81 { height:40px; } #divider-82 { padding:60px 0 20px; } #divider-82 .divider-inner { border-top-width:1px; border-top-color:#ffffff; } #divider-82 .divider-inner:after { } #text-block-83 { margin-bottom:0px; text-align:center; } .full-width-63 { min-height:100px; margin-bottom:0px; } .full-width-63 .page-section-content { padding:80px 0 100px; } #background-layer--63 { ; background-position:center top; background-repeat:no-repeat; ; } #background-layer--63 .mk-color-layer { ; width:100%; height:100%; position:absolute; top:0; left:0; }</style>	
+</body>
+</html>
