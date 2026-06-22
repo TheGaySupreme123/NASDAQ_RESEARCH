@@ -1,0 +1,9 @@
+target,label,model,n,positive,negative,base_rate,auc,accuracy_at_0_50,log_loss,status
+published_initial_clean,initial matrix released in required window,diversity_only,179,131,48,0.7318435754189944,0.811704834605598,0.7318435754189944,0.45730442437082947,fit
+published_initial_clean,initial matrix released in required window,diversity_plus_controls,179,131,48,0.7318435754189944,0.83985368956743,0.8268156424581006,0.46347022849552777,fit
+continued_any,continued any post-vacatur disclosure,diversity_only,179,118,61,0.659217877094972,0.47832731314253957,0.6480446927374302,0.6745123616016767,fit
+continued_any,continued any post-vacatur disclosure,diversity_plus_controls,179,118,61,0.659217877094972,0.5047235343150875,0.5921787709497207,0.8569438782675954,fit
+retained_same_matrix,retained same matrix after vacatur,diversity_only,179,38,141,0.2122905027932961,0.5713885778275476,0.776536312849162,0.5349216741387985,fit
+retained_same_matrix,retained same matrix after vacatur,diversity_plus_controls,179,38,141,0.2122905027932961,0.6061963419186264,0.7206703910614525,0.6213415409472731,fit
+changed_or_reduced_among_continuers,continued but changed/reduced disclosure level,diversity_only,118,108,10,0.9152542372881356,0.6990740740740741,0.8983050847457628,0.27208338502587676,fit
+changed_or_reduced_among_continuers,continued but changed/reduced disclosure level,diversity_plus_controls,118,108,10,0.9152542372881356,0.7759259259259259,0.8898305084745762,0.32659297269580095,fit

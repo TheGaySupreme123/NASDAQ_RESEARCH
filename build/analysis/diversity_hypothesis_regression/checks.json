@@ -1,0 +1,125 @@
+{
+  "input": "build/unified_matrix_regression_review.csv",
+  "rows": 297,
+  "numeric_initial_matrix_parsed_rows": 179,
+  "release_bucket_counts": {
+    "released_in_required_window": 191,
+    "released_after_required_window": 57,
+    "no_release_found_after_checks": 42,
+    "partial_or_unretrieved_primary_evidence": 4,
+    "released_but_window_not_guaranteed": 2,
+    "partial_or_internally_inconsistent_matrix": 1
+  },
+  "post_vacatur_status_counts": {
+    "continued_other_narrative": 128,
+    "not_continued_in_reviewed_filings": 82,
+    "continued_same_matrix": 57,
+    "no_post_vacatur_relevant_filing": 30
+  },
+  "models": [
+    {
+      "target": "published_initial_clean",
+      "label": "initial matrix released in required window",
+      "model": "diversity_only",
+      "n": 179,
+      "positive": 131,
+      "negative": 48,
+      "base_rate": 0.7318435754189944,
+      "auc": 0.811704834605598,
+      "accuracy_at_0_50": 0.7318435754189944,
+      "log_loss": 0.45730442437082947,
+      "status": "fit"
+    },
+    {
+      "target": "published_initial_clean",
+      "label": "initial matrix released in required window",
+      "model": "diversity_plus_controls",
+      "n": 179,
+      "positive": 131,
+      "negative": 48,
+      "base_rate": 0.7318435754189944,
+      "auc": 0.83985368956743,
+      "accuracy_at_0_50": 0.8268156424581006,
+      "log_loss": 0.46347022849552777,
+      "status": "fit"
+    },
+    {
+      "target": "continued_any",
+      "label": "continued any post-vacatur disclosure",
+      "model": "diversity_only",
+      "n": 179,
+      "positive": 118,
+      "negative": 61,
+      "base_rate": 0.659217877094972,
+      "auc": 0.47832731314253957,
+      "accuracy_at_0_50": 0.6480446927374302,
+      "log_loss": 0.6745123616016767,
+      "status": "fit"
+    },
+    {
+      "target": "continued_any",
+      "label": "continued any post-vacatur disclosure",
+      "model": "diversity_plus_controls",
+      "n": 179,
+      "positive": 118,
+      "negative": 61,
+      "base_rate": 0.659217877094972,
+      "auc": 0.5047235343150875,
+      "accuracy_at_0_50": 0.5921787709497207,
+      "log_loss": 0.8569438782675954,
+      "status": "fit"
+    },
+    {
+      "target": "retained_same_matrix",
+      "label": "retained same matrix after vacatur",
+      "model": "diversity_only",
+      "n": 179,
+      "positive": 38,
+      "negative": 141,
+      "base_rate": 0.2122905027932961,
+      "auc": 0.5713885778275476,
+      "accuracy_at_0_50": 0.776536312849162,
+      "log_loss": 0.5349216741387985,
+      "status": "fit"
+    },
+    {
+      "target": "retained_same_matrix",
+      "label": "retained same matrix after vacatur",
+      "model": "diversity_plus_controls",
+      "n": 179,
+      "positive": 38,
+      "negative": 141,
+      "base_rate": 0.2122905027932961,
+      "auc": 0.6061963419186264,
+      "accuracy_at_0_50": 0.7206703910614525,
+      "log_loss": 0.6213415409472731,
+      "status": "fit"
+    },
+    {
+      "target": "changed_or_reduced_among_continuers",
+      "label": "continued but changed/reduced disclosure level",
+      "model": "diversity_only",
+      "n": 118,
+      "positive": 108,
+      "negative": 10,
+      "base_rate": 0.9152542372881356,
+      "auc": 0.6990740740740741,
+      "accuracy_at_0_50": 0.8983050847457628,
+      "log_loss": 0.27208338502587676,
+      "status": "fit"
+    },
+    {
+      "target": "changed_or_reduced_among_continuers",
+      "label": "continued but changed/reduced disclosure level",
+      "model": "diversity_plus_controls",
+      "n": 118,
+      "positive": 108,
+      "negative": 10,
+      "base_rate": 0.9152542372881356,
+      "auc": 0.7759259259259259,
+      "accuracy_at_0_50": 0.8898305084745762,
+      "log_loss": 0.32659297269580095,
+      "status": "fit"
+    }
+  ]
+}

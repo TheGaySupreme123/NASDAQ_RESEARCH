@@ -1,0 +1,11 @@
+field,value,n,share_of_total,initial_matrix_numeric_parsed_n,mean_female_share_when_observed,mean_underrepresented_share_when_observed,mean_lgbtq_share_when_observed
+release_bucket,released_in_required_window,191,0.6430976430976431,131,0.24245398367535773,0.243608419798896,0.11680388666369976
+release_bucket,released_after_required_window,57,0.1919191919191919,47,0.27983789260385006,0.6195767195767196,0.052910052910052914
+release_bucket,no_release_found_after_checks,42,0.1414141414141414,0,,,
+release_bucket,partial_or_unretrieved_primary_evidence,4,0.013468013468013467,0,,,
+release_bucket,released_but_window_not_guaranteed,2,0.006734006734006734,0,,,
+release_bucket,partial_or_internally_inconsistent_matrix,1,0.003367003367003367,1,0.4,0.8,
+post_vacatur_status,continued_other_narrative,128,0.43097643097643096,80,0.26559568903318903,0.2662429947313668,0.12740384615384615
+post_vacatur_status,not_continued_in_reviewed_filings,82,0.2760942760942761,49,0.25881114350502105,0.2945238095238095,0.06657848324514991
+post_vacatur_status,continued_same_matrix,57,0.1919191919191919,38,0.2144404572036151,0.4326479076479076,0.13020833333333334
+post_vacatur_status,no_post_vacatur_relevant_filing,30,0.10101010101010101,12,0.26964285714285713,0.22332451499118167,0.05257936507936507
