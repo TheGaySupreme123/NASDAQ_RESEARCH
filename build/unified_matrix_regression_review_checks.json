@@ -1,0 +1,30 @@
+{
+  "rows": 297,
+  "release_bucket": {
+    "released_in_required_window": 191,
+    "released_after_required_window": 57,
+    "no_release_found_after_checks": 42,
+    "partial_or_unretrieved_primary_evidence": 4,
+    "released_but_window_not_guaranteed": 2,
+    "partial_or_internally_inconsistent_matrix": 1
+  },
+  "post_vacatur_status": {
+    "continued_other_narrative": 128,
+    "not_continued_in_reviewed_filings": 82,
+    "continued_same_matrix": 57,
+    "no_post_vacatur_relevant_filing": 30
+  },
+  "post_vacatur_matrix_format_status": {
+    "matrix_replaced_by_or_supplemented_with_narrative": 128,
+    "no_post_vacatur_matrix_extracted": 112,
+    "changed_extracted_shape": 44,
+    "same_extracted_shape": 13
+  },
+  "needs_manual_review": {
+    "0": 204,
+    "1": 93
+  },
+  "blank_initial_source_url": 42,
+  "blank_initial_evidence_hash": 35,
+  "duplicate_ciks": 0
+}

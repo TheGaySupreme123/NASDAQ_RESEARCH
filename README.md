@@ -133,6 +133,8 @@ master inclusion flag** (Nasdaq + not excluded + listed in window).
 | `build/disclosure_verification_sample.csv` | Live re-fetch verification of at least 20 disclosure citations. |
 | `build/date_source_audit.txt` | Date-basis distribution, listing-date provenance coverage, fallback counts, and examples where Nasdaq date differs from EDGAR pricing date. |
 | `build/validation_report.txt` | PASS/FAIL of all structural invariants. |
+| `build/unified_matrix_regression_review.csv` | One row per due-before-vacatur company, combining release bucket, initial matrix source/evidence, post-vacatur continuation evidence, extracted matrix-shape fields, change notes, manual-review flags, and regression hashes. |
+| `build/post_vacatur_continuation_due_before_vacatur.csv` | Post-vacatur continuation classification for the full due-before-vacatur review universe, not just the older strict verified cohort. |
 | `schema.sql` | Full SQLite schema with comments. |
 
 ### Database tables
@@ -162,8 +164,8 @@ python3 05_validate.py           # structural invariants -> validation_report.tx
 python3 06_verify_sample.py      # re-verify records plus >=20 disclosure citations
 python3 07_provenance_coverage.py# exported-cell provenance coverage
 python3 08_date_source_audit.py  # date-source distribution and fallback audit
-# or simply:
-./rebuild.sh
+python3 21_classify_post_vacatur_due_before_vacatur.py # full post-vacatur continuation layer
+python3 20_build_unified_matrix_regression_review.py   # normalized regression review file
 ```
 
 Raw downloads are cached under `data/raw/` so re-runs are deterministic and offline
