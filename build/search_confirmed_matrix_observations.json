@@ -1,0 +1,672 @@
+[
+  {
+    "cik": "1605888",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1605888/000121390024031701/ea0202517-10k_seqll.htm",
+    "source_type": "edgar_filing",
+    "form_type": "10-K",
+    "publication_date": "2024-04-09",
+    "observed_text": "ATLANTIC INTERNATIONAL CORP. / SeqLL Inc. Board Diversity Matrix. Board Diversity Matrix (As of March 31, 2024). Total Number of Directors 4. Part I: Gender Identity: Directors Female 1, Male 2, Non-Binary blank, Did Not Disclose Gender 1. Part II: Demographic Background: White Female 1, Male 2; Did Not Disclose Demographic Background 1.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1856028",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1856028/000114036124022864/ny20021834x1_def14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-04-29",
+    "observed_text": "Stronghold Digital Mining, Inc. Board Diversity Matrix (As of April 29, 2024). Total Number of Directors 7. Part I: Gender Identity: Directors Female 2, Male 5, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Asian Female 1; all other listed categories 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1870940",
+    "accession_or_url": "https://investors.elitebodysculpture.com/corporate-governance/board-of-directors/",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2024-08-08",
+    "observed_text": "AirSculpt Technologies, Inc. Board Diversity Matrix. Board Diversity Matrix (As of August 8, 2024). Total Number of Directors 7. Part I: Gender Identity: Directors Female 2, Male 5. Part II: Demographic Background: Asian 1; White Female 1, Male 5; LGBTQ+ 1. The page also shows a January 7, 2025 matrix.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1872529",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1872529/000121390024037806/ea0203819-20f_mdxhealt.htm",
+    "source_type": "edgar_filing",
+    "form_type": "20-F",
+    "publication_date": "2024-04-30",
+    "observed_text": "MDxHealth SA Board Diversity Matrix (as of April 30, 2024). Country of Principal Executive Offices: Belgium. Foreign Private Issuer Yes. Disclosure Prohibited under Home Country Law Yes. Total Number of Directors 7. Part I: Gender Identity: Directors Female 3, Male 4. Part II: Demographic Background: Did Not Disclose Demographic Background Female 3, Male 4. The filing also includes a prior matrix as of April 25, 2023.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1718224",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1718224/000147793223009378/btb_def14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-12-05",
+    "observed_text": "BT Brands, Inc. Board Diversity Matrix (As of April 1, 2023). Total Number of Directors: five. Part I: Gender Identity: Directors Female 1, Male 4, Non-Binary 0, Did Not Disclose 0. Part II: Demographic Background: Asian Female 1, Hispanic or Latinx Female 1, all other listed categories 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1815436",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1815436/000121390023007932/f20f2022_advancedhealth.htm",
+    "source_type": "edgar_filing",
+    "form_type": "20-F",
+    "publication_date": "2023-01-31",
+    "observed_text": "Advanced Health Intelligence Ltd Board Diversity Matrix. Country of Principal Executive Officers: Singapore and Australia. Foreign Private Issuer Yes. Disclosure Prohibited under Home Country Law No. Total Number of Directors 7. Part I: Gender Identity: Directors Female 2, Male 5, Non-Binary -, Did Not Disclose Gender -. Part II: Demographic Background: Underrepresented Individual in Home Country Jurisdiction -, LGBTQ+ -, Did Not Disclose Demographic Background -.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1084267",
+    "accession_or_url": "https://mobiquitytechnologies.com/wp-content/uploads/2023/04/MOBQ-Board-Diversity-Matrix-2022.pdf",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2022-12-14",
+    "observed_text": "Board Diversity Matrix for Mobiquity Technologies, Inc. As of December 14, 2022. Total Number of Directors 5. Part I: Gender Identity: Directors Female 1, Male 4, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: African American or Black Male 1; White Female 1, Male 3; all other listed categories 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1873835",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315224017060/formdef14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-04-30",
+    "observed_text": "Immix Biopharma, Inc. Board Diversity Matrix (As of April 22, 2024). Total Number of Directors 8. Part I: Gender Identity: Directors Female 4, Male 4. Part II: Demographic Background: Asian 2; Hispanic or Latinx 1; White Female 3, Male 2.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1070050",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1070050/000190359623000206/apcx_def14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-03-21",
+    "observed_text": "AppTech Payments Corp. Board Diversity Matrix (As of the Record Date). Total Number of Directors 7. Part I: Gender Identity: Directors Female 1, Male 6, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Asian Female 1; White Male 5; Two or More Races or Ethnicities Male 1; all other listed categories 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1658551",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1658551/000095017023015261/amlx-def14a-2023-proxy.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-04-27",
+    "observed_text": "Amylyx Pharmaceuticals, Inc. Board Diversity Matrix (As of April 27, 2023). Total Number of Directors 6. Part I: Gender Identity: Directors Female 2, Male 4, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Hispanic or Latinx Female 1; White Female 1, Male 4; all other listed categories 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1874875",
+    "accession_or_url": "https://ir.hourloop.com/corporate-governance/board-of-directors/",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2023-02-20",
+    "observed_text": "Hour Loop, Inc. Board Diversity Matrix (As of Feb 20, 2023). Total Number of Directors 6. Part I: Gender Identity: Directors Female 2, Male 4. Part II: Demographic Background: Asian Female 2, Male 2; White Male 2. The issuer page also shows a later Board Diversity Matrix as of July 22, 2024.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1880661",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1880661/000188066123000021/tpg-20230403.htm",
+    "source_type": "edgar_filing",
+    "form_type": "PRE 14A",
+    "publication_date": "2023-04-03",
+    "observed_text": "TPG Inc. Board Diversity Matrix. Total Number of Directors 14. Part I: Gender Identity: Directors Female 4, Male 10, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: African American or Black Male 1; Asian Male 1; Hispanic or Latinx Female 1, Male 1; White Female 2, Male 7; Two or More Races or Ethnicities Female 1.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1864943",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1864943/000155837023007097/tmb-20220601xdef14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-04-27",
+    "observed_text": "FGI Industries Ltd. Board Diversity Matrix (as of April 6, 2023). Total Number of Directors 5. Part I: Gender Identity: Directors Female 1, Male 4, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Asian Male 2; White Female 1; White Male 2; all other listed categories 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1786205",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1786205/000095017023012922/aclx_2022_pre_14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "PRE 14A",
+    "publication_date": "2023-04-14",
+    "observed_text": "Arcellx, Inc. Board Diversity Matrix. Composition of Board members and nominees as of April 14, 2023. Total Number of Directors 7. Part I: Gender Identity: Female 3, Male 4. Part II: Demographic Background: African American or Black Female 1; Asian Female 1, Male 2; White Female 1, Male 1; Did Not Disclose Demographic Background Male 1; directors who identify as Middle Eastern or North African 2.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1875558",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1875558/000110465923052907/tm2313950d1_def14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-04-28",
+    "observed_text": "Nuvectis Pharma, Inc. Board Diversity Matrix (As of April 28, 2023). Total Number of Directors 4. Part I: Gender Identity: Directors Female 0, Male 4, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: White Male 4; all other listed categories 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1648087",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1648087/000149315224008781/formdef14c.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14C",
+    "publication_date": "2024-03-05",
+    "observed_text": "American Rebel Holdings, Inc. Board Diversity Matrix (As of November 30, 2023). Total Number of Directors 5. Part I: Gender Identity: Directors Female 0, Male 5, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Native Hawaiian or Pacific Islander Male 1; White Male 4; all other listed categories 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1892322",
+    "accession_or_url": "https://heartcore-enterprises.com/corporate-governance.html",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2025-01-01",
+    "observed_text": "HeartCore Enterprises, Inc. Board Diversity Matrix (as of January 1, 2025). Total Number of Directors 6. Part I: Gender Identity: Directors Female 1, Male 5, Non-Binary 0. Part II: Demographic Background: Asian Female 1, Male 4; White Male 1; all other listed categories 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1880613",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1880613/000110465923054340/tm2313926d1_def14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-05-01",
+    "observed_text": "Direct Digital Holdings, Inc. Board Diversity Matrix (as of February 15, 2023). Total Number of Directors 5. Part I: Gender Identity: Directors Female 2, Male 3, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: African American or Black Female 1, Male 2; White Female 1, Male 1; all other listed categories 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1482541",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1482541/000149315223038392/formdef14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-10-26",
+    "observed_text": "CEA Industries Inc. Board Diversity Matrix Disclosure. Total Number of Directors 5. Part I: Gender Identity: Directors Female 0, Male 5, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Asian Male 1; White Male 4; all other listed categories 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1835615",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1835615/000121390023029709/f20f2022_meihua.htm",
+    "source_type": "edgar_filing",
+    "form_type": "20-F",
+    "publication_date": "2023-04-14",
+    "observed_text": "Meihua International Medical Technologies Co., Ltd. Board Diversity Matrix. Country of Principal Executive Offices: China. Foreign Private Issuer Yes. Disclosure Prohibited under Home Country Law No. Total Number of Directors 5. Part I: Gender Identity: Directors Female 1, Male 4, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Underrepresented Individual in Home Country Jurisdiction 0; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1450704",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1450704/000182912624008066/vivakor_def14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-12-05",
+    "observed_text": "Vivakor, Inc. Board Diversity Matrix. As of December 5, 2024 and as of December 31, 2023. Total Number of Directors 5 and 4. Gender Identity: Directors Male 5 and Male 4. Part II: Demographic Background: African American or Black Male 1; White Male 4 and White Male 3; all other listed categories blank or 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1880438",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1880438/000095017023014794/antx-def14a-2022-final.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-04-26",
+    "observed_text": "AN2 Therapeutics, Inc. Board Diversity Matrix (as of April 26, 2023). Total Number of Directors 9. Part I: Gender Identity: Directors Female 3, Male 6. Part II: Demographic Background: Asian Female 1, Male 1; White Female 2, Male 5; LGBTQ+ Female 1; all other listed categories blank or 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1894954",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1894954/000190359623000697/xpon_def14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-09-06",
+    "observed_text": "Expion360 Inc. Board Diversity Matrix (As of August 24, 2023). Total Number of Directors 5. Gender Identity: Directors Male 5, Non-Binary 0, Did Not Disclose Gender 0. Demographic Background: Asian Male 1; White Male 3; Two or More Races or Ethnicities Male 1; all other listed categories 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1635077",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1635077/000168316823007841/aclarion_def14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-11-13",
+    "observed_text": "Aclarion, Inc. Board Diversity Matrix (As of April 21, 2023). Total Number of Directors 7. Part I: Gender Identity: Directors Female 1, Male 6. Part II: Demographic Background: White Female 1, Male 6; all other listed categories blank or 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1560293",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1560293/000121390023063655/def14a0823_tenonmed.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-08-04",
+    "observed_text": "Tenon Medical, Inc. Board Diversity Matrix (As of July 18, 2023). Total Number of Directors 7. Part I: Gender Identity: Directors Female 0, Male 7, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: African American or Black Male 1; White Male 6; all other listed categories 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1141284",
+    "accession_or_url": "https://ir.actelis.com/corporate-governance/board-diversity-matrix",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2023-05-13",
+    "observed_text": "Board Diversity Matrix for Actelis Networks, Inc. As of May 13, 2023. Total Number of Directors 5. Part I: Gender Identity: Directors Female 2, Male 3, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: White Female 2, Male 3; all other listed categories 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1886799",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1886799/000149315223039740/formdef14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-11-07",
+    "observed_text": "Bright Green Corp. Board Diversity Matrix (As of June 30, 2023). Total Number of Directors: five. Part I: Gender Identity: Directors Female 1, Male 4, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: White Female 1, Male 4; all other listed categories blank or 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1892274",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1892274/000168316823005816/vedu_i20f-033123.htm",
+    "source_type": "edgar_filing",
+    "form_type": "20-F",
+    "publication_date": "2023-08-15",
+    "observed_text": "Visionary Holdings Inc. Board Diversity Matrix. Country of Principal Executive Offices: Canada. Foreign Private Issuer Yes. Disclosure Prohibited under Home Country Law No. Total Number of Directors 5. Part I: Gender Identity: Directors Female 1, Male 4, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Underrepresented Individual in Home Country Jurisdiction 3; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "923601",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/923601/000149315223042672/formdef14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-11-24",
+    "observed_text": "Algorhythm Holdings, Inc. Board Diversity Matrix (as of November 22, 2023). Total Number of Directors 10. Part I: Gender Identity: Directors Female 0, Male 10, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: all directors male; subsequent rows include no disclosed female directors.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1879848",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1879848/000110465923119221/tm2329940-2_def14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-11-17",
+    "observed_text": "Phoenix Motor Inc. Board Diversity Matrix as of November 8, 2023. Total Number of Directors 6. The proxy includes Gender Identity columns Female, Male, Non-Binary, and Did Not Disclose Gender, and Demographic Background categories including African American or Black, Asian, White, Two or More Races or Ethnicities, LGBTQ+, and Did Not Disclose Demographic Background.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1674440",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1674440/000149315224017592/formdef14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-05-02",
+    "observed_text": "Connexa Sports Technologies Inc. Board Diversity Matrix as of March 31, 2024. Total Number of Directors 5. Part I: Gender Identity: Directors Female 0, Male 5. Part II: Demographic Background: African American or Black Male 1; White Male 4; LGBTQ+ 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1826376",
+    "accession_or_url": "https://ir.jtyjyjt.com/images/boarddiversity.jpg",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2023-07-20",
+    "observed_text": "Golden Sun Technology Group Ltd. Board Diversity Matrix. Country of Principal Executive Offices China; Foreign Private Issuer Yes; Disclosure Prohibited Under Home Country Law No. As of July 20, 2023, Total Number of Directors 7. Part I: Gender Identity: Directors Female 1, Male 6, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Underrepresented Individual in Home Country Jurisdiction 0; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1748137",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1748137/000168316823007315/neovolta_def14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-10-20",
+    "observed_text": "NeoVolta Inc. Board Diversity Matrix as of October 16, 2023. Total Number of Directors 5. Gender: Directors Male 4, Female 1. Number of Directors who identify in any of the categories below: White Male 4, Female 1.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1881472",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1881472/000164117225004566/form20-f.htm",
+    "source_type": "edgar_filing",
+    "form_type": "20-F",
+    "publication_date": "2025-04-14",
+    "observed_text": "Magic Empire Global Limited Board Diversity Matrix as of the date of the annual report. Country of Principal Executive Offices Hong Kong; Foreign Private Issuer Yes; Disclosure Prohibited Under Home Country Law No. Total Number of Directors 5. Part I: Gender Identity: Directors Female 1, Male 4, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Underrepresented Individual in Home Country Jurisdiction 0; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1425355",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1425355/000165495423012379/mcvt_def14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-09-28",
+    "observed_text": "Mill City Ventures III, Ltd. Board Diversity Matrix as of August 22, 2023. Total Number of Directors 5. Part I: Gender Identity: Directors Female 0, Male 5, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: White Male 5; all other listed categories 0; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1014763",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1014763/000165495424002897/aimd_10k.htm",
+    "source_type": "edgar_filing",
+    "form_type": "10-K",
+    "publication_date": "2024-03-08",
+    "observed_text": "Ainos, Inc. Board Diversity Matrix as of March 7, 2024. Total Number of Directors 7. Part I: Gender Identity: Directors Female 1, Male 6, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Asian Female 1, Male 6, Non-Binary 0, Did Not Disclose Gender 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1905956",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1905956/000121390024038913/ea0204060-02.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-05-02",
+    "observed_text": "Treasure Global Inc Board Diversity Matrix as of May 2, 2024. Total Number of Directors 5. Part I: Gender Identity: Directors Female 1, Male 4, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: African American or Black Male 1; Asian Female 1 and Male 1; White Male 2; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1650101",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1650101/000149315224021876/formdef14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-05-30",
+    "observed_text": "Addentax Group Corp. Board Diversity Matrix as of May 20, 2024. Country of Principal Executive Offices China; Foreign Private Issuer No; Disclosure Prohibited under Home Country Law No. Total Number of Directors 5. Part I: Gender Identity: Directors Female 0, Male 5, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Underrepresented Individual in Home Country Jurisdiction 0; LGBTQ+ 0; Did Not Disclose Demographic Background 0; Directors who are Aboriginal Peoples 0; Directors with Disabilities 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1712762",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1712762/000149315224014522/formdef14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-04-15",
+    "observed_text": "bioAffinity Technologies, Inc. Board Diversity Matrix as of April 8, 2024. Total Number of Directors 8. Part I: Gender Identity: Directors Female 2, Male 6, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: White Female 2, Male 6; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1898604",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1898604/000149315223039587/formdef14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2023-11-06",
+    "observed_text": "Yoshiharu Global Co. Board Diversity Matrix as of September 30, 2023. Total Number of Directors 4. Part I: Gender Identity: Directors Female 2, Male 2, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Asian Female 2, Male 2; all other listed categories 0; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1887673",
+    "accession_or_url": "https://www.wearabledevices.co.il/_files/ugd/fd494d_b8bd0202161346f58cfc2d669130c313.pdf",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2023-08-04",
+    "observed_text": "Wearable Devices Ltd. Board Diversity Matrix. Company Name Wearable Devices Ltd.; Country of Principal Executive Offices State of Israel; Foreign Private Issuer Yes; Disclosure Prohibited Under Home Country Law No. As of August 4, 2023, Total Number of Directors 6. Gender Identity: Directors Female 1, Male 4, Non-Binary 0, Did Not Disclose Gender 0. Did Not Disclose Demographic Background 1.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1921865",
+    "accession_or_url": "https://ir.aspisotopes.com/corporate-governance/board-diversity-matrix",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2023-10-23",
+    "observed_text": "ASP Isotopes Inc. Board Diversity Matrix as of October 23, 2023. Total Number of Directors 6. Part I: Gender Identity: Directors Female 0, Male 6, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background categories include African American or Black, Alaskan Native or American Native, Asian, Hispanic or Latinx, Native Hawaiian or Pacific Islander, with no directors reported in those categories in the indexed primary page excerpt.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.85
+  },
+  {
+    "cik": "1892500",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1892500/000121390024007413/f20f2023_clearmind.htm",
+    "source_type": "edgar_filing",
+    "form_type": "20-F",
+    "publication_date": "2024-01-29",
+    "observed_text": "Clearmind Medicine Inc. Board Diversity Matrix as of January 29, 2024. Country of Principal Executive Offices Canada; Foreign Private Issuer Yes; Disclosure Prohibited under Home Country Law No. Total Number of Directors 4. Part I: Gender Identity: Directors Female 0, Male 4, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Underrepresented Individual in Home Country Jurisdiction 0; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1519449",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1519449/000151944924000015/skywardspecialtyinsuranceg.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-04-01",
+    "observed_text": "Skyward Specialty Insurance Group, Inc. Board Diversity Matrix. Total Number of Directors 8. Part I: Gender Identity: Directors Female 3, Male 5, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: African American or Black Female 1; White Female 2, Male 4; Did Not Disclose Demographic Background 1; Directors Who Are Military Veterans 1.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1902794",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1902794/000149315224012329/form10-k.htm",
+    "source_type": "edgar_filing",
+    "form_type": "10-K",
+    "publication_date": "2024-04-01",
+    "observed_text": "MGO Global Inc. Board Diversity Matrix as of December 31, 2023. Total Number of Directors 7. Part I: Gender Identity: Directors Female 2, Male 5. Part II: Demographic Background: African American or Black Male 1; Asian Female 1; Hispanic or Latinx Male 1; White Female 1, Male 3.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1888886",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465924051972/tm2412014-1_def14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-04-25",
+    "observed_text": "Structure Therapeutics Inc. Board Diversity Matrix as of April 19, 2024. Total Number of Directors 7. Part I: Gender Identity: Directors Female 2, Male 5, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: African American or Black Male 1; White Female 2, Male 4; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1920406",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1920406/000121390024071597/ea0211815-def14a_asset.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-08-22",
+    "observed_text": "Asset Entities Inc. Board Diversity Matrix as of August 2, 2024. Total Number of Directors 7. Part I: Gender Identity: Directors Female 0, Male 7, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: White Male 7; all other listed categories 0; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1933414",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1933414/000193341424000009/mlys-proxystatementx202404.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-04-09",
+    "observed_text": "Mineralys Therapeutics, Inc. Board Diversity Matrix as of March 15, 2024. Total Number of Directors 8. Part I: Gender Identity: Directors Female 1, Male 7. Part II: Demographic Background: Asian Female 1; White Female 1, Male 6.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1829247",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1829247/000149315224011964/form10-k.htm",
+    "source_type": "edgar_filing",
+    "form_type": "10-K",
+    "publication_date": "2024-03-29",
+    "observed_text": "BullFrog AI Holdings, Inc. Board Diversity Matrix. Country of Principal Executive Offices United States; Foreign Private Issuer No; Disclosure Prohibited under Home Country Law N/A. Total Number of Directors 4. Part I: Gender Identity: Directors Female 0, Male 4, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Underrepresented Individual in Home Country Jurisdiction N/A; LGBTQ+ not disclosed; Did Not Disclose Demographic Background not disclosed.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1895618",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1895618/000121390024026681/ea0202356-10k_gaxosai.htm",
+    "source_type": "edgar_filing",
+    "form_type": "10-K",
+    "publication_date": "2024-03-27",
+    "observed_text": "Gaxos.ai Inc. Board Diversity Matrix as of March 27, 2024. Total Number of Directors 4. Part I: Gender Identity: Directors Male 4. Part II: Demographic Background: White Male 4.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1938046",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1938046/000149315224020141/formdef14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-05-16",
+    "observed_text": "Mangoceuticals, Inc. Board Diversity Matrix as of May 16, 2024. Total Number of Directors 4. Part I: Gender Identity: Directors Female 1, Male 3, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Asian Male 1; Hispanic or Latinx Male 1; White Female 1, Male 1; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1948455",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1948455/000121390024040264/ea0205362-01.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-05-07",
+    "observed_text": "Ispire Technology Inc. Board Diversity Matrix as of the filing date. Total Number of Directors 5. Part I: Gender Identity: Directors Male 4, Female 1. Part II: Demographic Background: Asian Male 1, Female 1; White Male 3; other listed categories blank or zero.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1930179",
+    "accession_or_url": "https://www.arbiotgroup.com/board-diversity-matrix",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2024-05-16",
+    "observed_text": "ARB IOT Group Limited Board Diversity Matrix as of May 16, 2024. Country of Principal Executive Offices Singapore; Foreign Private Issuer Yes; Disclosure Prohibited Under Home Country Law No. Total Number of Directors 5. Gender Identity: Directors Female 2, Male 3, Non-Binary 0, Did Not Disclose Gender 0. Demographic Background: Underrepresented Individual in Home Country Jurisdiction 0; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1899658",
+    "accession_or_url": "https://www.wangnleegroup.com/_files/ugd/cda0ed_69638031a5b741be9767a91aa6b7b3f3.pdf",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2024-01-19",
+    "observed_text": "WANG & LEE GROUP, Inc. Board Diversity Matrix as of January 19, 2024. Total Number of Directors 5. Part I: Gender Identity: Directors Female 1, Male 4. Part II: Demographic Background: Asian 3; White 1; Did Not Disclose Demographic Background 1.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1823584",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1823584/000149315224041476/formdef14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-10-18",
+    "observed_text": "Alliance Entertainment Holding Corp. Board Diversity Matrix as of September 23, 2024. Total Number of Directors 6. Part I: Gender Identity: Directors Female 1, Male 5, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: White Female 1, Male 5; all other listed categories 0; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1737523",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1737523/000147793224005760/bglc_def14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-09-16",
+    "observed_text": "BioNexus Gene Lab Corp. Board Diversity Matrix as of September 4, 2024. Total Number of Directors 5. Part I: Gender Identity: Directors Female 0, Male 5, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Asian (other than South Asian) Male 5; all other listed categories 0; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1805526",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1805526/000157587224001119/cm498_def14a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-11-04",
+    "observed_text": "DeFi Development Corp. Board Diversity Matrix as of October 31, 2024. Total Number of Directors 5. Part I: Gender Identity: Directors Male 5, Female 0, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Hispanic or Latinx Male 2; White Male 3; all other listed categories 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1911545",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1911545/000121390024104199/ea0223068-01.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2024-12-02",
+    "observed_text": "Global Interactive Technologies, Inc. Board Diversity Matrix as of November 7, 2024. Total Number of Directors 4. Part I: Gender Identity: Directors Male 4, Female 0. Part II: Demographic Background: White Male 3; Asian Male 1; Hispanic or Latinx 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1928581",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1928581/000149315224046303/form20-f.htm",
+    "source_type": "edgar_filing",
+    "form_type": "20-F",
+    "publication_date": "2024-11-15",
+    "observed_text": "GMEX Robotics Corp / Fitell Corp Board Diversity Matrix as of the annual report date. Country of Principal Executive Offices Australia; Foreign Private Issuer Yes; Disclosure Prohibited Under Home Country Law No. Total Number of Directors 5. Part I: Gender Identity: Directors Female 2, Male 3, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Underrepresented Individual in Home Country Jurisdiction 3; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1951067",
+    "accession_or_url": "https://c3is.pro/DataRoom/C3isBoardDiversityMatrix2024.pdf",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2024-06-14",
+    "observed_text": "C3is Inc. Board Diversity Matrix as of June 14, 2024. Country of Principal Executive Offices Greece; Foreign Private Issuer Yes; Disclosure Prohibited Under Home Country Law No. Total Number of Directors 4. Part I: Gender Identity: Directors Male 4, Female 0, Non-Binary 0, Did Not Disclose Gender 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1765850",
+    "accession_or_url": "https://ir.aurelion.com/download/PWM+-+board+diversity+matrix+disclosure.pdf",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2024-07-09",
+    "observed_text": "Aurelion Inc. / Prestige Wealth Inc. Board Diversity Matrix as of July 9, 2024. Country of Principal Executive Offices Hong Kong; Foreign Private Issuer Yes; Disclosure Prohibited Under Home Country Law No. Total Number of Directors 5. Part I: Gender Identity: Directors Female 0, Male 5. Part II: Demographic Background: Underrepresented Individual in Home Country Jurisdiction 0; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1843165",
+    "accession_or_url": "https://invest.lqrhouse.com/board-diversity-matrix/",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2024-08-10",
+    "observed_text": "LQR House Inc. Board Diversity Matrix as of August 10, 2024. Total Number of Directors 6. Part I: Gender Identity: Directors Female 1, Male 5, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: White Female 1, Male 5; all other listed categories 0; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1922335",
+    "accession_or_url": "https://ir.syrahealth.com/assets/governance/Board-Diversity-Matrix.pdf",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2024-10-01",
+    "observed_text": "Syra Health Corp. Board Diversity Matrix as of October 1, 2024. Total Number of Directors 8. Part I: Gender Identity: Directors Female 3, Male 5. Part II: Demographic Background: African American or Black Female 1; Asian Female 2, Male 4; White Male 1.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1713210",
+    "accession_or_url": "https://atpc.com.my/wp-content/uploads/2024/11/20241115_ATPC_Board-Diversity-Matrix-.pdf",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2024-11-15",
+    "observed_text": "Agape ATP Corporation Board Diversity Matrix as of November 15, 2024. The primary PDF text extraction reports Total Number of Directors 5, while the gender row reports Directors Female 2 and Male 4. Part II: Demographic Background includes African American or Black Female 1; Asian Female 1, Male 3; White Male 1. The source appears internally inconsistent on total versus gender counts.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.8
+  },
+  {
+    "cik": "1840563",
+    "accession_or_url": "https://www.pmgcholdings.com/images/PDF/Domestic_Initial_Disclosure_Y1_1.pdf",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2024-12-03",
+    "observed_text": "PMGC Holdings Inc. / Elevai Labs Inc. Board Diversity Matrix as of December 3, 2024. Total Number of Directors 6. Part I: Gender Identity: Directors Female 1, Male 5. Part II: Demographic Background: White Female 1, Male 4; Two or More Races or Ethnicities Male 1.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.9
+  },
+  {
+    "cik": "1961847",
+    "accession_or_url": "https://www.sec.gov/Archives/edgar/data/1961847/000149315225007186/formdef14-a.htm",
+    "source_type": "edgar_filing",
+    "form_type": "DEF 14A",
+    "publication_date": "2025-02-18",
+    "observed_text": "Inno Holdings Inc. Board Diversity Matrix as of January 31, 2025. Total Number of Directors 5. Part I: Gender Identity: Directors Female 2, Male 3. Part II: Demographic Background: Asian Female 2, Male 3; all other listed categories 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1948697",
+    "accession_or_url": "https://investor.simpple.ai/governance/board-diversity-matrix",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2026-06-22",
+    "observed_text": "SIMPPLE Ltd. current issuer Board Diversity Matrix page captured on June 22, 2026. The page displays Directors 5 and demographic background Asian 4, White 1, but does not display a publication/as-of date or explicit total-number label in the extracted page text.",
+    "matched_query": "Board Diversity Matrix;Gender Identity;Demographic Background",
+    "confidence": 0.8
+  }
+]

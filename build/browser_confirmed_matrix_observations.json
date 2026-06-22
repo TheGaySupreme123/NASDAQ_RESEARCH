@@ -1,0 +1,32 @@
+[
+  {
+    "cik": "1187953",
+    "accession_or_url": "https://web.archive.org/web/20221208001234/https://creativemedicaltechnology.com/board-diversity-matrix/",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2022-12-08",
+    "observed_text": "Creative Medical Technology Holdings, Inc. Board Diversity Matrix. The table states it provides information related to the composition of board members and nominees under Nasdaq Rule 5605(f). Board Diversity Matrix (As of 6/30/2022). Total Number of Directors 5. Part I: Gender Identity: Directors Female 1, Male 4, Non-Binary -, DND Gender -. Part II: Demographic Background: African American or Black -; Alaskan Native or American Indian -; Asian -; Hispanic or Latinx -; Native Hawaiian or Pacific Islander -; White Female 1, Male 4; Two or More Races or Ethnicities -; LGBTQ+ -; DND Demographic Background -.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1875091",
+    "accession_or_url": "https://web.archive.org/web/20230327150705/https://neurosense.investorroom.com/download/NRSN+-+Diversity+Matrix.pdf",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2023-01-08",
+    "observed_text": "NeuroSense Therapeutics Ltd. Board Diversity Matrix. Country of Principal Executive Offices: Israel. Foreign Private Issuer: Yes. Disclosure Prohibited under Home Country Law: No. Total Number of Directors: 6. Part I: Gender Identity: Directors Female 3, Male 3, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Underrepresented Individual in Home Country Jurisdiction 1; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  },
+  {
+    "cik": "1872302",
+    "accession_or_url": "https://web.archive.org/web/20240228034920/https://ir.nano.cn/corporate-governance/board-diversity-matrix",
+    "source_type": "website_archive",
+    "form_type": null,
+    "publication_date": "2023-10-09",
+    "observed_text": "Nano Labs Ltd Board Diversity Matrix. Board Diversity Matrix for Nano Labs Ltd. As of October 9, 2023. Country of Principal Executive Offices: People's Republic of China. Foreign Private Issuer: Yes. Disclosure Prohibited Under Home Country Law: No. Total Number of Directors 6. Part I: Gender Identity: Directors Female 2, Male 4, Non-Binary 0, Did Not Disclose Gender 0. Part II: Demographic Background: Underrepresented Individual in Home Country Jurisdiction 0; LGBTQ+ 0; Did Not Disclose Demographic Background 0.",
+    "matched_query": "Board Diversity Matrix;Total Number of Directors;Gender Identity;Demographic Background",
+    "confidence": 0.95
+  }
+]

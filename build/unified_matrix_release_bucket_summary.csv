@@ -1,0 +1,7 @@
+bucket,count,earliest_due,latest_due,sample_companies
+no_release_found_after_checks,42,2022-09-14,2024-11-17,SRAD; ARBK; GFAI; EMPD; BBLG; MRAI; GFS; LIANY
+partial_or_internally_inconsistent_matrix,1,2024-10-11,2024-10-11,ATPC
+partial_or_unretrieved_primary_evidence,4,2022-10-15,2024-08-23,INKT; GNTA; GENK; FMST
+released_after_required_window,57,2022-08-27,2024-12-04,"ATLN; Stronghold Digital Mining, Inc.; RWAY; AIRS; SURG; MDXH; BTBD; Advanced Health Intelligence Ltd"
+released_but_window_not_guaranteed,2,2023-04-14,2024-09-13,STSS; SPPL
+released_in_required_window,191,2022-08-12,2024-12-01,"Southern States Bancshares, Inc.; DRMA; AUID; RNXT; FCUV; PRCT; DICE Therapeutics, Inc.; NXXT"

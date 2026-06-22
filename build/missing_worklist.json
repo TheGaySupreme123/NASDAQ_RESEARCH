@@ -1,0 +1,425 @@
+[
+  {
+    "cik": "1836470",
+    "ticker": "SRAD",
+    "legal_name": "Sportradar Group AG",
+    "nasdaq_listing_date": "2021-09-14",
+    "initial_matrix_due_date": "2022-09-14",
+    "company_urls": "https://investors.sportradar.com;https://sportradar.com",
+    "snapshots_checked": 10
+  },
+  {
+    "cik": "1841675",
+    "ticker": "ARBK",
+    "legal_name": "Argo Blockchain Plc",
+    "nasdaq_listing_date": "2021-09-23",
+    "initial_matrix_due_date": "2022-09-23",
+    "company_urls": "https://argoblockchain.com;https://primarybid.com",
+    "snapshots_checked": 12
+  },
+  {
+    "cik": "1804469",
+    "ticker": "GFAI",
+    "legal_name": "Guardforce AI Co., Ltd.",
+    "nasdaq_listing_date": "2021-09-30",
+    "initial_matrix_due_date": "2022-09-30",
+    "company_urls": "https://guardforceai.com;https://mordorintelligence.com",
+    "snapshots_checked": 2
+  },
+  {
+    "cik": "1829794",
+    "ticker": "EMPD",
+    "legal_name": "Empery Digital Inc.",
+    "nasdaq_listing_date": "2021-10-06",
+    "initial_matrix_due_date": "2022-10-06",
+    "company_urls": "https://ir.volcon.com;https://volcon.com",
+    "snapshots_checked": 0
+  },
+  {
+    "cik": "1419554",
+    "ticker": "BBLG",
+    "legal_name": "Bone Biologics Corp",
+    "nasdaq_listing_date": "2021-10-13",
+    "initial_matrix_due_date": "2022-10-13",
+    "company_urls": "https://bonebiologics.com",
+    "snapshots_checked": 0
+  },
+  {
+    "cik": "1840229",
+    "ticker": "INKT",
+    "legal_name": "MiNK Therapeutics, Inc.",
+    "nasdaq_listing_date": "2021-10-15",
+    "initial_matrix_due_date": "2022-10-15",
+    "company_urls": "https://investor.minktherapeutics.com;https://minktherapeutics.com",
+    "snapshots_checked": 0
+  },
+  {
+    "cik": "1844392",
+    "ticker": "MRAI",
+    "legal_name": "Marpai, Inc.",
+    "nasdaq_listing_date": "2021-10-27",
+    "initial_matrix_due_date": "2022-10-27",
+    "company_urls": "https://ir.marpaihealth.com;https://marpaihealth.com",
+    "snapshots_checked": 1
+  },
+  {
+    "cik": "1709048",
+    "ticker": "GFS",
+    "legal_name": "GLOBALFOUNDRIES Inc.",
+    "nasdaq_listing_date": "2021-10-28",
+    "initial_matrix_due_date": "2022-10-28",
+    "company_urls": "https://investors.gf.com;https://gf.com",
+    "snapshots_checked": 6
+  },
+  {
+    "cik": "1831283",
+    "ticker": "LIANY",
+    "legal_name": "LianBio",
+    "nasdaq_listing_date": "2021-11-01",
+    "initial_matrix_due_date": "2022-11-01",
+    "company_urls": "https://lianbiopharma.com;https://lianbio.com",
+    "snapshots_checked": 2
+  },
+  {
+    "cik": "1871149",
+    "ticker": "",
+    "legal_name": "Real Good Food Company, Inc.",
+    "nasdaq_listing_date": "2021-11-05",
+    "initial_matrix_due_date": "2022-11-05",
+    "company_urls": "https://investors.realgoodfoods.com;https://realgoodfoods.com",
+    "snapshots_checked": 1
+  },
+  {
+    "cik": "1840416",
+    "ticker": "SSM",
+    "legal_name": "Sono Group N.V.",
+    "nasdaq_listing_date": "2021-11-17",
+    "initial_matrix_due_date": "2022-11-17",
+    "company_urls": "https://ir.sonomotors.com;https://sonomotors.com",
+    "snapshots_checked": 7
+  },
+  {
+    "cik": "1769697",
+    "ticker": "FNUC",
+    "legal_name": "Frontier Nuclear & Minerals Inc.",
+    "nasdaq_listing_date": "2021-11-19",
+    "initial_matrix_due_date": "2022-11-19",
+    "company_urls": "https://snowlakelithium.com;https://nrcan.gc.ca",
+    "snapshots_checked": 12
+  },
+  {
+    "cik": "1876581",
+    "ticker": "IMPP",
+    "legal_name": "Imperial Petroleum Inc./Marshall Islands",
+    "nasdaq_listing_date": "2021-11-23",
+    "initial_matrix_due_date": "2022-11-23",
+    "company_urls": "https://imperialpetro.com;https://impp.com",
+    "snapshots_checked": 12
+  },
+  {
+    "cik": "1720671",
+    "ticker": "",
+    "legal_name": "HashiCorp, Inc.",
+    "nasdaq_listing_date": "2021-12-09",
+    "initial_matrix_due_date": "2022-12-09",
+    "company_urls": "https://ir.hashicorp.com;https://hashicorp.com",
+    "snapshots_checked": 6
+  },
+  {
+    "cik": "1838716",
+    "ticker": "GNTA",
+    "legal_name": "Genenta Science S.p.A.",
+    "nasdaq_listing_date": "2021-12-15",
+    "initial_matrix_due_date": "2022-12-15",
+    "company_urls": "https://genenta.com;https://clinicaltrials.gov",
+    "snapshots_checked": 8
+  },
+  {
+    "cik": "1868734",
+    "ticker": "",
+    "legal_name": "CinCor Pharma, Inc.",
+    "nasdaq_listing_date": "2022-01-07",
+    "initial_matrix_due_date": "2023-01-07",
+    "company_urls": "https://cincor.com",
+    "snapshots_checked": 0
+  },
+  {
+    "cik": "1861657",
+    "ticker": "CNTN",
+    "legal_name": "Canton Strategic Holdings, Inc.",
+    "nasdaq_listing_date": "2022-01-12",
+    "initial_matrix_due_date": "2023-01-12",
+    "company_urls": "https://annualgeneralmeetings.com;https://hillstreambio.com",
+    "snapshots_checked": 0
+  },
+  {
+    "cik": "1777319",
+    "ticker": "CISO",
+    "legal_name": "CISO Global, Inc.",
+    "nasdaq_listing_date": "2022-01-18",
+    "initial_matrix_due_date": "2023-01-18",
+    "company_urls": "https://cerberussentinel.com;https://cerberuscybersentinelcorporation.com",
+    "snapshots_checked": 12
+  },
+  {
+    "cik": "1872964",
+    "ticker": "MTEK",
+    "legal_name": "Maris Tech Ltd.",
+    "nasdaq_listing_date": "2022-02-02",
+    "initial_matrix_due_date": "2023-02-02",
+    "company_urls": "https://maristech.com;https://maris-tech.com",
+    "snapshots_checked": 0
+  },
+  {
+    "cik": "1872812",
+    "ticker": "",
+    "legal_name": "TC BioPharm (Holdings) plc",
+    "nasdaq_listing_date": "2022-02-11",
+    "initial_matrix_due_date": "2023-02-11",
+    "company_urls": "https://ir.tcbiopharm.com;https://tcbiopharm.com",
+    "snapshots_checked": 0
+  },
+  {
+    "cik": "1851860",
+    "ticker": "",
+    "legal_name": "SMART FOR LIFE, INC.",
+    "nasdaq_listing_date": "2022-02-16",
+    "initial_matrix_due_date": "2023-02-16",
+    "company_urls": "https://smartforlife.com;https://smartforlifecorp.com",
+    "snapshots_checked": 0
+  },
+  {
+    "cik": "1402328",
+    "ticker": "SBFM",
+    "legal_name": "Sunshine Biopharma Inc.",
+    "nasdaq_listing_date": "2022-02-17",
+    "initial_matrix_due_date": "2023-02-17",
+    "company_urls": "https://sunshinebiopharma.com",
+    "snapshots_checked": 2
+  },
+  {
+    "cik": "1888014",
+    "ticker": "AKAN",
+    "legal_name": "AKANDA CORP.",
+    "nasdaq_listing_date": "2022-03-15",
+    "initial_matrix_due_date": "2023-03-15",
+    "company_urls": "https://akancorp.com;https://akandacorp.com",
+    "snapshots_checked": 5
+  },
+  {
+    "cik": "1737995",
+    "ticker": "STSS",
+    "legal_name": "SkyAI, Inc.",
+    "nasdaq_listing_date": "2022-04-14",
+    "initial_matrix_due_date": "2023-04-14",
+    "company_urls": "https://ir.stss.com;https://sharpstechnology.com",
+    "snapshots_checked": 6
+  },
+  {
+    "cik": "1905511",
+    "ticker": "JCSE",
+    "legal_name": "JE Cleantech Holdings Ltd",
+    "nasdaq_listing_date": "2022-04-22",
+    "initial_matrix_due_date": "2023-04-22",
+    "company_urls": "https://jecleantech.com.sg;https://jecleantech.sg",
+    "snapshots_checked": 3
+  },
+  {
+    "cik": "1849296",
+    "ticker": "OKYO",
+    "legal_name": "OKYO Pharma Ltd",
+    "nasdaq_listing_date": "2022-05-17",
+    "initial_matrix_due_date": "2023-05-17",
+    "company_urls": "https://okyopharma.com;https://adr.com",
+    "snapshots_checked": 4
+  },
+  {
+    "cik": "1468492",
+    "ticker": "HSCS",
+    "legal_name": "HeartSciences Inc.",
+    "nasdaq_listing_date": "2022-06-15",
+    "initial_matrix_due_date": "2023-06-15",
+    "company_urls": "https://heartsciences.com",
+    "snapshots_checked": 3
+  },
+  {
+    "cik": "1816319",
+    "ticker": "LYTHF",
+    "legal_name": "Lytus Technologies Holdings PTV. Ltd.",
+    "nasdaq_listing_date": "2022-06-15",
+    "initial_matrix_due_date": "2023-06-15",
+    "company_urls": "https://lytuscorp.com;https://lyt.com",
+    "snapshots_checked": 0
+  },
+  {
+    "cik": "1885827",
+    "ticker": "VRAX",
+    "legal_name": "Virax Biolabs Group Ltd",
+    "nasdaq_listing_date": "2022-07-21",
+    "initial_matrix_due_date": "2023-07-21",
+    "company_urls": "https://viraxbiolabs.com;https://canfite.com",
+    "snapshots_checked": 10
+  },
+  {
+    "cik": "1886362",
+    "ticker": "MGAM",
+    "legal_name": "Mobile Global Esports, Inc.",
+    "nasdaq_listing_date": "2022-07-29",
+    "initial_matrix_due_date": "2023-07-29",
+    "company_urls": "https://mogoesports.com",
+    "snapshots_checked": 3
+  },
+  {
+    "cik": "1913210",
+    "ticker": "",
+    "legal_name": "Bruush Oral Care Inc.",
+    "nasdaq_listing_date": "2022-08-03",
+    "initial_matrix_due_date": "2023-08-03",
+    "company_urls": "https://bruush.com",
+    "snapshots_checked": 3
+  },
+  {
+    "cik": "1885408",
+    "ticker": "NEXR",
+    "legal_name": "Nexera Technologies Ltd",
+    "nasdaq_listing_date": "2022-08-26",
+    "initial_matrix_due_date": "2023-08-26",
+    "company_urls": "https://jeffsbrands.com",
+    "snapshots_checked": 6
+  },
+  {
+    "cik": "1892480",
+    "ticker": "",
+    "legal_name": "Hempacco Co., Inc.",
+    "nasdaq_listing_date": "2022-08-30",
+    "initial_matrix_due_date": "2023-08-30",
+    "company_urls": "https://hempaccoinc.com;https://hemp.com",
+    "snapshots_checked": 12
+  },
+  {
+    "cik": "1807887",
+    "ticker": "LASE",
+    "legal_name": "Laser Photonics Corp",
+    "nasdaq_listing_date": "2022-09-30",
+    "initial_matrix_due_date": "2023-09-30",
+    "company_urls": "https://laserphotonics.com;https://laser.com",
+    "snapshots_checked": 12
+  },
+  {
+    "cik": "1884072",
+    "ticker": "",
+    "legal_name": "Adamas One Corp.",
+    "nasdaq_listing_date": "2022-12-09",
+    "initial_matrix_due_date": "2023-12-09",
+    "company_urls": "https://adamasone.com",
+    "snapshots_checked": 0
+  },
+  {
+    "cik": "1939965",
+    "ticker": "SLMT",
+    "legal_name": "Brera Holdings PLC",
+    "nasdaq_listing_date": "2023-01-27",
+    "initial_matrix_due_date": "2024-01-27",
+    "company_urls": "https://investors.breraholdings.com;https://brera.com",
+    "snapshots_checked": 0
+  },
+  {
+    "cik": "1865127",
+    "ticker": "",
+    "legal_name": "Lucy Scientific Discovery, Inc.",
+    "nasdaq_listing_date": "2023-02-09",
+    "initial_matrix_due_date": "2024-02-09",
+    "company_urls": "https://ir.lucyscientific.com;https://lucyscientific.com",
+    "snapshots_checked": 2
+  },
+  {
+    "cik": "1611282",
+    "ticker": "",
+    "legal_name": "PishPosh, Inc.",
+    "nasdaq_listing_date": "2023-03-07",
+    "initial_matrix_due_date": "2024-03-07",
+    "company_urls": "https://pishposhbaby.com;https://datatracks.com",
+    "snapshots_checked": 6
+  },
+  {
+    "cik": "1875496",
+    "ticker": "",
+    "legal_name": "YanGuFang International Group Co., Ltd",
+    "nasdaq_listing_date": "2023-03-28",
+    "initial_matrix_due_date": "2024-03-28",
+    "company_urls": "",
+    "snapshots_checked": 0
+  },
+  {
+    "cik": "1962481",
+    "ticker": "BOF",
+    "legal_name": "BranchOut Food Inc.",
+    "nasdaq_listing_date": "2023-06-16",
+    "initial_matrix_due_date": "2024-06-16",
+    "company_urls": "https://branchoutfood.com;https://securitize.io",
+    "snapshots_checked": 1
+  },
+  {
+    "cik": "1891856",
+    "ticker": "GENK",
+    "legal_name": "GEN Restaurant Group, Inc.",
+    "nasdaq_listing_date": "2023-06-28",
+    "initial_matrix_due_date": "2024-06-28",
+    "company_urls": "https://genkoreanbbq.com",
+    "snapshots_checked": 0
+  },
+  {
+    "cik": "1904286",
+    "ticker": "MIRA",
+    "legal_name": "MIRA PHARMACEUTICALS, INC.",
+    "nasdaq_listing_date": "2023-08-03",
+    "initial_matrix_due_date": "2024-08-03",
+    "company_urls": "https://mirapharmaceuticals.com;https://web.lumiconnect.com",
+    "snapshots_checked": 0
+  },
+  {
+    "cik": "1935418",
+    "ticker": "FMST",
+    "legal_name": "Foremost Clean Energy Ltd.",
+    "nasdaq_listing_date": "2023-08-23",
+    "initial_matrix_due_date": "2024-08-23",
+    "company_urls": "https://foremostlithium.com;https://mrctemiscamingue.org",
+    "snapshots_checked": 0
+  },
+  {
+    "cik": "1825367",
+    "ticker": "",
+    "legal_name": "RayzeBio, Inc.",
+    "nasdaq_listing_date": "2023-09-15",
+    "initial_matrix_due_date": "2024-09-15",
+    "company_urls": "https://rayzebio.com;https://bms.com",
+    "snapshots_checked": 8
+  },
+  {
+    "cik": "1963439",
+    "ticker": "TURB",
+    "legal_name": "Turbo Energy, S.A.",
+    "nasdaq_listing_date": "2023-09-22",
+    "initial_matrix_due_date": "2024-09-22",
+    "company_urls": "https://turbo-e.com;https://fr.enerfip.eu",
+    "snapshots_checked": 0
+  },
+  {
+    "cik": "1907108",
+    "ticker": "LXEO",
+    "legal_name": "Lexeo Therapeutics, Inc.",
+    "nasdaq_listing_date": "2023-11-03",
+    "initial_matrix_due_date": "2024-11-03",
+    "company_urls": "https://lexeotx.com;https://lexeo.com",
+    "snapshots_checked": 12
+  },
+  {
+    "cik": "1963685",
+    "ticker": "RR",
+    "legal_name": "RICHTECH ROBOTICS INC.",
+    "nasdaq_listing_date": "2023-11-17",
+    "initial_matrix_due_date": "2024-11-17",
+    "company_urls": "https://richtechrobotics.com;https://richtechrobot.com",
+    "snapshots_checked": 0
+  }
+]

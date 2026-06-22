@@ -1,0 +1,15 @@
+bucket,due_year,count
+no_release_found_after_checks,2022,13
+no_release_found_after_checks,2023,19
+no_release_found_after_checks,2024,10
+partial_or_internally_inconsistent_matrix,2024,1
+partial_or_unretrieved_primary_evidence,2022,2
+partial_or_unretrieved_primary_evidence,2024,2
+released_after_required_window,2022,9
+released_after_required_window,2023,32
+released_after_required_window,2024,16
+released_but_window_not_guaranteed,2023,1
+released_but_window_not_guaranteed,2024,1
+released_in_required_window,2022,79
+released_in_required_window,2023,45
+released_in_required_window,2024,67
